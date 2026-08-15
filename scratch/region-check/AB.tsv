@@ -1,0 +1,73 @@
+id	region	city	name	url
+1	AB	Airdrie	Airdrie Martial Arts Centre	https://airdriemartialartscentre.ca
+2	AB	Airdrie	Jiu-Jitsu For Life Airdrie	https://jiujitsuforlifeairdrie.com
+3	AB	Ardrossan	Ground Control Academy	https://groundcontrolacademy.ca
+4	AB	Calgary	Elite Martial Arts Calgary	https://calgarymartialarts.com
+5	AB	Calgary	Straight Blast Gym Calgary	https://sbgcalgary.com
+6	AB	Calgary	YYC Brazilian Jiu Jitsu	https://www.yycbjj.ca
+7	AB	Calgary	101 Academy	https://101academy.ca/
+8	AB	Calgary	Affinity Academy Nolan Hill	https://affinityacademy.ca
+9	AB	Calgary	Affinity Academy Varsity	https://affinityacademy.ca
+10	AB	Calgary	Alavanca	https://www.alavanca.ca
+11	AB	Calgary	Alliance BJJ Calgary	https://www.alliancebjjcalgary.com/
+12	AB	Calgary	Arashi-Do Martial Arts Calgary NE Deerfoot McCall Lake	https://arashido.com/location/calgary-deerfoot-north/
+13	AB	Calgary	Arashi-Do Martial Arts Calgary SE Deerfoot Douglasdale	https://arashido.com/location/calgary-deerfoot-south-douglasdale/
+14	AB	Calgary	Arashi-Do Martial Arts Calgary SW Rutland Park	https://arashido.com/location/calgary-south-rutland-park/
+15	AB	Calgary	Arashi-Do Martial Arts Calgary South Acadia	https://arashido.com/location/calgary-south-acadia/
+16	AB	Calgary	Arashi-Do Martial Arts Calgary West Springbank	https://arashido.com/location/calgary-west-springbank/
+17	AB	Calgary	Authentic Jiu Jitsu	https://authenticjiujitsu.com
+18	AB	Calgary	Carlson Gracie Calgary	https://www.carlsongraciecalgary.com
+19	AB	Calgary	Champion's Creed Martial Arts North	https://championscreed.ca
+20	AB	Calgary	Champion's Creed Martial Arts South	https://championscreed.ca/
+21	AB	Calgary	Dynamic MMA Calgary	https://www.dynamicmma.ca
+22	AB	Calgary	Gracie Barra Calgary	https://graciebarracalgary.ca
+23	AB	Calgary	JR Academy	https://www.jracademy.co
+24	AB	Calgary	Main Quest BJJ	https://mainquestbjj.com
+25	AB	Calgary	Rocky Mountain Brazilian Jiu Jitsu	https://rockymountainbjj.com
+26	AB	Calgary	The Old Way Jiu-Jitsu	https://www.theoldwayjiujitsu.com
+27	AB	Calgary	Tried & True Jiu Jitsu	https://triedandtruejj.ca
+28	AB	Calgary	Upper Academy & Alliance Brazilian Jiu-Jitsu	https://upperacademy.ca
+29	AB	Canmore	Dark Horse Martial Arts	https://darkhorsemartialarts.ca/
+30	AB	Cochrane	Arashi-Do Martial Arts Cochrane	https://arashido.com/location/cochrane/
+31	AB	Edmonton	Edmonton BJJ	https://edmontonbjj.com
+32	AB	Edmonton	Wolfhouse MMA Edmonton	https://wolfhousemma.com
+33	AB	Edmonton	Arashi-Do Martial Arts Edmonton East	https://arashido.com/location/edmonton-east/
+34	AB	Edmonton	Arashi-Do Martial Arts Edmonton North	https://arashido.com/location/edmonton-north/
+35	AB	Edmonton	Arashi-Do Martial Arts Edmonton South	https://arashido.com/location/edmonton-south/
+36	AB	Edmonton	Arashi-Do Martial Arts Edmonton West Mayfield	https://arashido.com/location/edmonton-west-mayfield/
+37	AB	Edmonton	Bairro Brazilian Jiu-Jitsu Academy	https://bairro.ca
+38	AB	Edmonton	Bairro Martial Arts Academy South	https://bairro.ca
+39	AB	Edmonton	Black Sails Brazilian Jiu Jitsu	https://www.blacksailsbjj.com
+40	AB	Edmonton	Bravé MMA and Fitness	https://bravemmaandfitness.com
+41	AB	Edmonton	Edmonton Gracie Jiu-Jitsu	https://edmontongraciejiujitsu.com/
+42	AB	Edmonton	Elite Taekwondo and Brazilian Jiu Jitsu	https://eliteedmonton.ca
+43	AB	Edmonton	Gracie Barra Edmonton	https://graciebarra.com/edmonton-alberta-canada/
+44	AB	Edmonton	Kamikaze Punishment Foundation	https://www.kpfit.ca
+45	AB	Edmonton	Kazoku BJJ	https://kazokubjj.ca/
+46	AB	Edmonton	Munduruca North Edmonton BJJ	https://northedmontonbjj.com
+47	AB	Edmonton	SBG Edmonton	https://www.straightblastgymedmonton.com
+48	AB	Edmonton	The Ludus Martial Arts Academy	https://www.ludusmartialarts.ca
+49	AB	Edson	Arashi-Do Martial Arts Edson	https://arashido.com/location/edson/
+50	AB	Grande Prairie	Heiho Dojo	https://www.heihodojo.ca
+51	AB	Grande Prairie	The Komodo Academy	https://www.thekomodoacademy.com/
+52	AB	Hinton	Arashi-Do Martial Arts Hinton	https://arashido.com/location/hinton/
+53	AB	Leduc	Arashi-Do Martial Arts Leduc	https://arashido.com/location/leduc/
+54	AB	Lethbridge	Canadian Martial Arts Centre	https://cmcmma.com
+55	AB	Lethbridge	Gracie Barra Lethbridge	https://gblethbridge.com
+56	AB	Lethbridge	Progressive Fighting Academy	https://pfakickboxing.com/
+57	AB	Medicine Hat	Resilience Brazilian Jiu Jitsu	https://www.rbjj.ca
+58	AB	Okotoks	Okotoks BJJ	https://okotoksbjj.com
+59	AB	Olds	Arashi-Do Martial Arts Olds	https://arashido.com/location/olds/
+60	AB	Penhold	Arashi-Do Martial Arts Penhold	https://arashido.com/location/penhold/
+61	AB	Red Deer	Arashi-Do Martial Arts Red Deer	https://arashido.com/location/red-deer/
+62	AB	Red Deer	KENSEI MMA	https://www.kensei.ca/
+63	AB	Sherwood Park	Arashi-Do Martial Arts Sherwood Park	https://arashido.com/location/sherwood-park/
+64	AB	Sherwood Park	Frontline Academy Canada	https://frontlinebjj.com
+65	AB	Spruce Grove	Black Gold Jiu-Jitsu Academy	https://www.blackgoldbjj.com
+66	AB	St. Albert	Phoenix Martial Arts Club	https://phoenixmartialartsclub.ca
+67	AB	St. Albert	Complete Fitness and Martial Arts	https://www.stalbertmartialarts.com
+68	AB	St. Albert	Hayabusa Training Centre	https://hayabusatrainingcentre.com/
+69	AB	St. Albert	Ironside Martial Arts St. Albert	https://ironsidemartialarts.ca
+70	AB	St. Albert	Limitless BJJ Edmonton	https://limitlessbjjedmonton.com
+71	AB	St. Albert	The Dojo MMA	https://thedojomma.com
+72	AB	Sylvan Lake	Arashi-Do Martial Arts Sylvan Lake	https://arashido.com/location/sylvan-lake/
