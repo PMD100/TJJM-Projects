@@ -1,0 +1,121 @@
+id	risk	region	city	name	url
+1	http-only	AK	Ketchikan	Ketchikan Jiu-Jitsu	http://www.ketchikanbjj.com/
+2	http-only	AL	Auburn	Auburn MMA	http://www.auburnmma.com/
+3	http-only	AL	Birmingham	Gracie Barra Greystone	http://www.graciebarragreystone.com
+4	http-only	AL	Birmingham	The Dojang Martial Arts & Fitness	http://www.thedojanggroup.com/
+5	http-only	AL	Daphne	SCS Martial Arts & Fitness	http://teamscsdaphne.com/
+6	http-only	AL	Dothan	Wolfpack Karate & MMA	http://www.mmadothan.com/
+7	http-only	AL	Enterprise	I'mmortal Kombat	http://www.jiujitsuenterprise.com/
+8	http-only	AL	Foley	Panacea Martial Arts	http://foleybjj.com/
+9	http-only	AL	Huntsville	10th Planet Jiu Jitsu Huntsville	http://10thplanethuntsville.com/
+10	http-only	AL	Huntsville	Claymore Fighting & Fitness	http://www.claymoregym.com/
+11	http-only	AL	Huntsville	New Legacy Martial Arts Academy Fight Gym	http://www.facebook.com/newlegacymartialartsacademyathletics
+12	http-only	AL	Huntsville	Powell's MMA Systems	http://www.sbgofal.com/
+13	http-only	AL	Mobile	Port City MMA	http://portcitymma.com/
+14	http-only	AL	Muscle Shoals	10th Planet Jiu Jitsu Muscle Shoals	http://10thplanetshoals.com/
+15	http-only	AL	Opelika	Kage Fit	http://kagefit.me/
+16	http-only	AL	Pelham	Gracie Barra Pelham Alabama	http://www.graciebarraalabama.com
+17	http-only	AL	Vestavia Hills	Birmingham Wrestling Complex	http://bwcomplex.com/
+18	http-only	AZ	Casa Grande	Warriors Guild Martial Arts	http://www.warriorsguildmartialarts.com/
+19	http-only	AZ	Chandler	Gracie Barra Chandler	http://gbchandler.com
+20	http-only	AZ	Chandler	Gracie Jiu-Jitsu Chandler	http://www.graciejiujitsuchandler.com/
+21	http-only	AZ	El Mirage	Team Monstro Brazilian Jiu Jitsu	http://www.teammonstrobjj.org/
+22	http-only	AZ	Fountain Hills	Impact Jiu Jitsu Fountain Hills	http://impactfh.com
+23	http-only	AZ	Gilbert	Next Level Fitness & Martial Arts (Gracie Gilbert BJJ)	http://www.graciegilbertbjj.com/
+24	http-only	AZ	Glendale	Attitude First MMA	http://www.attitudefirst.net/
+25	http-only	AZ	Glendale	Black Flag Jiu-Jitsu Club	http://www.blackflagjiujitsuclub.com/
+26	http-only	AZ	Glendale	Gracie Jiu-Jitsu Glendale	http://gjjglendale.com/
+27	http-only	AZ	Glendale	The Lab	http://www.mmalab.com/
+28	http-only	AZ	Goodyear	Ares BJJ Goodyear	http://aresbjjgoodyear.com
+29	http-only	AZ	Goodyear	Knockout Fitness	http://knockoutfitness.com
+30	http-only	AZ	Mesa	10th Planet Jiu-Jitsu Phoenix	http://10thplanetphx.com
+31	http-only	AZ	Mesa	Nava Brazilian Jiu Jitsu	http://navabjj.com
+32	http-only	AZ	Mesa	Southwest Judo Academy	http://www.southwestjudo.com
+33	http-only	AZ	Mesa	Southwest MMA	http://southwestmma.com/
+34	http-only	AZ	Mesa	Union Combat Academy	http://www.unioncombat.com/
+35	http-only	AZ	Peoria	Lotus Club Fight & Fitness	http://www.lotusclubfightandfitness.com
+36	http-only	AZ	Phoenix	Grace Fighting Systems Training Center	http://www.gfsbjj.com/
+37	http-only	AZ	Phoenix	Greywolf Ares BJJ	http://greywolfjiujitsu.com
+38	http-only	AZ	Prescott	Average Joe's MMA	http://averagejoesmma.com/
+39	http-only	AZ	Queen Creek	Gracie Barra Queen Creek Jiu-Jitsu & Self Defense	http://gbqueencreek.com
+40	http-only	AZ	Scottsdale	10th Planet Jiu Jitsu Scottsdale	http://www.10thplanetscottsdale.com
+41	http-only	AZ	Scottsdale	Alliance Scottsdale (Ximenes BJJ)	http://www.ximenesbjj.com
+42	http-only	AZ	Scottsdale	BJJ Social Club	http://www.bjjsocialclubaz.com
+43	http-only	AZ	Scottsdale	Cactus Jiu Jitsu Academy	http://www.cactusjj.com/
+44	http-only	AZ	Scottsdale	Kiko France BJJ	http://kikofrancebjj.com
+45	http-only	AZ	Scottsdale	UltraFit Systems	http://ultrafitsystems.com/
+46	http-only	AZ	Sedona	Warrior Tribe	http://www.sedonaselfdefense.com/
+47	http-only	AZ	Show Low	White Mountain BJJ	http://www.wmbjj.com/
+48	http-only	AZ	Surprise	2 Knuckle Sports MMA Academy	http://2knucklesports.com/
+49	http-only	AZ	Surprise	Bluestarr Grappling	http://www.bluestarrgrappling.com
+50	http-only	AZ	Surprise	Cyclone Muay Thai & Double Five BJJ Surprise	http://www.cyclone-muaythai.com
+51	http-only	AZ	Surprise	De Boa Jiu Jitsu Academy	http://www.deboabjj.com
+52	http-only	AZ	Surprise	Proving Ground MMA	http://www.provinggroundmma.com
+53	http-only	AZ	Tempe	Arizona Combat Sports	http://azcombatsports.com/
+54	http-only	AZ	Tempe	Dark Matter Jiu Jitsu/Ares BJJ Tempe	http://darkmatterjj.com/
+55	http-only	AZ	Tempe	Fluid Martial Arts Academy	http://www.fluidmartialarts.com/
+56	http-only	AZ	Thatcher	Full Charge Brazilian Jiu-Jitsu	http://www.fullchargebjj.com/
+57	http-only	AZ	Tucson	10th Planet Jiu Jitsu Tucson	http://10thplanettucson.com/
+58	http-only	AZ	Yuma	Yuma Top Team	http://www.yumatopteam.com/
+59	http-only	BC	Richmond	Apex Martial Arts	http://www.apexma.ca
+60	http-only	CA	Anaheim	Kings MMA Anaheim	http://www.kingsanaheim.com/
+61	http-only	CA	Apple Valley	Gracie Jiu-Jitsu Apple Valley	http://www.graciejjav.com/
+62	http-only	CA	Arcadia	Logic Brazilian Jiu-Jitsu HQ	http://www.logicjj.com/
+63	http-only	CA	Arcadia	SCHOOL Brazilian Jiu-Jitsu Arcadia	http://schoolbjjarcadia.com/
+64	http-only	CA	Atascadero	Paragon Brazilian Jiu-Jitsu & Muay Thai Atascadero	http://www.paragonbjjslo.com/
+65	http-only	CA	Bakersfield	South Valley Brazilian Jiu Jitsu	http://www.southvalleyjiujitsu.com/
+66	http-only	CA	Berkeley	Modern Combatives Mixed Martial Arts	http://www.moderncombatives.com/
+67	http-only	CA	Berkeley	Ralph Gracie Berkeley Jiu Jitsu Academy	http://www.ralphgracieberkeley.com/
+68	http-only	CA	Brea	Brea Jiu-Jitsu	http://www.breajiujitsu.com/
+69	http-only	CA	Brentwood	Checkmat Brentwood	http://www.checkmatbrentwood.com
+70	http-only	CA	Brentwood	Crosley Gracie Jiu-Jitsu	http://www.crosleygracie.com/
+71	http-only	CA	Brentwood	Ricardo Barros Brazilian Jiu-Jitsu	http://www.rbbjj.com/
+72	http-only	CA	Burbank	10th Planet Burbank	http://www.10thplanetburbank.com/
+73	http-only	CA	Burbank	Defiant MMA & Fitness	http://www.defiantmuaythai.com/
+74	http-only	CA	Burbank	Legacy Burbank	http://legacybjj.com/
+75	http-only	CA	Canyon Country	Jean Jacques Machado Brazilian Jiu-Jitsu - Santa Clarita Valley	http://jjmachadoscv.com/
+76	http-only	CA	Carlsbad	Alliance Jiu-Jitsu Carlsbad / BJJ Carlsbad CA 92008	http://www.alliancecarlsbad.com/home-5/
+77	http-only	CA	Carson	MCBJJ - Marcelo Cavalcanti Brazilian Jiu-JItsu	http://www.mcbjj.com/
+78	http-only	CA	Cedar Glen	Lake Arrowhead Jiu-Jitsu	http://lakearrowheadjiujitsu.com/
+79	http-only	CA	Chatsworth	Academy of Brazilian Jiu Jitsu	http://www.academyofbrazilianjiujitsu.com/
+80	http-only	CA	Chatsworth	Kings Combat Sports	http://www.kingscombatsports.com
+81	http-only	CA	Chico	Bruno Lima Brazilian Jiu Jitsu	http://www.brunolimabjj.com/
+82	http-only	CA	Chino	Gracie Barra Chino Jiu-Jitsu	http://gbchino.com/
+83	http-only	CA	Chino	Vital Force Muay Thai & MMA	http://www.vitalforcemma.com/
+84	http-only	CA	Clovis	Pacific Martial Arts Clovis CA	http://fresnopma.com
+85	http-only	CA	Concord	Sabre Jiu-Jitsu Academy	http://www.sabrebjj.com/
+86	http-only	CA	Concord	UFC GYM Concord	http://www.ufcgym.com/concord
+87	http-only	CA	Costa Mesa	Art of Jiu Jitsu Academy	http://www.artofjiujitsu.com/
+88	http-only	CA	Costa Mesa	Triunfo Jiu Jitsu & MMA	http://www.triunfomma.com/
+89	http-only	CA	Covina	10th Planet Covina Jiu Jitsu & Blitz Muay Thai	http://10thplanetcovina.com/
+90	http-only	CA	Covina	Teixeira/Garcia Brazilian jiu-jitsu training academy	http://gfteamcovina.com/
+91	http-only	CA	Culver City	Revolution Martial Arts & Jiu Jitsu	http://www.revolutionculvercity.com/
+92	http-only	CA	Daly City	10th Planet Daly City	http://www.10pdc.com/
+93	http-only	CA	Daly City	Charles Gracie Jiu-Jitsu Academy	http://www.charlesgracie.com/
+94	http-only	CA	Davis	Nova Geração Davis	http://novageracaodavis.com
+95	http-only	CA	Downey	Academy Jiu-Jitsu & Kickboxing / Downtown Downey	http://academyjj.com/
+96	http-only	CA	East Los Angeles	Scorpion MMA (Aloisio Silva Associated Academy)	http://scorpion-mma.us/index.html
+97	http-only	CA	Elk Grove	Waza Brazilian Jiu Jitsu	http://www.wazabjj.com/
+98	http-only	CA	Folsom	CHECKMAT Folsom Brazilian Jiu Jitsu	http://www.bedabjj.com/
+99	http-only	CA	Fontana	Aguirre's Fighting System	http://aguirresfightingsystem.com/
+100	http-only	CA	Foster City	Fearless Fitness	http://www.fearlessfitness.us
+101	http-only	CA	Fountain Valley	Williams Academy of MMA	http://www.williamsmma.com/
+102	http-only	CA	Fremont	Baem Jiu Jitsu - Fremont	http://baemjiujitsu.com/
+103	http-only	CA	Fresno	Dethrone Mixed Martial Arts	http://www.dethronefresno.com
+104	http-only	CA	Fresno	Fresno Ultimate Martial Arts	http://www.ultmartialarts.com
+105	http-only	CA	Fresno	Halo Jiu-Jitsu Training Center	http://www.halobjj.net/
+106	http-only	CA	Fresno	Pacific Martial Arts Fresno CA (inside Fit Republic Health Club)	http://fresnopma.com
+107	http-only	CA	Fresno	Rivalry Jiu-Jitsu	http://www.rivalryjiujitsu.com/
+108	http-only	CA	Fullerton	10th Planet Jiu Jitsu Fullerton	http://www.10thplanetorangecounty.com/
+109	http-only	CA	Fullerton	Rounders MMA Fullerton	http://www.roundersmma.com/
+110	http-only	CA	Garden Grove	Carlson Gracie Academy of Garden Grove	http://www.carlsongraciegardengrove.com/
+111	http-only	CA	Gilroy	Antdawgs MMA Training Center	http://antdawgsmma.com/
+112	http-only	CA	Gilroy	Gilroy Brazilian Jiu -Jitsu	http://www.gilroybjj.com/
+113	http-only	CA	Glendora	Sampa Brazilian Jiu Jitsu / BJJ Fontana CA 92335	http://sampabrazilianjiujitsu.com/
+114	http-only	CA	Gold River	Brazilian Jiu Jitsu Academy of Sacramento	http://elementsofjiujitsu.com/
+115	http-only	CA	Granite Bay	Bruddas BJJ @ Granite Bay JJ	http://bruddasbjj.com/
+116	http-only	CA	Hayward	Bay Area Fighter Academy (BAFA)	http://bayareafighter.com/
+117	http-only	CA	Hayward	EDGE Training Center	http://edgebjj.com/
+118	http-only	CA	Hayward	Mindset Martial Arts & Fitness	http://haywardmma.com/
+119	http-only	CA	Hercules	Omnimovement	http://www.omnimovement.com/
+120	http-only	CA	Huntington Beach	Hb Ultimate Training Center	http://www.hbutc.com/

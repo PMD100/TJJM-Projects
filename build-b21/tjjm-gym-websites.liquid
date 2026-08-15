@@ -1,0 +1,135 @@
+{%- comment -%}
+  TJJM website overrides — one row per gym: ~Exact Gym Name|URL~
+  Same idiom as tjjm-gym-addresses. Read by sections/tjjm-state-directory.liquid, which
+  probes for '~' + name + '|' and takes everything up to the next '~'. An override WINS over
+  the record's own "w" field, so this file can correct records in snippets/tjjm-gyms-data
+  (the 113 KB legacy blob) without rewriting it.
+
+  An EMPTY value blanks the link entirely — use it when a record carries a URL that provably
+  belongs to a different business.
+
+  RULES
+  - The name must match EXACTLY, including punctuation and case.
+  - Names must not contain '|' or '~'.
+  - Only add a URL you have actually opened and confirmed is that location's page.
+  - ONLY ADD AN ENTRY THAT CHANGES SOMETHING. Do not restate a URL the record already has:
+    this file then becomes a second source of truth that silently pins the old value if the
+    record is later corrected. Diff against the live data before adding.
+
+  Created 5 Aug 2026 by the brand-cluster sister-site pass.
+
+  WHY THESE ARE FEWER THAN THE CLUSTER SUGGESTED: the collision audit normalises URLs to
+  DOMAINS, so tsk.com/locations/nj/hoboken/ and tsk.com/ both collapse to "tsk.com" and look
+  identical. That made whole brands appear to point at their homepage when in fact only one
+  or two records did. All 17 Tiger Schulmann's NJ records already had correct per-location
+  URLs and need nothing here. Check raw "w" values, not normalised domains.
+{%- endcomment -%}
+~Gracie Barra Avondale|https://graciebarra.com/avondale-az/~
+~Gracie Barra Peoria|https://graciebarrapeoria.com/~
+~Easton Training Center|https://eastonbjj.com/denver/~
+~Easton Training Center - Boulder|https://eastonbjj.com/boulder/~
+~Easton Training Center Littleton|https://eastonbjj.com/littleton/~
+~Easton Brazilian Jiu Jitsu Thornton|https://eastonbjj.com/thornton/~
+~Fabin Rosa BJJ Altamonte Springs|https://bjjorlando.com/altamonte~
+~Fabin Rosa Brazilian Jiu Jitsu Academy|https://bjjorlando.com/orlando~
+~Revolution Dojo|https://www.revolutiondojo.com/revolution-dojo-houston.html~
+~Revolution Dojo Cypress|https://www.revolutiondojo.com/revolution-dojo-cypress.html~
+~Unconventional Performance & Training|~
+{%- comment -%}
+  Added 6 Aug 2026 by the backlog 1b/1c/2 verification pass. Both verified by OPENING the page
+  body, not by search results or <title> (RULES-tjjm.md §4).
+
+  Gracie Jiu - Jitsu Summerlin — record carried http://GracieLasVegas.com. That site is the
+  Charleston + Henderson school and its body mentions Summerlin ZERO times. The Summerlin school
+  is live and its own site states 5375 S Fort Apache Rd Unit 104, Las Vegas NV 89148, which is
+  exactly the address the record already stores. Wrong-entity link, not a dead gym. This also
+  clears one of the 3 mixed-case hosts (backlog 5b).
+
+  American Top Team Aventura — record carried http://www.attaventura.com, which now serves a
+  GoDaddy "available at auction" parking lander. The school is live as ATT Aventura/NMB. Yelp
+  flags the old listing CLOSED; the live site body contradicts it (RULES §4, aggregators).
+  NOTE: this record's city is still wrong (stored "Miami Beach"; 16215 Biscayne Blvd is North
+  Miami Beach / Aventura). City is NOT overridable — left for a snippet rewrite.
+{%- endcomment -%}
+~Gracie Jiu - Jitsu Summerlin|https://graciejiujitsusummerlin.com/~
+~American Top Team Aventura|https://www.attaventuranmb.com/~
+{%- comment -%}
+  Added 5 Aug 2026 by the NEW YORK import, step 5/7. Every one verified by OPENING the
+  school's page and reading the BODY - never from a <title>, a meta description or a
+  directory aggregator (RULES-tjjm.md section 4). Full rationale and the evidence quote for
+  each row is in snippets/tjjm-statedir-notes-ny.
+
+  All 15 rows CHANGE something: each was diffed against the raw stored w from the audit
+  dump before being added, and the build asserts that no row restates its record's
+  existing value.
+
+  WATCH THIS ONE. 'Jungle Gym Martial Arts' is a name the brand also uses for its Bronx
+  location. An override matches on NAME ALONE, so importing the Bronx record under the
+  same name would have silently given it the New Rochelle URL. The Bronx record is
+  therefore imported as 'Jungle Gym Martial Arts - Bronx'. Do not undo that rename
+  without removing this row.
+
+  NOT FIXED HERE, because no override reaches the field (item 0c): Brian Beury is
+  misspelt (Beaury) and is in Watervliet not Albany; Clobber is in Delmar not Cohoes;
+  Jon Calestine is in Brooklyn not New York; Serra is in Huntington not Levittown;
+  Kioto is in Oakdale not New York; Long Island MMA is in West Babylon not Lake Grove;
+  Haven Jiu Jitsu is in Baldwinsville not Syracuse.
+{%- endcomment -%}
+~Bellmore Kickboxing Academy|https://bellmorekickboxingmma.com/~
+~Binghamton Brazilian Jiu Jitsu|https://broomecountymartialarts.com/~
+~Brian Beury Jiu Jitsu|https://brianbeauryjiujitsu.com/~
+~Buffalo Brazilian Jiu Jitsu Academy|https://www.buffalobjj.com/~
+~Clobber Jiu Jitsu Academy|https://clobberjiujitsu.com/~
+~Ithaca BJJ|https://www.ithacabjjschool.com/~
+~Jiu Livre NYC|https://jiulivre.com/~
+~Jon Calestine BJJ|https://calestinejj.com/~
+~Jungle Gym Martial Arts|https://junglegymnewroc.com/~
+~Kings Combat|https://kingscombatwillyb.com/~
+~Modern Martial Arts NYC|https://www.mmanewyorkcity.com/~
+~Next Evolution Martial Arts|https://nextevolutionmartialarts.com/~
+~Paxibellum|https://paxibellum.com/~
+~Serra BJJ Academy|https://serrabjjacademy.com/~
+~The Dojo NYC|https://thedojonyc.com/~
+{%- comment -%}
+  6 Aug 2026 - WRONG-ENTITY LINK PURGE, 9 records across FL GA MA NV OH OR PA.
+
+  Every one of these domains RESOLVES AND SERVES A WORKING PAGE, so no uptime check,
+  status-code scan or reachability probe would ever flag them. They were found only by
+  reading the body. Each now belongs to a different business - in three cases to
+  gambling or spam operators - and the directory was sending visitors there.
+
+  The value is deliberately EMPTY, which blanks the link. The gym stays listed with its
+  name, city and map link; only the bad URL is removed. Reversible by deleting the row.
+
+  Each name was checked for uniqueness across all 4,630 records before being added: an
+  override matches on NAME ALONE, so a shared name would have blanked two records.
+  All 9 are unique. Do not add a row here without running that check.
+
+  What each domain actually served when read on 6 Aug 2026:
+    FL Robson Moura Jiu-Jitsu
+         squatted domain now hosts a japanese parenting/childcare blog
+    GA James Shook Brazilian Jiu-Jitsu
+         apex jamesshookbjj.com now hosts robocat, norwegian online casino
+    GA Redline MMA
+         chinese quartz materials company, j9 international group
+    MA Jiu-Jitsu USA Brazilian Jiu-Jitsu & Fitness Club
+         square inc payment platform homepage, not the gym
+    NV Fredson Paixao Academy
+         now Apex Credit, a credit-repair company in Canoga Park CA
+    NV Tapout Research & Development Training Center
+         redirects to tapout.com, TapouT LLC apparel brand, not a gym
+    OH Love And Chokes Jiu Jitsu Academy
+         now 216 software, cleveland mvp dev consultancy
+    OR Portland Small Circle Jujitsu
+         hijacked domain, chinese lottery/gambling spam page
+    PA Ramsey Academy of Martial Arts
+         now buffalo valley recreation authority parks site
+{%- endcomment -%}
+~Robson Moura Jiu-Jitsu|~
+~Redline MMA|~
+~Jiu-Jitsu USA Brazilian Jiu-Jitsu & Fitness Club|~
+~Fredson Paixao Academy|~
+~Tapout Research & Development Training Center|~
+~Love And Chokes Jiu Jitsu Academy|~
+~Portland Small Circle Jujitsu|~
+~Ramsey Academy of Martial Arts|~

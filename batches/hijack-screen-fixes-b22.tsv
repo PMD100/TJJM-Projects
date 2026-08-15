@@ -1,0 +1,17 @@
+region	name	verdict	removed_url	what_it_served
+FL	Gracie Jiu-Jitsu Altamonte Springs	DEAD	http://www.graciejjcfl.com/	
+FL	Wolfpack Brazilian Jiu Jitsu - Martial Arts	DEAD	http://www.wolfpackbjj.com/	
+CO	Hybrid Nation Martial Arts	HIJACK	http://www.avonmartialarts.com	redirects to Indonesian slot/togel gambling site (POKERLEGENDA)
+CO	DC Fighters USA	HIJACK	http://www.dcfightersusa.com	"redirects to browserleakscheck.com proxy/VPN ""detection engine"" - unrelated"
+CO	Zenith Authentic Brazilian Jiu-Jitsu	HIJACK	http://www.authenticbjj.com	"Indonesian slot-gambling site ""MAXWIN89 Slot Dana"""
+CT	Ultimate MMA Training Center	HIJACK	http://www.ultimatemmact.com/	injected spam: Russian-language casino/slots paragraph linking zazinowin.com + casinotest2.com on the homepage
+FL	Knights BJJ	HIJACK	http://knightsbjj.com/	SpinBetter online casino/sportsbook in Latvian
+FL	American Top Team Miramar Jiu Jitsu & MMA	HIJACK	http://www.attmiramar.com/	redirects to ANGKATOTO2 Indonesian togel/lottery gambling site
+CO	Avenge Jiu Jitsu	PARKED	http://avengejiujitsu.com	"HugeDomains ""for sale"" lander"
+CT	Shetucket Valley Judo and Sambo	PARKED	http://www.judoct.com/	"HugeDomains ""for sale"" lander"
+CT	Connecticut Martial Arts Training Center	PARKED	http://ctmma.com/	"GoDaddy ""domain is registered, but may still be available"" for-sale lander"
+FL	Dynamic Martial Arts & Fitness Studios	PARKED	http://www.nitroacademy.com/	GoDaddy domain-for-sale lander
+CO	Elemental Brazilian Jiu Jitsu	WRONG_BUSINESS	http://www.elementalbjj.com	"now an ""Elemental BJJ Camp"" travel/seminar site in Medellin, Colombia - not the Broomfield school"
+CO	ETHOS Colorado	WRONG_BUSINESS	http://ethoscolorado.com	strength-training & nutrition-coaching personal-training gym, no martial arts
+CT	Fit Club BJJ	WRONG_BUSINESS	http://www.fitclubct.com/	Fit Club strength & conditioning / personal training gym, no martial arts
+FL	Combat Athletix	WRONG_BUSINESS	http://www.combatathletix.com/	combat-sports apparel/merch e-commerce shop, no classes or academy info
