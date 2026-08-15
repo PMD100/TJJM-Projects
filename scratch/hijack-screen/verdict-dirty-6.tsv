@@ -1,0 +1,125 @@
+verdict	id	region	name	url	note
+OK	1464	DE	Dauntless BJJ & MMA	fightdrive.com	BJJ and MMA academy, Newark DE
+OK	1465	DE	302 BJJ Wilmington	302bjj.com	BJJ academy, two Delaware locations
+OK	1466	FL	Carlson Gracie Gainesville	www.carlsongraciegainesville.com	Carlson Gracie BJJ academy, full site
+EMPTY	1468	IN	Gracie Jiu-Jitsu Brazil	graciebrazilindiana.com	JavaScript shell, no body content returned
+OK	1469	IN	Brownsburg Brazilian Jiu-Jitsu	brownsburgbjj.com	BJJ school, schedule and location
+OK	1470	IN	Performex Martial Arts and Fitness	performexmartialarts.com	BJJ, MMA, kickboxing; full schedule
+OK	1471	IN	House Of Martial Arts	houseofmartialarts.com	BJJ, MMA, kenpo; Carmel IN
+OK	1472	IN	Indianapolis Brazilian Jiu-Jitsu	indianapolisjiujitsu.com	BJJ academy, Carmel IN, full schedule
+WRONG_BUSINESS	1473	IN	The School of Self Defense	the-school-of-self-defense.com	Kenpo/kung fu, Noblesville not Carmel
+PARKED	1474	IN	Team O'Connor Brazilian Jiu-Jitsu	team-oconnor.com	Sedo parking IP, blank page
+EMPTY	1475	IN	Awesome Martial Arts Academy	awesomesportsandcamps.com	JavaScript shell, no body content returned
+OK	1477	IN	Alexander Brazilian Jiu Jitsu	alexanderbjj.com	BJJ academy, Elkhart IN
+OK	1478	IN	Kroyler Gracie Jiu-Jitsu	kroylergracie.com	BJJ academy, Elkhart, full schedule
+OK	1479	IN	The JiuJitsu Academy	thejiujitsuacademy.com	BJJ academy, Bruce Shepherd, schedule
+WRONG_BUSINESS	1482	IN	First Shield Defense	firstshielddefense.com	Church security/firearms training, no grappling
+OK	1484	IN	Journey Brazilian Jiu-jitsu/Blackbelt Wrestling Academy	journeybjj.com	BJJ, MMA, wrestling; full schedule
+OK	1485	IN	Lee Brothers Submission Academy	leebrothersmma.com	Rebranded The Fight Lab; BJJ, Fort Wayne
+OK	1487	IN	Franklin Jiu Jitsu Club	franklinbjjclub.com	BJJ club, Franklin IN, full schedule
+OK	1488	IN	Barrick Brazilian Jiu Jitsu	barrickbjj.com	BJJ and boxing, Goshen IN
+OK	1489	IN	FLOW Brazilian Jiu-Jitsu	flowingwolfbjj.squarespace.com	BJJ academy, Granger IN, schedule
+OK	1490	IN	Roll Model Grappling Academy	rollmodelgrapplingacademy.com	BJJ, judo, kickboxing; Greenwood IN
+OK	1492	IN	Torres Martial Arts Academy	torresmartialarts.com	BJJ and kickboxing, Hobart IN
+DEAD	1493	IN	10th Planet Indianapolis at Circle City Martial Arts & Fitness	ccmaf.com	No A record, DNS NODATA
+OK	1494	IN	Champlin Jiu-Jitsu Academy	champlinbjj.com	BJJ academy, Indianapolis, full schedule
+OK	1496	IN	SoBro Brazilian Jiu Jitsu	sobrobjj.com	BJJ gym, redirects to sobrojj.com
+OK	1497	IN	The Forge Training Center	theforgetc.com	BJJ, judo, Muay Thai; full schedule
+OK	1499	IN	Tiger Martial Arts Fitness Academy	tigermartialartsfitness.com	BJJ and taekwondo, Marion IN
+OK	1500	IN	Team Colón Mixed Martial Arts	teamcolonmma.com	MMA fight team, Merrillville IN
+OK	1501	IN	UFC GYM Merrillville	ufcgym.com	UFC GYM corporate site, BJJ classes
+OK	1502	IN	Revolution Fitness Center	joinrevolutionfc.com	Redirects to rfjiujitsu.com, BJJ/MMA schedule
+WRONG_BUSINESS	1504	IN	Indiana Combat Grappling	indianama.com	Ryukyu Kempo karate school, no grappling
+OK	1505	IN	Muncie Brazilian Jiu-Jitsu	munciebjj.com	BJJ academy, Muncie IN, schedule
+OK	1506	IN	Gracie Jiu-Jitsu Nappanee	gjjnappanee.com	Certified Gracie training center, Nappanee
+OK	1507	IN	Southern Indiana Martial Arts	southernindianamartialarts.com	BJJ and judo, New Albany IN
+OK	1509	IN	Ironhorse Martial Arts	ironhorsemartialarts.com	Taekwondo, judo, jiu-jitsu; Central Indiana
+OK	1510	IN	DragonFly Elite Martial Arts & Fitness	dragonflyelite.com	BJJ, Muay Thai, wrestling; Plainfield IN
+OK	1512	IN	Hybrid Combat Club	hybridcombatclub.com	BJJ, Muay Thai, wrestling; Plymouth IN
+EMPTY	1513	IN	Corral's Martial Arts Portage	teamcorral.com	JavaScript redirect wall, no content
+OK	1514	IN	Rochester Family Martial Arts	rochesterfamilymartialarts.com	Taekwondo, hapkido, BJJ; Rochester IN
+EMPTY	1515	IN	Corral's Martial Arts Schererville	teamcorral.com	JavaScript redirect wall, no content
+OK	1517	IN	Jason Gonzalez Brazilian Jiu-Jitsu	jg-bjj.com	BJJ and boxing, Terre Haute
+OK	1518	IN	Mcvicker’s Brazilian Jiu-Jitsu	jackmcvicker.com	BJJ, Terre Haute and Champaign locations
+OK	1519	IN	Pedigo Submission Fighting - Terre Haute	eplegends.com	EpLegends BJJ, Terre Haute location listed
+OK	1520	IN	BJJ Coach / Maddox Martial Arts Academy	bjjcoachmaddox.com	BJJ and Muay Thai, Thorntown IN
+EMPTY	1521	IN	Corral’s Martial Arts	teamcorral.com	JavaScript redirect wall, no content
+OK	1522	IN	Anvil Training Center	anvilcenter.com	BJJ, Muay Thai, MMA classes
+OK	1523	IN	Relentless Brazilian Jiu Jitsu	relentlessbjj.net	BJJ school, Warsaw IN, schedule
+OK	1524	IN	Impact Zone Training Center	impactzonetrainingcenter.com	BJJ and Muay Thai, West Lafayette
+OK	1527	IN	Chris Howe Brazilian Jiu Jitsu	chrishowebjj.com	BJJ academy, Zionsville/Indianapolis
+OK	1530	MA	10th Planet Jiu Jitsu Springfield MA	10thplanetspringfieldma.com	10th Planet BJJ, Agawam MA
+OK	1531	MA	Wai Kru Mixed Martial Arts	waikru.com	BJJ, MMA, judo; Allston MA
+OK	1532	MA	New England Submission Fighting	amherstmma.com	NESF: jiu-jitsu, MMA, wrestling; Amherst
+OK	1533	MA	Bernardo Faria Brazilian Jiu-Jitsu Academy	bernardofariaacademy.com	BJJ academy, Bedford MA
+PARKED	1534	MA	Impact School Of Martial Arts	groundwarrior.com	Redirects to BrandBucket domain-for-sale marketplace
+HIJACK	1536	MA	Sityodtong Northshore	sityodtongnorthshore.com	Thai slot gambling site, luxury88
+OK	1538	MA	Broadway Jiu-Jitsu and Fitness	broadwayjiujitsu.com	BJJ gym, Boston; no injected spam
+OK	1539	MA	Citadel Martial Arts	citadelmartialarts.com	BJJ, MMA, wrestling; downtown Boston
+OK	1540	MA	Combat Sports Boston	combatsportsboston.com	BJJ and Muay Thai, Boston
+OK	1541	MA	Empower Brazilian Jiu Jitsu	empowerbjj.com	BJJ academy, Dorchester, full schedule
+OK	1542	MA	Gracie Barra Boston	graciebarraboston.com	Gracie Barra BJJ school, Boston
+OK	1543	MA	UFC GYM Boston Financial District	ufcgym.com	UFC GYM corporate site, BJJ classes
+OK	1545	MA	Submit Your Friend Brazilian Jiujitsu Academy	syf-bjj.com	BJJ academy, Brighton MA, pricing
+OK	1546	MA	Ginsberg Academy BJJ	ginsbergacademy.com	BJJ and MMA, Cambridge MA
+OK	1547	MA	REDLINE Fight Sports	redlinefightsports.com	BJJ/MMA gym, Cambridge; relocating temporarily
+OK	1548	MA	American Grit MMA	americangritmma.com	BJJ, judo, wrestling; Canton MA
+OK	1549	MA	Gentle Art Dojo	gentleartdojo.com	BJJ school network, Chelmsford MA
+OK	1550	MA	Gracie Jiu-Jitsu Dedham	graciededham.com	Certified Gracie training center, Dedham MA
+OK	1552	MA	Level Ground Mixed Martial Arts	levelgroundmma.org	MMA, BJJ nonprofit gym, Dorchester
+OK	1553	MA	Brazilian Top Team Boston	bttboston.com	BJJ academy, Everett MA, schedule
+WRONG_BUSINESS	1554	MA	Hard Knocks Muay Thai & Mma	hardknockseverett.com	Muay Thai and fitness only, no grappling
+EMPTY	1555	MA	Total Performance Sports	totalperformancesports.com	Fetch returns empty body, no content
+OK	1557	MA	Regiment Training Center	regimenttrainingcenter.com	BJJ, grappling, judo; Fall River
+DEAD	1559	MA	The Fighting Arts Academy	fightingartsfitchburg.com	NXDOMAIN, domain no longer resolves
+OK	1560	MA	Alliance Jiu-Jitsu Framingham	alliancebjjframingham.com	Alliance BJJ academy, Framingham MA
+OK	1562	MA	Dragon Lair Mma	dragonlairmma.com	MMA, BJJ, wrestling; Framingham MA
+OK	1563	MA	DF Fitness & Martial Arts Center	dffitnessmacenter.com	Gym with GFTeam Brazilian Jiu-Jitsu
+OK	1564	MA	Thurston Martial Arts	thurstonmartialarts.com	Jiu-jitsu, karate, Krav Maga; Hanover MA
+OK	1565	MA	Binda Jiu Jitsu	bindajiujitsu.com	BJJ academy, Haverhill MA, schedule
+OK	1566	MA	Terrinha Draculino BJJ Team	tdtbjj.com	BJJ academy, Hopkinton MA, schedule
+EMPTY	1567	MA	Hudson Combat Academy	hudsoncombat.com	JavaScript shell, no body content returned
+DEAD	1568	MA	Daniel Gracie Academy Hyannis	daniel-gracie-academy-hyannis.business.site	Google business.site discontinued, empty response
+HIJACK	1570	MA	New Vision Academy of Jiu Jitsu	nvajj.com	Indonesian slot/casino site, She777 APK
+OK	1573	MA	CBJJ School	cbjjteam.com	BJJ academy, Leominster MA, schedule
+OK	1575	MA	Team Link Brazilian Jiu-Jitsu	linkbjj.com	Team Link BJJ, Ludlow MA
+HIJACK	1576	MA	Private Jewels Fitness	privatejewelsfitness.com	Redirects to PGBET Indonesian slot gambling
+OK	1577	MA	Phoenix BJJ Marlborough	phoenix-jj.com	BJJ academy, Marlborough MA, schedule
+OK	1578	MA	Soneca Brazilian Jiu Jitsu / Team NEU BJJ - Marlborough	sonecabjj.com	BJJ, Marlborough and Worcester locations
+WRONG_BUSINESS	1579	MA	Team Link BJJ (Brazilian Jiu Jitsu) Marlborough	m.facebook.com	Bare Facebook mobile homepage, not school
+OK	1580	MA	REAL Brazilian Jiu Jitsu Middleboro	realbjj.com	BJJ school, Middleboro MA, schedule
+OK	1582	MA	Versus Jiu-jitsu	versusjiujitsu.com	BJJ academy, Natick MA, schedule
+OK	1583	MA	Curtis Mateus BJJ	curtismateusbjj.com	BJJ gym, New Bedford MA
+HIJACK	1584	MA	Boston Brazilian Jiu-Jitsu Newton	bbjiujitsu.com	Redirects to Indonesian Togel SDY gambling
+OK	1585	MA	Icon Jiu Jitsu Team USA	iconbjj-usa.com	BJJ school, class schedule listed
+OK	1586	MA	Resolve Martial Arts	resolvemartialarts.com	BJJ and aikido, N. Chelmsford MA
+OK	1588	MA	Team Link Northampton	teamlinknoho.com	BJJ and MMA, Northampton MA
+OK	1590	MA	Connors Mixed Martial Arts Academy	connorsma.com	BJJ and Muay Thai, Norwood MA
+EMPTY	1591	MA	Luiz Paulo Brazilian Jiu Jitsu 7th Coral Belt	luizpaulojiujitsu.com	JavaScript shell, no body content returned
+DEAD	1592	MA	Daniel Gracie Academy Orleans	gracie-capecod.business.site	Google business.site discontinued, empty response
+DEAD	1593	MA	Adas Jiu Jitsu Academy	bjjpeabody.com	No A record, DNS NODATA
+OK	1595	MA	Darkside Jiu-Jitsu LLC	darksidebjj.com	BJJ and MMA gym, Plainville MA
+OK	1596	MA	Institute of Combative Arts (Gracie Jiu-Jitsu Quincy)	instituteofcombativearts.com	Gracie Jiu-Jitsu training center, Quincy MA
+OK	1599	MA	k i Salem Martial Arts	kisalemma.com	Karate, BJJ, MMA; Salem MA
+OK	1600	MA	North Shore Brazilian Jiu-Jitsu Academy	northshorebjj.com	BJJ academy, Salem MA, programs
+DEAD	1601	MA	Way Of Life BJJ	wayoflifebjj.wixsite.com	Bare Wix subdomain, no page served
+OK	1602	MA	GB South Shore	graciebarra.com	Gracie Barra corporate BJJ site, school finder
+OK	1604	MA	Brazilian Martial Arts Center	bmacboston.com	BJJ and Muay Thai, Somerville MA
+EMPTY	1606	MA	Combate Real School of Jiu Jitsu	combaterealjiujitsu.com	Square Online shell, no body content
+OK	1607	MA	New England Fit And MMA	newenglandfit.com	MMA and self-defense, Springfield MA
+HIJACK	1609	MA	Maxx Training Center Martial Arts	maxxtrainingcenter.com	GACOAN88 Indonesian slot gambling site
+EMPTY	1610	MA	Mena Fitness Training & Brazilian Jiu Jitsu	menafitnesstraining.com	Fetch returns empty body, no content
+OK	1611	MA	RBJJ Taunton - BTT Taunton	rbjjtaunton.com	Morselli Jiu Jitsu, Taunton MA, BJJ
+OK	1612	MA	Evolution Performance Center	evolutionperformancecenter.com	Gym with BJJ and MMA, Tewksbury
+OK	1616	MA	FUJI Martial Arts Jiu-Jitsu Wakefield	fujigym.com	Travis Stevens Jiu Jitsu, Wakefield MA
+OK	1617	MA	Kimura BJJ	kimurabjj.com	BJJ academy, Watertown MA location
+OK	1618	MA	Theodorou Academy of Jiu Jitsu	bostonselfdefense.com	Jiu-jitsu academy, Watertown MA, schedule
+WRONG_BUSINESS	1619	MA	Mass Best Martial Arts Center	facebook.com	Bare Facebook homepage, not school page
+OK	1620	MA	Bishop's Training & Fitness	bishopstrainingandfitness.com	BJJ and boxing gym, Brockton MA
+OK	1621	MA	Gabriel Gladiator Training Center	gabrielgladiator.com	BJJ and MMA, Carlson Gracie lineage
+OK	1622	MA	Sento Mixed Martial Arts Academy	westspringfieldmma.com	BJJ and MMA, West Springfield MA
+OK	1623	MA	Ground Units Bjj	groundunitsbjj.wordpress.com	Ground Units BJJ, now Amherst not Westfield
+OK	1624	MA	Randy Brown Mantis Boxing & Brazilian Jiu-Jitsu	randybrownmantisboxing.com	BJJ and mantis boxing coaching site
+OK	1625	MA	Dedeco Brazilian Jiu Jitsu Weymouth - NEU team	dedecobjj.com	BJJ academy, Weymouth and Pembroke MA
+OK	1626	MA	Fenix Brazilian Jiu Jitsu Woburn	fenixbjj.com	BJJ gym, Woburn and Tewksbury MA
+WRONG_BUSINESS	1627	MA	FUJI Martial Arts Jiu-Jitsu & Judo Woburn	fujimartialarts.com	Redirects to Wakefield academy, not Woburn

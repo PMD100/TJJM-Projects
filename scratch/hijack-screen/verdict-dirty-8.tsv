@@ -1,0 +1,119 @@
+verdict	id	region	name	url	note
+HIJACK	1794	WA	Ring Sports United	ringsportsunited.com	Turkish casino spam blog, Vodkabet
+OK	1796	WA	Rock Solid Martial Arts	www.rocksolidmartialarts.com	Bellingham martial arts, BJJ program
+EMPTY	1797	WA	Bonney Lake Brazilian Jiu Jitsu Academy (Team Butler)	www.facebook.com/Bonney-Lake-Brazilian-Jiu-Jitsu-Academy-103477605304385	Facebook bot wall, empty body
+OK	1798	WA	Bothell Martial Arts Academy	bmaabothell.com	BJJ, Muay Thai, Kempo; Bothell
+OK	1799	WA	Evergreen Karate	evergreenkarate.com	Karate and BJJ, Bothell
+OK	1800	WA	Bremerton Academy of Martial Arts	www.bremertonmartialarts.org	BJJ, submission grappling, MMA
+OK	1802	WA	Shaolin Mixed Martial Arts	www.shaolinmixedmartialarts.com	Submission wrestling and BJJ classes
+OK	1803	WA	Universal Jiu Jitsu	www.universaljj.com	Camas BJJ and MMA gym
+WRONG_BUSINESS	1804	WA	EchoValor Striking & MMA	www.echovalor.com	Veteran storytelling brand, podcast and merch
+OK	1805	WA	SMASH BJJ Deer Park	smashbjjspokane.com	BJJ academy, Deer Park location listed
+OK	1806	WA	Gentle Human BJJ	www.gentlehumanbjj.com	BJJ academy, Des Moines WA
+OK	1807	WA	Gracie Barra Edmonds	graciebarra.com/edmonds-wa	Gracie Barra Edmonds location page
+OK	1809	WA	Ellensburg Jiu Jitsu	ellensburgjiujitsu.com	BJJ gym, schedule and rates
+OK	1810	WA	Combat Sport & Fitness	www.combatsportfitness.com	BJJ and MMA gym, Enumclaw
+OK	1811	WA	Imperial Jitz - Brazilian Jiu-Jitsu + Fitness	imperialjitz.com	BJJ and fitness academy, Ephrata
+HIJACK	1812	WA	Cascade Jiu-Jitsu	everettbjj.com	Injected cialis/viagra pharma spam paragraph
+OK	1814	WA	Charlie's Combat Club	www.charliescombatclub.com	MMA, BJJ, kickboxing gym Everett
+OK	1816	WA	Redline MMA Academy	redlinemmaacademy.com	MMA and Ralph Gracie BJJ, Everett
+OK	1817	WA	Gracie Barra Federal Way	gbfederalway.com	Gracie Barra school site, dated content
+OK	1818	WA	GB Tacoma	graciebarra.com/tacoma-wa	Redirects to Gracie Barra Tacoma, Fircrest
+OK	1821	WA	NAK2 Academy	www.nak2.com	Gracie Jiu-Jitsu school, Issaquah
+OK	1822	WA	Juggernaut Mixed Martial Arts	www.juggernautmma.com	BJJ and Muay Thai gym, Kelso
+OK	1824	WA	Foster Brazilian Jiu-Jitsu	www.fbjjonline.com	BJJ academy, Kent WA
+HIJACK	1825	WA	Miller's Martial Arts Academy	www.mmaa.com	Injected pharma spam links in testimonials
+OK	1826	WA	Alliance BJJ Lacey	alliancebjjwa.com	Alliance BJJ, Lacey and Lakewood
+OK	1827	WA	Electric North Jiu Jitsu	www.theelectricnorth.com	BJJ gym, Lake Stevens WA
+OK	1828	WA	North Sound Brazilian Jiu-Jitsu	www.northsoundbjj.com	BJJ and judo academy, Lake Stevens
+OK	1829	WA	Ludusport Academy & Gym	ludusport.com	MMA gym, grappling and striking
+OK	1830	WA	The Base Longview	the-base-longview.gymdesk.com	CheckMat BJJ academy, Longview
+OK	1831	WA	Sleeper Jiu Jitsu	sleeperjj.com	BJJ academy, Lynnwood WA
+OK	1832	WA	Team Wise Training Center	teamwisemma.com	Jiu jitsu and MMA, Lynnwood
+OK	1833	WA	Phantom Brazilian Jiu Jitsu	www.phantombjj.com	BJJ gym, Maple Valley WA
+OK	1835	WA	Stray Dogs Club	straydogsclub.com	MMA and BJJ academy, Monroe
+DEAD	1836	WA	GB Snoqualmie Valley	graciebarra.com/snoqualmie-wa	Location page 404s, domain resolves
+OK	1837	WA	BJJ Olympia (NW HIT Center)	bjjolympia.com	BJJ, kickboxing, MMA in Olympia
+OK	1838	WA	Jiu-Jitsu Dynamics	www.jiujitsudynamics.com	BJJ academy, Olympia and Lacey
+PARKED	1839	WA	United Training Center	www.utcmma.com	CyberPanel default install placeholder page
+PARKED	1840	WA	CageworX Brazilian Jiu-Jitsu/Muay Thai/Fitness	www.cageworx.com	GoDaddy for-sale lander $6,940
+PARKED	1841	WA	Compass Jiu Jitsu	compassjiujitsu.com	HugeDomains for-sale lander $4,295
+DEAD	1843	WA	Gracie Barra Puyallup	graciebarra.com/puyallup-wa	Location page 404s, domain resolves
+OK	1844	WA	Pinnacle Martial Arts	www.pmapuyallup.com	Taekwondo and BJJ school, Puyallup
+OK	1845	WA	GB Renton	graciebarra.com/renton-wa	Gracie Barra Renton location page
+OK	1846	WA	Heva BJJ	hevabjj.com	BJJ academy, Renton WA
+OK	1847	WA	Ruffhouse	www.ruffhouserenton.com	BJJ, Muay Thai, Balintawak; Renton
+OK	1848	WA	Legacy Jiu-Jitsu Academy	www.legacyjiujitsu.com	BJJ and Muay Thai, Richland
+OK	1849	WA	Alpha Martial Arts	www.alphamartialarts.com	Karate and BJJ, three Seattle locations
+OK	1852	WA	Framework BJJ Seattle	www.frameworkseattle.com	BJJ gym, gi and no-gi
+OK	1853	WA	Gracie Barra Seattle	graciebarra.com/seattle-wa	Gracie Barra Seattle school site
+OK	1854	WA	Ivan Salaverry MMA	www.ivansalaverrymma.com	MMA gym with BJJ and wrestling
+OK	1855	WA	Marcelo Alonso Brazilian Jiu-Jitsu Carlson Gracie Team	www.mabjj.com	BJJ academy, Seattle HQ
+OK	1856	WA	Mat Chess Mixed Martial Arts	matchessmma.com	BJJ, Muay Thai, wrestling; Seattle
+OK	1857	WA	Midnight Jiu-Jitsu Club	midnightjiujitsu.club	Nonprofit BJJ gym, Capitol Hill
+OK	1858	WA	MKG Martial Arts, Kickboxing & Fitness	www.mkgseattle.com	MMA school with BJJ classes
+OK	1859	WA	Northwest Jiu Jitsu Academy	www.nwjja.net	Machado BJJ academy, Seattle
+OK	1861	WA	Renzo Gracie Seattle	renzogracieseattle.com	BJJ academy, Seattle schedule
+OK	1862	WA	Seattle Integrated Martial Arts	www.simamartialarts.com	West Seattle integrated martial arts school
+OK	1863	WA	Seattle Jiu-Jitsu Academy	www.seattlejiujitsuacademy.com	BJJ academy, schedule and pricing
+EMPTY	1864	WA	Livewire MMA	www.facebook.com/livewiremc	Facebook bot wall, empty body
+OK	1865	WA	Street Sports Silverdale	www.streetsportssilverdale.com	BJJ and yoga studio, Silverdale
+OK	1866	WA	Newborn Cascao Jiu-Jitsu	www.newbornjiujitsuspokane.com	BJJ and Muay Thai, Spokane
+EMPTY	1867	WA	Sik-Jitsu Mixed Martial Arts	excitefight.com	JavaScript shell, no body content
+OK	1868	WA	Warrior Camp	www.warriorcampfitness.com	MMA, BJJ, wrestling gym Spokane
+EMPTY	1869	WA	Spokane Valley Brazilian Jiu-Jitsu	www.spokanevalleybjj.com	JavaScript shell, no body content
+DEAD	1870	WA	Grpl Club	grpl-club-jiu-jitsu-brasileiro.business.site	Google Business Site retired, no content
+OK	1871	WA	Defiance Jiu Jitsu	defiancebjj.com	BJJ academy, Tacoma WA
+OK	1873	WA	Vital Jiu Jitsu and Srisuk Muay Thai	vitaljiujitsu.com	BJJ and Muay Thai, Tacoma
+OK	1874	WA	Emerge Jiu Jitsu	www.emergebjj.com	BJJ academy, Vancouver WA
+PARKED	1876	WA	Progressive Jiu Jitsu MMA and Fitness	projj.com	HugeDomains for-sale lander
+EMPTY	1877	WA	The Base Vancouver	vancouverjiujitsu.com	No body returned, empty response
+EMPTY	1878	WA	Vancouver Elite Martial Arts	www.vancouverelitemma.com	No body returned, empty response
+OK	1879	WA	Axiom Brazilian Jiu Jitsu	www.axiomjiujitsu.com	BJJ and judo academy, Wenatchee
+OK	1880	WA	AMC Kickboxing & Pankration	www.amcmma.com	MMA/BJJ gym; site says temporarily closed
+OK	1882	WI	Gracie Jiu-Jitsu Appleton	gracieappleton.com	Gracie Jiu-Jitsu training center, Appleton
+OK	1886	WI	Third Heaven Martial Arts	thirdheaven.com	BJJ and MMA, Beaver Dam
+OK	1887	WI	Strong Hold Athletics	stronghold-athletics.com	BJJ academy, DeForest WI
+OK	1888	WI	Ronin Fitness	roninfitness.net	MMA and BJJ gym, Eau Claire
+HIJACK	1889	WI	Defense Combatives DEFCOM Alpha Fort Atkinson	defcomma.com	Aviator crash-game casino affiliate spam
+OK	1890	WI	44 Fitness & Martial Arts	44fitness.com	BJJ and fitness gym, Franklin
+OK	1891	WI	Pettis Martial Arts	pettismartialarts.com	Pettis school site, now West Allis
+OK	1892	WI	Neutral Ground Grafton Martial Arts	graftonmartialarts.com	Rebranded Utopia; BJJ and judo, Grafton
+OK	1893	WI	Green Bay Jiu-Jitsu	greenbayjj.com	BJJ academy, Green Bay WI
+OK	1894	WI	Titletown MMA Academy	titletownmma.com	MMA gym with BJJ, Green Bay
+OK	1895	WI	Fluid Jiu Jitsu	fluid-jiujitsu.com	BJJ, Muay Thai, judo; Greenfield
+OK	1896	WI	Lake Country Martial Arts	lakecountrymartialarts.com	Taekwondo and Gracie Jiu-Jitsu, Hartland
+OK	1897	WI	Iron Works Training Center	ironworkstrainingcenter.com	Muay Thai and jiu jitsu, Holmen
+OK	1898	WI	Midwest Center For Movement	midwestaikido.com	Aikido and BJJ dojo, Hudson
+OK	1900	WI	Atlas Martial Arts Club	atlasmac.com	Rickson Gracie jiu jitsu club
+OK	1902	WI	Rothwell Mixed Martial Arts	rothwellmma.com	MMA and BJJ gym, Kenosha
+OK	1903	WI	Veritas Brazilian Jiu Jitsu	veritasmma.com	BJJ academy, Kewaskum WI
+OK	1904	WI	Ironworks Driftless Academy	driftlessacademy.com	BJJ and striking gym, La Crosse
+WRONG_BUSINESS	1905	WI	Conquer Martial Arts	conquerma.com	Sport karate school, no grappling classes
+OK	1906	WI	Damage Inc. Fight Club	damageincfightclub.com	Muay Thai and BJJ, Lodi
+OK	1907	WI	Alliance Jiu Jitsu of Madison	alliancebjjmadison.com	Alliance BJJ academy, Madison
+OK	1908	WI	Fight Prime Training Center	fightprimetc.com	BJJ, judo, MMA; Madison
+EMPTY	1910	WI	Gracie Barra Madison	graciebarramadison.com	No body returned, empty response
+OK	1911	WI	Journey Brazilian Jiu Jitsu Academy	journeybjjacademy.com	BJJ academy, Madison WI
+OK	1913	WI	Sanctuary Jiu-Jitsu	bjjmadison.com	Caio Terra BJJ academy, Madison
+OK	1915	WI	Manitowoc Jiu Jitsu Academy	manitowocjiujitsu.com	BJJ academy, Manitowoc WI
+OK	1916	WI	Chosen Few Gym	chosenfewacademy.com	Redirects to Capital City MMA, McFarland
+OK	1917	WI	Free Form Jiu Jitsu	freeformjiujitsu.com	BJJ gym, new Milwaukee facility
+OK	1919	WI	Neutral Ground - Milwaukee Bayview	ngmke.com	BJJ academy, Bayview location listed
+OK	1920	WI	Neutral Ground - Milwaukee East Side	ngmke.com	BJJ academy, Eastside location listed
+OK	1923	WI	Fluid Motion Jiu Jitsu	fluidmotionbjj.com	BJJ gym, Monroe WI
+EMPTY	1924	WI	Academy Martial Arts	academynl.com	Head only, no body content
+OK	1925	WI	Ascension Martial Arts	ascensionma.com	Taekwondo and BJJ, Oak Creek
+OK	1926	WI	Nova Gyms Martial Arts & Fitness	novagyms.com	BJJ and kickboxing, Oak Creek
+OK	1927	WI	Open Guard Brazilian Jiu Jitsu Gym	openguardgym.com	BJJ academy, Oconomowoc WI
+OK	1929	WI	Nova Gyms Martial Arts & Fitness - Pewaukee	novagyms.com	BJJ gym, Pewaukee location listed
+OK	1931	WI	Origin Brazilian Jiu Jitsu	originmartialarts.net	Team Vaghi BJJ school site
+DEAD	1932	WI	Highland Fight Systems	hfsmma.com	No A record, SOA only
+OK	1933	WI	Neutral Ground Sheboygan BJJ	sheboyganbjj.com	BJJ academy, downtown Sheboygan
+OK	1934	WI	Neutral Ground - South Milwaukee	ngmke.com	Neutral Ground BJJ site, Milwaukee locations
+OK	1936	WI	Elite Team Wisconsin Jiu Jitsu	eliteteamwi.com	BJJ academy, Stevens Point WI
+OK	1939	WI	Rising Son MMA	risingsonmma.com	MMA gym with BJJ, Wausau
+OK	1940	WI	360 Brazilian Jiu-Jitsu	360-bjj.com	BJJ academy, Wauwatosa WI
+OK	1943	WI	Wanderley Jiu Jitsu	wanderleyjiujitsu.com	Carlson Gracie BJJ and MMA, Milwaukee
+OK	1944	WI	Primal MKE MMA Gym & Fitness	primalmke.com	MMA, grappling, BJJ, kickboxing
+EMPTY	1945	WI	Neutral Ground West Bend	westbendbjj.com	JavaScript shell, no body content
