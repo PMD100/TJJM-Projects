@@ -1,0 +1,11 @@
+region	name	verdict	removed_url	what_it_served
+TX	Team One Mixed Martial Arts	DEAD	http://teamonept.wix.com/personaltrainig	blank on http and https; CNAME to generic username.wix.com placeholder
+TX	Dallas Jiu-Jitsu	DEAD	http://www.dallasjiujitsu.com/	DNS SERVFAIL, no A record for apex or www
+PA	Renzo Gracie Pittsburgh	HIJACK	http://www.renzograciepittsburgh.com/	Indonesian gambling site DAUN123 (slots/togel), Shopify skin
+PA	High Voltage Gym	HIJACK	http://www.highvoltagegym.net/	redirects to Indonesian slots/poker site PEDRO4D / MERAHTOTO
+TX	Texas Gladiators Academy	HIJACK	http://texasgladiators.org/	redirects to SOMATOTO Indonesian toto/slot gambling site
+TX	Dark Gift Combat	HIJACK	http://darkgiftcombat.com/	Chinese gambling/sportsbook SEO farm (华体会体育, 星空/乐鱼/米兰 link farm)
+PA	Fight Firm	PARKED	http://fightfirmgym.com	ExpiredDomains.com domain-for-sale lander ($195 buy-now)
+TX	Gameness Sports	WRONG_BUSINESS	http://www.gameness.com/	BJJ gi/apparel and mats e-commerce brand, not a school
+TX	Hardstyle KBJJ	WRONG_BUSINESS	http://www.hardstylekettlebell.com/	kettlebell/strength-training course site, no martial arts content
+TX	Texas Barbell Syndicate	WRONG_BUSINESS	http://www.texasbarbellsyndicate.com	powerlifting/strength gym; page states it closed March 2025
