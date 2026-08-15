@@ -1,0 +1,169 @@
+{{ 'tjjm-core.css' | asset_url | stylesheet_tag }}
+<script src="{{ 'tjjm-core.js' | asset_url }}" defer></script>
+{% assign gyms = shop.metaobjects['gym_listing'].values %}
+<section class="tjjm-scope tjjm-sec" data-tjjm-gymdir>
+  <div class="tjjm-wrap">
+    <header class="tjjm-reveal" style="position:relative;z-index:2;margin-bottom:40px">
+      {% if section.settings.kicker != blank %}<div class="tjjm-kicker">{{ section.settings.kicker }}</div>{% endif %}
+      <h1 class="tjjm-display tjjm-h2">{{ section.settings.heading }}</h1>
+      {% if section.settings.text != blank %}<p class="tjjm-p">{{ section.settings.text }}</p>{% endif %}
+      <div class="tjjm-btn-row">
+        <a class="tjjm-btn tjjm-btn--solid" href="#add-gym">{{ section.settings.button_label }} <span class="tjjm-arr">→</span></a>
+      </div>
+    </header>
+
+    <div class="tjjm-gym-tools tjjm-reveal">
+      <label for="tjjmStateFilter">State</label>
+      <select id="tjjmStateFilter"><option value="">All States</option></select>
+      <span class="tjjm-gym-count"><span id="tjjmGymCount">{{ gyms.size }}</span> gyms listed</span>
+    </div>
+    <div class="tjjm-gyms tjjm-reveal" id="tjjmGyms" data-src="{{ 'tjjm-gyms.json' | file_url }}">
+      {% for gym in gyms %}
+      <div class="tjjm-gym" data-state="{{ gym.state.value | upcase | strip | escape }}">
+        <h3>{{ gym.name.value }}</h3>
+        {% if gym.address.value != blank %}
+        <p class="tjjm-gym-loc"><a class="tjjm-gym-map" href="https://maps.google.com/?q={{ gym.address.value | url_encode }}" target="_blank" rel="noopener">{{ gym.address.value }}</a></p>
+        {% else %}
+        <p class="tjjm-gym-loc">{{ gym.city.value }}{% if gym.city.value != blank and gym.state.value != blank %}, {% endif %}{{ gym.state.value }}</p>
+        {% endif %}
+        {% if gym.website.value != blank %}<a class="tjjm-gym-site" href="{{ gym.website.value }}" target="_blank" rel="noopener nofollow">Visit Website <span class="tjjm-arr">→</span></a>{% endif %}
+      </div>
+      {% endfor %}
+      <p class="tjjm-gym-none" hidden>No gyms listed in that state yet — yours could be the first.</p>
+    </div>
+
+    <div class="tjjm-gymform tjjm-reveal" id="add-gym">
+      <div class="tjjm-kicker">{{ section.settings.form_kicker }}</div>
+      <h2 class="tjjm-display tjjm-gymform-h">{{ section.settings.form_heading }}</h2>
+      <p class="tjjm-p">{{ section.settings.form_text }}</p>
+      {% form 'contact', id: 'AddGymForm' %}
+        {% if form.posted_successfully? %}
+          <p class="tjjm-gymform-ok">{{ section.settings.success_text }}</p>
+        {% else %}
+          {% if form.errors %}<p class="tjjm-gymform-err">{{ form.errors.translated_fields.email | capitalize }} {{ form.errors.messages.email }}</p>{% endif %}
+          <input type="hidden" name="contact[Subject]" value="New Gym Directory Submission">
+          <div class="tjjm-gymform-grid">
+            <label>Gym Name *<input type="text" name="contact[Gym Name]" required></label>
+            <label>City *<input type="text" name="contact[City]" required></label>
+            <label>State *<input type="text" name="contact[State]" maxlength="20" required></label>
+            <label>Website<input type="url" name="contact[Website]" placeholder="https://"></label>
+            <label class="tjjm-gymform-full">Street Address<input type="text" name="contact[Address]" placeholder="920 Example St #5, City, ST 00000"></label>
+            <label class="tjjm-gymform-full">Your Email *<input type="email" name="contact[email]" autocomplete="email" required></label>
+            <label class="tjjm-gymform-full">Anything else we should know?<textarea name="contact[body]" rows="3"></textarea></label>
+          </div>
+          <button type="submit" class="tjjm-gymform-btn">Submit Gym <span class="tjjm-arr">→</span></button>
+        {% endif %}
+      {% endform %}
+    </div>
+  </div>
+</section>
+<style>
+.tjjm-gym-tools{display:flex;align-items:center;gap:14px;margin-bottom:22px;flex-wrap:wrap;position:relative;z-index:2}
+.tjjm-gym-tools label{font-weight:700;font-size:.875rem;letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+.tjjm-gym-tools select{background:var(--panel);color:var(--bone);border:2px solid var(--line);padding:10px 14px;font-family:'Inter',sans-serif;font-size:1rem;min-width:180px}
+.tjjm-gym-tools select:focus{border-color:var(--red);outline:none}
+.tjjm-gym-count{color:var(--dim);font-size:.95rem}
+.tjjm-gyms{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;position:relative;z-index:2;margin-bottom:70px}
+.tjjm-gym{border:1px solid var(--line);background:var(--panel);padding:26px 24px;transition:border-color .2s}
+.tjjm-gym:hover{border-color:var(--red)}
+.tjjm-gym h3{font-family:'Anton',sans-serif;font-weight:400;font-size:1.4rem;line-height:1.1;text-transform:uppercase;color:var(--bone);margin-bottom:8px}
+.tjjm-gym-loc{color:var(--dim);font-size:1rem;margin-bottom:12px}
+.tjjm-gym-map{color:var(--dim);text-decoration:none}
+.tjjm-gym-map:hover{color:var(--bone);text-decoration:underline}
+.tjjm-gym-site{color:var(--red);font-weight:700;font-size:.875rem;letter-spacing:.14em;text-transform:uppercase;text-decoration:none}
+.tjjm-gym-site:hover{text-decoration:underline}
+.tjjm-gym-none{grid-column:1/-1;color:var(--dim);font-size:1.125rem;padding:30px 0}
+.tjjm-gym-empty{margin-bottom:70px;position:relative;z-index:2}
+.tjjm-gymform{border:1px solid var(--line);background:var(--panel);padding:44px 36px;position:relative;z-index:2;scroll-margin-top:90px}
+.tjjm-gymform-h{font-size:clamp(1.8rem,4vw,2.6rem);color:var(--bone);margin:12px 0 10px}
+.tjjm-gymform .tjjm-p{margin-bottom:26px}
+.tjjm-gymform-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:22px}
+.tjjm-gymform-grid label{display:flex;flex-direction:column;gap:7px;font-weight:600;font-size:.95rem;color:var(--bone)}
+.tjjm-gymform-full{grid-column:1/-1}
+.tjjm-gymform-grid input,.tjjm-gymform-grid textarea{background:var(--ink);border:2px solid var(--line);color:var(--bone);padding:13px 15px;font-family:'Inter',sans-serif;font-size:1rem;outline:none}
+.tjjm-gymform-grid input:focus,.tjjm-gymform-grid textarea:focus{border-color:var(--red)}
+.tjjm-gymform-btn{background:var(--red);color:#fff;border:none;font-family:'Anton',sans-serif;font-size:1rem;letter-spacing:.12em;text-transform:uppercase;padding:15px 30px;cursor:pointer;transition:background .2s}
+.tjjm-gymform-btn:hover{background:var(--red-deep)}
+.tjjm-gymform-ok{color:var(--bone);font-weight:600;font-size:1.125rem;border-left:3px solid var(--red);padding-left:14px}
+.tjjm-gymform-err{color:var(--red);font-size:.95rem;margin-bottom:14px}
+@media(max-width:900px){.tjjm-gyms{grid-template-columns:1fr 1fr}}
+@media(max-width:620px){.tjjm-gyms{grid-template-columns:1fr}.tjjm-gymform{padding:32px 20px}.tjjm-gymform-grid{grid-template-columns:1fr}}
+</style>
+<script>
+(function(){
+  document.querySelectorAll('[data-tjjm-gymdir]:not([data-tjjm-init])').forEach(function(root){
+    root.setAttribute('data-tjjm-init','1');
+    var sel=root.querySelector('#tjjmStateFilter'),grid=root.querySelector('#tjjmGyms');
+    if(!sel||!grid)return;
+    var none=grid.querySelector('.tjjm-gym-none');
+    var count=root.querySelector('#tjjmGymCount');
+    function norm(s){return (s||'').toLowerCase().replace(/[^a-z0-9]/g,'')}
+    function cards(){return [].slice.call(grid.querySelectorAll('.tjjm-gym'))}
+    function apply(){
+      var v=sel.value,shown=0;
+      cards().forEach(function(c){
+        var show=!v||c.getAttribute('data-state')===v;
+        c.hidden=!show;if(show)shown++;
+      });
+      if(none)none.hidden=shown>0;
+      if(count)count.textContent=shown;
+    }
+    function build(){
+      var states={};
+      cards().forEach(function(c){var s=c.getAttribute('data-state');if(s)states[s]=1});
+      while(sel.options.length>1)sel.remove(1);
+      Object.keys(states).sort().forEach(function(s){
+        var o=document.createElement('option');o.value=s;o.textContent=s;sel.appendChild(o);
+      });
+      apply();
+    }
+    sel.addEventListener('change',apply);
+    var existing={};
+    cards().forEach(function(c){var h=c.querySelector('h3');if(h)existing[norm(h.textContent)]=1});
+    var src=grid.getAttribute('data-src');
+    if(src){
+      fetch(src).then(function(r){return r.json()}).then(function(list){
+        list.sort(function(a,b){return ((a.s||'')+(a.n||'')).localeCompare((b.s||'')+(b.n||''))});
+        var frag=document.createDocumentFragment();
+        list.forEach(function(g){
+          if(!g.n||existing[norm(g.n)])return;
+          existing[norm(g.n)]=1;
+          var d=document.createElement('div');d.className='tjjm-gym';
+          d.setAttribute('data-state',(g.s||'').toUpperCase());
+          var h=document.createElement('h3');h.textContent=g.n;d.appendChild(h);
+          var p=document.createElement('p');p.className='tjjm-gym-loc';
+          p.textContent=(g.c?g.c+', ':'')+(g.s||'');d.appendChild(p);
+          if(g.w){
+            var a=document.createElement('a');a.className='tjjm-gym-site';a.href=g.w;
+            a.target='_blank';a.rel='noopener nofollow';
+            a.innerHTML='Visit Website <span class="tjjm-arr">→</span>';d.appendChild(a);
+          }
+          frag.appendChild(d);
+        });
+        grid.insertBefore(frag,none);
+        build();
+      }).catch(function(){build()});
+    }else{build()}
+    if(location.search.indexOf('contact_posted=true')>-1){
+      var f=root.querySelector('#add-gym');if(f)f.scrollIntoView();
+    }
+  });
+})();
+</script>
+{% schema %}
+{
+  "name": "TJJM Gym Directory",
+  "tag": "section",
+  "settings": [
+    {"type": "text", "id": "kicker", "label": "Kicker", "default": "The Community"},
+    {"type": "text", "id": "heading", "label": "Heading", "default": "Jiu Jitsu Schools Near You"},
+    {"type": "textarea", "id": "text", "label": "Intro text", "default": "Find BJJ schools and academies across the United States and Canada — or put your own gym on the map."},
+    {"type": "text", "id": "button_label", "label": "Add gym button label", "default": "Add Your Gym"},
+    {"type": "text", "id": "form_kicker", "label": "Form kicker", "default": "Join the Directory"},
+    {"type": "text", "id": "form_heading", "label": "Form heading", "default": "Add Your Gym"},
+    {"type": "textarea", "id": "form_text", "label": "Form text", "default": "Submit your gym and we'll review it and add it to the directory — usually within a couple of days."},
+    {"type": "textarea", "id": "success_text", "label": "Success message", "default": "OSS! Your gym has been submitted. We'll review it and add it to the directory shortly."}
+  ],
+  "presets": [{"name": "TJJM Gym Directory"}]
+}
+{% endschema %}
