@@ -1,0 +1,125 @@
+verdict	id	region	name	url	note
+OK	965	NV	Uprising MMA	http://www.uprisingmma.com
+WRONG_BUSINESS	966	NV	Mix-It-Up Kickboxing & Brazilian Jiu-Jitsu	http://www.mixitupacademy.com	Spanish language school in Gran Canaria, Spain
+OK	967	NV	360 Martial Arts Academy	http://360martialarts.com
+EMPTY	968	NV	Ares BJJ Reno	http://aresbjjreno.com
+OK	969	NV	Freestyle Martial Arts Academy	http://www.freestylema.com
+OK	970	NV	Guerrilla Jiu Jitsu Academy Reno	http://www.renojiujitsu.com
+WRONG_BUSINESS	971	NV	Komainu Gym	http://www.komainuapparel.com	martial arts apparel retailer, not a gym
+EMPTY	972	NV	Life Jiu Jitsu Reno	http://lifebjjreno.com
+OK	973	NV	Renzo Gracie Academy Reno	http://www.renzograciereno.com
+DEAD	974	NV	Zai Martial Arts Academy	http://www.zaixma.com	page states the academy is closed
+OK	975	NV	Evolution Martial Arts Academy	http://evomaa.com
+OK	976	NV	The Komainu Collective Brazilian Jiu Jitsu	http://bjjrenotahoe.com
+OK	977	NV	Loyalty Brazilian Jiu-Jitsu Winnemucca	http://www.loyaltybjj.com
+HIJACK	978	NY	LifeStyle Brazilian Jiu Jitsu Academy	http://lifestyle-mma.com	redirects to DAX69 Indonesian slot-gambling site
+EMPTY	979	NY	MCF Warpath Boxing and MMA Academy	http://mcfmma.com
+OK	980	NY	Kaizen Brazilian Jiu-Jitsu	http://www.kaizen-jiujitsu.com
+OK	981	NY	Jungle Gym Martial Arts - Bronx	http://junglegymbronx.com
+EMPTY	982	NY	Bronx Jiu-Jitsu	http://bronxjiujitsu.com
+OK	983	NY	Fight Factory	http://www.fightfactoryny.com
+HIJACK	984	NY	JAO Martial Arts Academy/Caio Terra Brazilian Jiu Jitsu NY	http://www.jao-maa.com	Chinese "AG" gambling-branded SEO site
+OK	985	NY	Sheepshead Bay Roll	http://sheepsheadbayroll.com/contact.html
+OK	986	NY	UFC GYM Park Slope	http://www.ufcgym.com
+OK	987	NY	Chop & Chops MMA	http://www.chopandchopsmma.com
+OK	988	NY	Renzo Gracie Bay Ridge	http://renzograciebayridge.com
+OK	989	NY	WNY MMA & Fitness	http://www.wnymma.com
+OK	990	NY	American Academy Of Self Defense	http://www.aaofsd.com
+OK	991	NY	Progressive Martial Arts	http://www.progressivemartialarts.com
+EMPTY	992	NY	Next Level Athletic Performance	http://www.nxtleveltraining.com
+EMPTY	993	NY	Rockland Brazilian Jiu-Jitsu	http://www.rocklandbjj.com
+EMPTY	994	NY	Evolution Muay Thai	http://evolutionmuaythai.com
+OK	995	NY	Gotham Jiu Jitsu	http://www.gothamjiujitsu.com
+OK	996	NY	Workshop NYC	http://www.workshop-nyc.com
+EMPTY	997	NY	Brazilian Jiu Jitsu of Washington Heights	http://bjjofwashingtonheights.com
+OK	998	NY	Upper West Side Brazilian Jiu-Jitsu	http://www.uwskenshikai.com/bjj
+OK	999	NY	NY Combat Club	http://www.nycombatclub.com
+OK	1000	NY	Big Apple BJJ Open	http://bigapplebjjopen.com
+OK	1001	NY	Church Street Boxing Gym	http://csboxinggym.com
+OK	1002	NY	Five Points Academy	http://www.academyfivepoints.com
+OK	1003	NY	Mayo Kickboxing & MMA Academy	http://mayomma.com
+EMPTY	1004	NY	At Jiu-Jitsu NYC	http://www.atjiujitsunyc.com
+OK	1005	NY	Lotus Jiu Jitsu Flushing	http://www.flushingjiujitsu.com
+OK	1006	NY	Butch's Boxing & MMA	http://www.ny-mma.com
+OK	1007	NY	10th Planet Rochester	http://www.10thplanetjiujitsurochester.com
+OK	1008	NY	Alpha Omega MMA	http://www.alphaomegamma.com
+OK	1009	NY	Codella Brazilian Jiu Jitsu Academy	http://codellaacademy.com
+OK	1010	NY	Staten Island Brazilian Jiu-Jitsu/MMA	http://sibjjmma.com
+OK	1011	NY	American Top Team Watertown	http://americantopteamwatertown.com
+OK	1012	NY	Shōgun Jiu Jitsu Academy	http://www.shogunma.com
+EMPTY	1013	NY	Dark Arts Muay Thai and Brazilian Jiu Jitsu	http://darkartsroc.com
+OK	1014	NY	Renzo Gracie Whitestone	http://renzogracie-whitestone.com
+OK	1015	NY	East Coast United Queens Academy of Brazilian Jiu Jitsu	http://www.ecuqueensbjj.com
+OK	1016	NY	Glory Mixed Martial Arts	http://www.glorymma.com
+EMPTY	1017	OH	Gotham Gym/ Savage MMA and Fitness LLC	http://gothamgym.gymmasteronline.com/
+OK	1018	OH	Zahand's Martial Arts	http://www.zahands.com/
+OK	1019	OH	Next Level Martial Arts Alliance	http://www.mountunionbjj.com/
+OK	1020	OH	G-Force MMA	http://gforcemma.com/
+OK	1021	OH	Consecution Jiu-Jitsu	http://consecutionjiujitsu.com/
+OK	1022	OH	Next Level Martial Arts Academy	http://youngstownmartialarts.com/
+OK	1023	OH	Dayton Mixed Martial Arts Academy	http://www.daytonmma.com/
+OK	1024	OH	Rising Dragon Mixed Martial Arts & Fitness	http://risingdragonmma.com/
+OK	1025	OH	Jujitsu School Of Self Defense	http://jujitsuschool.net/
+OK	1026	OH	Gracie Cincinnati Jiu-Jitsu	http://graciecincinnati.com/
+OK	1027	OH	Brazilian Jiu-Jitsu & Self Defense Academy	http://youngstownjiujitsu.com/
+OK	1028	OH	1-Up BJJ/Team Chard West (inside Old School Iron Gym)	http://www.1upjiujitsu.com/
+OK	1029	OH	Mario Sperry Jiu-Jitsu of Ohio	http://www.msjjo.com/
+EMPTY	1030	OH	Sabatino MMA and Fitness	http://facebook.com/sabatinomma
+EMPTY	1031	OH	Brown Institute	http://www.browninstitute.com/
+OK	1032	OH	Club MMA: Mixed Martial Arts	http://www.club-mma.com/
+OK	1033	OH	Powell MMA and Fitness (Jiu Jitsu, Kickboxing, Wrestling)	http://powellmmaandfitness.com/
+OK	1034	OH	US Martial Arts Academy	http://usmartialartsacademy.com/
+OK	1035	OH	Vision Fitness & MMA	http://www.visionmma.com/
+OK	1036	OH	RoundTown Brazilian Jiu-Jitsu Academy	http://www.roundtownjiujitsu.com/
+OK	1037	OH	Hurricane Jiu Jitsu	http://www.hurricanejj.com/
+OK	1038	OH	Revolution Fight and Fitness	http://revolutionfightandfitness.com/
+OK	1039	OH	Izzah Combat Sports & Fitness Eastside Brasa Bjj	http://www.izzahsports.com/
+EMPTY	1040	OH	Buckeye Mixed Martial Arts & Fitness	http://www.buckeyemma.com/
+OK	1041	OH	Mat Lab Brazilian JiuJitsu	http://matlabbjj.com/
+OK	1042	OH	Relson Gracie Jiu-Jitsu Columbus	http://www.gracieohio.com/
+OK	1043	OH	The Technician Dojo	http://www.thetechniciandojo.com
+OK	1044	OH	Leverage Brazilian Jiu-Jitsu	http://www.leveragebjjohio.com/
+OK	1045	OH	Top Level Martial Arts	http://www.toplevelmartialarts.com/
+OK	1046	OH	Ohio Budokan Martial Arts	http://www.ohiobudokan.org/
+OK	1047	OH	S&G Brazilian Jiu Jitsu	http://www.sgbjj.com/
+OK	1048	OH	Soma Gracie Brazilian Jiu-Jitsu of Dayton	http://www.somajj.com/
+OK	1049	OH	TAMA Family Martial Arts	http://tamamartialarts.com/
+OK	1050	OH	Tenbears Martial Arts Academy	http://www.tenbearsmma.com/
+WRONG_BUSINESS	1051	OH	The Dirty Gym	http://thedirtygym.com/	barbell/powerlifting club; no martial arts program on the site
+OK	1052	OH	Summit Martial Arts	http://summitmartialartsacademy.com/
+OK	1053	OH	Super System BJJ	http://supersystembjj.com
+OK	1054	OH	True Art Jiu Jitsu	http://www.trueartbjj.com/
+OK	1055	OH	Black Lotus Brazilian Jiu Jitsu Academy	http://www.blacklotusbjja.com/
+OK	1056	OH	Ruffhouse Jiu Jitsu Columbus	http://ruffhousecolumbus.com/
+OK	1057	OH	Columbus MMA	http://www.columbusmma.com/
+OK	1058	OH	Legacy Martial Arts Academy	http://www.legacy-ohio.com/
+OK	1059	OH	Waterhouse Brazilian Jiu-Jitsu Academy	http://www.waterhousebjj.com/
+OK	1060	OH	Delta Team Jiu Jitsu	http://deltagrapplingacademy.com/
+OK	1061	OH	Integrated Combative Arts Academy	http://www.icaacademy.com/
+OK	1062	OH	Immortal Martial Arts Center	http://www.immortalmartialartscenter.com/
+OK	1063	OH	Team Chitwood Martial Arts & Fitness Lewis Center OH	http://www.teamchitwood.com/
+OK	1064	OH	Lima's Total Revolution Training Facility	http://trmartialarts.com/
+OK	1065	OH	Ground Zero MMA	http://groundzeromma.com/
+OK	1066	OH	Ohio Martial Arts	http://ohiomartialarts.com/
+OK	1067	OH	Mayfield Karate & Minna Jiu Jitsu	http://themayfieldacademy.com/
+WRONG_BUSINESS	1068	OH	Combat CFMA - Functional Martial Arts	http://combatcfma.com/	school now located in Babcock Ranch, Florida; no Medina OH location
+OK	1069	OH	Griffonrawl MMA	http://www.ohio-mma.com/
+OK	1070	OH	Bullpen Fight Club Morristown OH	http://bullpenfightclub.com/
+OK	1071	OH	Impact Family Martial Arts Newark	http://www.impactdojo.com/
+OK	1072	OH	VO2 Fitness (BJJ by Delta Grappling Academy)	http://vo2fitnessnewark.com/
+OK	1073	OH	Hill Jiu Jitsu Academy	http://hilljiujitsuacademy.com/
+OK	1074	OH	Gracie Orwell Jiu Jitsu Academy	http://www.gracieorwell.com/
+OK	1075	OH	4Point Base BJJ	http://www.4pointbase.com/
+OK	1076	OH	Columbus Brazilian Jiu-Jitsu	http://www.columbusbjj.com/
+OK	1077	OH	Ohio Combat Sports Academy	http://www.ohiocombatacademy.com/
+PARKED	1078	OH	Edge Fitness Studio	http://www.theedgefit.com/	HugeDomains "domain for sale" lander
+OK	1079	OH	North American Martial Arts Institute	http://namai.us/
+OK	1080	OH	Ohio Brasa/Deon Thompson Brazilian Jiu Jitsu	http://ohiobrasajiujitsu.com/
+OK	1081	OH	Rudo Jiu-Jitsu	http://rudojiujitsu.com/
+OK	1082	OH	Toledo Jiu Jitsu Center	http://toledojiujitsu.com/
+OK	1083	OH	Team Chard BJJ	http://ohiobjjc.com/
+OK	1084	OH	Team Bundy Gracie Jiu-Jitsu	http://teambundymma.com/
+WRONG_BUSINESS	1085	OH	Ground Up Brazilian Jiu-Jitsu	http://mpcle.com/class/ground-up-bjj/	Miracle Performance strength/conditioning gym; BJJ class page gone
+OK	1086	OH	Sacan Martial Arts	http://sacanmartialarts.com/
+OK	1087	OH	Meyer Martial Arts	http://www.meyermartialarts.com/
+OK	1088	OH	Relson Gracie Jiu-Jitsu Cleveland	http://www.graciecleveland.com/
