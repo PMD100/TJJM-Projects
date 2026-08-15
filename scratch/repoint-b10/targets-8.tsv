@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+8	CA	Beverly Hills	Gracie Jiu-Jitsu Beverly Hills		no w key
+18	CA	Fresno	Checkmat Fresno-Roots Brazilian Jiu-Jitsu	http://checkmatfresno.com	override blanks it
+28	CA	La Crescenta	GB La Crescenta		no w key
+38	CA	Monterey	Gracie Jiu-Jitsu Monterey		no w key
+48	CA	San Diego	Alliance Jiu Jitsu San Diego	https://alliancejiujitsusandiego.com	override blanks it
+58	CA	Stockton	Andre de Freitas Brazilian Jiu-Jitsu / BJJ Stockton CA 95210	http://andredefreitasbjj.com/index.html	override blanks it
+68	CA	Ventura	Rock And Roll Fight Company	https://rocknrollfightcompany.com/	override blanks it
+78	TX	Allen	Checkmat BJJ Allen - Texas		no w key
+88	TX	Bedford	Carlos Machado Jiu-Jitsu Mid Cities	https://carlosmachadojiujitsumidcities.com/Home/Offer/	override blanks it
+98	TX	Corpus Christi	Renzo Gracie	http://www.renzogracietx.com/	override blanks it
+108	TX	Fort Worth	Powerhouse MMA Academy		no w key
+118	TX	Laredo	Sangue Novo Brazilian Jiu-Jitsu Academy		no w key
+128	TX	New Braunfels	Unconventional Performance & Training	http://www.rodrigopinheirobjj.com/	override blanks it
+138	TX	San Antonio	JBSA BJJ Open Mat		no w key
+148	TX	Tomball	Defenders Martial Arts Academy	http://www.defendersmaa.com	override blanks it

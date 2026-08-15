@@ -1,0 +1,151 @@
+{%- comment -%}
+  MANUALLY RESEARCHED STREET ADDRESSES
+  ---------------------------------------------------------------------------
+  An override layer for gyms with no "a" (address) field in tjjm-gyms.json.
+  Deliberately kept separate: the main dataset is never edited, so this file can
+  be deleted at any time and the site silently reverts to "City, ST".
+
+  FORMAT   one record per line:  ~Exact gym name|Street address
+  The name must match the "n" value in tjjm-gyms.json EXACTLY, including case and
+  punctuation. A mismatch just misses silently - the gym keeps its city-only line.
+
+  PRECEDENCE   an address in tjjm-gyms.json always wins over this file. If the full
+  Google Places enrichment is run later, these entries are superseded automatically
+  and this file can simply be removed.
+
+  Source-verified 28 July 2026 against Yelp business listings, official gym sites,
+  Waze / Apple Maps place records, Fresha and chamber-of-commerce entries.
+  70 gyms across 17 metros.
+
+  DELIBERATELY EXCLUDED. A wrong address on a public directory is worse than none,
+  so a gym was skipped whenever:
+    - one listing covers several locations (Modern Martial Arts NYC, Ares BJJ)
+    - sources disagreed (Derby City MMA: 8021 vs 2081 Dixie Hwy;
+      Lucas Lepri Charlotte: Sardis Rd N vs Monroe Rd;
+      Halifax BJJ vs Halifax BJJ Society: two names, two addresses, unclear pairing)
+    - the address found sits in a different city than our data records
+      (Supreme Academy ATX is in Kyle; Minnesota Martial Arts Academy is in
+      Brooklyn Center; both would produce misleading map links)
+    - the match was simply not certain (Jon Calestine, Capital City BJJ, N-Flux)
+
+  5 Aug 2026 (Washington run): one entry added for a COLLISION, not a missing address.
+  "Bellingham BJJ" exists in both the legacy data and MatMade. Suppressing the legacy
+  copy via wa_removed would have killed the MatMade copy too, because the section
+  matches removals on the exact name. So the legacy record is kept, the MatMade
+  duplicate was never imported, and its street address is supplied here instead.
+
+  5 Aug 2026 (Oregon run): same pattern, but found by DOMAIN rather than by name.
+  Legacy "Ashland BJJ" and MatMade "Ashland Jiu-jitsu Academy" are the same school —
+  different names, same ashlandbjj.com, same city. The name-only collision check could
+  not see it. Legacy record kept, MatMade duplicate never imported, address supplied here.
+{%- endcomment -%}
+~12th Street Jiu-Jitsu|1107 E Bell Rd
+~Ares BJJ Phoenix|2737 W Thunderbird Rd Ste 111
+~Checkmat Phoenix|3133 E Greenway Rd Ste 503
+~Marcio Andre Brazilian Jiu-Jitsu Academy|14647 S 50th St Unit C-172
+~Megaton Brazilian Jiu-Jitsu Academy|10433 N 32nd St
+~South Mountain Brazilian Jiu Jitsu & Self Defense|3636 W Southern Ave Ste 150C
+~Strong Heart Academy Brazilian jiu-jitsu & MMA|3150 E Union Hills Dr Ste 115
+~REFUGE BJJ|711 E Carefree Hwy Ste 201
+~One Love Grappling Arts|3202 E Greenway Rd Ste 1319
+~Fury Brazilian Jiu Jitsu|2948 E Bell Rd Ste 104
+Satori Brazilian Jiu Jitsu Academy LLC|3527 W Thunderbird Rd
+~Sol BJJ - Brazilian Jiu Jitsu Classes in Phoenix|6228 N 7th St
+~Ucelo Martial Arts Phoenix|8021 N 43rd Ave Ste 1B
+~DeBrazil Jiu-Jitsu Academy|560 W 22nd St
+~Mako Brazilian Jiu-Jitsu Tucson|7787 E Broadway Blvd
+~The Arena Brazilian Jiu Jitsu Academy & Fitness|9013 E Old Vail Rd Unit 105
+~Jiu Jitsu & Muay Thai - Carlson Gracie Tucson|8822 E Broadway Blvd
+~The Eyrie Brazilian Jiu-Jitsu|918 W Irvington Rd Ste 100A
+~Boxer's Rebellion Martial Arts|5933 E 22nd St
+~Gracie Barra East Mesa Brazilian Jiu-Jitsu & Self-Defense|10720 E Southern Ave Ste 110
+~Revive Jiu Jitsu - Mesa BJJ|10735 E Main St Ste 104
+~White 2 Black Brazilian Jiu-Jitsu Academy|745 W Baseline Rd Ste 12
+~Lopez Martial Arts|1965 S Alma School Rd Ste 5
+~Ric Centron Brazilian Jiu Jitsu Academy|1940 S Alma School Rd Ste 7
+~Van Buren Jiu Jitsu Chandler|1020 E Pecos Rd Ste 5
+~Renzo Gracie Academy|224 W 30th St
+~Renzo Gracie East Side|1264 Lexington Ave Fl 2
+~Marcelo Garcia Academy|250 W 26th St Fl 3
+~Unity Jiu Jitsu|144 W 14th St
+~10th Planet Jiu Jitsu NYC|35 W 43rd St Fl 4
+~Ronin Athletics|265 Madison Ave Fl 5
+~Clockwork Brazilian Jiu-Jitsu|650 Broadway Fl 2
+~Anderson's Martial Arts Academy|12 E 14th St
+{%- comment -%}
+  5 Aug 2026 (New York run) - two CORRECTIONS to entries below, both found only
+  because the NY import forced a same-address diff. Note WHY they were invisible
+  before: every NY legacy record stores an EMPTY address, so a scan over stored
+  values sees nothing. These addresses exist ONLY here, and only at render time.
+  A stored-data scan structurally cannot find a collision in this file.
+
+  1. Vitor Shaolin BJJ NYC: was 220 E 86th St. That is Modern Martial Arts NYC
+     Upper Eastside, which is now imported as its own record - two records would
+     have rendered at one address. The school this record actually points at
+     (bjjnewyorkcity.com) trades as NYC BJJ Academy and its own footer gives
+     780 8th Avenue, New York, NY 10036. The two businesses are co-branded and
+     share the UES site, but 780 8th Ave is this record's own location.
+     Corrected to 780 8th Ave, which also keeps the city (New York) truthful.
+
+  2. Kioto Brazilian Jiu Jitsu: entry REMOVED, not corrected. It read
+     1786 3rd Ave, which is Next Evolution Martial Arts' address - the line
+     immediately below still carries it correctly. The Kioto record was
+     back-filled from a MatMade listing (Kioto Brazilian Jiu Jitsu / NEMMAA)
+     that is really Next Evolution running a Kioto-affiliated program.
+     The real Kioto is 96 Biltmore Ave, OAKDALE, and this record's city says
+     New York. Per this file's own rule - skip when the address sits in a
+     different city than our data records, because it produces a misleading
+     map link - it gets no entry until the city is fixed by a snippet rewrite
+     (backlog item 0c).
+{%- endcomment -%}
+~Vitor Shaolin BJJ NYC|780 8th Ave
+~Next Evolution Martial Arts|1786 3rd Ave
+~Studio X|6 St Marks Pl Fl 2
+~Paxibellum|4 W 18th St Fl 3
+~Range Brazilian Jiu-Jitsu|328 E 61st St Ground Fl
+~Jiu Livre NYC|383 5th Ave Fl 3
+~Renzo Gracie Brooklyn|100 Bayard St
+~Six Blades Austin|13642 N Highway 183 Ste 300
+~Kingsway Jiu-Jitsu|13776 N Highway 183 Unit 122
+~Fight Factory Austin|9607 Research Blvd Ste 675
+~John's Gym Mixed Martial Arts & Fitness|11416 FM 620 N Ste A
+~Carlos Machado Jiu Jitsu Dallas|10675 E Northwest Hwy Ste 2400
+~Marcelo Garcia Jiu-Jitsu of Dallas|5706 E Mockingbird Ln Ste 230
+~Alliance Jiu Jitsu Dallas|1901 Royal Ln Ste 109
+~Toronto BJJ|813 Bloor St W
+~Yorkdale Martial Arts|62 Clarkson Ave
+~Junction Academy|417 Keele St
+~Toronto Jiu Jitsu Club|2073 Danforth Ave
+~Greenwood Jiu-Jitsu|416 Moore Ave Ste 102
+~Tristar Gym Montreal|5275 Rue Ferrier
+~Highstyle Jiu-Jitsu|907 N St NW Ste C-2
+~Vortex Jiu-Jitsu|1529 16th St NW
+~Anchorage Brazilian Jui-Jitsu|113 W Northern Lights Blvd
+~Arctic Warrior Brazilian Jiu-Jitsu|802 N Warehouse St Bay 12
+~Anchorage Grappling Academy|1300 E 68th Ave Unit 109
+~AMP BJJ Baton Rouge|7731 Perkins Rd Ste 130
+~Bayou Jiu Jitsu & Self Defense|9681 Airline Hwy
+~Xtreme Couture MMA|4055 W Sunset Rd
+~Studio 1908 (Miyao Brothers)|460 Grand St
+~Unity Jiu Jitsu Jersey City|660 Grand St
+~Lucas Lepri Brazilian Jiu-Jitsu Knoxville|3325 Sutherland Ave
+~Gracie Barra North Orlando|923 N Mills Ave
+~Orlando Brazilian Jiu Jitsu|28 W Michigan St
+~Guto Campos BJJ|1064 Lee Rd
+~Checkmat Charlotte|3415 Westinghouse Blvd Ste 10
+~Bellingham BJJ|205 W Holly St
+~Ashland BJJ|1287 Oak St
+~Alliance Jiu Jitsu Twin Falls|647 Filer Ave 101, Twin Falls, ID 83301~
+~Coventry Brazilian Jiu Jitsu|53 Sandy Bottom Rd, Coventry, RI 02816~
+~Cortes BJJ|114 Minnesota Ave, Unit 1, Warwick, RI 02888~
+~Providence BJJ|4 Aurora Street, Providence, RI 02908~
+~Aiken Jiu-Jitsu|1030 York St NE, Aiken, SC 29801~
+~Alliance Jiu Jitsu Anderson|1484 Pearman Dairy Rd, Anderson, SC 29625~
+~Rock Hill BJJ|489 S Herlong Ave Unit #6, Rock Hill, SC 29732~
+~Alliance Jiu Jitsu Easley|5190 Calhoun Memorial Hwy. Suite F, Easley, SC~
+~Elite Martial Arts Calgary|4750 106 Ave SE, Calgary, AB T2C 3G5~
+~Phoenix Martial Arts Club|215 Carnegie Drive Unit 7, St. Albert, AB T8N 5B1~
+~YYC Brazilian Jiu Jitsu|205-3507 17 Ave SW, Calgary, AB T3E 0B6~
+~Alliance Jiu Jitsu Montreal|5842 Boul. St Laurent, Montreal, QC H2T 1T3~
+~Lions MMA|1256 Granville St, Vancouver, BC V6Z 1M4~
+~Van Isle BJJ|941 Ellery Street, Esquimalt, Victoria, BC V9A 4R3~

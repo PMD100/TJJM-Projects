@@ -1,0 +1,37 @@
+{%- comment -%}
+  Added 5 Aug 2026 by the NEW YORK import, step 5/7. Every one verified by OPENING the
+  school's page and reading the BODY - never from a <title>, a meta description or a
+  directory aggregator (RULES-tjjm.md section 4). Full rationale and the evidence quote for
+  each row is in snippets/tjjm-statedir-notes-ny.
+
+  All 15 rows CHANGE something: each was diffed against the raw stored w from the audit
+  dump before being added, and the build asserts that no row restates its record's
+  existing value.
+
+  WATCH THIS ONE. 'Jungle Gym Martial Arts' is a name the brand also uses for its Bronx
+  location. An override matches on NAME ALONE, so importing the Bronx record under the
+  same name would have silently given it the New Rochelle URL. The Bronx record is
+  therefore imported as 'Jungle Gym Martial Arts - Bronx'. Do not undo that rename
+  without removing this row.
+
+  NOT FIXED HERE, because no override reaches the field (item 0c): Brian Beury is
+  misspelt (Beaury) and is in Watervliet not Albany; Clobber is in Delmar not Cohoes;
+  Jon Calestine is in Brooklyn not New York; Serra is in Huntington not Levittown;
+  Kioto is in Oakdale not New York; Long Island MMA is in West Babylon not Lake Grove;
+  Haven Jiu Jitsu is in Baldwinsville not Syracuse.
+{%- endcomment -%}
+~Bellmore Kickboxing Academy|https://bellmorekickboxingmma.com/~
+~Binghamton Brazilian Jiu Jitsu|https://broomecountymartialarts.com/~
+~Brian Beury Jiu Jitsu|https://brianbeauryjiujitsu.com/~
+~Buffalo Brazilian Jiu Jitsu Academy|https://www.buffalobjj.com/~
+~Clobber Jiu Jitsu Academy|https://clobberjiujitsu.com/~
+~Ithaca BJJ|https://www.ithacabjjschool.com/~
+~Jiu Livre NYC|https://jiulivre.com/~
+~Jon Calestine BJJ|https://calestinejj.com/~
+~Jungle Gym Martial Arts|https://junglegymnewroc.com/~
+~Kings Combat|https://kingscombatwillyb.com/~
+~Modern Martial Arts NYC|https://www.mmanewyorkcity.com/~
+~Next Evolution Martial Arts|https://nextevolutionmartialarts.com/~
+~Paxibellum|https://paxibellum.com/~
+~Serra BJJ Academy|https://serrabjjacademy.com/~
+~The Dojo NYC|https://thedojonyc.com/~

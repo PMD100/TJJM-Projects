@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+5	GA	Augusta	Gracie Barra - Augusta	http://gbaugusta.com/	override blanks it
+11	GA	Cumming	World Jiu-Jitsu Academy	http://worldjiujitsuatlanta.com/	override blanks it
+17	GA	Griffin	Praxis MMA		stored w is empty string
+23	GA	Marietta	East Cobb Martial Arts	http://www.eastcobbma.com/	override blanks it
+29	GA	Tifton	Redemption Martial Arts Academy	http://www.martialartstifton.com/	override blanks it
+35	IL	Chicago	10th Planet Jiu Jitsu Chicago	http://www.10thplanetjjchicago.com	override blanks it
+41	IL	Geneva	Gracie Jiu-Jitsu Geneva		no w key
+47	IL	Lombard	10th Planet Jiu Jitsu Lombard	http://www.10thplanetjjlombard.com/	override blanks it
+53	IL	New Baden	Middeke Brazilian Jiu Jitsu	https://www.middekebjj.com/	override blanks it
+59	IL	Schaumburg	LCCT Brazilian Jiu Jitsu	https://lcctbjj.com	override blanks it
+65	NV	Elko	University of Grappling: Elko		no w key
+71	NV	Las Vegas	Las Vegas Fight Center	https://lasvegasfightcenter.com	override blanks it
+77	NV	Las Vegas	Fredson Paixao Academy	http://fredsonpaixaobjj.com	override blanks it
+83	NV	Las Vegas	Tapout Research & Development Training Center	http://www.tapoutlasvegas.com	override blanks it
+89	NV	Reno	Lion's Den MMA & Fitness Center	http://www.lionsdenreno.com	override blanks it

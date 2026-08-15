@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+4	FL	Boca Raton	Gracie Jiu-Jitsu Boca Raton		no w key
+10	FL	Casselberry	Mata Leao BJJ/MMA Academy		no w key
+16	FL	Davie	GB Davie		no w key
+22	FL	Fort Lauderdale	Renzo Gracie Fort Lauderdale	https://www.renzogracieftlauderdale.com/	override blanks it
+28	FL	Hialeah	Gladiator Sports Fitness MMA		no w key
+34	FL	Jupiter	Armory Training Center		no w key
+40	FL	Lauderhill	South Florida Fight Club	http://www.sffc.tv/	override blanks it
+46	FL	Miami Beach	Beach Martial Arts		no w key
+52	FL	Ocala	Ocala Brazilian Jiu Jitsu Academy		no w key
+58	FL	Orlando	GB Palm Coast		no w key
+64	FL	Plantation	Kumite Martial Arts	http://www.kumitemartialarts.com/	override blanks it
+70	FL	St. Cloud	Full Circle MMA	http://www.nucfl.com/	override blanks it
+76	FL	Tarpon Springs	New Port Richey Jiu-jitsu Academy	http://nprbjj.com/	override blanks it
+82	FL	West Palm Beach	Hands Down Martial Arts	http://www.wpbmma.com/	override blanks it
+88	TX	Bedford	Ironside Martial Arts	http://www.ironsidemartialarts.com/	override blanks it

@@ -1,0 +1,18 @@
+> Batch-7 website overrides, derived from verifier EVIDENCE rather than the verdict TSV
+> `url` column - that column proved ambiguous, with some verifiers recording the STORED
+> url and others the CORRECTED one. Building from it directly would have shipped four
+> overrides that merely restated the stored value, which RULES section 5 forbids.
+> Every stored_w below was read out of the legacy blob (scratch/raw-G1-legacy.txt).
+> file: 2 = edit an existing entry in tjjm-gym-websites-2 IN PLACE (never append a duplicate)
+>       3 = new entry in tjjm-gym-websites-3
+> A blank new_w deliberately blanks the link.
+name	file	stored_w	new_w	rationale
+N-Flux	3	https://n-flux.com	https://staynflux.com	Re-read staynflux.com this pass - DC self-defence/kickboxing/MMA centre with a dedicated No-Gi Jiu-Jitsu class page. Stored n-flux.com superseded.
+Evolution Martial Arts NL	3	https://www.evolutionbjjstjohns.com	https://evolutionmartialartsnl.com	Stored domain resolves but returns a blank body. Live site read in full - BJJ Gi/No-Gi class cards, address 210 Kenmount Rd.
+St. John's BJJ	3	https://stjohnsbjj.com	https://stjohnsbjj.ca	Stored .com is NXDOMAIN (Status 3, conclusive). The .ca resolves and was read directly - Alliance Canada affiliate club.
+Team Fortitude NS	3	https://teamfortitudens.com	https://www.facebook.com/FortitudeJiujitsu	Stored teamfortitudens.com confirmed NXDOMAIN this pass (Status 3). Note the verifier tested a different domain (teamfortitudemma.ca) so the stored one was checked separately here. Halifax BJJ Society's own affiliates page currently links this Facebook page.
+Yarmouth BJJ	3	https://yarmouthbjj.com	https://www.yarmouthbjj.ca	Stored .com is NXDOMAIN. The .ca was read directly - full class schedule and address 73C Starrs Road, Yarmouth NS B5A 2T6.
+Stratford BJJ PEI	3	https://stratfordbjjpei.com	https://www.peimma.com/stratford	Stored domain confirmed NXDOMAIN this pass (Status 3). The business is a PEI Martial Arts Academy location - its own Stratford page lists adult and kids Brazilian Jiu-Jitsu, 41 Hollis Ave.
+Gracie Barra Knoxville	3	https://www.samuelbragabjj.com	https://www.jiujitsuknoxvilletn.com	Stored domain returns an empty body. Current own page read directly - Samuel Braga BJJ, Knoxville TN.
+Kaze BJJ and Judo Institute	3	https://kazebjj.com		DELIBERATE BLANK. The stored domain belongs to a DIFFERENT business - Kaze Brazilian Jiu Jitsu, 1950 Ellesmere Rd, Scarborough ONTARIO - read on its own location page. Sending users to an unrelated Ontario gym is worse than no link, and no first-party page for the real Clarksville TN entity could be reached. This is the RULES section 4 wrong-entity class. Logged as a NEW blank-override instance and as Ontario cross-region debt.
+Victory Jiu Jitsu Dieppe	2	https://victoryjjdieppe.com	https://victoryjiujitsuacademy.ca	Already carries a BLANK override in websites-2, so it currently renders with no link at all. Real site read in full - Est. 2012, 1571 Melanson Road, Dieppe NB. The existing blank entry is EDITED IN PLACE per the batch-6 rule against appending duplicate override rows.

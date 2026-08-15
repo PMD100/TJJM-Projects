@@ -1,0 +1,55 @@
+{%- comment -%}
+  TJJM website overrides — one row per gym: ~Exact Gym Name|URL~
+  Same idiom as tjjm-gym-addresses. Read by sections/tjjm-state-directory.liquid, which
+  probes for '~' + name + '|' and takes everything up to the next '~'. An override WINS over
+  the record's own "w" field, so this file can correct records in snippets/tjjm-gyms-data
+  (the 113 KB legacy blob) without rewriting it.
+
+  An EMPTY value blanks the link entirely — use it when a record carries a URL that provably
+  belongs to a different business.
+
+  RULES
+  - The name must match EXACTLY, including punctuation and case.
+  - Names must not contain '|' or '~'.
+  - Only add a URL you have actually opened and confirmed is that location's page.
+  - ONLY ADD AN ENTRY THAT CHANGES SOMETHING. Do not restate a URL the record already has:
+    this file then becomes a second source of truth that silently pins the old value if the
+    record is later corrected. Diff against the live data before adding.
+
+  Created 5 Aug 2026 by the brand-cluster sister-site pass.
+
+  WHY THESE ARE FEWER THAN THE CLUSTER SUGGESTED: the collision audit normalises URLs to
+  DOMAINS, so tsk.com/locations/nj/hoboken/ and tsk.com/ both collapse to "tsk.com" and look
+  identical. That made whole brands appear to point at their homepage when in fact only one
+  or two records did. All 17 Tiger Schulmann's NJ records already had correct per-location
+  URLs and need nothing here. Check raw "w" values, not normalised domains.
+{%- endcomment -%}
+~Gracie Barra Avondale|https://graciebarra.com/avondale-az/~
+~Gracie Barra Peoria|https://graciebarrapeoria.com/~
+~Easton Training Center|https://eastonbjj.com/denver/~
+~Easton Training Center - Boulder|https://eastonbjj.com/boulder/~
+~Easton Training Center Littleton|https://eastonbjj.com/littleton/~
+~Easton Brazilian Jiu Jitsu Thornton|https://eastonbjj.com/thornton/~
+~Fabin Rosa BJJ Altamonte Springs|https://bjjorlando.com/altamonte~
+~Fabin Rosa Brazilian Jiu Jitsu Academy|https://bjjorlando.com/orlando~
+~Revolution Dojo|https://www.revolutiondojo.com/revolution-dojo-houston.html~
+~Revolution Dojo Cypress|https://www.revolutiondojo.com/revolution-dojo-cypress.html~
+~Unconventional Performance & Training|~
+{%- comment -%}
+  Added 6 Aug 2026 by the backlog 1b/1c/2 verification pass. Both verified by OPENING the page
+  body, not by search results or <title> (RULES-tjjm.md §4).
+
+  Gracie Jiu - Jitsu Summerlin — record carried http://GracieLasVegas.com. That site is the
+  Charleston + Henderson school and its body mentions Summerlin ZERO times. The Summerlin school
+  is live and its own site states 5375 S Fort Apache Rd Unit 104, Las Vegas NV 89148, which is
+  exactly the address the record already stores. Wrong-entity link, not a dead gym. This also
+  clears one of the 3 mixed-case hosts (backlog 5b).
+
+  American Top Team Aventura — record carried http://www.attaventura.com, which now serves a
+  GoDaddy "available at auction" parking lander. The school is live as ATT Aventura/NMB. Yelp
+  flags the old listing CLOSED; the live site body contradicts it (RULES §4, aggregators).
+  NOTE: this record's city is still wrong (stored "Miami Beach"; 16215 Biscayne Blvd is North
+  Miami Beach / Aventura). City is NOT overridable — left for a snippet rewrite.
+{%- endcomment -%}
+~Gracie Jiu - Jitsu Summerlin|https://graciejiujitsusummerlin.com/~
+~American Top Team Aventura|https://www.attaventuranmb.com/~

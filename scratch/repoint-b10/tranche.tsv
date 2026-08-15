@@ -1,0 +1,151 @@
+id	region	city	name	stored_w	why_blank
+1	CA	Agoura Hills	GB Agoura		no w key
+2	CA	Alameda	Gracie Jiu-Jitsu Alameda		no w key
+3	CA	Anaheim	Javier Blanchard Brazilian Jiu Jitsu / BJJ Anaheim CA 92801	https://www.javierblanchard.com/	override blanks it
+4	CA	Antioch	Sovereign Brazilian Jiu Jitsu (BJJ)		no w key
+5	CA	Bakersfield	The Chute MMA, Jiu Jitsu and Wrestling	http://www.chutetraining.com	override blanks it
+6	CA	Barstow	Gracie Jiu-Jitsu Barstow		no w key
+7	CA	Bell	Team Mata Brazilian Jiu Jitsu		no w key
+8	CA	Beverly Hills	Gracie Jiu-Jitsu Beverly Hills		no w key
+9	CA	Brentwood	Ares BJJ Brentwood	http://aresbrentwood.com/	override blanks it
+10	CA	Camarillo	Bond Squad MMA		no w key
+11	CA	Chula Vista	Alliance MMA Gym		no w key
+12	CA	Chula Vista	GB Chula Vista		no w key
+13	CA	Clovis	Gracie Jiu-Jitsu Clovis		no w key
+14	CA	Culver City	Abrigo Martial Arts	http://www.abrigomartialarts.com/index02.php	override blanks it
+15	CA	Dixon	Fabio Prado Brazilian Jiu-Jitsu Academy		no w key
+16	CA	El Sobrante	Gracie Jiu-Jitsu El Sobrante		no w key
+17	CA	Fountain Valley	Piranha Jiu Jitsu		no w key
+18	CA	Fresno	Checkmat Fresno-Roots Brazilian Jiu-Jitsu	http://checkmatfresno.com	override blanks it
+19	CA	Fullerton	Gracie Jiu-Jitsu Fullerton		no w key
+20	CA	Granada Hills	Granada Hills Martial Arts & Fitness		no w key
+21	CA	Harbor City	Royce Gracie Jiu Jitsu Academy SoCal	https://roycegraciesouthbay.com/	override blanks it
+22	CA	Hawthorne	Pedigo Submission Fighting Los Angeles		no w key
+23	CA	Hayward	Hayward BJJ Darcio Lira	https://www.haywardbjjdarciolira.com/	override blanks it
+24	CA	Indio	Flow Academy BJJ Indio		no w key
+25	CA	Indio	Gracie Jiu-Jitsu Indio		no w key
+26	CA	Irvine	Team Oyama MMA & Fitness	http://teamoyamamma.com/	override blanks it
+27	CA	Irvine	Valhalla Jiu Jitsu	http://www.valhallabjj.com/	override blanks it
+28	CA	La Crescenta	GB La Crescenta		no w key
+29	CA	Laguna Hills	Gracie Jiu-Jitsu Laguna Hills		no w key
+30	CA	Laguna Hills	Joker's MMA	http://www.jokersmma.com/	override blanks it
+31	CA	Los Angeles	Alliance Jiu Jitsu Los Angeles	https://alliancejiujitsusla.com	override blanks it
+32	CA	Los Angeles	Bang Bang Power Fit	http://bangbangpowerfit.com/	override blanks it
+33	CA	Los Angeles	Hollywood BJJ		no w key
+34	CA	Los Angeles	Independent Jiu-Jitsu	https://www.independentjiujitsu.co/calendar	override blanks it
+35	CA	Los Angeles	Uactp		no w key
+36	CA	Merced	Merced Academy of Jiu Jitsu		no w key
+37	CA	Modesto	MMA Cardio Fitness Center		no w key
+38	CA	Monterey	Gracie Jiu-Jitsu Monterey		no w key
+39	CA	Murrieta	Rise Jiu Jitsu Academy	https://risejiujitsumurrieta.com	override blanks it
+40	CA	Nipomo	Gracie Jiu-Jitsu Nipomo		no w key
+41	CA	Oakhurst	Kihon Traditional MMA		no w key
+42	CA	Paso Robles	GB Paso Robles	https://gbpasorobles.com/	override blanks it
+43	CA	Redlands	10th Planet Redland	http://www.10thplanetredlands.com	override blanks it
+44	CA	Redlands	Pinnacle Mixed Martial Arts, Inc.		no w key
+45	CA	Ridgecrest	Flawless Victory MMA	http://www.fvmma.com/	override blanks it
+46	CA	Riverside	Academy Of Striking & Grappling	http://www.asgfacility.com/	override blanks it
+47	CA	Sacramento	Next Generation MMA & Fitness		no w key
+48	CA	San Diego	Alliance Jiu Jitsu San Diego	https://alliancejiujitsusandiego.com	override blanks it
+49	CA	San Francisco	Ralston Gracie Jiu Jitsu	http://www.ralstongracie.com	override blanks it
+50	CA	San Jose	I M C Survival Center	http://www.imcsurvivalcenter.com/	override blanks it
+51	CA	San Jose	Knoxx Martial Arts and Fitness	https://knoxxgym.com	override blanks it
+52	CA	Santa Clarita	Gracie Jiu-Jitsu Santa Clarita		no w key
+53	CA	Santa Cruz	Gracie Jiu-Jitsu Santa Cruz		no w key
+54	CA	Simi Valley	Watts Brazilian Jiu-Jitsu & Muay Thai Academy	http://www.wattsbjj.com/	override blanks it
+55	CA	Solvang	GB Santa Ynez Valley		no w key
+56	CA	Stanford	Stanford BJJ		no w key
+57	CA	Stanton	DE LA O Jiu-Jitsu	http://delaojiujitsu.com/	override blanks it
+58	CA	Stockton	Andre de Freitas Brazilian Jiu-Jitsu / BJJ Stockton CA 95210	http://andredefreitasbjj.com/index.html	override blanks it
+59	CA	Stockton	Ares BJJ Stockton	http://www.aresbjjstockton.com	override blanks it
+60	CA	Stockton	Shingu Fighter	http://www.shingufighter.com/	override blanks it
+61	CA	Sutter Creek	Underground MMA and Amador gym and fitness		no w key
+62	CA	Torrance	10th Planet Torrance	https://www.darkartsacademy.net	override blanks it
+63	CA	Torrance	GB Redondo Beach		no w key
+64	CA	Twentynine Palms	The Agoge		no w key
+65	CA	Vacaville	Rodrigo Cardoso Brazilian Jiu-Jitsu Academy	https://rodrigocardosoacademy.com/	override blanks it
+66	CA	Vallejo	Gracie Jiu-Jitsu Vallejo		no w key
+67	CA	Ventura	GB Ventura		no w key
+68	CA	Ventura	Rock And Roll Fight Company	https://rocknrollfightcompany.com/	override blanks it
+69	CA	Visalia	Outlaw MMA & Fitness	http://outlaw559gym.com/	override blanks it
+70	CA	Vista	Gracie Jiu-Jitsu Vista		no w key
+71	CA	West Sacramento	Buena Vida Jiu Jitsu Academy		no w key
+72	CA	Whittier	Gracie Jiu-Jitsu Whittier		no w key
+73	CA	Woodland Hills	Gracie Jiu-Jitsu Woodland Hills		no w key
+74	CA	Woodland Hills	ZR Brazilian Jiu-jitsu Thousand Oaks / BJJ Thousand Oaks CA 91362	http://zrwoodlandhills.com/index.html	override blanks it
+75	CA	Yucaipa	BloodSpillerBJJ & Caveirinha Jiu Jitsu Academy	http://www.cjjfsocal.com/	override blanks it
+76	TX	Abilene	Revolutionary Fitness & MMA	http://www.revfitmma.com/	override blanks it
+77	TX	Adkins	Gracie Jiu-Jitsu Adkins		no w key
+78	TX	Allen	Checkmat BJJ Allen - Texas		no w key
+79	TX	Alvin	Submission Boxing Academy		no w key
+80	TX	Arlington	Independent Brazilian Jiu Jitsu, Arlington		no w key
+81	TX	Austin	Austin Fitness Martial Arts	https://www.afmatx.com/	override blanks it
+82	TX	Austin	Austin Mixed Martial Arts	https://www.austinmixedmartialarts.com/	override blanks it
+83	TX	Austin	Fight Factory Austin	https://fightfactoryaustin.com/	override blanks it
+84	TX	Austin	Austin Fitness Martial Arts - Now is THE VOID MArtial Arts	http://www.austinfitnessmartialarts.com	override blanks it
+85	TX	Austin	Brazilian Fight Factory	http://www.brazilianfightfactory.com/	override blanks it
+86	TX	Austin	GB Dripping Springs		no w key
+87	TX	Austin	GB Westlake		no w key
+88	TX	Bedford	Carlos Machado Jiu-Jitsu Mid Cities	https://carlosmachadojiujitsumidcities.com/Home/Offer/	override blanks it
+89	TX	Big Spring	Warlord MMA		no w key
+90	TX	Boerne	Grind House Training Facility	http://www.grindhousetraining.com/	override blanks it
+91	TX	Burleson	GB Burleson	https://www.gbburleson.com	override blanks it
+92	TX	Carrollton	Gracie Barra Carrollton	https://www.gbcarrollton.com	override blanks it
+93	TX	Carrollton	Trainers Elite	http://www.trainerselite.net/	override blanks it
+94	TX	Cedar Park	GKX Martial Arts	http://www.gkxtreme.com/	override blanks it
+95	TX	Conroe	EnergyFIT Mixed Martial Arts & Fitness	http://energyfitacademy.com/	override blanks it
+96	TX	Conroe	Gracie Humaita Conroe	https://www.gymconroe.com/	override blanks it
+97	TX	Corinth	Jiu Jitsu Tech Mix martial arts and fitness	https://jiujitsutechofcorinth.com	override blanks it
+98	TX	Corpus Christi	Renzo Gracie	http://www.renzogracietx.com/	override blanks it
+99	TX	Corpus Christi	South texas fight academy		no w key
+100	TX	Corpus Christi	Xtreme MMA	http://www.xtrememmabjj.com/	override blanks it
+101	TX	Dallas	144 Academy Jiu Jitsu/Self-Defense/Fitness		no w key
+102	TX	Deer Park	Atos Jiu-Jitsu Houston	http://www.atoshoustonbjj.com	override blanks it
+103	TX	Denton	Texas Elite MMA	http://www.teamgibson.net/	override blanks it
+104	TX	Edinburg	Amazonas MMA & Fitness Academy	https://amazonasmma.com/	override blanks it
+105	TX	El Paso	El Paso Jiujitsu / Jiu-Jitsu El Paso TX 79936	http://www.elpjiujitsu.com/	override blanks it
+106	TX	El Paso	Warriors Lair MMA		no w key
+107	TX	Fort Worth	Evolve BJJ	https://www.evolvebjj.com/	override blanks it
+108	TX	Fort Worth	Powerhouse MMA Academy		no w key
+109	TX	Fort Worth	TX Black Belt Academy Ft Worth	http://www.txbba-fortworth.com/	override blanks it
+110	TX	Fresno	GB Sienna		no w key
+111	TX	Greenville	Chop Shop MMA	http://www.chopshopmma.com/	override blanks it
+112	TX	Highland Village	Gracie Jiu-Jitsu Highland Village		no w key
+113	TX	Hurst	Collins Martial Arts	http://www.collinsmartialarts.com/	override blanks it
+114	TX	Killeen	Strike And Submit Martial Arts And Fitness		no w key
+115	TX	Killeen	Terra Leon Brazilian Jiu Jitsu		no w key
+116	TX	Lakeway	Applied Sports MMA Family Fitness Gym		no w key
+117	TX	Laredo	Sangue Novo FT / Gallos Prietos Jiu Jitsu	https://sanguenovojj.com/	override blanks it
+118	TX	Laredo	Sangue Novo Brazilian Jiu-Jitsu Academy		no w key
+119	TX	Longview	Longview BJJ	https://longviewbjj.com	override blanks it
+120	TX	Longview	Pure Jiu-Jitsu Longview	https://pjlvtx.com/	override blanks it
+121	TX	Lubbock	Victory Combat Sports Academy	https://www.victorycombatsportsacademy.com/contact	override blanks it
+122	TX	McKinney	Combat Base TX / Shebaro Jiu Jitsu / We Defy HQ	https://shebarojiujitsu.com	override blanks it
+123	TX	McKinney	GB McKinney		no w key
+124	TX	Mesquite	KO Empire Fight Academy / BJJ Mesquite TX 75149	https://www.koempirefa.com/	override blanks it
+125	TX	Midland	Midland BJJ Texas	https://midlandbjjtx.com	override blanks it
+126	TX	Mission	Premier Martial Arts-Mission	http://www.missiontxmartialarts.com/	override blanks it
+127	TX	New Braunfels	Gracie Jiu-Jitsu New Braunfels		no w key
+128	TX	New Braunfels	Unconventional Performance & Training	http://www.rodrigopinheirobjj.com/	override blanks it
+129	TX	North Richland Hills	Peak Performance Brazilian Jiu-Jitsu	http://www.peakbjj.com/	override blanks it
+130	TX	Pearland	Gracie Jiu-Jitsu Pearland		no w key
+131	TX	Pecos	Sahuque Brazilian Jiu-jitsu		no w key
+132	TX	Rhome	Spartan Fit MMA		no w key
+133	TX	Richardson	ASL JunSur Martial Arts	https://www.asljiujitsu.com/	override blanks it
+134	TX	Rockwall	CAYA Martial Arts	http://www.cayamartialarts.com/	override blanks it
+135	TX	Salado	Gracie Jiu-Jitsu Salado		no w key
+136	TX	San Antonio	American Kickboxing Academy Texas	http://www.akatexas.com/	override blanks it
+137	TX	San Antonio	GB Alamo Ranch		no w key
+138	TX	San Antonio	JBSA BJJ Open Mat		no w key
+139	TX	San Antonio	Martial Arts Academy Of San Antonio	http://www.martialartssa.com/	override blanks it
+140	TX	San Benito	Benavides Mixed Martial Arts	http://www.benavidesmma.com/	override blanks it
+141	TX	San Benito	Garcia Brazilian Jiu-Jitsu		no w key
+142	TX	San Benito	South Texas Grappling Team	https://southtexasgrappling.com	override blanks it
+143	TX	Seguin	Gracie Jiu-Jitsu Seguin		no w key
+144	TX	Southlake	Lucky Jiu-Jitsu and Fitness Club	https://luckybjj.com	override blanks it
+145	TX	Spring	Katana Jiu-Jitsu Academy	http://katanajiu-jitsuacademy.com	override blanks it
+146	TX	Spring Branch	GB Spring Branch		no w key
+147	TX	Springtown	Spartan Fit MMA - Springtown TX		no w key
+148	TX	Tomball	Defenders Martial Arts Academy	http://www.defendersmaa.com	override blanks it
+149	TX	Tomball	McCoy's Brazilian Jiu Jitsu & MMA - Tomball	http://mccoysmma.com/	override blanks it
+150	TX	Weatherford	Gracie Jiu-Jitsu Weatherford		no w key

@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+7	CA	Bell	Team Mata Brazilian Jiu Jitsu		no w key
+17	CA	Fountain Valley	Piranha Jiu Jitsu		no w key
+27	CA	Irvine	Valhalla Jiu Jitsu	http://www.valhallabjj.com/	override blanks it
+37	CA	Modesto	MMA Cardio Fitness Center		no w key
+47	CA	Sacramento	Next Generation MMA & Fitness		no w key
+57	CA	Stanton	DE LA O Jiu-Jitsu	http://delaojiujitsu.com/	override blanks it
+67	CA	Ventura	GB Ventura		no w key
+77	TX	Adkins	Gracie Jiu-Jitsu Adkins		no w key
+87	TX	Austin	GB Westlake		no w key
+97	TX	Corinth	Jiu Jitsu Tech Mix martial arts and fitness	https://jiujitsutechofcorinth.com	override blanks it
+107	TX	Fort Worth	Evolve BJJ	https://www.evolvebjj.com/	override blanks it
+117	TX	Laredo	Sangue Novo FT / Gallos Prietos Jiu Jitsu	https://sanguenovojj.com/	override blanks it
+127	TX	New Braunfels	Gracie Jiu-Jitsu New Braunfels		no w key
+137	TX	San Antonio	GB Alamo Ranch		no w key
+147	TX	Springtown	Spartan Fit MMA - Springtown TX		no w key

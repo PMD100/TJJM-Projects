@@ -1,0 +1,25 @@
+# ON-verify-03 verdicts
+city	name_confirmed	url	address	verdict	note
+Kitchener	Octa BJJ Kitchener	octabjjkitchener.com	Unit 5-6, 248 Stirling Ave S, Kitchener, ON N2G 4L1	CONFIRMED	Octa BJJ chain location
+Kitchener	Return of the Dragon	rotdma.com	900 Guelph St #108, Kitchener, ON N2H 5Z6	CONFIRMED	Multi-discipline gym, has BJJ class
+Kitchener	Olympus Martial Arts	olympusmma.com	50 Ottawa St S Unit 201, Kitchener, ON N2G 3S7	CONFIRMED	MMA gym, BJJ program confirmed
+Cambridge	Grand River BJJ	grandriverbjj.ca	26-1 Main Street, Cambridge, ON	CONFIRMED	Site shows 2 addrs; also lists 55 Dickson St
+Cambridge	Octa BJJ Cambridge	cambridge.octabjj.com	90 Pinebush Rd, Cambridge, ON N1R 7P5	CONFIRMED	Octa BJJ chain location
+Cambridge	Resolve BJJ Academy	resolvebjjacademy.com	13 Matos Segedin Dr, Leamington, Cambridge NZ 3495	WRONG-PLACE	Cambridge New Zealand, not Ontario; fb resolvebjjnz
+Cambridge	MAS Academy of Martial Arts	masthaiboxing.com	695 Bishop Street North, Cambridge, ON N3H 2K8	CONFIRMED	No URL given; found via search; Muay Thai school w BJJ
+Guelph	Royal City BJJ	royalcitybjj.com	20 Cowan Place Unit 3, Guelph, ON N1G 0C1	CONFIRMED	
+Guelph	Omerta BJJ	omertabjj.com	101-121 Wyndham St N, Guelph, ON N1H 4E9	CONFIRMED	NoGi BJJ academy
+Sarnia	The Butcher Shop	butchershopjiujitsu.ca	Unit 7, 110 East Street S, Sarnia, ON N7T 3R1	CONFIRMED	BJJ and kickboxing academy
+Sarnia	Forge Training Centre	forgetrainingcentre.com	1880 London Line, Sarnia, ON N7W 1B3	CONFIRMED	BJJ black belt Rowan Cunningham teaches
+Sarnia	META Training Centre	metatrainingcentre.com		EMPTY	Blank body on root and www; retried once
+Windsor	Caique Jiu-Jitsu Academy Windsor Essex	cjjwe.com	11700 County Rd 42, Tecumseh, ON N8N 2M1	CONFIRMED	Actual city Tecumseh, not Windsor proper
+Windsor	APEX MMA	apexmma.ca	1529 Highland Ave, Windsor, ON	CONFIRMED	Carlson Gracie Jiu Jitsu program
+Windsor	META BJJ Windsor	metabjj.ca	956 McDougall St, Windsor, ON N9A 3X3	CONFIRMED	
+Windsor	Maximum Training Centre	mtcwindsor.ca	1929 Provincial Rd, Windsor, ON N8W 5V7	CONFIRMED	MMA gym, BJJ classes offered
+Ajax	Karma Jiu Jitsu	karmajiujitsu.com	487 Westney Rd Unit 4, Ajax, ON L1S 4E5	CONFIRMED	
+Ajax	Mamute Martial Arts	mamutemaa.com	907 Simcoe St N, Oshawa, ON L1G 4W1	CONFIRMED	Actually in Oshawa, not Ajax; addr differs from input
+Ajax	Elemental Jiu Jitsu	elementaljiujitsu.com	845 Westney Road South Unit 4, Ajax, ON L1S 3M4	CONFIRMED	
+Ajax	Moyo Jiu-Jitsu Academy	moyojiujitsu.com	55 Mills Rd Unit 6, Ajax, ON L1S 2H2	CONFIRMED	
+Whitby	DNA Brazilian Jiu Jitsu	dnabjj.com	2001 Thickson Road South Unit 15, Whitby, ON	CONFIRMED	
+Bowmanville	Kalsamrit Martial Arts	kalsamrit.com		EMPTY	Blank body on root and www; retried once
+Barrie	Submission Arts Academy	submissionartsacademy.com	112 Commerce Park Dr, Barrie, ON L4N 8W8	CONFIRMED	

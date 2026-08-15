@@ -1,0 +1,89 @@
+id	region	city	name	stored_w	why_blank
+1	AL	Athens	Athens Jiu Jitsu	https://www.athensjiujitsu.info/	override blanks it
+2	FL	Aventura	Marcus Aurelio Jiu Jitsu Academy	http://www.maximusmartialarts.com/	override blanks it
+3	FL	Boca Raton	GB Boca Raton	http://braziliantopteamflorida.com/	override blanks it
+4	FL	Boca Raton	Gracie Jiu-Jitsu Boca Raton		no w key
+5	FL	Boca Raton	R2F Boxing & MMA Fitness Studio		no w key
+6	FL	Boynton Beach	Xcell Jiu Jitsu	https://www.xcelljiujitsu.com/	override blanks it
+7	FL	Bradenton	Champion Mma of Bradenton		no w key
+8	FL	Cape Coral	Brazilian Jiu Jitsu Academy Cape Coral		no w key
+9	FL	Cape Coral	Cali Style MMA	http://calistylemma.com/	override blanks it
+10	FL	Casselberry	Mata Leao BJJ/MMA Academy		no w key
+11	FL	Clearwater	Grady's Family Mixed Martial Arts	http://www.gradysmma.com	override blanks it
+12	FL	Coral Gables	Refit Academy - Coral Gables	http://www.refitacademycoralgables.com	override blanks it
+13	FL	Coral Springs	Real World M.M.A. Training Center		no w key
+14	FL	Crestview	GB Crestview		no w key
+15	FL	Dania Beach	Marcelo Meleiro BJJ – Nova Uniao South Florida	http://www.novauniaosouthflorida.com/	override blanks it
+16	FL	Davie	GB Davie		no w key
+17	FL	DeBary	Complete MMA Fitness		no w key
+18	FL	DeLand	West Volusia Academy Of Mixed Martial Arts	http://theacademyofmma.com/	override blanks it
+19	FL	Deerfield Beach	Burns Bros Jiu Jitsu	https://burnsbrosjiujitsu.com/	override blanks it
+20	FL	Delray Beach	Carlson Gracie Manny Soares	https://mannysoaresbjj.com	override blanks it
+21	FL	Destin	Destin Academy of Mixed Martial Arts		no w key
+22	FL	Fort Lauderdale	Renzo Gracie Fort Lauderdale	https://www.renzogracieftlauderdale.com/	override blanks it
+23	FL	Fort Myers	Fight Zone MMA	http://www.fightzonefl.com/	override blanks it
+24	FL	Gainesville	Gainesville BJJ Florida	https://gainesvillebjjfl.com	override blanks it
+25	FL	Gulf Breeze	Gulf Breeze Jiu Jitsu	https://gulfbreezejiujitsu.com/	override blanks it
+26	FL	Hallandale Beach	Gracie Barra Hallandale Beach	http://gbhallandale.com	override blanks it
+27	FL	Hialeah	GB Hialeah		no w key
+28	FL	Hialeah	Gladiator Sports Fitness MMA		no w key
+29	FL	Hialeah	Paladin MMA Academy		no w key
+30	FL	Hialeah	Round 5 MMA and Jiu-Jitsu		no w key
+31	FL	Indian Harbour Beach	BLTeam Brazilian Jiu-Jitsu and Muay Thai Academy	https://blteam1.com/	override blanks it
+32	FL	Inverness	Agogi Academy of Combatives	http://agogiac.com/	override blanks it
+33	FL	Jacksonville	Alpha Dogs Martial Arts	https://alphadogsmartialarts.com/	override blanks it
+34	FL	Jupiter	Armory Training Center		no w key
+35	FL	Kendale Lakes	The Hidden Lotus		no w key
+36	FL	Key Biscayne	Alliance Jiu Jitsu	http://www.alliancekb.com	override blanks it
+37	FL	Lake City	Hardkore MMA & Jiu-Jitsu		no w key
+38	FL	Lake Worth	Combat Club Lake Worth	https://combatclublakeworth.com/	override blanks it
+39	FL	Largo	Gracie Jiu-Jitsu Largo		no w key
+40	FL	Lauderhill	South Florida Fight Club	http://www.sffc.tv/	override blanks it
+41	FL	Melbourne	Master Lowell's MMA Academy	https://jlmma.com/	override blanks it
+42	FL	Miami	Teknica MMA	https://www.teknicamartialarts.com/	override blanks it
+43	FL	Miami	Champion Martial Arts	http://www.judochampion.com/	override blanks it
+44	FL	Miami	Miami Jiu Jitsu		no w key
+45	FL	Miami	Team Alpha Miami		no w key
+46	FL	Miami Beach	Beach Martial Arts		no w key
+47	FL	Miami Beach	Capital Jiu Jitsu		no w key
+48	FL	Naples	Gracie Barra – Naples	http://www.graciebarranaples.com/	override blanks it
+49	FL	North Miami Beach	Gracie Jiu-Jitsu North Miami Beach		no w key
+50	FL	North Palm Beach	Gracie Jiu-Jitsu North Palm Beach		no w key
+51	FL	Ocala	GTK Academy of Martial Arts	https://gtkacademy.com/	override blanks it
+52	FL	Ocala	Ocala Brazilian Jiu Jitsu Academy		no w key
+53	FL	Ocoee	Gracie Jiu-Jitsu Ocoee		no w key
+54	FL	Orange City	Orange City Academy Of Mixed Martial Arts	http://theacademyofmma.com/	override blanks it
+55	FL	Orange City	USD & MMA Fitness	http://www.mmagetfit.com/	override blanks it
+56	FL	Orlando	Alliance Jiu Jitsu Orlando	https://alliancejiujitsuorlando.com	override blanks it
+57	FL	Orlando	Ronin Training Center Orlando	https://www.roninorlandofl.com/	override blanks it
+58	FL	Orlando	GB Palm Coast		no w key
+59	FL	Orlando	Gracie Jiu-Jitsu Orlando		no w key
+60	FL	Ormond Beach	Trident Jiu Jitsu		no w key
+61	FL	Oxford	Robson Moura Jiu-Jitsu	http://www.usajujitsu.net/	override blanks it
+62	FL	Pensacola	Team Remedy	https://teamremedymma.com/	override blanks it
+63	FL	Pine Hills	Team Gladiator MMA & Fitness		no w key
+64	FL	Plantation	Kumite Martial Arts	http://www.kumitemartialarts.com/	override blanks it
+65	FL	Port Orange	Fight Sports Daytona	https://www.fightsportsdaytona.com/freetrial	override blanks it
+66	FL	Sanford	Cogito Jiu Jitsu	http://cogitojiujitsu.com/	override blanks it
+67	FL	Sarasota	BJJ Academy Of Sarasota (wbjja)	http://www.wbjja.com/	override blanks it
+68	FL	Sebring	GB Sebring		no w key
+69	FL	St. Augustine	GB Saint Augustine	https://gbsaintaugustine.com/	override blanks it
+70	FL	St. Cloud	Full Circle MMA	http://www.nucfl.com/	override blanks it
+71	FL	St. Petersburg	Elite Training Center	http://www.elitetraininginc.com/	override blanks it
+72	FL	St. Petersburg	Synergy Martial Arts and Fitness	http://synergymartialarts.fitness/	override blanks it
+73	FL	Stuart	Fist Factory	http://www.thefistfactory.com/	override blanks it
+74	FL	Stuart	GB Stuart		no w key
+75	FL	Sunrise	American Tigers Martial Arts	https://americantigers.com/	override blanks it
+76	FL	Tarpon Springs	New Port Richey Jiu-jitsu Academy	http://nprbjj.com/	override blanks it
+77	FL	Vero Beach	American Top Team – Vero Beach	http://www.attverobeach.com/	override blanks it
+78	FL	Vero Beach	Gracie Martial Arts – Vero Beach	http://www.graciemartialartsverobeach.com	override blanks it
+79	FL	Vero Beach	Renato Tavares Assoc HQ	http://www.legacymmausa.com/	override blanks it
+80	FL	West Melbourne	GB Melbourne		no w key
+81	FL	West Palm Beach	GB West Palm Beach	http://gbwestpalmbeach.com/	override blanks it
+82	FL	West Palm Beach	Hands Down Martial Arts	http://www.wpbmma.com/	override blanks it
+83	FL	Weston	Vprok MMA Academy	http://www.vprokmma.com/United_States.html	override blanks it
+84	FL	Wildwood	USA Jiu-Jitsu	http://www.usajujitsu.net/	override blanks it
+85	NC	Wilmington	Ethos BJJ	https://ubjjnc.com/	override blanks it
+86	NL	Labrador City	Labrador City BJJ	https://www.novauniao.ca/lab-city	dead link, no override
+87	QC	Laval	Action & Reaction MMA	https://actionreactionmma.ca	override blanks it
+88	TX	Bedford	Ironside Martial Arts	http://www.ironsidemartialarts.com/	override blanks it

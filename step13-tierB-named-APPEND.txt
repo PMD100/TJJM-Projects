@@ -1,0 +1,131 @@
+{%- comment -%}
+  APPENDED 7 Aug 2026 - Tier B, piece 1: 109 dead links in NEVER-CURATED regions.
+
+  These are records carrying a REAL SCHOOL NAME whose domain is simply gone. They are
+  separate from the 174 city-stub records in the same regions, which are deliberately
+  NOT touched here - for those the open question is whether the LISTING should exist,
+  not whether to blank a URL, and that is being handled as region-by-region rebuilds.
+
+  Verified server-side, DNS first, same method as the Tier A block above.
+  Result across 116 checked: 109 dead, 3 live-and-correct (NOT touched), 4 unresolved
+  (NOT touched). 94 percent dead - against 71 percent in the curated states.
+  That gap is the clearest evidence in this whole audit that the never-curated regions
+  are not merely thin, they are substantially rotted.
+
+  Zero wrong-entity links were found here, which is worth recording: squatters buy
+  lapsed domains that still carry traffic. These regions never had any.
+
+  All 109 names checked for uniqueness across the corpus before adding - an override
+  matches on NAME ALONE. None collide.
+
+  Counts by region: AB 3  BC 6  DC 3  DE 3  HI 5  IA 4  ID 5  KS 3  ME 6  MN 5  MS 3  NB 2  ND 2  NE 3  NH 3  NM 3  NS 4  ON 7  PE 4  QC 10  RI 2  SC 4  SD 3  TN 8  UT 3  VT 2  WY 3
+{%- endcomment -%}
+~101 Academy Jiu Jitsu|~
+~Alliance Jiu Jitsu Calgary|~
+~Phoenix Martial Arts Club|~
+~Poderoso Jiu Jitsu|~
+~Mission BC BJJ|~
+~Pinnacle MMA|~
+~Alliance Jiu Jitsu Vancouver|~
+~SBG Victoria|~
+~Van Isle BJJ|~
+~Capital City BJJ|~
+~Capitol Hill BJJ|~
+~DC BJJ Academy|~
+~Dover AFB BJJ|~
+~First State BJJ|~
+~Milford BJJ Delaware|~
+~BJ Penn MMA|~
+~Purebred Jiu-Jitsu|~
+~Maui BJJ Academy|~
+~Kona BJJ|~
+~Fighting Arts Academy Hawaii|~
+~Burlington BJJ Iowa|~
+~Alliance Jiu Jitsu Iowa|~
+~Clinton BJJ Iowa|~
+~Fighting Gravity Jiu Jitsu|~
+~Lewiston ID BJJ|~
+~Meridian BJJ Idaho|~
+~Snake River MMA|~
+~Authentic BJJ Idaho|~
+~Alliance Jiu Jitsu Twin Falls|~
+~Alliance Jiu Jitsu Lawrence|~
+~Manhattan KS BJJ|~
+~Pittsburg KS BJJ|~
+~Augusta BJJ Maine|~
+~Maine BJJ|~
+~Seacoast Brazilian Jiu-Jitsu|~
+~Brunswick BJJ Maine|~
+~Lewiston-Auburn BJJ|~
+~Portland BJJ Maine|~
+~Alliance Jiu Jitsu Minnesota|~
+~Checkmat S. Minneapolis|~
+~Fargo BJJ MN side|~
+~Akagi Jiu-Jitsu|~
+~TC Martial Arts|~
+~Columbus MS BJJ|~
+~Greenville BJJ MS|~
+~Southern Combat Arts|~
+~Victory Jiu Jitsu Dieppe|~
+~Woodstock NB BJJ|~
+~Jamestown BJJ ND|~
+~Prairie Jiu Jitsu|~
+~Columbus NE BJJ|~
+~Husker Combat Club|~
+~Norfolk NE BJJ|~
+~Lebanon BJJ NH|~
+~Alliance Jiu Jitsu NH|~
+~Seacoast BJJ NH|~
+~Duke City BJJ|~
+~Las Vegas NM BJJ|~
+~New Mexico BJJ|~
+~Team Fortitude NS|~
+~Atlantic BJJ|~
+~Shelburne BJJ NS|~
+~Cape Breton BJJ|~
+~Valens Jiu Jitsu Academy|~
+~Alliance Jiu Jitsu London Ontario|~
+~South Mississauga Jiu Jitsu|~
+~Alliance Jiu Jitsu Ottawa|~
+~Stratford BJJ Ontario|~
+~Four-Eleven Brazilian Jiu Jitsu|~
+~Woodstock BJJ Ontario|~
+~PEI Brazilian Jiu Jitsu|~
+~Stratford BJJ PEI|~
+~Island Grappling Club|~
+~Summerside BJJ PEI|~
+~Patenaude Martial Arts Gatineau|~
+~Action & Reaction MMA|~
+~Levis BJJ|~
+~Alliance Jiu Jitsu Montreal|~
+~Renzo Gracie Montreal|~
+~Santos Brothers BJJ Montreal|~
+~Alliance Jiu Jitsu Quebec City|~
+~Royal Jiu-Jitsu Quebec|~
+~Sept-Iles BJJ|~
+~Trois-Rivieres BJJ|~
+~Middletown BJJ RI|~
+~Ricardo Cavalcanti BJJ RI|~
+~Alliance Jiu Jitsu Easley|~
+~Florence BJJ SC|~
+~Hilton Head BJJ|~
+~American Judo and Jiu-Jitsu|~
+~Black Hills BJJ|~
+~Joku Dojo|~
+~Watertown BJJ SD|~
+~Maryville Jiu-Jitsu|~
+~Armory Jiu-Jitsu Academy Chattanooga|~
+~Columbia BJJ Tennessee|~
+~Profectus Jiu-Jitsu Hendersonville|~
+~Jackson BJJ Tennessee|~
+~Tri-Cities BJJ|~
+~Lebanon BJJ Tennessee|~
+~Alliance Jiu Jitsu Tennessee|~
+~Alliance Jiu Jitsu Utah|~
+~SLC BJJ Academy|~
+~Alliance Jiu Jitsu St. George|~
+~Green Mountain BJJ|~
+~White River BJJ|~
+~Wyoming Martial Arts|~
+~Alliance Jiu Jitsu Wyoming|~
+~Sheridan BJJ Wyoming|~

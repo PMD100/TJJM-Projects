@@ -1,0 +1,21 @@
+result	id	name	proposed_url	better_url	note
+PASS	3	Gracie Jiu-Jitsu Aurora	https://www.graciebjjcolorado.com/		Live Gracie Certified Training Center site listing 601 Salida Way Suite B6, Aurora CO 80011.
+PASS	11	719 Fight Team MMA	https://www.facebook.com/719FightTeamMma/		Page details give 2551 Airport Rd #110, Colorado Springs CO 80909 and list BJJ among classes.
+PASS_WITH_CAVEAT	29	Kingsnake Jiu-Jitsu	https://www.facebook.com/p/Kingsnake-Jiu-Jitsu-100068959263196/	https://kingsnakebjj.com/	1343 S. Garfield Ave, Loveland CO 80537, but it is an appointment-only private-lesson micro-gym.
+PASS_WITH_CAVEAT	30	Ground Zero Roaring Fork Valley BJJ	https://ground-zero-roaring-fork.square.site/		Real BJJ/kids BJJ class pages, but address given is 413 9th St, Glenwood Springs, not New Castle.
+PASS	31	Rocky Mountain Jiu Jitsu	https://www.instagram.com/rockymountainjj/		IG bio gives 425 W 115th Ave Suite 4, Northglenn CO 80229, matching the Northglenn city business listing; 462 posts.
+PASS	40	Fight to Win Lafayette Jiu -Jitsu	https://www.roycegraciebroussard.com/		817 Albertson Pkwy Suite E, Broussard LA, 337-362-3083; site contact email is FightToWinLafayette@gmail.com, confirming the rebrand.
+PASS_WITH_CAVEAT	41	Louisiana Judo. Louisiana Muay Thai	https://www.louisianajudo.com/		222 Burgess Dr, Broussard LA, 337-256-2322, but only Judo and Muay Thai classes are named; no BJJ.
+PASS	51	Lake Area Brazilian Jiu-Jitsu	https://www.facebook.com/LABJJ/		6102 Common Street, Lake Charles LA 70607; BJJ/MMA page with a comment thread from four weeks ago.
+PASS_WITH_CAVEAT	59	Criterion Jiu Jitsu	https://www.facebook.com/people/Criterion-Jiu-Jitsu/100064091672810/		Ralph Gracie affiliate at 40017 LA-42, Prairieville LA 70769, but the page has only 15 followers and its linked criterionjiujitsu.com is dead.
+PASS	64	Gracie Stonewall Jiu Jitsu Academy	https://www.facebook.com/Gatorpitbjj/		671 Hwy 171 Suite J, Stonewall LA 71078, phone 318-840-5105, with current kids/adults Gracie class schedule.
+PASS	70	Clay Jiu Jitsu	https://www.facebook.com/clayjiujitsu/		519 Lakehurst Rd, Browns Mills NJ 08015, described as a Brazilian Jiu Jitsu school for adults and children.
+PASS_WITH_CAVEAT	76	Jaguar BJJ	https://www.instagram.com/jaguarbrazilianjiujitsu/	https://jaguarbjj.com/	IG has only 3 posts/43 followers, but its bio address 518 Old Post Rd, Edison NJ and phone 732-484-9933 match the school's own live jaguarbjj.com site listing black-belt coaches Radji Bryson-Barrett and Jorge Vega.
+PASS	77	Golden Eagle Judo & Jiu-Jitsu	https://www.facebook.com/Goldeneaglejudo/		313 1st Ave, Elizabeth NJ 07206, phone (908) 313-8527, teaching Judo and Jiu-Jitsu.
+PASS	106	Rolles Gracie Academy - Long Branch Jiu Jitsu & Muay Thai	https://rrmartialarts.com/		Rebrand confirmed: RR Martial Arts sits at 167 Locust Ave, West Long Branch NJ 07764 with phone (203) 428-1987, the same address and phone listed for Rolles Gracie Academy Long Branch.
+PASS	120	Lucas Martial Arts	https://www.facebook.com/LucasMartialArts/		706 W Main St, Duncan OK 73533, phone (432) 553-0365, with a posted Kids and Adult Brazilian Jiu-Jitsu schedule; not the Bedford IN school.
+PASS	123	Kudos	https://www.facebook.com/p/Kudos-Jiujitsu-100063489492758/		2000 W Danforth Rd Suite 126, Edmond OK 73003, phone (405) 823-4629, Royce Gracie black belt Wade Smittle.
+PASS	126	Shah Mat Brazilian Jiu Jitsu	https://www.facebook.com/ShahMatBJJ/		213 W Randolph, Enid OK 73701, phone (580) 603-1201, self-described as Enid's only BJJ academy.
+PASS	137	Clinch Martial Arts Academy - Owasso	https://www.facebook.com/teamclinch/		102 S Atlanta St, Owasso OK 74055, Jean Jacques Machado affiliated BJJ school posting current gi/no-gi class times.
+PASS	139	Oklahoma Combat Sports / KORE BJJ	https://www.facebook.com/ocskorebjj/		Page states the gym is at 1301 S. Broadway, Poteau OK, offering Brazilian Jiu Jitsu, kickboxing and MMA.
+PASS	143	Ryan Brazilian Jiu Jitsu	https://www.facebook.com/Ryanbrazilianjiujitsu/		216 S Trenton Ave, Tulsa OK 74120, phone (918) 510-8745, email ryanbjjtulsa@gmail.com; not the Roseburg OR school.

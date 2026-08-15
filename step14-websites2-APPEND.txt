@@ -1,0 +1,16 @@
+{%- comment -%}
+  APPENDED 7 Aug 2026 - region rebuild batch 1 (Maine, Arkansas, Ontario).
+
+  These 4 are NOT blankings. They are city-stub records that turned out to be REAL
+  SCHOOLS with a broken URL, found during the Ontario rebuild. Blanking them would
+  have been wrong - the school exists, only the stored domain is bad:
+    Cambridge BJJ  stored the .com; the school is on the .ca
+    Oshawa BJJ     stored oshawawbjj.com - a literal typo, an extra w
+    Windsor BJJ    school trades at windsorbrazilianjiujitsu.com
+    Barrie BJJ     school trades at 705bjj.com
+  All four verified by reading the school's own page body.
+{%- endcomment -%}
+~Cambridge BJJ|https://cambridgebjj.ca/~
+~Oshawa BJJ|https://oshawabjj.com/~
+~Windsor BJJ|https://windsorbrazilianjiujitsu.com/~
+~Barrie BJJ|https://705bjj.com/~

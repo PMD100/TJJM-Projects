@@ -1,0 +1,37 @@
+> Duplicate-name disambiguation, session of 13 Aug 2026. Built on top of theme KK (batch 7).
+>
+> WHY: tjjm-gym-websites* and tjjm-gym-addresses match on NAME ALONE, corpus-wide. 12 names
+> were carried by two or more LIVE records, so any override written for one would hit them all.
+> Two pairs were same-name-SAME-REGION, where a single suppression deletes both records while
+> the counts still reconcile. This blocks the repointing pass, which is bulk override work.
+>
+> METHOD: `n` cannot be rewritten in the legacy blob, so every rename is suppress-plus-add.
+> Each renamed record is re-added to tjjm-gyms-data-45 with its stored w and a preserved.
+>
+> ⚠️ SAME-REGION PAIRS: suppression matches by name WITHIN a region, so one entry kills both
+> copies. Those pairs must have BOTH copies renamed - you cannot rename just one. This makes
+> two suppression entries match two records each, so suppressed NAMES (13) and suppressed
+> RECORDS (15) diverge. The invariant is "stored - suppressed RECORDS == published".
+>
+> w and a are the values that render today. No website override exists for any of these 16
+> names, so rendered w equals stored w. The only address override is Infinite Jiu-Jitsu, whose
+> Phoenix record has NO stored `a` - that address is carried into the new record directly and
+> the now-orphaned override entry is removed from tjjm-gym-addresses.
+>
+> kind: SAME-REGION = both copies renamed under one suppression entry
+>       CROSS-REGION = one copy renamed, the other keeps the name
+old_name	new_name	city	s	kind	w	a	note
+Capital MMA & Elite Fitness	Capital MMA & Elite Fitness Fairfax	Fairfax	VA	SAME-REGION	https://www.capitalmma.com/fairfax/	3226 Old Pickett Rd	One business, three locations. The VA pair share a region so both are renamed under a single VA suppression. Takoma Park MD keeps the bare name and is untouched.
+Capital MMA & Elite Fitness	Capital MMA & Elite Fitness Sterling	Sterling	VA	SAME-REGION	https://www.capitalmma.com/loudoun-dulles/	23520 Overland Dr #164	Second VA location of the same business.
+Southern Maryland Martial Arts & Fitness	Southern Maryland Martial Arts & Fitness Bryans Road	Bryans Road	MD	SAME-REGION	https://smmafitness.com	3065 Marshall Hall Rd	One business two locations, both in MD. Both renamed because a single MD suppression kills both.
+Southern Maryland Martial Arts & Fitness	Southern Maryland Martial Arts & Fitness La Plata	La Plata	MD	SAME-REGION	https://smmafitness.com	140 Drury Dr	Second MD location of the same business.
+EchoValor Striking & MMA	EchoValor Striking & MMA Beaverton	Beaverton	OR	CROSS-REGION	http://www.echovalor.com	4370 SW Lloyd Ave	One business, two locations on one domain. Centralia WA keeps the bare name.
+Core Combat Sports	Core Combat Sports Louisville	Louisville	KY	CROSS-REGION	https://corelouisville.com		Distinct business from Core Combat Sports in Rockford IL (coremma.com). Suffix matches its own domain. No stored address.
+Carlson Gracie Jiu Jitsu	Carlson Gracie Jiu Jitsu Gainesville	Gainesville	FL	CROSS-REGION	https://www.carlsongraciegainesville.com/		Distinct from the Yuma AZ record, which has no website. Suffix matches its own domain. No stored address.
+Connection Rio Jiu-Jitsu Academy	Connection Rio Jiu-Jitsu Academy College Place	College Place	WA	CROSS-REGION		508 S College Ave	No website stored. Bend OR keeps the bare name and holds connectionriobjj.com.
+Evolution Jiu Jitsu	Evolution Jiu Jitsu Burlington	Burlington	WI	CROSS-REGION	https://facebook.com/EvolutionBJJ.Burlington	1104 Milwaukee Ave.	Distinct from Evolution Jiu Jitsu in Juneau AK (evojj.com). Suffix matches its own Facebook handle.
+Impact Martial Arts	Impact Martial Arts Harrison	Harrison	AR	CROSS-REGION	https://impactharrison.com/uncategorized/about/		Distinct from Impact Martial Arts in Oshkosh WI. Suffix matches its own domain. No stored address. URL is a deep WordPress path but is the stored value - preserved verbatim.
+Infinite Jiu-Jitsu	Infinite Jiu-Jitsu Phoenix	Phoenix	AZ	CROSS-REGION	https://www.infinitearizona.com/	4220 W Opportunity Way Ste 103	Distinct from Infinite Jiu-Jitsu in Rocklin CA. The address came from the name-keyed override and is stored directly here instead; the orphaned override entry is removed.
+Integrity Martial Arts	Integrity Martial Arts Moore	Moore	OK	CROSS-REGION	https://integrityma.ninja	1991 Tower Dr Suite E	Distinct from Integrity Martial Arts in Sydney NS.
+Logic Jiu Jitsu	Logic Jiu Jitsu Spanaway	Spanaway	WA	CROSS-REGION	https://logicjiujitsu.club	20020 20th Ave Ct E	Distinct from Logic Jiu Jitsu in Sacramento CA (logicbjj.com).
+Zombie Brazilian Jiu-Jitsu and MMA	Zombie Brazilian Jiu-Jitsu and MMA Allentown	Allentown	PA	CROSS-REGION	http://zombiebjjpa.com/	1801 Union Blvd h2	Distinct from the Abilene TX record (zombiebjj.com). Suffix matches its own domain. The trailing "h2" is literally in the stored address - preserved verbatim rather than guessed at.

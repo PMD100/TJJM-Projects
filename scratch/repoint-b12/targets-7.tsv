@@ -1,0 +1,17 @@
+id	region	city	name	stored_w	why_blank
+7	CO	Carbondale	Carbondale Training Center (Rising Crane)	http://www.risingcrane.net	override blanks it
+16	CO	Conifer	Conifer Jiu Jitsu & Fitness		no w key
+25	CO	Lakewood	Atos BJJ Lakewood	http://www.atosbjjlakewood.com	override blanks it
+34	CO	Woodland Park	Discipleship Jiu-Jitsu	https://discipleshipjiujitsu.com	override blanks it
+43	LA	Crowley	Gladiators Academy of Crowley	https://www.gladiatorsofcrowley.com/	override blanks it
+52	LA	Leesville	Ground Zero Combat Sports Academy		no w key
+61	LA	Shreveport	Warrior Training Center	https://www.warriortrainingcenterla.com/	override blanks it
+70	NJ	Browns Mills	Clay Jiu Jitsu	http://www.clayjiu-jitsu.com/	override blanks it
+79	NJ	Ewing Township	Blue Line Defense and Fitness	http://www.bluelinedefenseandfitness.com/	override blanks it
+88	NJ	Jersey City	Thiago Rela BJJ	https://www.thiagorelateam.com/	override blanks it
+97	NJ	Phillipsburg	Gracie Jiu-Jitsu Phillipsburg		no w key
+106	NJ	West Long Branch	Rolles Gracie Academy - Long Branch Jiu Jitsu & Muay Thai	https://rollesgracielongbranchnj.com/	override blanks it
+115	OK	Blanchard	Munoz BJJ and Combat Sports		stored w is empty string
+124	OK	Edmond	Prodigy Jiu-Jitsu	peopleclimbers.com	override blanks it
+133	OK	Norman	National Martial Arts of Norman	nmanorman.com	override blanks it
+142	OK	Stillwater	Jackson Academy Martial Art Fitness	jacksonacademymartialarts.com	override blanks it

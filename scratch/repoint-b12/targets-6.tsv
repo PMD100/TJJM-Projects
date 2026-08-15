@@ -1,0 +1,17 @@
+id	region	city	name	stored_w	why_blank
+6	CO	Canon City	Gracie Jiu-Jitsu Canon City	https://graciejiujitsu-canon.com	override blanks it
+15	CO	Colorado Springs	The HQ - Jiu Jitsu Headquarters	https://www.jiujitsucoloradosprings.com	override blanks it
+24	CO	Gunnison	Gunnison Jiu-Jitsu	http://www.gunnisonjiujitsu.com	override blanks it
+33	CO	Westminster	Flatirons Mixed Martial Arts Academy	http://www.flatironsmma.com	override blanks it
+42	LA	Central	Langston's Martial Arts	http://langstonsmartialarts.com/	override blanks it
+51	LA	Lake Charles	Lake Area Brazilian Jiu-Jitsu		no w key
+60	LA	Ruston	Triad Martial Arts Academy of Ruston		no w key
+69	NJ	Brick Township	Misfits Muay Thai & Brazilian Jiu Jitsu	http://www.misfitsmuaythai.com/	override blanks it
+78	NJ	Elizabeth	Team Jucão Elizabeth Brazilian Jiu Jitsu BJJ		no w key
+87	NJ	Jersey City	CULTR BJJ	https://www.cultrbjj.com/	override blanks it
+96	NJ	North Brunswick Township	Advanced Martial Arts	http://advancedbjj.com/	override blanks it
+105	NJ	Wayne	Up Top Martial Arts Academy	http://www.martialartswaynenj.com/	override blanks it
+114	OK	Bartlesville	Platypus BJJ		stored w is empty string
+123	OK	Edmond	Kudos		stored w is empty string
+132	OK	Norman	Kaizen Performance LLC	kaizenperformance.net	override blanks it
+141	OK	Seminole	Alexander Jiu-Jitsu	https://alexanderjiujitsu.com	override blanks it

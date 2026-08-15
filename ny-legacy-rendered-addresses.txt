@@ -1,0 +1,19 @@
+# Legacy NY addresses as RENDERED. Source: snippets/tjjm-gym-addresses.liquid.
+# NOT in raw stored values - every NY legacy record stores an EMPTY address.
+# These exist only at render time, which is why a scan over stored data cannot see them.
+Renzo Gracie Academy|224 W 30th St
+Renzo Gracie East Side|1264 Lexington Ave Fl 2
+Marcelo Garcia Academy|250 W 26th St Fl 3
+Unity Jiu Jitsu|144 W 14th St
+10th Planet Jiu Jitsu NYC|35 W 43rd St Fl 4
+Ronin Athletics|265 Madison Ave Fl 5
+Clockwork Brazilian Jiu-Jitsu|650 Broadway Fl 2
+Anderson's Martial Arts Academy|12 E 14th St
+Vitor Shaolin BJJ NYC|220 E 86th St
+Kioto Brazilian Jiu Jitsu|1786 3rd Ave
+Next Evolution Martial Arts|1786 3rd Ave
+Studio X|6 St Marks Pl Fl 2
+Paxibellum|4 W 18th St Fl 3
+Range Brazilian Jiu-Jitsu|328 E 61st St Ground Fl
+Jiu Livre NYC|383 5th Ave Fl 3
+Renzo Gracie Brooklyn|100 Bayard St

@@ -1,0 +1,17 @@
+id	region	city	name	stored_w	why_blank
+2	CO	Aurora	Alliance Jiu Jitsu Colorado	https://alliancejiujitsucolorado.com	override blanks it
+11	CO	Colorado Springs	719 Fight Team MMA		no w key
+20	CO	Englewood	Nova Mente Jiu Jitsu Academy	http://www.novamenteacademy.com	override blanks it
+29	CO	Loveland	Kingsnake Jiu-Jitsu	http://www.kingsnakebjj.com	override blanks it
+38	LA	Baton Rouge	Warrior's Cove Baton Rouge	https://www.warriorscovebjj.com/	override blanks it
+47	LA	Houma	Extreme Mix Martial Arts		no w key
+56	LA	New Orleans	Mid City Martial Arts & Fitness Academy	https://www.midcitymartialarts.com/	override blanks it
+65	LA	Sulphur	Primal Fitness Lake Charles	https://www.primalfitnessla.com/	override blanks it
+74	NJ	Denville	Real World Martial Arts Team Renzo Gracie	http://rwmma.com/	override blanks it
+83	NJ	Hamilton Square	Hamilton Martial Arts	http://www.hamiltonmartialarts.com/	override blanks it
+92	NJ	Manville	Red Dragon Martial Arts Academy	http://www.reddragonmaa.com/	override blanks it
+101	NJ	Teterboro	Martial Maxx MMA	http://www.martialmaxxmma.com/	override blanks it
+110	NJ	Woodland Park	Extreme Fight Club	http://www.efcchampion.com/	override blanks it
+119	OK	Collinsville	Northside Brazilian Jiu Jitsu	thenorthsidebjj.com	override blanks it
+128	OK	Muskogee	Church BJJ		stored w is empty string
+137	OK	Owasso	Clinch Martial Arts Academy - Owasso	teamclinch.com	override blanks it

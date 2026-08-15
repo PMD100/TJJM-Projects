@@ -1,0 +1,18 @@
+id	region	city	name	stored_w	why_blank
+1	CO	Arvada	Genesis Training Academy	http://www.fightgta.com	override blanks it
+10	CO	Colorado Springs	Cheyenne Mountain BJJ	https://cheyennemountainbjj.com	override blanks it
+19	CO	Englewood	Guetho BJJ Denver	https://guethobjjdenver.com	override blanks it
+28	CO	Loveland	Infinite MMA Academy	http://www.infinitemixedmartialarts.com	override blanks it
+37	LA	Baton Rouge	Martial Arts America Baton Rouge	https://www.martialartsamericabr.com/	override blanks it
+46	LA	Houma	Evolution Training	https://www.guerrillajiujitsuhouma.com/	override blanks it
+55	LA	New Orleans	Danny Daniels' MMA & Fitness	https://www.dannydanielsmma.com/	override blanks it
+64	LA	Stonewall	Gracie Stonewall Jiu Jitsu Academy		no w key
+73	NJ	Cranford	Jfc Training Center	http://www.jerseyfightclub.com/	override blanks it
+82	NJ	Galloway	Gracie Jiu-Jitsu Galloway		no w key
+91	NJ	Lyndhurst	Anaconda Brazilian Jiu Jitsu & MMA Academy	http://www.anacondabjjmma.com	override blanks it
+100	NJ	South Plainfield	Renzo Gracie South Plainfield	https://www.renzograciesouthplainfield.com/	override blanks it
+109	NJ	Woodland	Camal Judo	http://camaljudo.com/	override blanks it
+118	OK	Broken Arrow	Team Impact Martial Arts & Fitness	teamimpactok.com	override blanks it
+127	OK	McAlester	True Grit Jiu Jitsu and Defense	truegritjiu-jitsu.com	override blanks it
+136	OK	Okmulgee	Prowess Brazilian Jiu-Jitsu	prowessbjj.com	override blanks it
+145	OK	Wilburton	3 Feathers MMA Muay Thai Warriors 4 Christ		stored w is empty string

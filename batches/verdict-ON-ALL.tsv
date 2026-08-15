@@ -1,0 +1,91 @@
+# Ontario verification consolidated - 89 candidates body-checked
+city	name_confirmed	url	address	verdict	note
+Toronto	Gracie Barra North York Toronto	graciebarra.com		EMPTY	page exists but returns no body after 5 tries
+Toronto	Gracie Barra Toronto East	graciebarra.com	68 Railside Rd Unit B, Toronto, ON M1A 1A3	CONFIRMED	real page is graciebarra.com/toronto-east-canada
+Etobicoke	Etobicoke BJJ	etobicoke-bjj.com	2918 Lake Shore Blvd W, Toronto, ON M8V 1J4	CONFIRMED	etobicoke is part of toronto
+Scarborough	Toronto Top Team Martial Arts and Fitness	torontommateam.com	161 Bartley Drive Unit 3 and 4, North York, ON M4A 1E6	CONFIRMED	actually in north york not scarborough
+Toronto	JT6 Academy	jt6.ca	28 Industrial Street Unit 218, Toronto, ON M4G 1Y9	CONFIRMED	leaside location, also has a markham site
+Markham	88 BJJ	eighteightbjj.com	Unit 17 - 50 Anderson Ave, Markham, ON L6E 1A6	CONFIRMED	-
+Richmond Hill	Richmond Hill Jiu-Jitsu	rh-bjj.com	132 King Rd, Richmond Hill, ON L4E 2T6	CONFIRMED	redirects to rhbjj.ca, also runs maple bjj location
+Richmond Hill	905 Brazilian Jiujitsu	905brazilianjiujitsu.com	10 Furbacher Ln Unit 2, Aurora, ON L4G 3V2	CONFIRMED	actual address is in aurora, not richmond hill
+Vaughan	King Jiu Jitsu Vaughan	kingjiujitsuvaughan.com	207 Edgeley Blvd #19, Concord, ON L4K 4B5	CONFIRMED	concord is part of vaughan
+Vaughan	Vaughan Jiu-Jitsu Academy	vaughanbjj.com	130 Racco Parkway Unit 5, Vaughan, ON L4J 8X9	CONFIRMED	-
+Mississauga	Core Jiu-Jitsu	bjjmississauga.com	966 Dundas Street East Unit 13, Mississauga, ON L4Y 4H5	CONFIRMED	site calls itself core jiu-jitsu, b9 is program brand
+Mississauga	Current Jiu Jitsu	currentbjj.com	6810 Kitimat Rd Units 8 & 9, Mississauga, ON L5N 5M2	CONFIRMED	-
+Mississauga	New Valor Brazilian Jiu-Jitsu Academy	newvalorbjj.com	3250 Ridgeway Dr Unit 7, Mississauga, ON L5L 5Y6	CONFIRMED	inside magnitude martial arts, near ne oakville
+Mississauga	Octa BJJ Mississauga	mississauga.octabjj.com	3065 Ridgeway Dr Unit 46 & 47, Mississauga, ON L5L 5M6	CONFIRMED	-
+Mississauga	Nova Uniao BJJ-MMAC	bjj-mmac.ca		EMPTY	resolves fine but blank body on root, www and contact
+Mississauga	AMA Dojo	amadojo.ca	Unit 8 - 6790 Kitimat Rd, Mississauga, ON L5N 5M1	CONFIRMED	multi-discipline academy, has dedicated bjj program
+Brampton	Brampton Brazilian Jiu Jitsu Academy	bramptonjiujitsu.com	1295 Williams Pky E, Brampton, ON L6S 3J8	CONFIRMED	also has georgetown and orangeville sister locations
+Oakville	Octa BJJ Oakville	octabjj.com	220 Wyecroft Road Unit 41, Oakville, ON L6K 3V1	CONFIRMED	this is the octa bjj hq location
+Burlington	Octa BJJ Burlington	burlington.octabjj.com	1176 Blair Road, Burlington, ON L7M 1K9	CONFIRMED	-
+Oakville	VS Brazilian Jiu-Jitsu	vsbjj.com	3114 Dundas St W, Oakville, ON	CONFIRMED	-
+Burlington	MN Brazilian Jiu Jitsu Academy	mnbjj.ca	5230 South Service Rd Unit 301, Burlington, ON L7L 5K2	CONFIRMED	-
+Oakville	Oakville Brazilian Jiu-Jitsu	oakvillejiujitsu.ca	2828 Kingsway Drive, Oakville, ON L6J 7M2	CONFIRMED	-
+Hamilton	Bora Jiu-Jitsu	borabjj.com	625 Greenhill Ave Unit 7, Hamilton, ON L8K 5N8	CONFIRMED	matches hamilton and stoney creek school
+Hamilton	Hamilton BJJ	hamilton-bjj.com	166 Green Mountain Rd E, Stoney Creek, ON L8J 3A4	CONFIRMED	dupcheck: probably same as hamiltonbjj.com
+Hamilton	PURA BJJ	purabjj.ca		EMPTY	js shell, no body; dns resolves ok
+Hamilton	The Grappling Garden	grapplinggarden.ca	100 Frid St. Unit #15, Hamilton, ON	CONFIRMED	bjj gym, kids+adult programs
+Hamilton	Joslin's MMA	joslinsmma.com	436 Concession St, Hamilton, ON L9A 1C2	CONFIRMED	mma school with dedicated bjj program
+Hamilton	Hamilton School of Martial Arts	hsma1.com	1085 Barton Street East, Hamilton, ON L8L 3E2	CONFIRMED	multi-discipline, has bjj & grappling classes
+St. Catharines	Renzo Gracie Niagara	renzogracieniagara.com	486 Grantham Ave, St Catharines, ON	CONFIRMED	matches input address
+St. Catharines	SBG Niagara	sbgniagara.ca	11 Seapark Drive, St. Catharines, ON L2M 6S5	CONFIRMED	straight blast gym, bjj + kickboxing
+Niagara Falls	Passador BJJ	passadorbjj.com	4536 Portage Road, Niagara Falls, ON L2E 6A8	CONFIRMED	team brasa niagara affiliate
+Niagara Falls	Evolve MMA & Fitness	evolvemma.ca	325 Welland Ave, St Catharines, ON L2R 2R2	CONFIRMED	actually in st catharines, not niagara falls
+Ottawa	Ottawa Academy of Martial Arts	oama.ca	1810 Carling Ave, Ottawa, ON K2A 1E2	CONFIRMED	bjj, muay thai, mma programs
+Ottawa	Gracie Barra Ottawa	gb-ottawa.com	250 Avenue City Centre, Ottawa, ON K1R 6K7	CONFIRMED	matches input, gb affiliate
+Ottawa	The Ottawa Jiu Jitsu Club	theottawajiujitsuclub.com	1484 Scott St, Ottawa, ON K1Y 2N4	CONFIRMED	dupcheck flag, no dupe found in this batch
+Ottawa	Zen MMA	zenmma.ca	32 Colonnade Rd N #1000, Ottawa (Nepean), ON K2E 7J6	CONFIRMED	carlson gracie bjj affiliate
+Ottawa	Silver 7 Martial Arts	silver7martialarts.com	737 Silver Seven Rd, Kanata, ON K2V 1C3	CONFIRMED	marcelo garcia bjj affiliate; 2nd location barrhaven
+Ottawa	Jiujitsu Culture	jiujitsuculture.ca	2-397b Richmond Road, Ottawa, ON K2A 0E9	CONFIRMED	westboro ottawa bjj academy
+Ottawa	De la Costa Academy	delacosta.ca		EMPTY	js-required redirect, no body; dns resolves
+Ottawa	Brave Martial Arts Institute	bravemai.com	2161 Thurston Dr, Ottawa, ON K1G 6C9	CONFIRMED	has dedicated bjj program
+London	The Submission Academy	subacademyldn.com	1068 Dundas St., London, ON N5W 3A6	CONFIRMED	matches input address
+London	Bindner Academy	bindner.academy	19-1615 North Routledge Park, London, ON	CONFIRMED	address from title tag only, not body text
+London	Enhanced BJJ	enhancedbjj.com		EMPTY	js shell; meta confirms bjj school london on
+London	Gracie Barra London	graciebarra.com	1712 Hyde Park Rd #104, London, ON N6H 5L7	CONFIRMED	aggregator only; site locator is js-rendered
+Waterloo	The Jiu-Jitsu Lab	labjiujitsu.com	420 Weber St N, Waterloo, ON	CONFIRMED	matches input address
+Kitchener	Guardhouse BJJ	guardhousebjj.ca	41 Ardelt Place #1b, Kitchener, ON N2C 2C8	CONFIRMED	matches input address
+Kitchener	Octa BJJ Kitchener	octabjjkitchener.com	Unit 5-6, 248 Stirling Ave S, Kitchener, ON N2G 4L1	CONFIRMED	Octa BJJ chain location
+Kitchener	Return of the Dragon	rotdma.com	900 Guelph St #108, Kitchener, ON N2H 5Z6	CONFIRMED	Multi-discipline gym, has BJJ class
+Kitchener	Olympus Martial Arts	olympusmma.com	50 Ottawa St S Unit 201, Kitchener, ON N2G 3S7	CONFIRMED	MMA gym, BJJ program confirmed
+Cambridge	Grand River BJJ	grandriverbjj.ca	26-1 Main Street, Cambridge, ON	CONFIRMED	Site shows 2 addrs; also lists 55 Dickson St
+Cambridge	Octa BJJ Cambridge	cambridge.octabjj.com	90 Pinebush Rd, Cambridge, ON N1R 7P5	CONFIRMED	Octa BJJ chain location
+Cambridge	Resolve BJJ Academy	resolvebjjacademy.com	13 Matos Segedin Dr, Leamington, Cambridge NZ 3495	WRONG-PLACE	Cambridge New Zealand, not Ontario; fb resolvebjjnz
+Cambridge	MAS Academy of Martial Arts	masthaiboxing.com	695 Bishop Street North, Cambridge, ON N3H 2K8	CONFIRMED	No URL given; found via search; Muay Thai school w BJJ
+Guelph	Royal City BJJ	royalcitybjj.com	20 Cowan Place Unit 3, Guelph, ON N1G 0C1	CONFIRMED	
+Guelph	Omerta BJJ	omertabjj.com	101-121 Wyndham St N, Guelph, ON N1H 4E9	CONFIRMED	NoGi BJJ academy
+Sarnia	The Butcher Shop	butchershopjiujitsu.ca	Unit 7, 110 East Street S, Sarnia, ON N7T 3R1	CONFIRMED	BJJ and kickboxing academy
+Sarnia	Forge Training Centre	forgetrainingcentre.com	1880 London Line, Sarnia, ON N7W 1B3	CONFIRMED	BJJ black belt Rowan Cunningham teaches
+Sarnia	META Training Centre	metatrainingcentre.com		EMPTY	Blank body on root and www; retried once
+Windsor	Caique Jiu-Jitsu Academy Windsor Essex	cjjwe.com	11700 County Rd 42, Tecumseh, ON N8N 2M1	CONFIRMED	Actual city Tecumseh, not Windsor proper
+Windsor	APEX MMA	apexmma.ca	1529 Highland Ave, Windsor, ON	CONFIRMED	Carlson Gracie Jiu Jitsu program
+Windsor	META BJJ Windsor	metabjj.ca	956 McDougall St, Windsor, ON N9A 3X3	CONFIRMED	
+Windsor	Maximum Training Centre	mtcwindsor.ca	1929 Provincial Rd, Windsor, ON N8W 5V7	CONFIRMED	MMA gym, BJJ classes offered
+Ajax	Karma Jiu Jitsu	karmajiujitsu.com	487 Westney Rd Unit 4, Ajax, ON L1S 4E5	CONFIRMED	
+Ajax	Mamute Martial Arts	mamutemaa.com	907 Simcoe St N, Oshawa, ON L1G 4W1	CONFIRMED	Actually in Oshawa, not Ajax; addr differs from input
+Ajax	Elemental Jiu Jitsu	elementaljiujitsu.com	845 Westney Road South Unit 4, Ajax, ON L1S 3M4	CONFIRMED	
+Ajax	Moyo Jiu-Jitsu Academy	moyojiujitsu.com	55 Mills Rd Unit 6, Ajax, ON L1S 2H2	CONFIRMED	
+Whitby	DNA Brazilian Jiu Jitsu	dnabjj.com	2001 Thickson Road South Unit 15, Whitby, ON	CONFIRMED	
+Bowmanville	Kalsamrit Martial Arts	kalsamrit.com		EMPTY	Blank body on root and www; retried once
+Barrie	Submission Arts Academy	submissionartsacademy.com	112 Commerce Park Dr, Barrie, ON L4N 8W8	CONFIRMED	
+Barrie	Legacy Fight Club	legacyfightclub.com	351 King St. Unit 7, Barrie, ON L4N 6B5	CONFIRMED	Muay Thai/BJJ/MMA/wrestling gym
+Barrie	Champs Academy (Champs Brazilian Jiu-Jitsu)	champsacademy.ca	131 Commerce Park Dr, Barrie, ON	CONFIRMED	TKD+BJJ academy, BJJ location addr
+North Bay	Grounded Studios	grounded.ca	945 Stockdale Road, North Bay, ON P1B 9S5	CONFIRMED	Yoga + BJJ + Muay Thai studio
+North Bay	The Garden Brazilian Jiu Jitsu	thegardenbjj.ca	397 Wyld Street, North Bay, ON P1B 1Z3	CONFIRMED	BJJ-only school, matches input addr
+Orillia	Resolve Martial Arts Academy Orillia	resolvemartialartsorillia.com	300 Peter St N, Orillia, ON L3V 5H2	CONFIRMED	BJJ-only, kids/teen/adult/women
+Orillia	Big Country - Orillia	bigcountryorillia.gymdesk.com	27 West St S, Orillia, ON L3V 5B8	CONFIRMED	BJJ/Muay Thai/Judo/MMA gym
+Sault Ste. Marie	Steel City MMA	steelcitymma.com	258 Queen St E, Sault Ste. Marie, ON P6A 1Y7	CONFIRMED	MMA gym w/ Jiu Jitsu program
+Sault Ste. Marie	Gracie Jiu-Jitsu Sault Ste. Marie	graciejiujitsusaultstemarie.com	274 Lake St, Sault Ste. Marie, ON P6A 4B4	CONFIRMED	No orig URL; found via search, CTC page
+Thunder Bay	Leading Edge MMA	leadingedgemma.ca	340A Waterloo St N, Thunder Bay, ON	CONFIRMED	BJJ/No-Gi/boxing/MMA since 2001
+Thunder Bay	Thunder Valley Martial Arts	thundervalleymartialarts.com	910 Memorial Avenue unit C, Thunder Bay, ON	CONFIRMED	No orig URL; body addr differs from input
+Kingston	Hayabusa Academy	hayabusa-academy.com		EMPTY	DNS resolves but root+contact both blank JS shell
+Kingston	Kingston Jiu Jitsu	kingstonjiujitsu.com		WRONG-PLACE	Body says Kingston upon Thames, England
+Peterborough	Eris Martial Arts Academy	erismartialarts.com	306 George St N, Peterborough, ON K9J 8B7	CONFIRMED	BJJ academy est. 2006, matches input addr
+Peterborough	Kawartha Combat	kawarthacombat.com	910 High St Unit 15, Peterborough, ON	CONFIRMED	BJJ/Muay Thai/kickboxing est. 2012
+Peterborough	Peterborough Judo & MMA	peterboroughjudo.com		WRONG-PLACE	Address is PE3 8AF, Peterborough England
+Pickering	AACE Martial Arts Academy	aacemartialartsacademy.com	633 Kingston Road, Pickering, ON L1V 3N7	CONFIRMED	BJJ-only school, matches input addr
+Pickering	Action & Reaction MMA	actionreactionmma.com	821 Brock Rd Unit 9, Pickering, ON L1W 3L6	CONFIRMED	Multi-location GTA gym, Pickering addr used
+Belleville	Alcateia Brazilian Jiu Jitsu	alcateiabjj.com	40 Hanna Court, Belleville, ON K8P 5J2	CONFIRMED	No orig URL; found via search, matches input
+Whitby	Four-Eleven Brazilian Jiu Jitsu	fourelevenbjj.ca	277 Michael Blvd Unit 6, Whitby, ON L1N 5B2	CONFIRMED	BJJ-only school, all ages
+Barrie	Barrie Brazilian Jiu Jitsu (Barrie BJJ)	705bjj.com	571 Bayfield St (North Entrance 2nd Fl), Barrie, ON L4M 4Z9	CONFIRMED	705bjj.com is correct site, not barriebjj.com

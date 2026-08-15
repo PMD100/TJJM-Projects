@@ -1,0 +1,77 @@
+{%- comment -%}
+  Region index for the state directory pages. One row per region:
+    page-handle|Display name|gym count|region code|country
+  Single source of truth mapping a /pages/bjj-schools-* handle to its region.
+  Keep alphabetical by display name.
+
+  The count column is DISPLAY ONLY — it feeds the "Find schools in another state"
+  nav list. Each page computes its own gym_count from the data.
+
+  !! WHEN AUDITING A PAGE'S COUNT, DO NOT REGEX THE WHOLE HTML FOR !!
+  !! /(\d+) BJJ gyms and academies/ — THAT MATCHES THE META DESCRIPTION IN <head> !!
+  The SEO description_tag metafield is hand-written and goes stale.
+  Trust instead, in order: the JSON-LD "numberOfItems", the count of class="tjjm-gym"
+  cards, or the body paragraph <p class="tjjm-p">N BJJ gyms and academies across M cit.
+  These three agree on every page. Verified total across all 61 regions: 4,921.
+{%- endcomment -%}
+bjj-schools-alabama|Alabama|78|AL|US
+bjj-schools-alaska|Alaska|22|AK|US
+bjj-schools-alberta|Alberta|22|AB|CA
+bjj-schools-arizona|Arizona|173|AZ|US
+bjj-schools-arkansas|Arkansas|56|AR|US
+bjj-schools-british-columbia|British Columbia|26|BC|CA
+bjj-schools-california|California|460|CA|US
+bjj-schools-colorado|Colorado|156|CO|US
+bjj-schools-connecticut|Connecticut|85|CT|US
+bjj-schools-delaware|Delaware|7|DE|US
+bjj-schools-florida|Florida|328|FL|US
+bjj-schools-georgia|Georgia|152|GA|US
+bjj-schools-hawaii|Hawaii|38|HI|US
+bjj-schools-idaho|Idaho|45|ID|US
+bjj-schools-illinois|Illinois|130|IL|US
+bjj-schools-indiana|Indiana|80|IN|US
+bjj-schools-iowa|Iowa|36|IA|US
+bjj-schools-kansas|Kansas|37|KS|US
+bjj-schools-kentucky|Kentucky|65|KY|US
+bjj-schools-louisiana|Louisiana|100|LA|US
+bjj-schools-maine|Maine|23|ME|US
+bjj-schools-manitoba|Manitoba|21|MB|CA
+bjj-schools-maryland|Maryland|94|MD|US
+bjj-schools-massachusetts|Massachusetts|140|MA|US
+bjj-schools-michigan|Michigan|115|MI|US
+bjj-schools-minnesota|Minnesota|18|MN|US
+bjj-schools-mississippi|Mississippi|14|MS|US
+bjj-schools-missouri|Missouri|98|MO|US
+bjj-schools-montana|Montana|33|MT|US
+bjj-schools-nebraska|Nebraska|12|NE|US
+bjj-schools-nevada|Nevada|118|NV|US
+bjj-schools-new-brunswick|New Brunswick|15|NB|CA
+bjj-schools-new-hampshire|New Hampshire|10|NH|US
+bjj-schools-new-jersey|New Jersey|210|NJ|US
+bjj-schools-new-mexico|New Mexico|34|NM|US
+bjj-schools-new-york|New York|182|NY|US
+bjj-schools-newfoundland-and-labrador|Newfoundland and Labrador|15|NL|CA
+bjj-schools-north-carolina|North Carolina|125|NC|US
+bjj-schools-north-dakota|North Dakota|11|ND|US
+bjj-schools-nova-scotia|Nova Scotia|23|NS|CA
+bjj-schools-ohio|Ohio|137|OH|US
+bjj-schools-oklahoma|Oklahoma|98|OK|US
+bjj-schools-ontario|Ontario|107|ON|CA
+bjj-schools-oregon|Oregon|118|OR|US
+bjj-schools-pennsylvania|Pennsylvania|148|PA|US
+bjj-schools-prince-edward-island|Prince Edward Island|10|PE|CA
+bjj-schools-quebec|Quebec|21|QC|CA
+bjj-schools-rhode-island|Rhode Island|23|RI|US
+bjj-schools-saskatchewan|Saskatchewan|14|SK|CA
+bjj-schools-south-carolina|South Carolina|14|SC|US
+bjj-schools-south-dakota|South Dakota|11|SD|US
+bjj-schools-tennessee|Tennessee|34|TN|US
+bjj-schools-texas|Texas|351|TX|US
+bjj-schools-utah|Utah|46|UT|US
+bjj-schools-vermont|Vermont|12|VT|US
+bjj-schools-virginia|Virginia|137|VA|US
+bjj-schools-washington|Washington|121|WA|US
+bjj-schools-washington-dc|Washington DC|7|DC|US
+bjj-schools-west-virginia|West Virginia|10|WV|US
+bjj-schools-wisconsin|Wisconsin|85|WI|US
+bjj-schools-wyoming|Wyoming|10|WY|US

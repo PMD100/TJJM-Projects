@@ -1,0 +1,17 @@
+id	region	city	name	stored_w	why_blank
+5	CO	Brighton	Frontline Wrestling and Jiu-Jitsu Academy	http://www.graciebrighton.com	override blanks it
+14	CO	Colorado Springs	Peak Mixed Martial Arts Academy		no w key
+23	CO	Grand Junction	Gracie Jiu-Jitsu Grand Junction		no w key
+32	CO	Salida	14ers Jiu Jitsu		no w key
+41	LA	Broussard	Louisiana Judo. Louisiana Muay Thai		no w key
+50	LA	Lafayette	Premier Martial Arts Lafayette	https://www.premiermartialartsacademy.com/	override blanks it
+59	LA	Prairieville	Criterion Jiu Jitsu	https://www.criterionjiujitsu.com/home	override blanks it
+68	NJ	Barnegat	Green Dragon Warrior Arts	http://greendragonunlimited.com/Home_Page.php	override blanks it
+77	NJ	Elizabeth	Golden Eagle Judo & Jiu-Jitsu	http://www.goldeneaglejjj.com/	override blanks it
+86	NJ	Hoboken	Renzo Gracie Hoboken	https://www.renzograciehoboken.com/	override blanks it
+95	NJ	Newark	Roberto Gordo BJJ	https://www.robertogordo.com/	override blanks it
+104	NJ	Wall Township	Kurt Pellegrino MMA		no w key
+113	OK	Altus	10th Planet Jiu-Jitsu Altus	altusmartialarts.ninja	override blanks it
+122	OK	Edmond	American Elite Mixed Martial Arts	edmondbjj.com	override blanks it
+131	OK	Mustang	F-5 Grappling		stored w is empty string
+140	OK	Pryor	Trinity Martial Arts	trinitypryor.com	override blanks it

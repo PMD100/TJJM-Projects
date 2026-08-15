@@ -1,0 +1,86 @@
+# A06 verdicts - 84 flagged links - DNS-first method
+state	city	name	url	verdict	note
+NJ	Woodland	Camal Judo	http://camaljudo.com/	DEAD	nxdomain, no dns record
+NC	Cary	Verity Brazilian Jiu-Jitsu	https://veritybjj.com/	DEAD	nxdomain, no dns record
+NC	Chapel Hill	Chapel Hill Gracie Jiu Jitsu	http://www.chapelhilljiujitsu.net/	LIVE-SCHOOL	active, redirects to chapelhilljiujitsu.com
+NC	Charlotte	Atos Jiu Jitsu of Charlotte	http://martialartscharlottenc.com/	LIVE-SCHOOL	now branded fernando loor vera bjj, not atos
+NC	Charlotte	Charlotte Jiu-Jitsu Academy	https://charlottejiujitsuacademy.com	DEAD	nxdomain, no dns record
+NC	Clayton	Chuva Brazilian Jiu Jitsu	http://chuvabjj.com/	LIVE-SCHOOL	active bjj school site
+NC	Cornelius	Crossface MMA	http://www.crossface.net/	DEAD	resolves to loopback 127.0.0.1, lame record
+NC	Durham	Pitbull Martial Arts Center-USA	http://pmacusamma.com/	DEAD	nxdomain, no dns record
+NC	Durham	Saunders Brazilian Jiu-Jitsu	http://www.saundersbjj.com/	LIVE-SCHOOL	active, relocated to rougemont nc
+NC	Goldsboro	Triangle Jiu-Jitsu Academy	http://www.trianglejj.com/	DEAD	nxdomain, no dns record
+NC	Laurinburg	Warrior Fitness Center Laurinburg	http://www.laurinburgbjj.com/	DEAD	nxdomain, no dns record
+NC	Lincolnton	SAGA Combat Systems	http://www.sagacombat.com/	PARKED	namebright domain expired page
+NC	Spring Lake	Gracie Barra - Spring Lake	http://gbspringlake.com/	DEAD	nxdomain, no dns record
+NC	Wilmington	Ethos BJJ	https://ubjjnc.com/	DEAD	nxdomain, no dns record
+NC	Wilmington	Ravensguard BJJ Academy	http://ravensguardacademy.com/	DEAD	nxdomain, no dns record
+NC	Wilson	Gustavo Machado Brazilian Jiu Jitsu Wilson	https://gmbjjwnc68.com/	DEAD	nxdomain, no dns record
+NC	Wrightsville Beach	Evolution MMA Academy	http://www.evolutionmixedmartialarts.com/	DEAD	nxdomain, no dns record
+OH	Bedford Heights	Rising Dragon Mixed Martial Arts & Fitness	http://risingdragonmma.com/	LIVE-SCHOOL	active mma and fitness site
+OH	Brook Park	RTSC Training Center	https://sasclevelandohio.com	DEAD	nxdomain, no dns record
+OH	Bryan	Bryan Jiu-Jitsu Academy	http://jiujitsubryan.ninja/	DEAD	nxdomain, no dns record
+OH	Canton	Victory MMA Jujitsu Sbmssn	http://www.victorymmasubmissionfighting.org/	DEAD	nxdomain, no dns record
+OH	Cincinnati	Kombat Arts Ohio	https://kombatartsohio.com	DEAD	nxdomain, no dns record
+OH	Cleveland	Cal Crowell Fitness, Athletic & MMA Training Center	http://www.clevelandmmatraining.com/	DEAD	nxdomain, no dns record
+OH	Cleveland	Renzo Gracie Cleveland	https://renzograciecleveland.com	DEAD	nxdomain, no dns record
+OH	Columbia Station	Resistance Lab Brazilian Jiu Jitsu	http://resistancelabbjj.com/	DEAD	nxdomain, no dns record
+OH	Columbus	Bushido Martial Arts Club	http://www.graciebushido.com/	DEAD	nxdomain, no dns record
+OH	Columbus	Ernie Reyes' Midwest Martial Arts	http://www.columbus-martial-arts.com/	DEAD	nxdomain, no dns record
+OH	Delaware	Rise Ohio	http://www.riseohio.com	DEAD	resolves, no a record on apex or www
+OH	Dublin	Martial Arts Alliance	http://www.martialartsalliance.net/	DEAD	nxdomain, no dns record
+OH	Hilliard	Endeavor Defense & Fitness	http://www.gymhilliard.com	DEAD	nxdomain, no dns record
+OH	Lima	Danger Zone Gym	http://www.dangerzonegym.com/contact-us	DEAD	nxdomain, no dns record
+OH	Newton Falls	Synergy Martial Arts Academy	http://www.synergymartialartsohio.com/	DEAD	nxdomain, no dns record
+OH	Sunbury	Koguryo Martial Arts Academy	http://www.koguryoma.com/	DEAD	nxdomain, no dns record
+OH	Walton Hills	Team Chard BJJ	http://ohiobjjc.com/	LIVE-SCHOOL	active, matches record (bjj center of ohio)
+OH	Warrensville Heights	Love And Chokes Jiu Jitsu Academy	http://loveandchokes.com/	LIVE-OTHER	now 216 software, cleveland mvp dev consultancy
+OK	Ada	Conquer BJJ Mixed Martial Arts Academy	https://conquerbjjada.com	DEAD	nxdomain, no dns record
+OK	Altus	10th Planet Jiu-Jitsu Altus	https://altusmartialarts.ninja	DEAD	nxdomain, no dns record
+OK	Bixby	Omar French Brazilian Jiu Jitsu	https://omarfrench.com	LIVE-SCHOOL	active bjj school site
+OK	Broken Arrow	Brothers Jiu Jitsu	https://brothersjiujitsu.com	DEAD	nxdomain, no dns record
+OK	Broken Arrow	Team Impact Martial Arts & Fitness	https://teamimpactok.com	DEAD	nxdomain, no dns record
+OK	Collinsville	Northside Brazilian Jiu Jitsu	https://thenorthsidebjj.com	DEAD	nxdomain, no dns record
+OK	Durant	Empire Jiu-Jitsu Durant	https://empirejiujitsudurant.com	DEAD	nxdomain, no dns record
+OK	Edmond	American Elite Mixed Martial Arts	https://edmondbjj.com	DEAD	nxdomain, no dns record
+OK	Edmond	Prodigy Jiu-Jitsu	https://peopleclimbers.com	DEAD	nxdomain, no dns record
+OK	El Reno	KMG Martial Arts Inc	https://kmgmartialarts.com	DEAD	nxdomain, no dns record
+OK	McAlester	True Grit Jiu Jitsu and Defense	https://truegritjiu-jitsu.com	DEAD	nxdomain, no dns record
+OK	Norman	Kaizen Performance LLC	https://kaizenperformance.net	DEAD	nxdomain, no dns record
+OK	Norman	National Martial Arts of Norman	https://nmanorman.com	DEAD	nxdomain, no dns record
+OK	Oklahoma City	Sen Shin Kan Dojo	https://senshinkandojo.com	DEAD	nxdomain, no dns record
+OK	Okmulgee	Prowess Brazilian Jiu-Jitsu	https://prowessbjj.com	DEAD	nxdomain, no dns record
+OK	Owasso	Clinch Martial Arts Academy - Owasso	https://teamclinch.com	DEAD	dns refused, lame delegation
+OK	Poteau	Oklahoma Combat Sports / KORE BJJ	https://site.oklahomacombatsports.com	DEAD	nxdomain, no dns record
+OK	Pryor	Trinity Martial Arts	https://trinitypryor.com	DEAD	nxdomain, no dns record
+OK	Seminole	Alexander Jiu-Jitsu	https://alexanderjiujitsu.com	DEAD	nxdomain, no dns record
+OK	Stillwater	Jackson Academy Martial Art Fitness	https://jacksonacademymartialarts.com	DEAD	nxdomain, no dns record
+OK	Tulsa	Relentless Martial Arts	https://relentlessmartialarts.com	EMPTY	dns resolves, fetch returns blank js shell
+OK	Tulsa	Tulsa Judo and Jiu Jitsu	https://tulsajudoclub.com	DEAD	nxdomain, no dns record
+OR	Astoria	White Panther Tae Kwon Do Boxing and Filipino Martial Arts	http://www.whitepantherastoria.com/	EMPTY	www resolves (aws), fetch returns blank body
+OR	Eugene	Eugene Jiu Jitsu Club	http://www.eugenejiujitsuclub.com/	DEAD	nxdomain, no dns record
+OR	Eugene	RISE Mixed Martial Arts - Eugene	http://risemixedmartialartseugene.com/	DEAD	nxdomain, no dns record
+OR	Forest Grove	CTA Forest Grove Jiu Jitsu	https://www.forestgrovebjj.com/	DEAD	nxdomain on apex and www
+OR	Gresham	Impact Next Generation	http://impactnextgeneration.com	DEAD	nxdomain, no dns record
+OR	Medford	Cauliflower Ear Family	http://cauliflowerearfamily.com/	DEAD	nxdomain, no dns record
+OR	Medford	Spartan Team Brazilian Jiu-Jitsu	http://spartanboxinggym.com/	EMPTY	www resolves, fetch returns blank body
+OR	Milwaukie	Krav Maga Self Defense & Fitness	http://www.kravmagaportland.com	DEAD	apex nodata, www nxdomain
+OR	Portland	Portland Small Circle Jujitsu	http://www.portlandjujitsu.com/	LIVE-OTHER	hijacked domain, chinese lottery/gambling spam page
+OR	Rockaway Beach	Rockaway Brazilian Jiu Jitsu	http://rockawaybjj.net/	DEAD	nxdomain, no dns record
+PA	Bath	Apgar Mixed Martial Arts	http://www.apgarmma.com/	DEAD	nxdomain, no dns record
+PA	Berwyn	Jade Studio	http://www.jademovementstudio.com	DEAD	nxdomain, no dns record
+PA	Bridgeville	Zezinho's Mota Jiu-Jitsu School	http://www.zzmbjj.com/	DEAD	nxdomain, no dns record
+PA	Carlisle	Gracie Barra Carlisle	http://www.gbcarlisle.com/	DEAD	nxdomain, no dns record
+PA	Ephrata	Ephrata Martial Arts	https://www.ephratamartialarts.com/	EMPTY	dns resolves, fetch returns blank js shell
+PA	Huntingdon Valley	Kozma Brazilian Jiu-Jitsu	http://www.kozmabjj.com	LIVE-SCHOOL	active, matches record
+PA	Lewisburg	Ramsey Academy of Martial Arts	http://www.bvrec.org/	LIVE-OTHER	now buffalo valley recreation authority parks site
+PA	Media	House of Arts Jiu Jitsu	http://hoabjj.com	DEAD	dns refused, lame delegation
+PA	Newtown	Bucks MMA	http://www.bucksmma.com/	DEAD	nxdomain, no dns record
+PA	Newtown	Ricardo Almeida Brazilian Jiu Jitsu & Martial Arts	http://www.newtownbjj.com	DEAD	nxdomain, no dns record
+PA	Phoenixville	USA MMA Academy	http://www.usammaacademy.com	DEAD	nxdomain, no dns record
+PA	Shamokin	Elite Performance Combat Club	http://www.epccbjj.com/	DEAD	nxdomain, no dns record
+PA	Swoyersville	Northeastern Ju Jitsu	http://www.nejujitsu.com/	DEAD	dns refused, lame delegation
+PA	Warrington	X-Treme MMA American Top Team	http://www.warringtonjiu-jitsu.com/	DEAD	nxdomain, no dns record
+PA	Woodlyn	Delco Brazilian Jiu-Jitsu	http://www.delcobjj.com/	PARKED	godaddy domain for sale page
+TX	Abilene	Revolutionary Fitness & MMA	http://www.revfitmma.com/	DEAD	nxdomain, no dns record
+TX	Arlington	Aloisio Silva Brazilian Jiu-Jitsu Academy	https://www.aloisiosilvabjj.com/	LIVE-SCHOOL	active, redirects to silvabjj.com

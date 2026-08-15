@@ -1,0 +1,91 @@
+id	region	city	name	stored_w	why_blank
+1	GA	Acworth	Carlos Machado Jiu-Jitsu North Atlanta	http://www.cmjjnatl.com/	override blanks it
+2	GA	Acworth	James Shook Brazilian Jiu-Jitsu	http://zenith.jamesshookbjj.com/	override blanks it
+3	GA	Albany	Hamby Freestyle Jiu Jitsu	http://www.hambyfreestyle.com/	override blanks it
+4	GA	Atlanta	Atlanta Kyusho and Jujitsu	http://www.atlantajujitsu.com/	override blanks it
+5	GA	Augusta	Gracie Barra - Augusta	http://gbaugusta.com/	override blanks it
+6	GA	Bainbridge	Port City Jiu Jitsu		stored w is empty string
+7	GA	Between	Hybrid Fitness MMA		stored w is empty string
+8	GA	Braselton	Iron Wolf Academy		stored w is empty string
+9	GA	Covington	Ruff House Boxing and MMA	https://www.ruffhouseboxing.com/	override blanks it
+10	GA	Cumming	Prime Combat Sports		stored w is empty string
+11	GA	Cumming	World Jiu-Jitsu Academy	http://worldjiujitsuatlanta.com/	override blanks it
+12	GA	Eastman	Tect Center		stored w is empty string
+13	GA	Flowery Branch	Full Throttle Fitness	http://www.fullthrottleoakwood.com/	override blanks it
+14	GA	Fort Oglethorpe	Blalock International Mixed Martial Arts Academy	http://www.blalocksimb.com/	override blanks it
+15	GA	Gainesville	Gracie Barra Gainesville	https://www.gbgainesville.com/	override blanks it
+16	GA	Gainesville	Absolute Martial Arts		stored w is empty string
+17	GA	Griffin	Praxis MMA		stored w is empty string
+18	GA	Hoboken	Invictus Brazilian Jiu Jitsu & Defensive Arts	http://invictusbjj.online/	override blanks it
+19	GA	Lawrenceville	Rodriguez MMA		stored w is empty string
+20	GA	Lawrenceville	Gwinnett Training Academy	http://www.gwinnetttrainingacademy.com/	override blanks it
+21	GA	Macon	Macon Jiu Jitsu Academy		stored w is empty string
+22	GA	Marietta	Advantage Jiu-Jitsu and Self Defense	https://www.advantagejj.com/	override blanks it
+23	GA	Marietta	East Cobb Martial Arts	http://www.eastcobbma.com/	override blanks it
+24	GA	Pooler	Redline MMA	http://www.redlinemma.com/	override blanks it
+25	GA	Powder Springs	Tekniques Brazilian Jiu-Jitsu & Fitness	http://www.tekniquesbjj.com/	override blanks it
+26	GA	Smyrna	Atlanta Budokan	http://www.atlantabudokan.com/	override blanks it
+27	GA	Statesboro	Fit to Fight Georgia		stored w is empty string
+28	GA	Sylvester	Sylvester Jiu-Jitsu Academy	http://sylvesterjiujitsu.com/	override blanks it
+29	GA	Tifton	Redemption Martial Arts Academy	http://www.martialartstifton.com/	override blanks it
+30	GA	Villa Rica	Independent MMA & Fitness - Villa Rica	https://www.independentvillarica.com/	override blanks it
+31	GA	Warner Robins	Zanshin South Gracie Jiu Jitsu	http://www.zanshinsouthgraciejiujitsu.com/	override blanks it
+32	GA	Watkinsville	Megalodon MMA	http://www.megalodonmma.com/	override blanks it
+33	IL	Bloomingdale	EDS Martial Arts and Self-Defense School		no w key
+34	IL	Burr Ridge	Force Brazilian Jiu-Jitsu	http://www.madeyoutap.com/	override blanks it
+35	IL	Chicago	10th Planet Jiu Jitsu Chicago	http://www.10thplanetjjchicago.com	override blanks it
+36	IL	Collinsville	GB Collinsville		no w key
+37	IL	Deerfield	Chicago Martial Arts / Brazilian Top Team Jiu-Jitsu		no w key
+38	IL	Downers Grove	Bodhi Collaborative BJJ	http://www.bodhicollaborative.com	override blanks it
+39	IL	Evanston	GB Evanston		no w key
+40	IL	Fox Lake	Devine Jiu Jitsu Lake County	http://www.scholarwarriormma.com/devine-jiujitsu-lake-county	override blanks it
+41	IL	Geneva	Gracie Jiu-Jitsu Geneva		no w key
+42	IL	Granite City	Granite City MMA Cage Warriors		no w key
+43	IL	Highland Park	Comprido BJJ	http://www.highlandparkbjj.com	override blanks it
+44	IL	Highwood	Brasa Jiu-Jitsu Highwood		no w key
+45	IL	Jacksonville	GB Jacksonville		no w key
+46	IL	Lake Villa	Norse Academy Martial Arts	http://norseacademymartialarts.com/	override blanks it
+47	IL	Lombard	10th Planet Jiu Jitsu Lombard	http://www.10thplanetjjlombard.com/	override blanks it
+48	IL	Machesney Park	Northern Illinois Combat Club and Fitness	http://www.niccfitness.com/	override blanks it
+49	IL	Macomb	Cassady Martial Arts Academy Royce Gracie Jiu Jitsu	http://www.cassadymartialarts.com/	override blanks it
+50	IL	Macomb	The Shed JiuJitsu Academy	https://theshedjiujitsuacademy.com/	override blanks it
+51	IL	McHenry	Constrictor MMA		no w key
+52	IL	Mt. Vernon	Pedigo Submission Fighting	https://pedigosubmissionfighting.com	override blanks it
+53	IL	New Baden	Middeke Brazilian Jiu Jitsu	https://www.middekebjj.com/	override blanks it
+54	IL	Northbrook	Victory Martial Arts Northbrook		no w key
+55	IL	Orland Park	Randori MMA & Jiu Jitsu	http://www.randorijiujitsu.com/	override blanks it
+56	IL	Robinson	Falconbury Warrior Concepts	http://falconburywarriorconcepts.com/	override blanks it
+57	IL	Rockton	RMNU Rockton Judo & Jiu Jitsu Academy		no w key
+58	IL	Roselle	Keith Hackney's Combat Academy	http://www.hackneyscombat.com/	override blanks it
+59	IL	Schaumburg	LCCT Brazilian Jiu Jitsu	https://lcctbjj.com	override blanks it
+60	IL	Schaumburg	P3 Martial Arts	https://p3jiujitsu.com	override blanks it
+61	IL	Waukegan	Ohana Martial Arts	https://ohanamartialarts.net	override blanks it
+62	IL	West Dundee	LCCT Brazilian Jiu-Jitsu West Dundee	https://lcctbjjwestdundee.com/	override blanks it
+63	NV	Carson City	Fight Camp Nv		no w key
+64	NV	Carson City	No Limits Martial Arts		no w key
+65	NV	Elko	University of Grappling: Elko		no w key
+66	NV	Henderson	Gracie Barra Henderson	http://www.gblasvegas.com	override blanks it
+67	NV	Henderson	Relson Gracie Jiu Jitsu Team HK Las Vegas	http://relsongracielv.com	override blanks it
+68	NV	Henderson	Renzo Gracie Henderson Jiu Jitsu	https://www.renzograciehenderson.com	override blanks it
+69	NV	Henderson	Samurai Brazilian Jiu Jitsu Academy	https://samuraitc.com	override blanks it
+70	NV	Henderson	Veritas Combat Arts And Fitness Academy	http://veritascombatarts.com	override blanks it
+71	NV	Las Vegas	Las Vegas Fight Center	https://lasvegasfightcenter.com	override blanks it
+72	NV	Las Vegas	Tristar Las Vegas	https://tristarlasvegas.com	override blanks it
+73	NV	Las Vegas	AE Brazilian Jiu Jitsu		no w key
+74	NV	Las Vegas	Cascao Evolution BJJ		no w key
+75	NV	Las Vegas	Cascao Jiu Jitsu	http://www.cascaojiujitsu.com	override blanks it
+76	NV	Las Vegas	Destiny Health & MMA		no w key
+77	NV	Las Vegas	Fredson Paixao Academy	http://fredsonpaixaobjj.com	override blanks it
+78	NV	Las Vegas	Hard Knocks Muay Thai & Judo	http://www.hkmtkickboxing.com	override blanks it
+79	NV	Las Vegas	Las Vegas Fight Club	http://www.thelasvegasfightclub.com	override blanks it
+80	NV	Las Vegas	MC Unit jiu jitsu Academy		no w key
+81	NV	Las Vegas	Reylson Gracie Jiu-Jitsu Health & Wellness Center		no w key
+82	NV	Las Vegas	Ribeiro Jiu-Jitsu - Las Vegas	http://www.ribeirojiujitsulasvegas.com	override blanks it
+83	NV	Las Vegas	Tapout Research & Development Training Center	http://www.tapoutlasvegas.com	override blanks it
+84	NV	Las Vegas	The Academy of Brazilian Jiu Jitsu		no w key
+85	NV	Las Vegas	Throwdown Training Center		no w key
+86	NV	Las Vegas	Wand Fight Team	https://www.wandfightteam.vegas	override blanks it
+87	NV	Paradise	Orient Jiu Jitsu		no w key
+88	NV	Reno	Battle Born MMA	http://www.battlebornmma.com	override blanks it
+89	NV	Reno	Lion's Den MMA & Fitness Center	http://www.lionsdenreno.com	override blanks it
+90	NV	Sparks	Atos Jiu Jitsu Reno	http://www.atosjiujitsureno.com	override blanks it

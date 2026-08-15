@@ -1,0 +1,17 @@
+id	region	city	name	stored_w	why_blank
+8	CO	Castle Rock	Carlson Gracie Jiujitsu Team Castle Rock	http://carlsongracieteamcastlerock.com	override blanks it
+17	CO	Denver	Low Summit Jiu Jitsu	http://www.lowsummitjiujitsu.com	override blanks it
+26	CO	Lakewood	Flo Life BJJ + Colorado Holistic Martial Arts	https://www.flolifebjj.com	override blanks it
+35	LA	Abbeville	Vermilion Martial Arts Academy	http://www.abbevillesummercamp.com/	override blanks it
+44	LA	Denham Springs	Combat Athletics	https://ccrosbyjiujitsu.com/contact-us/	override blanks it
+53	LA	Metairie	Louisiana Martial Arts Academy	http://www.louisianamaa.com/	override blanks it
+62	LA	Shreveport	Carlos Machado Jiu Jitsu of Shreveport	http://shreveportmartialart.com/	override blanks it
+71	NJ	Cedar Knolls	AMA Fight Club	https://www.amafightclubcedarknolls.com/	override blanks it
+80	NJ	Flanders	Elite Tactical Martial Arts	http://www.elitetacticalmartialarts.com/	override blanks it
+89	NJ	Jersey City	Team Endurance MMA/ Brazilian JiuJitsu & Kickboxing Academy	http://www.teamendurancemma.com/	override blanks it
+98	NJ	South Amboy	Lionheart MMA	http://www.lionheartmixedmartialarts.com/	override blanks it
+107	NJ	Westfield	Gracie Barra Westfield	https://www.gbwestfield.com/	override blanks it
+116	OK	Broken Arrow	Brothers Jiu Jitsu	brothersjiujitsu.com	override blanks it
+125	OK	El Reno	KMG Martial Arts Inc	kmgmartialarts.com	override blanks it
+134	OK	Oklahoma City	Sen Shin Kan Dojo	senshinkandojo.com	override blanks it
+143	OK	Tulsa	Ryan Brazilian Jiu Jitsu		stored w is empty string

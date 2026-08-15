@@ -1,0 +1,15 @@
+id	region	city	name	stored_w	why_blank
+5	FL	Boca Raton	R2F Boxing & MMA Fitness Studio		no w key
+11	FL	Clearwater	Grady's Family Mixed Martial Arts	http://www.gradysmma.com	override blanks it
+17	FL	DeBary	Complete MMA Fitness		no w key
+23	FL	Fort Myers	Fight Zone MMA	http://www.fightzonefl.com/	override blanks it
+29	FL	Hialeah	Paladin MMA Academy		no w key
+35	FL	Kendale Lakes	The Hidden Lotus		no w key
+41	FL	Melbourne	Master Lowell's MMA Academy	https://jlmma.com/	override blanks it
+47	FL	Miami Beach	Capital Jiu Jitsu		no w key
+53	FL	Ocoee	Gracie Jiu-Jitsu Ocoee		no w key
+59	FL	Orlando	Gracie Jiu-Jitsu Orlando		no w key
+65	FL	Port Orange	Fight Sports Daytona	https://www.fightsportsdaytona.com/freetrial	override blanks it
+71	FL	St. Petersburg	Elite Training Center	http://www.elitetraininginc.com/	override blanks it
+77	FL	Vero Beach	American Top Team – Vero Beach	http://www.attverobeach.com/	override blanks it
+83	FL	Weston	Vprok MMA Academy	http://www.vprokmma.com/United_States.html	override blanks it

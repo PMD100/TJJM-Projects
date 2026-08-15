@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+3	GA	Albany	Hamby Freestyle Jiu Jitsu	http://www.hambyfreestyle.com/	override blanks it
+9	GA	Covington	Ruff House Boxing and MMA	https://www.ruffhouseboxing.com/	override blanks it
+15	GA	Gainesville	Gracie Barra Gainesville	https://www.gbgainesville.com/	override blanks it
+21	GA	Macon	Macon Jiu Jitsu Academy		stored w is empty string
+27	GA	Statesboro	Fit to Fight Georgia		stored w is empty string
+33	IL	Bloomingdale	EDS Martial Arts and Self-Defense School		no w key
+39	IL	Evanston	GB Evanston		no w key
+45	IL	Jacksonville	GB Jacksonville		no w key
+51	IL	McHenry	Constrictor MMA		no w key
+57	IL	Rockton	RMNU Rockton Judo & Jiu Jitsu Academy		no w key
+63	NV	Carson City	Fight Camp Nv		no w key
+69	NV	Henderson	Samurai Brazilian Jiu Jitsu Academy	https://samuraitc.com	override blanks it
+75	NV	Las Vegas	Cascao Jiu Jitsu	http://www.cascaojiujitsu.com	override blanks it
+81	NV	Las Vegas	Reylson Gracie Jiu-Jitsu Health & Wellness Center		no w key
+87	NV	Paradise	Orient Jiu Jitsu		no w key

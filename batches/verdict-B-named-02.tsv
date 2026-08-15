@@ -1,0 +1,60 @@
+# B-named-02 verdicts - 58 flagged links - DNS-first method
+state	city	name	url	verdict	note
+NH	Nashua	Alliance Jiu Jitsu NH	https://alliancejiujitsunh.com	DEAD	nxdomain, does not resolve
+NH	Portsmouth	Seacoast BJJ NH	https://seacoastbjjnh.com	DEAD	nxdomain, does not resolve
+NL	Clarenville	Velocity Martial Arts Academy	https://www.velocitynl.com	LIVE-SCHOOL	live gymnastics academy also offering bjj/mma/kickboxing
+NM	Albuquerque	Duke City BJJ	https://dukecitybjj.com	DEAD	nxdomain, does not resolve
+NM	Las Vegas	Las Vegas NM BJJ	https://lasvegasnmbjj.com	DEAD	nxdomain, does not resolve
+NM	Santa Fe	New Mexico BJJ	https://newmexicobjj.com	DEAD	nxdomain, does not resolve
+NS	Bridgewater	Team Fortitude NS	https://teamfortitudens.com	DEAD	nxdomain, does not resolve
+NS	Dartmouth	Atlantic BJJ	https://atlanticbjj.com	DEAD	nxdomain, does not resolve
+NS	Shelburne	Shelburne BJJ NS	https://shelburnebjjns.com	DEAD	nxdomain, does not resolve
+NS	Sydney	Cape Breton BJJ	https://capebretonbjj.com	DEAD	nxdomain, does not resolve
+ON	Hamilton	Valens Jiu Jitsu Academy	https://valensjiujitsu.com	DEAD	nxdomain, does not resolve
+ON	London	Alliance Jiu Jitsu London Ontario	https://alliancejiujitsulondon.ca	DEAD	nxdomain, does not resolve
+ON	Mississauga	South Mississauga Jiu Jitsu	https://southmississaugabjj.com	DEAD	nxdomain, does not resolve
+ON	Ottawa	Alliance Jiu Jitsu Ottawa	https://alliancejiujitsuottawa.com	DEAD	nxdomain, does not resolve
+ON	Stratford	Stratford BJJ Ontario	https://stratfordbjjon.com	DEAD	nxdomain, does not resolve
+ON	Toronto	Yorkdale Martial Arts	https://yorkdalemartialarts.com	LIVE-SCHOOL	live bjj/muay thai/taekwondo academy in york/toronto
+ON	Whitby	Four-Eleven Brazilian Jiu Jitsu	https://foureleven-bjj.com	DEAD	nxdomain, does not resolve
+ON	Woodstock	Woodstock BJJ Ontario	https://woodstockbjjon.com	DEAD	nxdomain, does not resolve
+PE	Charlottetown	PEI Brazilian Jiu Jitsu	https://peibjj.com	DEAD	nxdomain, does not resolve
+PE	Stratford	Stratford BJJ PEI	https://stratfordbjjpei.com	DEAD	nxdomain, does not resolve
+PE	Summerside	Island Grappling Club	https://islandgrapplingclub.com	DEAD	nxdomain, does not resolve
+PE	Summerside	Summerside BJJ PEI	https://summersidebjjpei.com	DEAD	nxdomain, does not resolve
+QC	Gatineau	Patenaude Martial Arts Gatineau	https://patenaude-martialarts.com	DEAD	nxdomain, does not resolve
+QC	Laval	Action & Reaction MMA	https://actionreactionmma.ca	DEAD	nxdomain, does not resolve
+QC	Lévis	Levis BJJ	https://levisbjj.com	DEAD	nxdomain, does not resolve
+QC	Montreal	Alliance Jiu Jitsu Montreal	https://alliancejiujitsumontreal.com	DEAD	nxdomain, does not resolve
+QC	Montreal	Renzo Gracie Montreal	https://renzogracieontreal.com	DEAD	nxdomain, does not resolve
+QC	Montreal	Santos Brothers BJJ Montreal	https://santosbrothersbjjmtl.com	DEAD	nxdomain, does not resolve
+QC	Quebec City	Alliance Jiu Jitsu Quebec City	https://alliancejiujitsuqc.com	DEAD	nxdomain, does not resolve
+QC	Quebec City	Royal Jiu-Jitsu Quebec	https://royaljiujitsu.ca	DEAD	nxdomain, does not resolve
+QC	Sept-Îles	Sept-Iles BJJ	https://septilesbjj.com	DEAD	nxdomain, does not resolve
+QC	Trois-Rivières	Trois-Rivieres BJJ	https://troisrivieresbjj.com	DEAD	nxdomain, does not resolve
+RI	Middletown	Middletown BJJ RI	https://middletownbjjri.com	DEAD	nxdomain, does not resolve
+RI	Providence	Ricardo Cavalcanti BJJ RI	https://cavalcantibjjri.com	DEAD	nxdomain, does not resolve
+SC	Easley	Alliance Jiu Jitsu Easley	https://allianceeasley.com	DEAD	nxdomain, does not resolve
+SC	Florence	Florence BJJ SC	https://florencebjjsc.com	DEAD	nxdomain, does not resolve
+SC	Hilton Head Island	Hilton Head BJJ	https://hiltonheadbjj.com	DEAD	nxdomain, does not resolve
+SC	North Charleston	American Judo and Jiu-Jitsu	https://americanjudoandjiujitsu.com	DEAD	nxdomain, does not resolve
+SD	Rapid City	Black Hills BJJ	https://blackhillsbjj.com	DEAD	nxdomain, does not resolve
+SD	Sioux Falls	Joku Dojo	https://jokudojo.com	DEAD	nxdomain, does not resolve
+SD	Watertown	Watertown BJJ SD	https://watertownbjjsd.com	DEAD	nxdomain, does not resolve
+TN	Alcoa	Maryville Jiu-Jitsu	https://www.maryvillejiujitsu.com	DEAD	nxdomain on www and apex
+TN	Chattanooga	Armory Jiu-Jitsu Academy Chattanooga	https://www.armoryjiujitsuacademy.com	DEAD	nxdomain on www and apex
+TN	Columbia	Columbia BJJ Tennessee	https://columbiabjjtn.com	DEAD	nxdomain, does not resolve
+TN	Hendersonville	Profectus Jiu-Jitsu Hendersonville	https://profectusjiujitsu.com	DEAD	nxdomain, does not resolve
+TN	Jackson	Jackson BJJ Tennessee	https://jacksonbjjtn.com	DEAD	nxdomain, does not resolve
+TN	Johnson City	Tri-Cities BJJ	https://tricitiesbjj.com	DEAD	nxdomain, does not resolve
+TN	Lebanon	Lebanon BJJ Tennessee	https://lebanonbjjtn.com	DEAD	nxdomain, does not resolve
+TN	Nashville	Alliance Jiu Jitsu Tennessee	https://alliancejiujitsutennessee.com	DEAD	nxdomain, does not resolve
+UT	Salt Lake City	Alliance Jiu Jitsu Utah	https://alliancejiujitsuutah.com	DEAD	nxdomain, does not resolve
+UT	Salt Lake City	SLC BJJ Academy	https://slcbjjacademy.com	DEAD	nxdomain, does not resolve
+UT	St. George	Alliance Jiu Jitsu St. George	https://alliancejiujitsustgeorge.com	DEAD	nxdomain, does not resolve
+VT	Burlington	Green Mountain BJJ	https://greenmountainbjj.com	DEAD	nxdomain, does not resolve
+VT	St. Johnsbury	Northeast Kingdom BJJ	https://nekbjj.com	EMPTY	dns resolves, empty body on root and /index.html
+VT	White River Junction	White River BJJ	https://whiteriverbjj.com	DEAD	nxdomain, does not resolve
+WY	Jackson	Wyoming Martial Arts	https://wyomingmartialarts.com	DEAD	nxdomain, does not resolve
+WY	Laramie	Alliance Jiu Jitsu Wyoming	https://alliancejiujitsuwyoming.com	DEAD	nxdomain, does not resolve
+WY	Sheridan	Sheridan BJJ Wyoming	https://sheridanbjjwy.com	DEAD	nxdomain, does not resolve

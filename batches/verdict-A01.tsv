@@ -1,0 +1,86 @@
+# A01 verdicts - 84 flagged links - DNS-first method
+state	city	name	url	verdict	note
+AL	Athens	Athens Jiu Jitsu	https://www.athensjiujitsu.info/	DEAD	nxdomain
+AL	Calera	Calera Fitness and MMA	https://www.calerafitness.com/Calera_Fitness_%26_MMA/Home.html	DEAD	nxdomain
+AL	Daphne	Yamane Championship Mixed Martial Arts	http://www.ycmma.com/	DEAD	nxdomain
+AL	Hoover	Champions Freestyle MMA & Fitness	http://www.championsfreestylemma.com/	DEAD	nxdomain
+AL	Prattville	Prattville Fitness Kickboxing And MMA	http://fitnesskickboxingandmmaprattville.com/	DEAD	nxdomain
+AZ	Chandler	Lopez Martial Arts	https://lopezjiujitsu.com/	EMPTY	js shell, dns ok
+AZ	Chandler	The Desert Dojo	https://thedesertdojo.com/	EMPTY	js shell, dns ok
+AZ	Green Valley	Dominate Fitness and MMA	http://www.dominatefitnessmma.com/	DEAD	nxdomain
+AZ	Kingman	Deets Jiu Jitsu Academy	http://www.gladiatorunderground.com/	DEAD	nxdomain
+AZ	Lake Havasu City	Bridge City Combat	http://aaeamerica.com/	EMPTY	js shell, dns ok, retried index
+AZ	Mesa	Ruffhouse Jiu-Jitsu	http://www.ruffhousejiujitsumesa.com/	DEAD	nxdomain
+AZ	Mesa	Southwest MMA	http://southwestmma.com/	EMPTY	js shell, dns ok
+AZ	Peoria	Allied Jiu Jitsu	http://alliedjiujitsu.com	DEAD	nxdomain
+AZ	Peoria	Gracie Peoria	http://www.graciepeoria.com	DEAD	nxdomain
+AZ	Phoenix	Fury Brazilian Jiu Jitsu	https://www.furybjj.com/	DEAD	nxdomain
+AZ	Scottsdale	Gracie Jiu-Jitsu Scottsdale	http://graciescottsdale.com/	DEAD	nxdomain
+AZ	Sierra Vista	Flow Game Gym	http://www.flowgamegym.org/	DEAD	nxdomain
+AZ	Tempe	American Pankration Fighting MMA	http://www.americanpankration.net/	DEAD	nxdomain
+AZ	Tempe	Dragon-Snake MMA & Fitness	http://dragonsnakemma.com/	DEAD	nxdomain
+AZ	Tucson	Always Forward Jiu-Jitsu Academy	http://www.alwaysforwardjiujitsu.com/	DEAD	nxdomain
+AZ	Tucson	TeckHit Boxing, Kickboxing, & MMA Gym	https://teckhit.com/	EMPTY	js shell, dns ok
+CA	Anaheim	Javier Blanchard Brazilian Jiu Jitsu / BJJ Anaheim CA 92801	https://www.javierblanchard.com/	DEAD	nxdomain
+CA	Arcata	Institute of Combat	https://www.instituteofcombat.com/	LIVE-SCHOOL	live mma/bjj gym site
+CA	Bakersfield	Eric Nolan's Xtreme Training Center	http://www.ericnolan.com/	EMPTY	dns lame delegation, blank after retry
+CA	Bakersfield	The Chute MMA, Jiu Jitsu and Wrestling	http://www.chutetraining.com	DEAD	nxdomain
+CA	Brentwood	Ares BJJ Brentwood	http://aresbrentwood.com/	DEAD	nxdomain
+CA	Chico	Bruno Lima Brazilian Jiu Jitsu	http://www.brunolimabjj.com/	LIVE-SCHOOL	live bjj academy
+CA	Chula Vista	Global Fighting Legion / Jiu-Jitsu Chula Vista CA 91914	https://theinstituteofhealthandfitness.com/Home	LIVE-SCHOOL	live mma/fitness gym
+CA	Culver City	Abrigo Martial Arts	http://www.abrigomartialarts.com/index02.php	DEAD	nxdomain
+CA	Fresno	Checkmat Fresno-Roots Brazilian Jiu-Jitsu	http://checkmatfresno.com	DEAD	nxdomain
+CA	Gold River	Brazilian Jiu Jitsu Academy of Sacramento	http://elementsofjiujitsu.com/	LIVE-SCHOOL	renamed elements of jiujitsu, same school
+CA	Harbor City	Royce Gracie Jiu Jitsu Academy SoCal	https://roycegraciesouthbay.com/	DEAD	nxdomain
+CA	Hayward	Hayward BJJ Darcio Lira	https://www.haywardbjjdarciolira.com/	DEAD	nxdomain
+CA	Irvine	Phenom Brazilian Jiu Jitsu	http://phenombjjoc.com/	LIVE-SCHOOL	live bjj academy
+CA	Irvine	Team Oyama MMA & Fitness	http://teamoyamamma.com/	DEAD	nxdomain
+CA	Irvine	Valhalla Jiu Jitsu	http://www.valhallabjj.com/	DEAD	nxdomain
+CA	Laguna Hills	Joker's MMA	http://www.jokersmma.com/	DEAD	nxdomain
+CA	Los Angeles	Alliance Jiu Jitsu Los Angeles	https://alliancejiujitsusla.com	DEAD	nxdomain
+CA	Los Angeles	Bang Bang Power Fit	http://bangbangpowerfit.com/	DEAD	nxdomain
+CA	Los Angeles	Independent Jiu-Jitsu	https://www.independentjiujitsu.co/calendar	DEAD	nxdomain
+CA	Los Angeles	Marcelo Garcia Academy LA	https://marcelogarciaacademy.com/la	EMPTY	js shell, dns ok, retried apex
+CA	Madera	Madera Martial Arts	http://maderamma.com/	LIVE-SCHOOL	thin content, mma gym confirmed
+CA	Murrieta	Rise Jiu Jitsu Academy	https://risejiujitsumurrieta.com	DEAD	nxdomain
+CA	Oakland	Catch MMA	https://www.catchmma.com/	LIVE-SCHOOL	live mma gym, apex works not www
+CA	Orange	OC Carlson Gracie Jiu Jitsu	https://www.carlsongracieoc.com/	LIVE-SCHOOL	live bjj academy
+CA	Paso Robles	GB Paso Robles	https://gbpasorobles.com/	DEAD	nxdomain
+CA	Redlands	10th Planet Redland	http://www.10thplanetredlands.com	DEAD	nxdomain
+CA	Ridgecrest	Flawless Victory MMA	http://www.fvmma.com/	DEAD	nxdomain
+CA	Riverside	Academy Of Striking & Grappling	http://www.asgfacility.com/	DEAD	nxdomain
+CA	Rocklin	Infinite Jiu-Jitsu	http://www.infinitejiujitsu.net/	LIVE-SCHOOL	live bjj academy
+CA	Rocklin	SLL Grappling Academy - Brazilian Jiu-Jitsu (BJJ)	http://sllgrapplingacademy.com/	EMPTY	dns lame delegation, blank after retry
+CA	Rocklin	Synergy Jiu-Jitsu Academy	http://www.bjj-rocklin.com/	LIVE-SCHOOL	live bjj academy, apex works not www
+CA	Salinas	Salinas Jiu Jitsu & Personal Training	http://www.salinasbjj.com/	LIVE-SCHOOL	live bjj academy
+CA	San Diego	4S Brazilian Jiu Jitsu / Jiu-Jitsu San Diego CA 92127	http://www.4sbjj.com/	LIVE-SCHOOL	live bjj/judo academy, apex not www
+CA	San Diego	Alliance Jiu Jitsu San Diego	https://alliancejiujitsusandiego.com	DEAD	nxdomain
+CA	San Diego	Atos BJJ San Diego	https://atosjiujitsu.com	EMPTY	js shell, dns ok
+CA	San Diego	Fabio Santos BJJ	http://www.fabiojiujitsu.com/	LIVE-SCHOOL	live bjj academy, apex not www
+CA	San Francisco	Ralston Gracie Jiu Jitsu	http://www.ralstongracie.com	PARKED	namecheap parking cname
+CA	San Jose	I M C Survival Center	http://www.imcsurvivalcenter.com/	DEAD	nxdomain
+CA	San Jose	Knoxx Martial Arts and Fitness	https://knoxxgym.com	DEAD	nxdomain
+CA	Simi Valley	Watts Brazilian Jiu-Jitsu & Muay Thai Academy	http://www.wattsbjj.com/	DEAD	nxdomain
+CA	Stanton	DE LA O Jiu-Jitsu	http://delaojiujitsu.com/	DEAD	nxdomain
+CA	Stockton	Andre de Freitas Brazilian Jiu-Jitsu / BJJ Stockton CA 95210	http://andredefreitasbjj.com/index.html	DEAD	nxdomain
+CA	Stockton	Ares BJJ Stockton	http://www.aresbjjstockton.com	DEAD	nxdomain
+CA	Stockton	Shingu Fighter	http://www.shingufighter.com/	DEAD	nxdomain
+CA	Torrance	10th Planet Torrance	https://www.darkartsacademy.net	DEAD	nxdomain
+CA	Torrance	Gracie Jiu-Jitsu Academy	http://www.gracieacademy.com/	EMPTY	js shell, dns ok, retried index
+CA	Vacaville	Ralph Gracie Vacaville	http://ralphgracievacaville.com/	LIVE-SCHOOL	live bjj academy
+CA	Vacaville	Rodrigo Cardoso Brazilian Jiu-Jitsu Academy	https://rodrigocardosoacademy.com/	DEAD	nxdomain
+CA	Ventura	Rock And Roll Fight Company	https://rocknrollfightcompany.com/	DEAD	nxdomain
+CA	Visalia	Outlaw MMA & Fitness	http://outlaw559gym.com/	DEAD	nxdomain
+CA	Woodland Hills	ZR Brazilian Jiu-jitsu Thousand Oaks / BJJ Thousand Oaks CA 91362	http://zrwoodlandhills.com/index.html	DEAD	nxdomain
+CA	Yucaipa	BloodSpillerBJJ & Caveirinha Jiu Jitsu Academy	http://www.cjjfsocal.com/	DEAD	nxdomain
+CO	Arvada	Genesis Training Academy	http://www.fightgta.com	DEAD	nxdomain
+CO	Aurora	Alliance Jiu Jitsu Colorado	https://alliancejiujitsucolorado.com	DEAD	nxdomain
+CO	Aurora	Gracie Jiu-Jitsu Aurora	http://www.graciejiujitsuaurora.com	DEAD	nxdomain
+CO	Boulder	Alliance Jiu Jitsu Boulder	https://alliancejiujitsububoulder.com	DEAD	nxdomain
+CO	Brighton	Frontline Wrestling and Jiu-Jitsu Academy	http://www.graciebrighton.com	DEAD	nxdomain
+CO	Canon City	Gracie Jiu-Jitsu Canon City	https://graciejiujitsu-canon.com	DEAD	nxdomain
+CO	Carbondale	Carbondale Training Center (Rising Crane)	http://www.risingcrane.net	DEAD	nxdomain
+CO	Castle Rock	Carlson Gracie Jiujitsu Team Castle Rock	http://carlsongracieteamcastlerock.com	DEAD	nxdomain
+CO	Centennial	Valor BJJ & Fitness	http://valorbjjfit.com	DEAD	nxdomain
+CO	Colorado Springs	Altitude MMA	http://www.altitudemma.com	DEAD	nxdomain
+CO	Colorado Springs	Cheyenne Mountain BJJ	https://cheyennemountainbjj.com	DEAD	nxdomain

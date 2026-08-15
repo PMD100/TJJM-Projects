@@ -1,0 +1,36 @@
+id	region	city	name	stored_w	candidates	prior_evidence
+3	CO	Aurora	Gracie Jiu-Jitsu Aurora	http://www.graciejiujitsuaurora.com	graciebjjcolorado.com; graciejiujitsuaurora.com	graciebjjcolorado.com has a live A record (192.252.154.23) but web_fetch returns a totally empty bod
+11	CO	Colorado Springs	719 Fight Team MMA		719fightteam.com; facebook.com	No domain resolves (719fightteam.com NXDOMAIN); the only apparent school-run presence is facebook.co
+19	CO	Englewood	Guetho BJJ Denver	https://guethobjjdenver.com	guetho.com; guethobjjdenver.com; engelwoodbjj.com	Stored guethobjjdenver.com and engelwoodbjj.com are both NXDOMAIN; guetho.com has a live A record 2.
+29	CO	Loveland	Kingsnake Jiu-Jitsu	http://www.kingsnakebjj.com	lovelandathleticclub.org; kingsnakebjj.com; kingsnakejiujitsu.com	Stored kingsnakebjj.com and kingsnakejiujitsu.com are both NXDOMAIN; a King Snake Jiu Jitsu partner 
+30	CO	New Castle	Ground Zero Roaring Fork Valley BJJ	http://gzglenwoodsprings.com	ground-zero-roaring-fork.square.site; gzglenwoodsprings.com	Stored gzglenwoodsprings.com is NXDOMAIN; ground-zero-roaring-fork.square.site is live with a real s
+31	CO	Northglenn	Rocky Mountain Jiu Jitsu		rockymountainjiujitsu.com; rockymountainjj.com; invisiblejiujitsu.org	rockymountainjj.com and invisiblejiujitsu.org are NXDOMAIN and rockymountainjiujitsu.com now redirec
+35	LA	Abbeville	Vermilion Martial Arts Academy	http://www.abbevillesummercamp.com/	vermilionmartialarts.com; abbevillesummercamp.com; vmaaskillz.com	Stored abbevillesummercamp.com is NXDOMAIN. Candidate vmaaskillz.com is also NXDOMAIN; vermilionmart
+39	LA	Bossier City	Stockwell Martial Arts Academy		facebook.com; stockwellmartialarts.com; stockwellmartialartsacademy.com	No own domain exists: stockwellmartialarts.com and stockwellmartialartsacademy.com are both NXDOMAIN
+40	LA	Broussard	Fight to Win Lafayette Jiu -Jitsu	http://www.fighttowinlafayette.com/	fighttowinlafayette.com	fighttowinlafayette.com is NXDOMAIN; the only remaining presence is a Facebook page for the 1212 Alb
+41	LA	Broussard	Louisiana Judo. Louisiana Muay Thai		louisianajudo.com	www.louisianajudo.com has live A records (multiscreensite/Duda) but every page fetched (/, /programs
+48	LA	Jennings	Reeds Elite Mixed Martial Arts		reedselitemma.com	reedselitemma.com resolves to 209.59.187.177 on GoDaddy nameservers but returns an empty body on /, 
+51	LA	Lake Charles	Lake Area Brazilian Jiu-Jitsu		labjj.com	labjj.com has a live A record (208.73.209.18) but returns a completely empty body on two cache-buste
+52	LA	Leesville	Ground Zero Combat Sports Academy		groundzerocombatsportsacademy.com; facebook.com	groundzerocombatsportsacademy.com is NXDOMAIN (Status 3) although search still indexes an /about pag
+59	LA	Prairieville	Criterion Jiu Jitsu	https://www.criterionjiujitsu.com/home	criterionjiujitsu.com; criterionbjj.com	criterionjiujitsu.com and www.criterionjiujitsu.com both NXDOMAIN; only web presence found is a Face
+64	LA	Stonewall	Gracie Stonewall Jiu Jitsu Academy		gatorpitbjj.com	gatorpitbjj.com has a live A record 52.223.13.41 and serves a real robots.txt with a sitemap, but ev
+70	NJ	Browns Mills	Clay Jiu Jitsu	http://www.clayjiu-jitsu.com/	clayjiu-jitsu.com; clayjiujitsu.com; facebook.com	clayjiu-jitsu.com and clayjiujitsu.com are both NXDOMAIN (Status 3). No other domain found. Only can
+76	NJ	Edison	Jaguar BJJ	http://jaguarbjj.com/	jaguarbjj.com; jaguarbrazilianjiujitsu.com	jaguarbjj.com and jaguarbrazilianjiujitsu.com are both NXDOMAIN; the 518 Old Post Road Edison academ
+77	NJ	Elizabeth	Golden Eagle Judo & Jiu-Jitsu	http://www.goldeneaglejjj.com/	goldeneaglejjj.com; goldeneaglejudo.com	www.goldeneaglejjj.com NXDOMAIN and goldeneaglejudo.com NXDOMAIN; only presence is Facebook/Instagra
+89	NJ	Jersey City	Team Endurance MMA/ Brazilian JiuJitsu & Kickboxing Academy	http://www.teamendurancemma.com/	jerseycity-mma.com; teamendurancemma.com	Stored teamendurancemma.com is NXDOMAIN. Candidate jerseycity-mma.com resolves live (A 74.63.219.252
+94	NJ	Mt. Holly	Jbm Brazilian Jiu-Jitsu Academy	http://www.jbmbjj.com/	jbmjiujitsu.com; jbmbjj.com	jbmbjj.com is NXDOMAIN; jbmjiujitsu.com has live Squarespace A records but returns an empty body to 
+97	NJ	Phillipsburg	Gracie Jiu-Jitsu Phillipsburg		usfamilymartialarts.com	No stored URL. The only Phillipsburg NJ school I could find offering Gracie Jiu-Jitsu is U.S. Family
+98	NJ	South Amboy	Lionheart MMA	http://www.lionheartmixedmartialarts.com/	lionheartbjj.com; lionheartmixedmartialarts.com; facebook.com	Stored lionheartmixedmartialarts.com is NXDOMAIN. lionheartbjj.com is a DIFFERENT school - Lionheart
+101	NJ	Teterboro	Martial Maxx MMA	http://www.martialmaxxmma.com/	martialmaxxmma.com; martialmaxx.com; facebook.com	Stored martialmaxxmma.com and martialmaxx.com are both NXDOMAIN; the only apparent school-run presen
+106	NJ	West Long Branch	Rolles Gracie Academy - Long Branch Jiu Jitsu & Muay Thai	https://rollesgracielongbranchnj.com/	rollesgracieacademy.com; rollesgracielongbranchnj.com; rrmartialarts.com	rollesgracielongbranchnj.com NXDOMAIN. The LIVE Rolles Gracie network locations page (read in full) 
+120	OK	Duncan	Lucas Martial Arts		lucasmartialartsacademy.com; lucasmartialarts.com	lucasmartialarts.com is NXDOMAIN and lucasmartialartsacademy.com is a same-name different school at 
+121	OK	Durant	Empire Jiu-Jitsu Durant	empirejiujitsudurant.com	empirebjjok.com; empirejiujitsudurant.com; empirebjjdurant.com	empirejiujitsudurant.com and empirebjjdurant.com are both NXDOMAIN; empirebjjok.com is Empire BJJ at
+123	OK	Edmond	Kudos		kudosjiujitsu.com	kudosjiujitsu.com has a live A record (198.49.23.144, Squarespace range) but returns a completely em
+126	OK	Enid	Shah Mat Brazilian Jiu Jitsu		shahmatbjj.com; shahmatjiujitsu.com; facebook.com	shahmatbjj.com and shahmatjiujitsu.com both NXDOMAIN. School appears active (213 W Randolph, Enid; 2
+129	OK	Muskogee	Mega Church Jiu Jitsu		facebook.com; megachurchjiujitsu.com	megachurchjiujitsu.com is NXDOMAIN and the only web presence found is a Facebook page and Instagram 
+131	OK	Mustang	F-5 Grappling		f5grappling.com	f5grappling.com NXDOMAIN; only presence is Facebook/Instagram (listings give 660 W SW 59th St, Musta
+135	OK	Oklahoma City	Yu'ki MMA		wellnessliving.com; yukimma.com; facebook.com	"yukimma.com NXDOMAIN. The WellnessLiving page is explicitly marked ""Unverified Business - This listi"
+137	OK	Owasso	Clinch Martial Arts Academy - Owasso	teamclinch.com	clinchmartialarts.com; teamclinch.com	Stored teamclinch.com nameservers return REFUSED and it serves an empty body, so it is dead; clinchm
+139	OK	Poteau	Oklahoma Combat Sports / KORE BJJ	site.oklahomacombatsports.com	korebjj.com; site.oklahomacombatsports.com; oklahomacombatsports.com	site.oklahomacombatsports.com and oklahomacombatsports.com are both NXDOMAIN; korebjj.com redirects 
+140	OK	Pryor	Trinity Martial Arts	trinitypryor.com	trinitypryor.com; trinitymartialartspryor.com	trinitypryor.com NXDOMAIN and trinitymartialartspryor.com NXDOMAIN; only presence is Facebook/Instag
+143	OK	Tulsa	Ryan Brazilian Jiu Jitsu		ryanbjj.com; facebook.com	No stored URL. ryanbjj.com, cited by several directories as this school's site, is a DIFFERENT entit

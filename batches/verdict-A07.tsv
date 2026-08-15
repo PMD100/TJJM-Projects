@@ -1,0 +1,77 @@
+# A07 verdicts - 75 flagged links - DNS-first method
+state	city	name	url	verdict	note
+TX	Austin	Austin Fitness Martial Arts - Now is THE VOID MArtial Arts	http://www.austinfitnessmartialarts.com	DEAD	nxdomain
+TX	Austin	Austin Fitness Martial Arts	https://www.afmatx.com/	DEAD	nxdomain
+TX	Austin	Austin Martial Arts Academy	http://www.austinmartialarts.com/	LIVE-SCHOOL	redirects to satorimethod.com/lifekido.com, rebranded
+TX	Austin	Austin Mixed Martial Arts	https://www.austinmixedmartialarts.com/	DEAD	nxdomain
+TX	Austin	Brazilian Fight Factory	http://www.brazilianfightfactory.com/	DEAD	zone exists, no a record on apex or www
+TX	Austin	Fight Factory Austin	https://fightfactoryaustin.com/	DEAD	nxdomain
+TX	Bedford	Carlos Machado Jiu-Jitsu Mid Cities	https://carlosmachadojiujitsumidcities.com/Home/Offer/	DEAD	dns refused, lame delegation
+TX	Bedford	Ironside Martial Arts	http://www.ironsidemartialarts.com/	DEAD	nxdomain
+TX	Boerne	Grind House Training Facility	http://www.grindhousetraining.com/	DEAD	nxdomain
+TX	Burleson	GB Burleson	https://www.gbburleson.com	DEAD	nxdomain
+TX	Carrollton	Gracie Barra Carrollton	https://www.gbcarrollton.com	DEAD	nxdomain
+TX	Carrollton	Trainers Elite	http://www.trainerselite.net/	DEAD	nxdomain
+TX	Cedar Park	GKX Martial Arts	http://www.gkxtreme.com/	DEAD	cloudflare zone, no a record on apex or www
+TX	Conroe	EnergyFIT Mixed Martial Arts & Fitness	http://energyfitacademy.com/	DEAD	nxdomain
+TX	Conroe	Gracie Humaita Conroe	https://www.gymconroe.com/	DEAD	nxdomain
+TX	Corinth	Jiu Jitsu Tech Mix martial arts and fitness	https://jiujitsutechofcorinth.com	DEAD	nxdomain
+TX	Corpus Christi	Renzo Gracie	http://www.renzogracietx.com/	DEAD	nxdomain
+TX	Corpus Christi	Xtreme MMA	http://www.xtrememmabjj.com/	DEAD	nxdomain
+TX	Deer Park	Atos Jiu-Jitsu Houston	http://www.atoshoustonbjj.com	DEAD	nxdomain
+TX	Denton	Texas Elite MMA	http://www.teamgibson.net/	DEAD	nxdomain
+TX	Edinburg	Amazonas MMA & Fitness Academy	https://amazonasmma.com/	DEAD	nxdomain
+TX	El Paso	El Paso Jiujitsu / Jiu-Jitsu El Paso TX 79936	http://www.elpjiujitsu.com/	DEAD	dns refused, lame delegation
+TX	Fort Worth	Evolve BJJ	https://www.evolvebjj.com/	DEAD	nameservers unresponsive, broken delegation
+TX	Fort Worth	Marcos Santos Academy	http://fwbjj.com/	LIVE-SCHOOL	marcos santos academy, matches record
+TX	Fort Worth	TX Black Belt Academy Ft Worth	http://www.txbba-fortworth.com/	DEAD	nxdomain
+TX	Greenville	Chop Shop MMA	http://www.chopshopmma.com/	DEAD	nxdomain
+TX	Harlingen	Harlingen Jiu-Jitsu Club	http://www.harlingenjjc.com/	LIVE-SCHOOL	redirects to harlingenjiujitsu.com, same club
+TX	Houston	Advantage BJJ Martial Arts & Fitness	https://advantagebjj.com/	EMPTY	resolves, fetch ok, blank js-shell body
+TX	Hurst	Collins Martial Arts	http://www.collinsmartialarts.com/	DEAD	nxdomain
+TX	La Marque	ACS Mixed Martial Arts	http://acsmmatx.com/	EMPTY	resolves, fetch ok, blank js-shell body
+TX	Laredo	Sangue Novo FT / Gallos Prietos Jiu Jitsu	https://sanguenovojj.com/	DEAD	nxdomain
+TX	Longview	Longview BJJ	https://longviewbjj.com	DEAD	nxdomain
+TX	Longview	Pure Jiu-Jitsu Longview	https://pjlvtx.com/	DEAD	nxdomain
+TX	Lubbock	Victory Combat Sports Academy	https://www.victorycombatsportsacademy.com/contact	DEAD	nxdomain
+TX	McKinney	Combat Base TX / Shebaro Jiu Jitsu / We Defy HQ	https://shebarojiujitsu.com	DEAD	nxdomain
+TX	Mesquite	KO Empire Fight Academy / BJJ Mesquite TX 75149	https://www.koempirefa.com/	DEAD	nxdomain
+TX	Midland	Midland BJJ Texas	https://midlandbjjtx.com	DEAD	nxdomain
+TX	Mission	Premier Martial Arts-Mission	http://www.missiontxmartialarts.com/	DEAD	nxdomain
+TX	North Richland Hills	Peak Performance Brazilian Jiu-Jitsu	http://www.peakbjj.com/	PARKED	bluehost placeholder with ad-tracking redirect
+TX	Richardson	ASL JunSur Martial Arts	https://www.asljiujitsu.com/	DEAD	nxdomain
+TX	Richardson	Gracie Gym Richardson / Brazilian Jiu-Jitsu	http://graciegymrichardson.com/	LIVE-SCHOOL	redirects to graciegymmaine.com, wrong location now
+TX	River Oaks	Genesis Jiu Jitsu	http://www.genesisjiujitsu.com	LIVE-SCHOOL	genesis jiu jitsu, river oaks tx, matches record
+TX	Rockwall	CAYA Martial Arts	http://www.cayamartialarts.com/	DEAD	nxdomain
+TX	San Antonio	American Kickboxing Academy Texas	http://www.akatexas.com/	DEAD	nxdomain
+TX	San Antonio	Martial Arts Academy Of San Antonio	http://www.martialartssa.com/	DEAD	nxdomain
+TX	San Antonio	Semper Fortis	https://www.brazil021sanantonio.com	EMPTY	resolves, fetch ok, blank js-shell body
+TX	San Benito	Benavides Mixed Martial Arts	http://www.benavidesmma.com/	DEAD	nxdomain
+TX	San Benito	South Texas Grappling Team	https://southtexasgrappling.com	DEAD	nxdomain
+TX	Southlake	Lucky Jiu-Jitsu and Fitness Club	https://luckybjj.com	DEAD	cloudflare zone, no a record on apex or www
+TX	Spring	Katana Jiu-Jitsu Academy	http://katanajiu-jitsuacademy.com	DEAD	nxdomain
+TX	Sulphur Springs	Ion Jiu Jitsu	http://www.ionjiujitsuandfitness.com/	EMPTY	resolves, fetch ok, blank js-shell body
+TX	Tomball	Defenders Martial Arts Academy	http://www.defendersmaa.com	DEAD	nxdomain
+TX	Tomball	McCoy's Brazilian Jiu Jitsu & MMA - Tomball	http://mccoysmma.com/	DEAD	nxdomain
+VA	Ashburn	Virginia Jiu-Jitsu Academy	http://www.virginiajiu-jitsuacademy.com	DEAD	nxdomain
+VA	Ashland	RVA MMA Ashland	http://rvamma.com/	DEAD	nxdomain
+VA	Chesapeake	Gustavo Machado Brazilian Jiu Jitsu Chesapeake	https://www.gmbjjchesapeake.com	EMPTY	resolves, fetch ok, blank body after retry
+VA	Culpeper	Culpeper Brazilian Jiu-Jitsu	http://crossfitculpeper.com/	DEAD	nsone parked zone, no a record apex or www
+VA	Fredericksburg	DCB MMA & Athletic Training	http://www.dcbmma.com/	EMPTY	resolves, fetch ok, blank body after retry
+VA	Fredericksburg	GB Fredericksburg	https://graciejiujitsufredericksburg.com/	DEAD	nxdomain
+VA	Fredericksburg	The Lab MMA	http://www.thelabbjj.com/	PARKED	redirects to thelabmartialarts.com, parked lander
+VA	Hampton	Cheeseman Martial Arts Brazilian Jiu Jitsu	http://cheesemanmartialarts.net/	EMPTY	resolves, fetch ok, blank body after retry
+VA	Leesburg	Tenth Round Boxing & MMA	https://www.pedroboxing.com/	DEAD	nxdomain
+VA	Lynchburg	Feks MMA	http://www.mma4lynchburg.com/	DEAD	nxdomain
+VA	Newport News	Breakaway Jiu Jitsu	http://www.breakawayjiujitsu.com	DEAD	nxdomain
+VA	Norfolk	Gustavo Machado Norfolk	http://www.gustavomachadonorfolk.com	EMPTY	resolves, fetch ok, blank body after retry
+VA	Portsmouth	Bushido MMA (Muay Thai and BJJ)	http://bushidomma.net/	DEAD	resolves to loopback 127.0.0.1, no live host
+VA	Roanoke	Hybrid Martial Arts Center	http://www.hybridroanoke.com/	LIVE-SCHOOL	hybrid martial arts center, matches record
+VA	Stuarts Draft	Augusta Combat Sports	http://www.augustacombatsports.com/	DEAD	nxdomain
+VA	Winchester	Winbjj Mixed Martial Arts	http://www.winbjj.com/	DEAD	nxdomain
+VA	Woodbridge	Gold Medal Grappling	http://www.ameri-jitsu.com/	DEAD	nxdomain
+VA	Yorktown	Modern American MMA	http://www.mammas-boys.com/	DEAD	nxdomain
+WA	Tacoma	Brazilian Jiu-Jitsu Academy of Tacoma (Marcello C. Monteiro)	https://www.253bjj.com	LIVE-SCHOOL	dns flaky/nxdomain but site live, matches record
+WI	Baraboo	Filipe Barbosa Brazilian Jiu-Jitsu	https://bjjwisconsin.com	DEAD	nxdomain
+WI	Milwaukee	Elevation Jiu-Jitsu	https://elevationjiujitsu.com	PARKED	strato domain reserved placeholder, no content
+WI	Saukville	Seamless Progression Academy	https://seamlessprogressionacademy.com	DEAD	nxdomain

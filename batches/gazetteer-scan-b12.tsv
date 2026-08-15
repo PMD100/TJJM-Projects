@@ -1,0 +1,147 @@
+test	region	name	filed_city	signal	detail
+A-name-vs-city	AZ	10th Planet Goodyear	Avondale	Goodyear	same-state
+A-name-vs-city	LA	BJJ Revolution Team - Baton Rouge	Zachary	Baton Rouge	same-state
+A-name-vs-city	LA	Primal Fitness Lake Charles	Sulphur	Lake Charles	same-state
+A-name-vs-city	NY	International Training Center of New York	Long Island City	New York	same-state
+A-name-vs-city	TN	Renzo Gracie Nashville	Brentwood	Nashville	same-state
+A-name-vs-city	TX	Alliance BJJ Houston	Pearland	Houston	same-state
+A-name-vs-city	TX	Applied MMA Austin	Pflugerville	Austin	same-state
+A-name-vs-city	TX	Brazilian Top Team North Dallas	Richardson	Dallas	same-state
+A-name-vs-city	NV	10th Planet Jiu Jitsu Las Vegas	Henderson	Las Vegas	same-state
+A-name-vs-city	NV	Carlson Gracie Green Valley	Henderson	Green Valley	lives in ['AZ']
+A-name-vs-city	NV	Relson Gracie Jiu Jitsu Team HK Las Vegas	Henderson	Las Vegas	same-state
+A-name-vs-city	NV	UFC Gym Green Valley	Henderson	Green Valley	lives in ['AZ']
+A-name-vs-city	CO	Guetho BJJ Denver	Englewood	Denver	same-state
+A-name-vs-city	CA	Brazilian Jiu Jitsu Academy of Sacramento	Gold River	Sacramento	same-state
+A-name-vs-city	CA	Pedigo Submission Fighting Los Angeles	Hawthorne	Los Angeles	same-state
+A-name-vs-city	CA	10th Planet Jiu Jitsu Costa Mesa	Santa Ana	Costa Mesa	same-state
+A-name-vs-city	CA	Brazilian Top Team Long Beach	Signal Hill	Long Beach	same-state
+A-name-vs-city	TX	MACBJJ (Marcos Cerqueira BJJ/Brazil-021 Houston)	Bellaire	Houston	same-state
+A-name-vs-city	TX	10th Planet North Dallas	Carrollton	Dallas	same-state
+A-name-vs-city	TX	Carlson Gracie Houston	Conroe	Houston	same-state
+A-name-vs-city	TX	Atos Jiu-Jitsu Houston	Deer Park	Houston	same-state
+A-name-vs-city	TX	Renzo Gracie Houston	Sugar Land	Houston	same-state
+A-name-vs-city	FL	GB Coral Springs	Margate	Coral Springs	same-state
+A-name-vs-city	KY	Elite Martial Arts-Richmond	Paducah	Richmond	same-state
+A-name-vs-city	OH	GB Columbus	Dublin	Columbus	same-state
+A-name-vs-city	OH	Ruffhouse Jiu Jitsu Columbus	Gahanna	Columbus	same-state
+A-name-vs-city	OH	GB Cincinnati	West Chester	Cincinnati	same-state
+A-name-vs-city	OH	Relson Gracie Jiu-Jitsu Cleveland	Willoughby	Cleveland	same-state
+A-name-vs-city	IL	Gracie Humaita Springfield	Chatham	Springfield	same-state
+A-name-vs-city	IL	GB East Naperville	Lisle	Naperville	same-state
+A-name-vs-city	CO	10th Planet Jiu Jitsu Denver	Wheat Ridge	Denver	same-state
+A-name-vs-city	PA	Ground Zero Pittsburgh	Latrobe	Pittsburgh	same-state
+A-name-vs-city	PA	Team Junqueira Pittsburgh	Wexford	Pittsburgh	same-state
+A-name-vs-city	GA	X3 Sports - North Marietta	Jonesboro	Marietta	same-state
+A-name-vs-city	GA	Carlos Machado Jiu-Jitsu North Atlanta	Acworth	Atlanta	same-state
+A-name-vs-city	GA	Fit to Fight Atlanta	Chamblee	Atlanta	same-state
+A-name-vs-city	NC	Hayastan MMA Charlotte	Matthews	Charlotte	same-state
+A-name-vs-city	NC	GB Lake Norman	Cornelius	Norman	lives in ['OK']
+A-name-vs-city	NC	Fight to Win Jiu Jitsu Asheville	Arden	Asheville	same-state
+A-name-vs-city	NC	American Top Team Asheville	Arden	Asheville	same-state
+A-name-vs-city	NC	Fight to Win Lake Norman	Denver	Norman	lives in ['OK']
+A-name-vs-city	NC	Royce Gracie Jiu Jitsu Network of Charlotte	Harrisburg	Charlotte	same-state
+A-name-vs-city	MA	Brazilian Top Team Boston	Everett	Boston	same-state
+A-name-vs-city	WI	Gracie Jiu-Jitsu Milwaukee	Wauwatosa	Milwaukee	same-state
+A-name-vs-city	WA	GB Tacoma	Fircrest	Tacoma	same-state
+A-name-vs-city	WA	Gracie Barra Bothell	Mill Creek	Bothell	same-state
+A-name-vs-city	OR	Checkmat Portland	Gresham	Portland	same-state
+A-name-vs-city	OR	Impact Jiu Jitsu Salem (Lancaster)	Salem	Lancaster	lives in ['CA', 'PA']
+A-name-vs-city	OR	Gracie Barra Sw Portland	Tigard	Portland	same-state
+A-name-vs-city	NY	Gracie Jiu-Jitsu New York	Bronx	New York	same-state
+A-name-vs-city	NY	Modern Martial Arts Astoria	Queens	Astoria	same-state
+A-name-vs-city	ID	Gracie Barra Boise	Garden City	Boise	same-state
+A-name-vs-city	ID	The Base Jiu Jitsu Boise	Meridian	Boise	same-state
+A-name-vs-city	MN	The Academy Eden Prairie	Edina	Eden Prairie	same-state
+A-name-vs-city	NE	10th Planet Jiu-Jitsu Omaha	Bellevue	Omaha	same-state
+A-name-vs-city	NE	Gracie Humaita Omaha	Papillion	Omaha	same-state
+A-name-vs-city	NE	Legacy BJJ Omaha	Papillion	Omaha	same-state
+A-name-vs-city	SC	Rilion Gracie Greenville	Greer	Greenville	same-state
+A-name-vs-city	AB	Limitless BJJ Edmonton	St. Albert	Edmonton	same-state
+A-name-vs-city	QC	Gracie Barra Sainte-Anne-de-Bellevue	Montreal	Bellevue	lives in ['NE', 'WA']
+B-city-vs-state	AL	Valhalla Jiu-Jitsu & MMA	Alexandria	VA	6 records place Alexandria in VA, only 1 in AL
+B-city-vs-state	CA	Lincoln Jiu Jitsu Academy	Lincoln	NE	5 records place Lincoln in NE, only 1 in CA
+B-city-vs-state	CO	Leverage Jiu Jitsu Colorado	Louisville	KY	14 records place Louisville in KY, only 1 in CO
+B-city-vs-state	ME	Augusta BJJ Maine	Augusta	GA	4 records place Augusta in GA, only 1 in ME
+B-city-vs-state	NH	Seacoast BJJ NH	Portsmouth	VA	3 records place Portsmouth in VA, only 1 in NH
+B-city-vs-state	NJ	Ricardo Almeida BJJ Academy	Hamilton	ON	6 records place Hamilton in ON, only 1 in NJ
+B-city-vs-state	NS	Presley BJJ	Wellington	FL	3 records place Wellington in FL, only 1 in NS
+B-city-vs-state	ON	Woodstock BJJ Ontario	Woodstock	GA	4 records place Woodstock in GA, only 1 in ON
+B-city-vs-state	PE	Wulfrun Martial Arts	York	PA	6 records place York in PA, only 1 in PE
+B-city-vs-state	TN	Absolute Jiu-Jitsu Academy Bristol	Bristol	CT	3 records place Bristol in CT, only 1 in TN
+B-city-vs-state	TN	ADG Jiu-Jitsu	Smyrna	GA	3 records place Smyrna in GA, only 1 in TN
+B-city-vs-state	TN	Columbia BJJ Tennessee	Columbia	MO	3 records place Columbia in MO, only 1 in TN
+B-city-vs-state	TN	Leviathan Academy Brazilian Jiu-Jitsu	Cleveland	OH	6 records place Cleveland in OH, only 1 in TN
+B-city-vs-state	TN	Renzo Gracie Nashville	Brentwood	CA	4 records place Brentwood in CA, only 1 in TN
+B-city-vs-state	CO	Summit County Jiu Jitsu	Frisco	TX	5 records place Frisco in TX, only 1 in CO
+B-city-vs-state	MT	Olsen Behring Vale Tudo/MMA	Hamilton	ON	6 records place Hamilton in ON, only 1 in MT
+B-city-vs-state	CA	Silva BJJ Lancaster CA (Aloisio Silva BJJ Associated Academy)	Lancaster	PA	5 records place Lancaster in PA, only 1 in CA
+B-city-vs-state	CA	One World Jiu Jitsu	Newark	NJ	5 records place Newark in NJ, only 1 in CA
+B-city-vs-state	TX	Peak Performance Decatur Brazilian Jiu-Jitsu	Decatur	GA	3 records place Decatur in GA, only 1 in TX
+B-city-vs-state	TX	Furia Training Center MMA & BJJ	Dickinson	ND	3 records place Dickinson in ND, only 1 in TX
+B-city-vs-state	TX	Chop Shop MMA	Greenville	SC	3 records place Greenville in SC, only 1 in TX
+B-city-vs-state	TX	Satori MMA	Victoria	BC	8 records place Victoria in BC, only 1 in TX
+B-city-vs-state	CA	GB Glendale	Glendale	AZ	7 records place Glendale in AZ, only 1 in CA
+B-city-vs-state	FL	GB Davenport	Davenport	IA	3 records place Davenport in IA, only 1 in FL
+B-city-vs-state	TX	GB Sienna	Fresno	CA	9 records place Fresno in CA, only 1 in TX
+B-city-vs-state	KY	United Martial Arts Academy	London	ON	4 records place London in ON, only 1 in KY
+B-city-vs-state	OH	Infinity Arts	Cambridge	MA	6 records place Cambridge in MA, only 1 in OH
+B-city-vs-state	OH	Legacy Martial Arts Academy	Hamilton	ON	6 records place Hamilton in ON, only 1 in OH
+B-city-vs-state	OH	Team Torque Mixed Martial Arts	Wilmington	NC	7 records place Wilmington in NC, only 1 in OH
+B-city-vs-state	MO	Kifaru Jitsu Martial Arts	Salem	OR	7 records place Salem in OR, only 1 in MO
+B-city-vs-state	NJ	Guerrero BJJ & MMA	Caldwell	ID	3 records place Caldwell in ID, only 1 in NJ
+B-city-vs-state	NJ	Tiger Schulmann's Martial Arts Englewood NJ	Englewood	CO	3 records place Englewood in CO, only 1 in NJ
+B-city-vs-state	NJ	North Jersey Mixed Martial Arts	Lafayette	LA	4 records place Lafayette in LA, only 1 in NJ
+B-city-vs-state	NJ	New Journey MMA Somerset NJ	Somerset	KY	3 records place Somerset in KY, only 1 in NJ
+B-city-vs-state	NJ	Esoteric Jiu Jitsu Academy	Washington	DC	10 records place Washington in DC, only 1 in NJ
+B-city-vs-state	NJ	Brazen Martial Arts	Windsor	ON	4 records place Windsor in ON, only 1 in NJ
+B-city-vs-state	IL	GB Jacksonville	Jacksonville	FL	7 records place Jacksonville in FL, only 1 in IL
+B-city-vs-state	KY	Alliance Jiu Jitsu Henderson KY	Henderson	NV	18 records place Henderson in NV, only 1 in KY
+B-city-vs-state	MO	Aurora BJJ	Aurora	CO	7 records place Aurora in CO, only 1 in MO
+B-city-vs-state	MO	Gracie Barra Springfield Fight Club	Springfield	OR	4 records place Springfield in OR, only 1 in MO
+B-city-vs-state	NJ	Art of Movement: MMA, BJJ & Fitness	Medford	OR	7 records place Medford in OR, only 1 in NJ
+B-city-vs-state	PA	Hellfish Mixed Martial Arts	Bridgeport	CT	5 records place Bridgeport in CT, only 1 in PA
+B-city-vs-state	VA	Roanoke Jujutsu Club	Salem	OR	7 records place Salem in OR, only 1 in VA
+B-city-vs-state	VA	Arte Suave Jiu-Jitsu	Springfield	OR	4 records place Springfield in OR, only 1 in VA
+B-city-vs-state	GA	Hamby Freestyle Jiu Jitsu	Albany	NY	3 records place Albany in NY, only 1 in GA
+B-city-vs-state	GA	X3 Sports - North Marietta	Jonesboro	AR	5 records place Jonesboro in AR, only 1 in GA
+B-city-vs-state	GA	Invictus Brazilian Jiu Jitsu & Defensive Arts	Hoboken	NJ	7 records place Hoboken in NJ, only 1 in GA
+B-city-vs-state	NC	Fight to Win Lake Norman	Denver	CO	19 records place Denver in CO, only 1 in NC
+B-city-vs-state	NC	Fight To Win Brazilian Jiu Jitsu Concord	Concord	NH	3 records place Concord in NH, only 1 in NC
+B-city-vs-state	NC	All-American Martial Arts Academy	Greenville	SC	3 records place Greenville in SC, only 1 in NC
+B-city-vs-state	NC	Royce Gracie Jiu Jitsu Network of Charlotte	Harrisburg	PA	3 records place Harrisburg in PA, only 1 in NC
+B-city-vs-state	NC	BodyShot Combat & Fitness	Lowell	MA	5 records place Lowell in MA, only 1 in NC
+B-city-vs-state	CT	Thunder Martial Arts Academy	Watertown	MA	3 records place Watertown in MA, only 1 in CT
+B-city-vs-state	MD	Rising Tide Academy	Columbia	MO	3 records place Columbia in MO, only 1 in MD
+B-city-vs-state	MD	Nomad Brazilian Jiu-Jitsu & MMA	Oakland	CA	4 records place Oakland in CA, only 1 in MD
+B-city-vs-state	IN	Rochester Family Martial Arts	Rochester	NY	7 records place Rochester in NY, only 1 in IN
+B-city-vs-state	MA	Mass Bjj Arlington	Arlington	VA	8 records place Arlington in VA, only 1 in MA
+B-city-vs-state	MA	American Grit MMA	Canton	OH	3 records place Canton in OH, only 1 in MA
+B-city-vs-state	MA	Renan Borjes Brazilian jiu-jitsu And New England United BJJ	Medford	OR	7 records place Medford in OR, only 1 in MA
+B-city-vs-state	MA	Danny Savery BJJ Somerset MA	Somerset	KY	3 records place Somerset in KY, only 1 in MA
+B-city-vs-state	MA	Randy Brown Mantis Boxing & Brazilian Jiu-Jitsu	Westminster	CO	5 records place Westminster in CO, only 1 in MA
+B-city-vs-state	WI	Defense Combatives DEFCOM HQ	Watertown	MA	3 records place Watertown in MA, only 1 in WI
+B-city-vs-state	WA	Grays Harbor Brazilian Jiu-Jitsu	Aberdeen	SD	3 records place Aberdeen in SD, only 1 in WA
+B-city-vs-state	WA	AKA MMA & Fitness	Arlington	VA	8 records place Arlington in VA, only 1 in WA
+B-city-vs-state	WA	SMASH BJJ Deer Park	Deer Park	TX	3 records place Deer Park in TX, only 1 in WA
+B-city-vs-state	WA	The Base Longview	Longview	TX	3 records place Longview in TX, only 1 in WA
+B-city-vs-state	OR	Mt. Hood Impact Jiu Jitsu	Sandy	UT	3 records place Sandy in UT, only 1 in OR
+B-city-vs-state	OR	Grappletown Wrestling & Jiujitsu	Phoenix	AZ	22 records place Phoenix in AZ, only 1 in OR
+B-city-vs-state	NY	Long Beach Jiu Jitsu	Long Beach	CA	4 records place Long Beach in CA, only 1 in NY
+B-city-vs-state	NY	American Academy Of Self Defense	Deer Park	TX	3 records place Deer Park in TX, only 1 in NY
+B-city-vs-state	AR	USA Jiu-Jitsu Arkansas	Jacksonville	FL	7 records place Jacksonville in FL, only 1 in AR
+B-city-vs-state	ME	Bearclan Jiujitsu	Oakland	CA	4 records place Oakland in CA, only 1 in ME
+B-city-vs-state	ON	905 Brazilian Jiujitsu	Aurora	CO	7 records place Aurora in CO, only 1 in ON
+B-city-vs-state	ON	King Jiu Jitsu Vaughan	Concord	NH	3 records place Concord in NH, only 1 in ON
+B-city-vs-state	RI	Terrinha BJJ Lincoln	Lincoln	NE	5 records place Lincoln in NE, only 1 in RI
+B-city-vs-state	MS	KC Jones Martial Arts	Long Beach	CA	4 records place Long Beach in CA, only 1 in MS
+B-city-vs-state	MS	Anthony Mitchell Jiu Jitsu Studio	Madison	WI	11 records place Madison in WI, only 1 in MS
+B-city-vs-state	NH	Sanders Jiu Jitsu	Rochester	NY	7 records place Rochester in NY, only 1 in NH
+B-city-vs-state	SC	Divinus Lux Jiu Jitsu	Greenwood	IN	3 records place Greenwood in IN, only 1 in SC
+B-city-vs-state	SC	Gracie Jiu-Jitsu Lexington Carter's Academy	Lexington	KY	4 records place Lexington in KY, only 1 in SC
+B-city-vs-state	WV	Ground Zero BJJ Bridgeport	Bridgeport	CT	5 records place Bridgeport in CT, only 1 in WV
+B-city-vs-state	WV	Butch Hiles Brazilian Jiu-Jitsu and MMA	Charleston	SC	3 records place Charleston in SC, only 1 in WV
+B-city-vs-state	WV	Parkersburg Martial Arts Center	Vienna	VA	5 records place Vienna in VA, only 1 in WV
+B-city-vs-state	DE	Dauntless BJJ & MMA	Newark	NJ	5 records place Newark in NJ, only 1 in DE
+B-city-vs-state	NS	Abhaya Martial Arts Academy	Windsor	ON	4 records place Windsor in ON, only 1 in NS
+B-city-vs-state	TN	Renzo Gracie of Stewart County	Dover	DE	5 records place Dover in DE, only 1 in TN

@@ -1,0 +1,17 @@
+id	region	city	name	stored_w	why_blank
+4	CO	Boulder	Alliance Jiu Jitsu Boulder	https://alliancejiujitsububoulder.com	override blanks it
+13	CO	Colorado Springs	GB Colorado Springs	https://gbcoloradosprings.com	override blanks it
+22	CO	Fort Collins	Shugyo Training Center	http://www.shugyodojo.com	override blanks it
+31	CO	Northglenn	Rocky Mountain Jiu Jitsu		no w key
+40	LA	Broussard	Fight to Win Lafayette Jiu -Jitsu	http://www.fighttowinlafayette.com/	override blanks it
+49	LA	Lafayette	Acadiana Martial Arts Academy	https://www.acadianamartialarts.com/	override blanks it
+58	LA	New Orleans	The Dojang New Orleans	https://www.thedojangneworleans.com/	override blanks it
+67	LA	Terrytown	Power Extreme Fitness Training Center	http://www.mmanola.com/	override blanks it
+76	NJ	Edison	Jaguar BJJ	http://jaguarbjj.com/	override blanks it
+85	NJ	Hoboken	David Branch Jiu Jitsu	https://www.davidbranchbjj.com/	override blanks it
+94	NJ	Mt. Holly	Jbm Brazilian Jiu-Jitsu Academy	http://www.jbmbjj.com/	override blanks it
+103	NJ	Vineland	US Martial Arts Academy Inc	http://www.usmartialarts.biz/	override blanks it
+112	OK	Ada	Rebellion Martial Arts		stored w is empty string
+121	OK	Durant	Empire Jiu-Jitsu Durant	empirejiujitsudurant.com	override blanks it
+130	OK	Muskogee	Thunder MMA		stored w is empty string
+139	OK	Poteau	Oklahoma Combat Sports / KORE BJJ	site.oklahomacombatsports.com	override blanks it

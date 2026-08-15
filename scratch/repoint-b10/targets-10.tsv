@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+10	CA	Camarillo	Bond Squad MMA		no w key
+20	CA	Granada Hills	Granada Hills Martial Arts & Fitness		no w key
+30	CA	Laguna Hills	Joker's MMA	http://www.jokersmma.com/	override blanks it
+40	CA	Nipomo	Gracie Jiu-Jitsu Nipomo		no w key
+50	CA	San Jose	I M C Survival Center	http://www.imcsurvivalcenter.com/	override blanks it
+60	CA	Stockton	Shingu Fighter	http://www.shingufighter.com/	override blanks it
+70	CA	Vista	Gracie Jiu-Jitsu Vista		no w key
+80	TX	Arlington	Independent Brazilian Jiu Jitsu, Arlington		no w key
+90	TX	Boerne	Grind House Training Facility	http://www.grindhousetraining.com/	override blanks it
+100	TX	Corpus Christi	Xtreme MMA	http://www.xtrememmabjj.com/	override blanks it
+110	TX	Fresno	GB Sienna		no w key
+120	TX	Longview	Pure Jiu-Jitsu Longview	https://pjlvtx.com/	override blanks it
+130	TX	Pearland	Gracie Jiu-Jitsu Pearland		no w key
+140	TX	San Benito	Benavides Mixed Martial Arts	http://www.benavidesmma.com/	override blanks it
+150	TX	Weatherford	Gracie Jiu-Jitsu Weatherford		no w key

@@ -1,0 +1,26 @@
+> Gate-driven corrections applied to the batch-7 change set. Written after the first
+> BLOCKED gate run (6 violations). Each row records a decision and its rationale so the
+> build is reproducible and the verifiers' original TSVs stay unedited.
+> op: RENAME-ADD = change the name of a proposed new record
+>     ADD-TO-FIXURL = the "new" record already exists; convert to an override fix
+> Naming conventions are taken from the existing corpus, not invented:
+>   "<Name> Tennessee"  (Columbia BJJ Tennessee, Jackson BJJ Tennessee, Lebanon BJJ Tennessee)
+>   "<Name> <City>"     (PEI Martial Arts Academy Summerside)
+op	region	old_name	new_name	city	conditions	rationale
+RENAME-ADD	DC	Underworld BJJ	Underworld BJJ DC	Washington	C1	Collides corpus-wide with the stored "Underworld BJJ" in Millersville MD, a different business. Both are real and both stay. DC record disambiguated by region suffix; its own domain is underworlddc.com so the suffix matches how it already trades online.
+RENAME-ADD	TN	Athens Jiu Jitsu	Athens Jiu Jitsu Tennessee	Athens	C1+C3	Collides corpus-wide with the stored "Athens Jiu Jitsu" in Athens ALABAMA, which additionally carries a BLANK override - an unrenamed add would have rendered with no link at all. This is the Athens TN/AL collision predicted in the batch-7 addendum. Suffix follows the existing "<Name> Tennessee" convention already used four times in this corpus.
+RENAME-ADD	DE	302 BJJ	302 BJJ Middletown	Middletown	C2	One business, two real locations (119 Patriot Drive Middletown and 3904 Evelyn Drive Wilmington), both read from the school's own site. Storage matches on name alone so two identically-named records is a hard failure. Suffixed by city per the PEI Martial Arts Academy Summerside precedent.
+RENAME-ADD	DE	302 BJJ	302 BJJ Wilmington	Wilmington	C2	Second location of the same business - see above. This record also fills the Wilmington gap left by suppressing the dead "Delaware BJJ" record.
+ADD-TO-FIXURL	NB	Victory Jiu Jitsu Dieppe	Victory Jiu Jitsu Dieppe	Dieppe	C1+C3	NOT a new record - it is already stored in the legacy blob for NB and it carries a BLANK override, so it currently renders with no link. Converting the proposed ADD into an override fix. The existing blank entry must be EDITED IN PLACE, not appended to, per the batch-6 finding on duplicate override rows.
+DROP-ADD	NL	Foley's Martial Arts	Foley's Martial Arts	Paradise	C1	Already stored. The browser pass confirmed the business is real and operating in Paradise NL, so the existing record simply stays. No URL change - the browser rated its BJJ evidence weaker than ideal and RULES section 5 forbids an override that restates a stored value.
+DROP-ADD	PE	Montague BJJ	Montague BJJ	Montague	C1	Already stored. Browser pass confirmed real - trades as Montague Brazilian Jiu Jitsu at 3 Rink Street, offering BJJ and Muay Thai. Record stays as-is.
+DROP-ADD	TN	Chattanooga BJJ	Chattanooga BJJ	Chattanooga	C1	Already stored, but its URL is a dead GoDaddy parked page and the real school trades as Chattanooga Jiu-Jitsu Academy - which is ALREADY in the add list. Dropping this ADD and suppressing the stub instead, so the school appears once rather than twice.
+EXTRA-SUPPRESS	TN	Chattanooga BJJ	-	Chattanooga	supersession	Dead stub superseded by the Chattanooga Jiu-Jitsu Academy record being added in this batch.
+EXTRA-SUPPRESS	TN	Alliance Jiu Jitsu Tennessee	-	Nashville	supersession	Stored domain alliancetnbjj.com is NXDOMAIN. The real business is Alliance TN at 144 Cumberland St, MEMPHIS - wrong name and wrong city, both unwritable in the legacy blob. Suppress-plus-add, with Alliance TN added for Memphis.
+EXTRA-SUPPRESS	NB	Woodstock NB BJJ	-	Woodstock	supersession	No such trading name. The operating Woodstock school is B7 Jiu Jitsu at 162 Houlton St, added in this batch. Suppress the placeholder.
+EXTRA-SUPPRESS	PE	PEI Brazilian Jiu Jitsu	-	Charlottetown	supersession	Business now trades as Renzo Gracie PEI Lot 36, affiliated with Renzo Gracie Halifax. Added under the current name; suppress the stale one.
+EXTRA-SUPPRESS	AK	Greatland Martial Arts	-	Anchorage	NOT-BJJ	Browser render settled a row two earlier passes could not read. Fails the discipline test.
+EXTRA-SUPPRESS	AK	Tonbo Dojo - Alaska Samurai Arts	-	Big Lake	NOT-BJJ	Browser render settled a row two earlier passes could not read. Japanese arts, not Brazilian Jiu-Jitsu.
+EXTRA-SUPPRESS	AK	Shoshindo of Alaska	-	Wasilla	NOT-BJJ	Browser render settled a row two earlier passes could not read. Japanese arts, not Brazilian Jiu-Jitsu.
+PROMOTE-ADD	NL	Golden Rule Jiu Jitsu	Golden Rule Jiu Jitsu	Flat Bay	C7c	Confirmed real - Adult BJJ and kids BJJ programmes, instructors listed by belt rank, address 9 Rushy Pond Lane Box 7 Site 12 Flat Bay NL A0N1Z0. Flat Bay is NOT one of the ten hardcoded nl_cities strings, so without a section change this record renders on the NEBRASKA page. Approved to extend nl_cities to eleven entries. THE SECTION EDIT IS MANDATORY - adding this record without it is a live defect.
+EXTRA-SUPPRESS	DE	Tribal BJJ	-	Dover	WRONG-REGION	The stored Dover DE domain and Facebook page belong to a real Tribal Jiu-Jitsu in Ardmore, OKLAHOMA, corroborated by an Oklahoma business filing. Not a Delaware school. Log as cross-region debt to OK.

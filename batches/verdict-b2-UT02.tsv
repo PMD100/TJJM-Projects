@@ -1,0 +1,26 @@
+# b2-UT02 verdicts
+state	city	name_confirmed	url	address	verdict	note
+UT	Lehi	Roots Combat Club	rootscombatclub.com	1657 N State St	CONFIRMED	BJJ, kickboxing, kids combatives; addr matches
+UT	Park City	Park City Jiu Jitsu	parkcitybjj.com	6430 N Business Park Loop Rd Unit D	CONFIRMED	Site also lists a Lehi location
+UT	Park City	BJJ Revolution Park City (Malmberg Jiu-Jitsu)	jiujitsurevolution.com	2080 Gold Dust Lane	CONFIRMED	Inside Silver Mtn Sports Club; addr found on page
+UT	Pleasant Grove	10th Planet Pleasant Grove	10thplanetpleasantgrove.com	2416 W 700 S Unit 120	CONFIRMED	No-Gi BJJ and wrestling academy
+UT	Spanish Fork	Vida Jiu-Jitsu Utah	vidajiujitsu.com	198 W 3450 N Ste 103	CONFIRMED	Shopify shop site; gym info on /pages/utah
+UT	Mapleton	Infinity BJJ Utah	infinitybjjutah.com	1885 W Alvey Dr Unit 3	CONFIRMED	Family BJJ academy near Springville
+UT	Orem	Bobby Lawrence Karate Orem	oremkarate.com	976 S State St	CONFIRMED	Karate school with dedicated Kids/Teen/Adult BJJ
+UT	St. George	STG Jiu Jitsu	stgjiujitsu.com	1487 S Silicon Way A6	CONFIRMED	Royler Gracie lineage, not Humaita as noted
+UT	St. George	Gracie Jiu-Jitsu St. George	graciestgeorge.com	1478 S 270 E Ste 4A	CONFIRMED	Certified Gracie CTC Level 4
+UT	St. George	Fusion MMA and Jiu Jitsu	teamfusionmma.com	2746 E 850 N #1	CONFIRMED	Pineview/East campus; site lists 2 real STG sites
+UT	St. George	Fusion MMA and Jiu Jitsu Sunset	teamfusionmma.com	1469 W Sunset Blvd	CONFIRMED	Sunset/West campus; genuinely separate location
+UT	Vernal	Triad Jiu Jitsu	triadjiujitsu.com	510 E Main St	CONFIRMED	Pedro Sauer lineage; addr on /about page
+UT	Hyrum	J-Crew Jiu-Jitsu	jcrewbjj.com	120 N 800 E Bldg B Unit 4	CONFIRMED	Cristiano Ribeiro affiliate school
+UT	Roosevelt	Uintah Basin Jiu Jitsu	uintahbasinbjj.com		DEAD	Domain NXDOMAIN; only FB/booking listings found
+UT	Layton	Team Link Utah	teamlinkutahbjj.com	3020 N Fairfield Rd Ste B	CONFIRMED	Fabio Serrao black belt HQ
+UT	Layton	Estavel BJJ	estaveljiujitsu.com		DEAD	Domain NXDOMAIN on retry; HOLD resolved dead
+UT	Logan	Cache Valley Martial Arts and Fitness	cachevalleymartialarts.com	953 W 700 N Ste 107	CONFIRMED	Explicit BJJ classes on weekly schedule
+UT	Ogden	Mori Training Center	mori-jiu-jitsu.com	3733 S 250 W	CONFIRMED	Eduardo Mori; behind Newgate Mall
+UT	Ogden	Westside BJJ Ogden	westsidebjjogden.com	2562 Washington Blvd	CONFIRMED	Pedro Sauer lineage via Mark Johnson
+UT	Provo	Agema Jiu Jitsu and MMA	agemagym.com	1200 Towne Centre Blvd	CONFIRMED	Court McGee affiliated
+UT	Sandy	Elite Performance Gym (Jeremy Horn's)	eliteperformancegym.com	9599 S 500 W	CONFIRMED	Site brands as Elite Performance Gym
+UT	West Jordan	CR Brazilian Jiu Jitsu	crbjjusa.com	5320 Wells Park Rd Unit 1	CONFIRMED	Cristiano Ribeiro 6th degree black belt
+UT	West Jordan	Absolute MMA	absolutemma.com	1338 W 7800 S	CONFIRMED	Behring BJJ under Flavio Behring
+UT	Cedar City	Mixed Grappling Arts	mixedgrapplingarts.com		EMPTY	Resolves but no readable body; HOLD resolved empty

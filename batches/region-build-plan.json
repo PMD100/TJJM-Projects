@@ -1,0 +1,36 @@
+{
+ "suppress": {
+  "ME": [
+   "Ellsworth BJJ",
+   "Saco BJJ",
+   "Rumford BJJ",
+   "Waterville BJJ"
+  ],
+  "AR": [
+   "Conway BJJ",
+   "Fort Smith BJJ",
+   "Pine Bluff BJJ",
+   "Russellville BJJ",
+   "Springdale BJJ"
+  ],
+  "ON": [
+   "Ajax BJJ",
+   "Kingston BJJ",
+   "North Bay BJJ",
+   "Orillia BJJ",
+   "Peterborough BJJ",
+   "Pickering BJJ",
+   "Sault Ste. Marie BJJ",
+   "Thunder Bay BJJ"
+  ]
+ },
+ "urlfix_new": {
+  "Cambridge BJJ": "https://cambridgebjj.ca/",
+  "Oshawa BJJ": "https://oshawabjj.com/",
+  "Windsor BJJ": "https://windsorbrazilianjiujitsu.com/",
+  "Barrie BJJ": "https://705bjj.com/"
+ },
+ "urlfix_edit": {
+  "Four-Eleven Brazilian Jiu Jitsu": "https://fourelevenbjj.ca/"
+ }
+}

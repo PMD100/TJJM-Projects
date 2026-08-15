@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+1	CA	Agoura Hills	GB Agoura		no w key
+11	CA	Chula Vista	Alliance MMA Gym		no w key
+21	CA	Harbor City	Royce Gracie Jiu Jitsu Academy SoCal	https://roycegraciesouthbay.com/	override blanks it
+31	CA	Los Angeles	Alliance Jiu Jitsu Los Angeles	https://alliancejiujitsusla.com	override blanks it
+41	CA	Oakhurst	Kihon Traditional MMA		no w key
+51	CA	San Jose	Knoxx Martial Arts and Fitness	https://knoxxgym.com	override blanks it
+61	CA	Sutter Creek	Underground MMA and Amador gym and fitness		no w key
+71	CA	West Sacramento	Buena Vida Jiu Jitsu Academy		no w key
+81	TX	Austin	Austin Fitness Martial Arts	https://www.afmatx.com/	override blanks it
+91	TX	Burleson	GB Burleson	https://www.gbburleson.com	override blanks it
+101	TX	Dallas	144 Academy Jiu Jitsu/Self-Defense/Fitness		no w key
+111	TX	Greenville	Chop Shop MMA	http://www.chopshopmma.com/	override blanks it
+121	TX	Lubbock	Victory Combat Sports Academy	https://www.victorycombatsportsacademy.com/contact	override blanks it
+131	TX	Pecos	Sahuque Brazilian Jiu-jitsu		no w key
+141	TX	San Benito	Garcia Brazilian Jiu-Jitsu		no w key

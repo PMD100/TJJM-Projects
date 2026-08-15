@@ -1,0 +1,22 @@
+# ON-verify-04 verdicts
+city	name_confirmed	url	address	verdict	note
+Barrie	Legacy Fight Club	legacyfightclub.com	351 King St. Unit 7, Barrie, ON L4N 6B5	CONFIRMED	Muay Thai/BJJ/MMA/wrestling gym
+Barrie	Champs Academy (Champs Brazilian Jiu-Jitsu)	champsacademy.ca	131 Commerce Park Dr, Barrie, ON	CONFIRMED	TKD+BJJ academy, BJJ location addr
+North Bay	Grounded Studios	grounded.ca	945 Stockdale Road, North Bay, ON P1B 9S5	CONFIRMED	Yoga + BJJ + Muay Thai studio
+North Bay	The Garden Brazilian Jiu Jitsu	thegardenbjj.ca	397 Wyld Street, North Bay, ON P1B 1Z3	CONFIRMED	BJJ-only school, matches input addr
+Orillia	Resolve Martial Arts Academy Orillia	resolvemartialartsorillia.com	300 Peter St N, Orillia, ON L3V 5H2	CONFIRMED	BJJ-only, kids/teen/adult/women
+Orillia	Big Country - Orillia	bigcountryorillia.gymdesk.com	27 West St S, Orillia, ON L3V 5B8	CONFIRMED	BJJ/Muay Thai/Judo/MMA gym
+Sault Ste. Marie	Steel City MMA	steelcitymma.com	258 Queen St E, Sault Ste. Marie, ON P6A 1Y7	CONFIRMED	MMA gym w/ Jiu Jitsu program
+Sault Ste. Marie	Gracie Jiu-Jitsu Sault Ste. Marie	graciejiujitsusaultstemarie.com	274 Lake St, Sault Ste. Marie, ON P6A 4B4	CONFIRMED	No orig URL; found via search, CTC page
+Thunder Bay	Leading Edge MMA	leadingedgemma.ca	340A Waterloo St N, Thunder Bay, ON	CONFIRMED	BJJ/No-Gi/boxing/MMA since 2001
+Thunder Bay	Thunder Valley Martial Arts	thundervalleymartialarts.com	910 Memorial Avenue unit C, Thunder Bay, ON	CONFIRMED	No orig URL; body addr differs from input
+Kingston	Hayabusa Academy	hayabusa-academy.com		EMPTY	DNS resolves but root+contact both blank JS shell
+Kingston	Kingston Jiu Jitsu	kingstonjiujitsu.com		WRONG-PLACE	Body says Kingston upon Thames, England
+Peterborough	Eris Martial Arts Academy	erismartialarts.com	306 George St N, Peterborough, ON K9J 8B7	CONFIRMED	BJJ academy est. 2006, matches input addr
+Peterborough	Kawartha Combat	kawarthacombat.com	910 High St Unit 15, Peterborough, ON	CONFIRMED	BJJ/Muay Thai/kickboxing est. 2012
+Peterborough	Peterborough Judo & MMA	peterboroughjudo.com		WRONG-PLACE	Address is PE3 8AF, Peterborough England
+Pickering	AACE Martial Arts Academy	aacemartialartsacademy.com	633 Kingston Road, Pickering, ON L1V 3N7	CONFIRMED	BJJ-only school, matches input addr
+Pickering	Action & Reaction MMA	actionreactionmma.com	821 Brock Rd Unit 9, Pickering, ON L1W 3L6	CONFIRMED	Multi-location GTA gym, Pickering addr used
+Belleville	Alcateia Brazilian Jiu Jitsu	alcateiabjj.com	40 Hanna Court, Belleville, ON K8P 5J2	CONFIRMED	No orig URL; found via search, matches input
+Whitby	Four-Eleven Brazilian Jiu Jitsu	fourelevenbjj.ca	277 Michael Blvd Unit 6, Whitby, ON L1N 5B2	CONFIRMED	BJJ-only school, all ages
+Barrie	Barrie Brazilian Jiu Jitsu (Barrie BJJ)	705bjj.com	571 Bayfield St (North Entrance 2nd Fl), Barrie, ON L4M 4Z9	CONFIRMED	705bjj.com is correct site, not barriebjj.com

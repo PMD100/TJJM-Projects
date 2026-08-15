@@ -1,0 +1,60 @@
+# B-named-01 verdicts - 58 flagged links - DNS-first method
+state	city	name	url	verdict	note
+AB	Calgary	101 Academy Jiu Jitsu	https://101academyjiujitsu.com	DEAD	nxdomain, not registered
+AB	Calgary	Alliance Jiu Jitsu Calgary	https://alliancejiujitsucalgary.com	DEAD	nxdomain, not registered
+AB	Calgary	Elite Martial Arts Calgary	https://elitemartialarts.ca	EMPTY	resolves, fetch succeeds, blank body js shell
+AB	St. Albert	Phoenix Martial Arts Club	https://phoenixmartialarts.ca	DEAD	nxdomain, not registered
+AK	Juneau	Evolution Jiu Jitsu	https://evojj.com/	EMPTY	resolves, fetch succeeds, blank body js shell
+BC	Abbotsford	Poderoso Jiu Jitsu	https://poderosojiujitsu.com	DEAD	nxdomain, not registered
+BC	Mission	Mission BC BJJ	https://missionbcbjj.com	DEAD	nxdomain, not registered
+BC	Richmond	Pinnacle MMA	https://pinncalemma.com	DEAD	nxdomain, not registered
+BC	Vancouver	Alliance Jiu Jitsu Vancouver	https://alliancejiujitsuvancouver.com	DEAD	nxdomain, not registered
+BC	Victoria	SBG Victoria	https://sbgvictoria.com	DEAD	nxdomain, not registered
+BC	Victoria	Van Isle BJJ	https://vanislebjj.com	DEAD	nxdomain, not registered
+DC	Washington	Capital City BJJ	https://capitalcitybjj.com	DEAD	nxdomain, not registered
+DC	Washington	Capitol Hill BJJ	https://capitolhillbjj.com	DEAD	nxdomain, not registered
+DC	Washington	DC BJJ Academy	https://dcbjjacademy.com	DEAD	nxdomain, not registered
+DE	Dover	Dover AFB BJJ	https://doverafbbjj.com	DEAD	nxdomain, not registered
+DE	Middletown	First State BJJ	https://firststatebjj.com	DEAD	nxdomain, not registered
+DE	Milford	Milford BJJ Delaware	https://milfordbjjde.com	DEAD	nxdomain, not registered
+HI	Hilo	BJ Penn MMA	https://bjpennmma.com	DEAD	nxdomain, not registered
+HI	Honolulu	Purebred Jiu-Jitsu	https://purebredjiujitsu.com	DEAD	nxdomain, not registered
+HI	Kahului	Maui BJJ Academy	https://mauibjjacademy.com	DEAD	nxdomain, not registered
+HI	Kailua-Kona	Kona BJJ	https://konabjj.com	DEAD	nxdomain, not registered
+HI	Maui	Fighting Arts Academy Hawaii	https://fightingartsacademyhi.com	DEAD	nxdomain, not registered
+IA	Burlington	Burlington BJJ Iowa	https://burlingtonbjjiowa.com	DEAD	nxdomain, not registered
+IA	Cedar Rapids	Alliance Jiu Jitsu Iowa	https://alliancejiujitsuiowa.com	DEAD	nxdomain, not registered
+IA	Clinton	Clinton BJJ Iowa	https://clintonbjjiowa.com	DEAD	nxdomain, not registered
+IA	Davenport	Fighting Gravity Jiu Jitsu	https://fightinggravityjiujitsu.com	DEAD	nxdomain, not registered
+ID	Lewiston	Lewiston ID BJJ	https://lewistonidbjj.com	DEAD	nxdomain, not registered
+ID	Meridian	Meridian BJJ Idaho	https://meridianbjjidaho.com	DEAD	nxdomain, not registered
+ID	Pocatello	Snake River MMA	https://snakerivermma.com	DEAD	nxdomain, not registered
+ID	Star	Authentic BJJ Idaho	https://authenticbjjidaho.com	DEAD	nxdomain, not registered
+ID	Twin Falls	Alliance Jiu Jitsu Twin Falls	https://alliancejiujitsutf.com	DEAD	nxdomain, not registered
+KS	Lawrence	Alliance Jiu Jitsu Lawrence	https://alliancejiujitsulawrence.com	DEAD	nxdomain, not registered
+KS	Manhattan	Manhattan KS BJJ	https://manhattanksbjj.com	DEAD	nxdomain, not registered
+KS	Pittsburg	Pittsburg KS BJJ	https://pittsburgksbjj.com	DEAD	nxdomain, not registered
+ME	Augusta	Augusta BJJ Maine	https://augustabjjme.com	DEAD	nxdomain, not registered
+ME	Bangor	Maine BJJ	https://mainebjj.com	DEAD	nxdomain, not registered
+ME	Biddeford	Seacoast Brazilian Jiu-Jitsu	https://seacoastbjjme.com	DEAD	nxdomain, not registered
+ME	Brunswick	Brunswick BJJ Maine	https://brunswickbjjme.com	DEAD	nxdomain, not registered
+ME	Lewiston	Lewiston-Auburn BJJ	https://lewistonauburnbjj.com	DEAD	nxdomain, not registered
+ME	Portland	Portland BJJ Maine	https://portlandbjjmaine.com	DEAD	nxdomain, not registered
+MN	Eden Prairie	Alliance Jiu Jitsu Minnesota	https://alliancejiujitsumn.com	DEAD	nxdomain, not registered
+MN	Minneapolis	Checkmat S. Minneapolis	https://dangerooms612.com	DEAD	nxdomain, not registered
+MN	Moorhead	Fargo BJJ MN side	https://fargobjjmn.com	DEAD	nxdomain, not registered
+MN	St. Paul	Akagi Jiu-Jitsu	https://akagijiujitsu.com	DEAD	nxdomain, not registered
+MN	St. Paul	TC Martial Arts	https://tcmartialarts.com	DEAD	zone exists but no A record on apex or www
+MS	Columbus	Columbus MS BJJ	https://columbusmsbjj.com	DEAD	nxdomain, not registered
+MS	Greenville	Greenville BJJ MS	https://greenvillebjjms.com	DEAD	nxdomain, not registered
+MS	Hattiesburg	Southern Combat Arts	https://southerncombatarts.com	DEAD	nxdomain, not registered
+MS	Ridgeland	Mississippi BJJ	https://mississippibjj.com	EMPTY	apex nxdomain, www resolves but blank body js shell
+NB	Dieppe	Victory Jiu Jitsu Dieppe	https://victoryjjdieppe.com	DEAD	nxdomain, not registered
+NB	Fredericton	Evolution Training Centre	https://www.evolutiontrainingcenter.ca	LIVE-SCHOOL	working martial arts and fitness site, matches record
+NB	Woodstock	Woodstock NB BJJ	https://woodstocknbbjj.com	DEAD	nxdomain, not registered
+ND	Jamestown	Jamestown BJJ ND	https://jamestownbjjnd.com	DEAD	nxdomain, not registered
+ND	Minot	Prairie Jiu Jitsu	https://prairiejiujitsu.com	DEAD	nxdomain, not registered
+NE	Columbus	Columbus NE BJJ	https://columbusnebj.com	DEAD	nxdomain, not registered
+NE	Lincoln	Husker Combat Club	https://huskercombatclub.com	DEAD	nxdomain, not registered
+NE	Norfolk	Norfolk NE BJJ	https://norfolknebjj.com	DEAD	nxdomain, not registered
+NH	Lebanon	Lebanon BJJ NH	https://lebanonbjjnh.com	DEAD	nxdomain, not registered

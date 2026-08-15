@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+3	CA	Anaheim	Javier Blanchard Brazilian Jiu Jitsu / BJJ Anaheim CA 92801	https://www.javierblanchard.com/	override blanks it
+13	CA	Clovis	Gracie Jiu-Jitsu Clovis		no w key
+23	CA	Hayward	Hayward BJJ Darcio Lira	https://www.haywardbjjdarciolira.com/	override blanks it
+33	CA	Los Angeles	Hollywood BJJ		no w key
+43	CA	Redlands	10th Planet Redland	http://www.10thplanetredlands.com	override blanks it
+53	CA	Santa Cruz	Gracie Jiu-Jitsu Santa Cruz		no w key
+63	CA	Torrance	GB Redondo Beach		no w key
+73	CA	Woodland Hills	Gracie Jiu-Jitsu Woodland Hills		no w key
+83	TX	Austin	Fight Factory Austin	https://fightfactoryaustin.com/	override blanks it
+93	TX	Carrollton	Trainers Elite	http://www.trainerselite.net/	override blanks it
+103	TX	Denton	Texas Elite MMA	http://www.teamgibson.net/	override blanks it
+113	TX	Hurst	Collins Martial Arts	http://www.collinsmartialarts.com/	override blanks it
+123	TX	McKinney	GB McKinney		no w key
+133	TX	Richardson	ASL JunSur Martial Arts	https://www.asljiujitsu.com/	override blanks it
+143	TX	Seguin	Gracie Jiu-Jitsu Seguin		no w key

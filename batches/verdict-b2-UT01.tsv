@@ -1,0 +1,26 @@
+# b2-UT01 verdicts
+state	city	name_confirmed	url	address	verdict	note
+UT	West Jordan	Gracie Barra West Jordan	gbwestjordan.com	8018 Welby Park Dr #2, West Jordan, UT 84088	CONFIRMED	addr matches input
+UT	Riverton	Gracie Barra Riverton	gbriverton.com	2936 W 12600 S Ste 1&2, Riverton, UT 84065	CONFIRMED	UT confirmed not WY
+UT	Herriman	Gracie Barra Herriman	gbherriman.com	5746 W 13400 S, Herriman, UT 84096	CONFIRMED	addr matches input
+UT	Layton	Gracie Barra Layton	gblayton.com	70 S Fairfield Rd E #4, Layton, UT 84041	CONFIRMED	addr matches input
+UT	Sandy	Gracie Barra Sandy	graciebarra.com/sandy-ut	8912 S 700 E, Sandy, UT 84070	CONFIRMED	addr matches input
+UT	Orem	Gracie Barra Orem	gborem-utah.com	64 State St, Orem, UT	CONFIRMED	site is JS shell; addr via gbutah.com
+UT	Park City	Gracie Barra Park City	gbparkcity.com	8178 Gorgoza Pines Rd Ste G, Park City, UT 84098	CONFIRMED	addr matches input
+UT	North Salt Lake	Gracie Barra North Salt Lake	gbnorthsaltlake.com	76 S Orchard Dr, North Salt Lake, UT 84054	CONFIRMED	addr matches input
+UT	Heber City	Gracie Barra Heber City	graciebarraheber.com	2237 S 390 W, Heber City, UT 84032	CONFIRMED	addr matches input
+UT	Salt Lake City	Renzo Gracie SLC	renzogracieslc.com	615 Simpson Ave, Salt Lake City, UT 84106	CONFIRMED	addr matches input
+UT	Salt Lake City	10th Planet Jiu-Jitsu SLC	10thplanetslc.com	215 S 1000 E, Salt Lake City, UT 84102	CONFIRMED	addr matches input
+UT	Salt Lake City	Marangoni BJJ	bjjsaltlake.com	480 E 6th Ave, Salt Lake City, UT 84103	CONFIRMED	addr matches input
+UT	Salt Lake City	Fusion Academy	fusionbjj.com	Simpson Ave, Salt Lake City, UT	CONFIRMED-NO-ADDR	no house number published, Pedro Sauer
+UT	Millcreek	First BJJ	firstbjj.com	5508 Van Winkle, Salt Lake City, UT 84117	CONFIRMED	name is First BJJ; site says SLC not Millcreek
+UT	Holladay	Ultimate Combat Training Center	ultimatecombat.com	1939 E Murray Holladay Rd, Holladay, UT 84117	CONFIRMED	MMA gym w/ BJJ program
+UT	South Jordan	Unified BJJ	unifiedbjj.com	1098 W South Jordan Pkwy #107 & #108, South Jordan, UT 84095	CONFIRMED	addr matches input
+UT	Herriman	Adapt Jiu-Jitsu	adaptbjj.com		CONFIRMED-NO-ADDR	no street addr; site shows Opening Soon banner
+UT	Bluffdale	Crown BJJ	crownbjj.com	14719 S 855 W, Bluffdale, UT 84065	CONFIRMED	addr matches input
+UT	Bountiful	Viotti BJJ Academy	viottibjjacademy.com	545 W 500 S #130, Bountiful, UT 84010	CONFIRMED	addr matches input
+UT	Tooele	Tooele Martial Arts Academy	tooelemartialartsacademy.com	10 S Garnet St Bldg 669 #4, Tooele, UT 84074	CONFIRMED	addr matches input
+UT	Kaysville	Renzo Gracie Utah	renzogracieutah.com	860 W 300 N, Kaysville, UT	CONFIRMED	addr matches input
+UT	Clearfield	Caique Jiu Jitsu Utah Academy	cjjutah.com	1060 W 300 N Suite C, Clearfield, UT 84015	CONFIRMED	addr matches input
+UT	Riverdale	Thiago Alves BJJ	thiagoalvesbjj.com	4042 Pacific Ave, Riverdale, UT 84405	CONFIRMED	Team Link affiliate, addr matches
+UT	American Fork	Paul Tom's Academy of Brazilian Jiu-Jitsu	bjjutah.com	920 E State St, American Fork, UT 84003	CONFIRMED	name corrected to full site name

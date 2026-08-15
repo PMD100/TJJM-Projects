@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+1	GA	Acworth	Carlos Machado Jiu-Jitsu North Atlanta	http://www.cmjjnatl.com/	override blanks it
+7	GA	Between	Hybrid Fitness MMA		stored w is empty string
+13	GA	Flowery Branch	Full Throttle Fitness	http://www.fullthrottleoakwood.com/	override blanks it
+19	GA	Lawrenceville	Rodriguez MMA		stored w is empty string
+25	GA	Powder Springs	Tekniques Brazilian Jiu-Jitsu & Fitness	http://www.tekniquesbjj.com/	override blanks it
+31	GA	Warner Robins	Zanshin South Gracie Jiu Jitsu	http://www.zanshinsouthgraciejiujitsu.com/	override blanks it
+37	IL	Deerfield	Chicago Martial Arts / Brazilian Top Team Jiu-Jitsu		no w key
+43	IL	Highland Park	Comprido BJJ	http://www.highlandparkbjj.com	override blanks it
+49	IL	Macomb	Cassady Martial Arts Academy Royce Gracie Jiu Jitsu	http://www.cassadymartialarts.com/	override blanks it
+55	IL	Orland Park	Randori MMA & Jiu Jitsu	http://www.randorijiujitsu.com/	override blanks it
+61	IL	Waukegan	Ohana Martial Arts	https://ohanamartialarts.net	override blanks it
+67	NV	Henderson	Relson Gracie Jiu Jitsu Team HK Las Vegas	http://relsongracielv.com	override blanks it
+73	NV	Las Vegas	AE Brazilian Jiu Jitsu		no w key
+79	NV	Las Vegas	Las Vegas Fight Club	http://www.thelasvegasfightclub.com	override blanks it
+85	NV	Las Vegas	Throwdown Training Center		no w key

@@ -1,0 +1,5 @@
+bjj-schools-utah|Utah|14|UT|US	bjj-schools-utah|Utah|46|UT|US
+bjj-schools-saskatchewan|Saskatchewan|11|SK|CA	bjj-schools-saskatchewan|Saskatchewan|14|SK|CA
+bjj-schools-north-dakota|North Dakota|9|ND|US	bjj-schools-north-dakota|North Dakota|11|ND|US
+bjj-schools-wyoming|Wyoming|9|WY|US	bjj-schools-wyoming|Wyoming|10|WY|US
+Verified total across all 61 regions: 4,730.	Verified total across all 61 regions: 4,768.

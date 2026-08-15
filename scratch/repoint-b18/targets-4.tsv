@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+4	GA	Atlanta	Atlanta Kyusho and Jujitsu	http://www.atlantajujitsu.com/	override blanks it
+10	GA	Cumming	Prime Combat Sports		stored w is empty string
+16	GA	Gainesville	Absolute Martial Arts		stored w is empty string
+22	GA	Marietta	Advantage Jiu-Jitsu and Self Defense	https://www.advantagejj.com/	override blanks it
+28	GA	Sylvester	Sylvester Jiu-Jitsu Academy	http://sylvesterjiujitsu.com/	override blanks it
+34	IL	Burr Ridge	Force Brazilian Jiu-Jitsu	http://www.madeyoutap.com/	override blanks it
+40	IL	Fox Lake	Devine Jiu Jitsu Lake County	http://www.scholarwarriormma.com/devine-jiujitsu-lake-county	override blanks it
+46	IL	Lake Villa	Norse Academy Martial Arts	http://norseacademymartialarts.com/	override blanks it
+52	IL	Mt. Vernon	Pedigo Submission Fighting	https://pedigosubmissionfighting.com	override blanks it
+58	IL	Roselle	Keith Hackney's Combat Academy	http://www.hackneyscombat.com/	override blanks it
+64	NV	Carson City	No Limits Martial Arts		no w key
+70	NV	Henderson	Veritas Combat Arts And Fitness Academy	http://veritascombatarts.com	override blanks it
+76	NV	Las Vegas	Destiny Health & MMA		no w key
+82	NV	Las Vegas	Ribeiro Jiu-Jitsu - Las Vegas	http://www.ribeirojiujitsulasvegas.com	override blanks it
+88	NV	Reno	Battle Born MMA	http://www.battlebornmma.com	override blanks it

@@ -1,0 +1,77 @@
+# batch 2 consolidated - 75 candidates body-checked
+state	city	name_confirmed	url	address	verdict	note
+UT	West Jordan	Gracie Barra West Jordan	gbwestjordan.com	8018 Welby Park Dr #2, West Jordan, UT 84088	CONFIRMED	addr matches input
+UT	Riverton	Gracie Barra Riverton	gbriverton.com	2936 W 12600 S Ste 1&2, Riverton, UT 84065	CONFIRMED	UT confirmed not WY
+UT	Herriman	Gracie Barra Herriman	gbherriman.com	5746 W 13400 S, Herriman, UT 84096	CONFIRMED	addr matches input
+UT	Layton	Gracie Barra Layton	gblayton.com	70 S Fairfield Rd E #4, Layton, UT 84041	CONFIRMED	addr matches input
+UT	Sandy	Gracie Barra Sandy	graciebarra.com/sandy-ut	8912 S 700 E, Sandy, UT 84070	CONFIRMED	addr matches input
+UT	Orem	Gracie Barra Orem	gborem-utah.com	64 State St, Orem, UT	CONFIRMED	site is JS shell; addr via gbutah.com
+UT	Park City	Gracie Barra Park City	gbparkcity.com	8178 Gorgoza Pines Rd Ste G, Park City, UT 84098	CONFIRMED	addr matches input
+UT	North Salt Lake	Gracie Barra North Salt Lake	gbnorthsaltlake.com	76 S Orchard Dr, North Salt Lake, UT 84054	CONFIRMED	addr matches input
+UT	Heber City	Gracie Barra Heber City	graciebarraheber.com	2237 S 390 W, Heber City, UT 84032	CONFIRMED	addr matches input
+UT	Salt Lake City	Renzo Gracie SLC	renzogracieslc.com	615 Simpson Ave, Salt Lake City, UT 84106	CONFIRMED	addr matches input
+UT	Salt Lake City	10th Planet Jiu-Jitsu SLC	10thplanetslc.com	215 S 1000 E, Salt Lake City, UT 84102	CONFIRMED	addr matches input
+UT	Salt Lake City	Marangoni BJJ	bjjsaltlake.com	480 E 6th Ave, Salt Lake City, UT 84103	CONFIRMED	addr matches input
+UT	Salt Lake City	Fusion Academy	fusionbjj.com	Simpson Ave, Salt Lake City, UT	CONFIRMED-NO-ADDR	no house number published, Pedro Sauer
+UT	Millcreek	First BJJ	firstbjj.com	5508 Van Winkle, Salt Lake City, UT 84117	CONFIRMED	name is First BJJ; site says SLC not Millcreek
+UT	Holladay	Ultimate Combat Training Center	ultimatecombat.com	1939 E Murray Holladay Rd, Holladay, UT 84117	CONFIRMED	MMA gym w/ BJJ program
+UT	South Jordan	Unified BJJ	unifiedbjj.com	1098 W South Jordan Pkwy #107 & #108, South Jordan, UT 84095	CONFIRMED	addr matches input
+UT	Herriman	Adapt Jiu-Jitsu	adaptbjj.com		CONFIRMED-NO-ADDR	no street addr; site shows Opening Soon banner
+UT	Bluffdale	Crown BJJ	crownbjj.com	14719 S 855 W, Bluffdale, UT 84065	CONFIRMED	addr matches input
+UT	Bountiful	Viotti BJJ Academy	viottibjjacademy.com	545 W 500 S #130, Bountiful, UT 84010	CONFIRMED	addr matches input
+UT	Tooele	Tooele Martial Arts Academy	tooelemartialartsacademy.com	10 S Garnet St Bldg 669 #4, Tooele, UT 84074	CONFIRMED	addr matches input
+UT	Kaysville	Renzo Gracie Utah	renzogracieutah.com	860 W 300 N, Kaysville, UT	CONFIRMED	addr matches input
+UT	Clearfield	Caique Jiu Jitsu Utah Academy	cjjutah.com	1060 W 300 N Suite C, Clearfield, UT 84015	CONFIRMED	addr matches input
+UT	Riverdale	Thiago Alves BJJ	thiagoalvesbjj.com	4042 Pacific Ave, Riverdale, UT 84405	CONFIRMED	Team Link affiliate, addr matches
+UT	American Fork	Paul Tom's Academy of Brazilian Jiu-Jitsu	bjjutah.com	920 E State St, American Fork, UT 84003	CONFIRMED	name corrected to full site name
+UT	Lehi	Roots Combat Club	rootscombatclub.com	1657 N State St	CONFIRMED	BJJ, kickboxing, kids combatives; addr matches
+UT	Park City	Park City Jiu Jitsu	parkcitybjj.com	6430 N Business Park Loop Rd Unit D	CONFIRMED	Site also lists a Lehi location
+UT	Park City	BJJ Revolution Park City (Malmberg Jiu-Jitsu)	jiujitsurevolution.com	2080 Gold Dust Lane	CONFIRMED	Inside Silver Mtn Sports Club; addr found on page
+UT	Pleasant Grove	10th Planet Pleasant Grove	10thplanetpleasantgrove.com	2416 W 700 S Unit 120	CONFIRMED	No-Gi BJJ and wrestling academy
+UT	Spanish Fork	Vida Jiu-Jitsu Utah	vidajiujitsu.com	198 W 3450 N Ste 103	CONFIRMED	Shopify shop site; gym info on /pages/utah
+UT	Mapleton	Infinity BJJ Utah	infinitybjjutah.com	1885 W Alvey Dr Unit 3	CONFIRMED	Family BJJ academy near Springville
+UT	Orem	Bobby Lawrence Karate Orem	oremkarate.com	976 S State St	CONFIRMED	Karate school with dedicated Kids/Teen/Adult BJJ
+UT	St. George	STG Jiu Jitsu	stgjiujitsu.com	1487 S Silicon Way A6	CONFIRMED	Royler Gracie lineage, not Humaita as noted
+UT	St. George	Gracie Jiu-Jitsu St. George	graciestgeorge.com	1478 S 270 E Ste 4A	CONFIRMED	Certified Gracie CTC Level 4
+UT	St. George	Fusion MMA and Jiu Jitsu	teamfusionmma.com	2746 E 850 N #1	CONFIRMED	Pineview/East campus; site lists 2 real STG sites
+UT	St. George	Fusion MMA and Jiu Jitsu Sunset	teamfusionmma.com	1469 W Sunset Blvd	CONFIRMED	Sunset/West campus; genuinely separate location
+UT	Vernal	Triad Jiu Jitsu	triadjiujitsu.com	510 E Main St	CONFIRMED	Pedro Sauer lineage; addr on /about page
+UT	Hyrum	J-Crew Jiu-Jitsu	jcrewbjj.com	120 N 800 E Bldg B Unit 4	CONFIRMED	Cristiano Ribeiro affiliate school
+UT	Roosevelt	Uintah Basin Jiu Jitsu	uintahbasinbjj.com		DEAD	Domain NXDOMAIN; only FB/booking listings found
+UT	Layton	Team Link Utah	teamlinkutahbjj.com	3020 N Fairfield Rd Ste B	CONFIRMED	Fabio Serrao black belt HQ
+UT	Layton	Estavel BJJ	estaveljiujitsu.com		DEAD	Domain NXDOMAIN on retry; HOLD resolved dead
+UT	Logan	Cache Valley Martial Arts and Fitness	cachevalleymartialarts.com	953 W 700 N Ste 107	CONFIRMED	Explicit BJJ classes on weekly schedule
+UT	Ogden	Mori Training Center	mori-jiu-jitsu.com	3733 S 250 W	CONFIRMED	Eduardo Mori; behind Newgate Mall
+UT	Ogden	Westside BJJ Ogden	westsidebjjogden.com	2562 Washington Blvd	CONFIRMED	Pedro Sauer lineage via Mark Johnson
+UT	Provo	Agema Jiu Jitsu and MMA	agemagym.com	1200 Towne Centre Blvd	CONFIRMED	Court McGee affiliated
+UT	Sandy	Elite Performance Gym (Jeremy Horn's)	eliteperformancegym.com	9599 S 500 W	CONFIRMED	Site brands as Elite Performance Gym
+UT	West Jordan	CR Brazilian Jiu Jitsu	crbjjusa.com	5320 Wells Park Rd Unit 1	CONFIRMED	Cristiano Ribeiro 6th degree black belt
+UT	West Jordan	Absolute MMA	absolutemma.com	1338 W 7800 S	CONFIRMED	Behring BJJ under Flavio Behring
+UT	Cedar City	Mixed Grappling Arts	mixedgrapplingarts.com		EMPTY	Resolves but no readable body; HOLD resolved empty
+SK	Regina	Expedition Brazilian Jiu-Jitsu	expeditionbjj.ca	1535-B McAra St, Regina SK S4N 6H4	CONFIRMED	BJJ academy, address matches site
+SK	Regina	Ascendant Martial Arts	ascendantmartialarts.ca	1171 Winnipeg St, Regina SK S4R 1J5	CONFIRMED	Teaches BJJ, MMA, Muay Thai, wrestling
+SK	Saskatoon	Valens Jiu Jitsu Academy	valensjiujitsu.ca	510 Lauriston St #20, Saskatoon SK S7K 0R5	CONFIRMED	GFTeam affiliate confirmed on site
+SK	Saskatoon	Scheer's Martial Arts	scheersmartialarts.com	15 Glazier Rd, Saskatoon SK S7K 3J8	CONFIRMED	BJJ program, est. 1967
+SK	Saskatoon	Alliance Training Center	alliancetrainingcenter.com	339 Edson St, Saskatoon SK S7J 4C8	CONFIRMED	Teaches BJJ; not verified Alliance affiliate
+SK	Prince Albert	The Lab Brazilian Jiu-Jitsu Academy	thebjjlab.com	21 11th St E, Prince Albert SK	CONFIRMED	BJJ academy, address matches
+SK	Prince Albert	North Wake Martial Arts	northwakemartialarts.com	16-243 S Industrial Dr, Prince Albert SK S6V 7L7	CONFIRMED	BJJ, TKD, kickboxing, MMA taught
+SK	Moose Jaw	Control Jiu Jitsu	controlbjj.com	244a River St W, Moose Jaw SK	CONFIRMED	BJJ, Judo, Muay Thai; nonprofit
+SK	Yorkton	Yorkton Martial Arts Training Center	ymatc.com	295 Broadway St W, Yorkton SK	CONFIRMED	Multi-discipline incl BJJ program
+SK	North Battleford	Green Dojo	greendojo.ca	2202 101 St, North Battleford SK S9A 0S2	CONFIRMED	Current addr 2202 101 St; header shows stale addr
+SK	Estevan	Estevan Combat Sports and Fitness			CONFIRMED-NO-ADDR	No own site; FB/IG/news confirm BJJ/MMA nonprofit
+SK	Weyburn	Weyburn MMA Club		46 13th St	CONFIRMED-NO-ADDR	No own site; FB active; addr may be outdated
+SK	Melville	WARCRY Martial Arts	warcrymartialarts.com	543 Main St, Melville SK S0A 2P0	CONFIRMED	BJJ + kickboxing
+ND	Bismarck	Ice Dragon Academy	icedragonacademy.com	3007 Morrison Ave, Bismarck ND 58504	CONFIRMED	BJJ + Muay Thai, ND's only No-Gi BJJ
+ND	Bismarck	Bismarck MMA	bismarckmma.com	1418 Airport Rd Shop #14, Bismarck ND 58504	CONFIRMED	BJJ, Judo, wrestling, MMA
+ND	Dickinson	Elite BJJ	elitebjj.org	71 12th St SE, Dickinson ND	CONFIRMED	BJJ academy
+ND	Dickinson	Carlos Machado Jiu Jitsu Dickinson	carlosmachadojiujitsudickinson.com	11 4th Ave E, Dickinson ND 58601	CONFIRMED	BJJ school, Carlos Machado brand
+ND	Fargo	Academy of Combat Arts	fmaca.com	3332 4th Ave S Ste D, Fargo ND 58103	CONFIRMED	BJJ, Muay Thai, boxing, MMA
+ND	Grand Forks	Progressive Martial Arts	progressivemartialartsgf.com	1604 S Washington Ste B2, Grand Forks ND 58201	CONFIRMED	BJJ + MMA since 1995
+ND	Minot	Gracie Jiu-jitsu Minot	sites.google.com/view/minotgjj	2825 S Broadway Ste 1, Minot ND 58701	CONFIRMED	Real operating Gracie CTC, teaches BJJ
+WY	Casper	D's Jiu-Jitsu Academy	dsbjjcasper.com	2000 Casper St, Casper WY 82604	CONFIRMED	BJJ for all ages
+WY	Cheyenne	Black Label BJJ of Cheyenne	blacklabel307.com	1121 Old Town Ln, Cheyenne WY 82009	CONFIRMED	BJJ + kickboxing
+WY	Cody	Potter Combat Academy	pottercombat.com	1713 17th St, Cody WY 82414	CONFIRMED	BJJ + MMA striking
+WY	Green River	Duality BJJ	dualitybjj.com	142 E Flaming Gorge Way, Green River WY 82935	CONFIRMED	BJJ/Judo/wrestling/CSW/MMA; addr on own site
+WY	Jackson	Jackson Hole MMA	jacksonholemma.com	3580 South Park Dr, Jackson WY 83001	CONFIRMED	BJJ + wrestling, JH Indoor Sports Facility
+WY	Laramie	Third Way Jiu Jitsu	thirdwayjiujitsu.com	407 S 21st St, Laramie WY 82070	CONFIRMED	BJJ + kickboxing; no Alliance affiliation
+WY	Lander	Wind River Dojo	windriverdojo.org	465 Lincoln St, Lander WY 82520	CONFIRMED	Judo AND BJJ confirmed; 501c3; Lander correct

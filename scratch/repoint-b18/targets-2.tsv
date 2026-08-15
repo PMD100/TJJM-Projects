@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+2	GA	Acworth	James Shook Brazilian Jiu-Jitsu	http://zenith.jamesshookbjj.com/	override blanks it
+8	GA	Braselton	Iron Wolf Academy		stored w is empty string
+14	GA	Fort Oglethorpe	Blalock International Mixed Martial Arts Academy	http://www.blalocksimb.com/	override blanks it
+20	GA	Lawrenceville	Gwinnett Training Academy	http://www.gwinnetttrainingacademy.com/	override blanks it
+26	GA	Smyrna	Atlanta Budokan	http://www.atlantabudokan.com/	override blanks it
+32	GA	Watkinsville	Megalodon MMA	http://www.megalodonmma.com/	override blanks it
+38	IL	Downers Grove	Bodhi Collaborative BJJ	http://www.bodhicollaborative.com	override blanks it
+44	IL	Highwood	Brasa Jiu-Jitsu Highwood		no w key
+50	IL	Macomb	The Shed JiuJitsu Academy	https://theshedjiujitsuacademy.com/	override blanks it
+56	IL	Robinson	Falconbury Warrior Concepts	http://falconburywarriorconcepts.com/	override blanks it
+62	IL	West Dundee	LCCT Brazilian Jiu-Jitsu West Dundee	https://lcctbjjwestdundee.com/	override blanks it
+68	NV	Henderson	Renzo Gracie Henderson Jiu Jitsu	https://www.renzograciehenderson.com	override blanks it
+74	NV	Las Vegas	Cascao Evolution BJJ		no w key
+80	NV	Las Vegas	MC Unit jiu jitsu Academy		no w key
+86	NV	Las Vegas	Wand Fight Team	https://www.wandfightteam.vegas	override blanks it

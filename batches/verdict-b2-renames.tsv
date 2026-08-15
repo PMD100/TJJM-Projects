@@ -1,0 +1,7 @@
+# 5 rename records verified
+state	city	name_confirmed	url	address	verdict	note
+ND	Grand Forks	Grand Forks Brazilian Jiu-jitsu Academy	grandforksbjj.com	2750 Gateway Dr, Grand Forks, ND 58203	CONFIRMED	Body states Grand Forks ND explicitly
+ND	Valley City	Valley City Jiu-Jitsu and Self Defense Academy	jiujitsuvc.wixsite.com/valley-city-jiujitsu	200 Co Hwy 21, Valley City, ND 58072	CONFIRMED	Body states Valley City ND explicitly
+ND	Williston	SBG Williston	sbgwilliston.com	1135 2nd Ave W Ste 206, Williston, ND	CONFIRMED	Body states Williston ND explicitly
+WY	Gillette	Western Plains Brazilian Jiu Jitsu	westernplainsbrazilianjiujitsu.com	900 Ez Street, Gillette, WY 82718	CONFIRMED	Footer states Gillette WY explicitly
+WY	Rock Springs	Wyo Faction	wyofaction.com	1248 Dewar Drive, Rock Springs, WY 82901	CONFIRMED	First-party addr on /contact matches aggregator

@@ -1,0 +1,15 @@
+id	region	city	name	stored_w	why_blank
+6	FL	Boynton Beach	Xcell Jiu Jitsu	https://www.xcelljiujitsu.com/	override blanks it
+12	FL	Coral Gables	Refit Academy - Coral Gables	http://www.refitacademycoralgables.com	override blanks it
+18	FL	DeLand	West Volusia Academy Of Mixed Martial Arts	http://theacademyofmma.com/	override blanks it
+24	FL	Gainesville	Gainesville BJJ Florida	https://gainesvillebjjfl.com	override blanks it
+30	FL	Hialeah	Round 5 MMA and Jiu-Jitsu		no w key
+36	FL	Key Biscayne	Alliance Jiu Jitsu	http://www.alliancekb.com	override blanks it
+42	FL	Miami	Teknica MMA	https://www.teknicamartialarts.com/	override blanks it
+48	FL	Naples	Gracie Barra – Naples	http://www.graciebarranaples.com/	override blanks it
+54	FL	Orange City	Orange City Academy Of Mixed Martial Arts	http://theacademyofmma.com/	override blanks it
+60	FL	Ormond Beach	Trident Jiu Jitsu		no w key
+66	FL	Sanford	Cogito Jiu Jitsu	http://cogitojiujitsu.com/	override blanks it
+72	FL	St. Petersburg	Synergy Martial Arts and Fitness	http://synergymartialarts.fitness/	override blanks it
+78	FL	Vero Beach	Gracie Martial Arts – Vero Beach	http://www.graciemartialartsverobeach.com	override blanks it
+84	FL	Wildwood	USA Jiu-Jitsu	http://www.usajujitsu.net/	override blanks it

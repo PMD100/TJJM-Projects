@@ -1,0 +1,17 @@
+id	region	city	name	stored_w	why_blank
+3	CO	Aurora	Gracie Jiu-Jitsu Aurora	http://www.graciejiujitsuaurora.com	override blanks it
+12	CO	Colorado Springs	Altitude MMA	http://www.altitudemma.com	override blanks it
+21	CO	Fort Collins	Gracie Jiu-Jitsu Fort Collins	http://graciefortcollins.com	override blanks it
+30	CO	New Castle	Ground Zero Roaring Fork Valley BJJ	http://gzglenwoodsprings.com	override blanks it
+39	LA	Bossier City	Stockwell Martial Arts Academy		no w key
+48	LA	Jennings	Reeds Elite Mixed Martial Arts		no w key
+57	LA	New Orleans	NOLA MMA	https://www.nolammaacademy.com/	override blanks it
+66	LA	Sulphur	Gracie United Jiu Jitsu - Lacombe		no w key
+75	NJ	Edgewater Park	JBMFIT - Fitness Center and & Brazilian Jiu Jitsu Academy	http://www.jbmfit.com/	override blanks it
+84	NJ	Harrison	CE Jiu Jitsu, MMA, boxing, kickboxing Harrison		no w key
+93	NJ	Milltown	Puzon Jiu Jitsu	http://www.puzonjiujitsu.com/	override blanks it
+102	NJ	Toms River	Gracie Barra Toms River	https://www.gbtomsriver.com/	override blanks it
+111	OK	Ada	Conquer BJJ Mixed Martial Arts Academy	conquerbjjada.com	override blanks it
+120	OK	Duncan	Lucas Martial Arts		stored w is empty string
+129	OK	Muskogee	Mega Church Jiu Jitsu		stored w is empty string
+138	OK	Ponca City	Combat Syndicate		stored w is empty string

@@ -1,0 +1,291 @@
+{%- comment -%}
+  TJJM — NEW YORK curation notes. Written 5 Aug 2026 with the NY MatMade import.
+  Documentation only; this snippet renders nothing and is never included by the section.
+
+  Companion files in the working folder: ny-step5-verdicts.md (the full evidence base),
+  ny-186-matmade.tsv, ny-legacy-64-raw.txt, ny-step3-findings.md, build_ny.py.
+
+  ============================================================================
+  THE NUMBERS
+  ============================================================================
+  Legacy records before this import ......... 64   (0 previously suppressed)
+  MatMade candidates crawled ................ 186  (state.title === "New York")
+  Imported ................................... 130
+  Dropped ..................................... 56
+  Legacy records suppressed here .............. 12
+  NY renders after this import ............... 182  (64 - 12 + 130)
+
+  Yield x0.699. BOUND TO METHOD: NY is the first state to receive a systematic
+  non-BJJ scan, which removed 16 records (12 with no grappling program at all,
+  4 judo/traditional-jujutsu only). Oregon's x0.86 was measured WITHOUT that
+  filter and is therefore an upper bound, not a comparable figure. The recorded
+  band x0.50-0.85 contains NEITHER observation. Quote both points, do not
+  average them: Oregon x0.86 (n=136), New York x0.699 (n=186). n=2.
+
+  ============================================================================
+  DETECTION — a third check was needed, and it earned its place
+  ============================================================================
+  Exact-name intersection found 10 pairs. Domain intersection found 14 distinct
+  domains / 15 record pairs. NEITHER can see a pair where the names differ AND
+  the domains differ. A NAME-CONTAINMENT pass — normalise, strip generic tokens
+  (bjj, jiu, jitsu, brazilian, martial, arts, academy, mma, center, club, team,
+  gym, ny, new, york), then require one core-token set to CONTAIN the other —
+  found 4 more, a 27% uplift:
+
+    Brooklyn BJJ /157 Columbia St     <-> Brooklyn Brazilian Jiu Jitsu
+        missed because MatMade's stored domain is a WRONG-ENTITY link
+        (bkwingtsun.com, a Wing Tsun school at a different address)
+    Kioto Brazilian Jiu Jitsu/NEMMAA  <-> Next Evolution Martial Arts
+    Kings Combat Williamsburg         <-> Kings Combat
+        missed because the MatMade record stores NO website at all
+    A Force Brazilian Jiu Jitsu Acad. <-> A-Force BJJ Academy
+        missed because the hyphen defeats exact match, and MatMade stores a
+        Squarespace BOOKING WIDGET rather than a domain
+
+  n=1 state. NOT run against the 27 shipped states or the other 33 unshipped
+  regions. Worth a corpus-wide run as its own backlog item.
+
+  Same-address scanning: the first pass reported n=1. With directional (W/West),
+  suffix (Ave/Avenue) and ordinal (73rd/73th) folding it is n=3. Both extra pairs
+  turned out to be STALE ADDRESSES or succession in one commercial space, not
+  duplicates — the scan generates candidates, it still never concludes.
+
+  ============================================================================
+  FOUR REVERSALS — things previously recorded that turned out to be wrong
+  ============================================================================
+  1. SERRA RUNS HUNTINGTON ONLY. An earlier pass read serrajitsu.com and
+     concluded two academies (Huntington + Levittown). That site is now a stale
+     Joomla install carrying INJECTED GAMBLING SPAM and is not a usable source.
+     The maintained site serrabjjacademy.com lists only 365 West Jericho Tpke,
+     Huntington 11743. All three MatMade Serra records dropped; the legacy
+     record survives and is owed a city+address correction (item 0c).
+     This is the SECOND lapsed-or-stale NY domain serving injected gambling
+     spam, after cnymma.com. That is now a defect class with n=2 in one state.
+
+  2. AMERICAN TOP TEAM WATERTOWN IS NOT WATERTOWN BJJ REBRANDED. The rebrand
+     hypothesis fits on city, ZIP and discipline and is still wrong: ATT's own
+     About page reads "formerly JIU JITSU NATION, founded September 2009 by
+     Marc Stevens." ATT Watertown imports as net-new; Watertown BJJ NY is
+     suppressed on its own lack of evidence, not as a merge.
+
+  3. THE DOJO NYC — the record's Brooklyn city was RIGHT. MatMade files it
+     /Ridgewood at 10-82 Cypress Ave. The school's own homepage says
+     32 Gardner Ave, Brooklyn 11237. Following MatMade would have INTRODUCED
+     an error.
+
+  4. JUNGLE GYM NEW ROCHELLE is at 714 North Ave. The 10 Cottage Pl address
+     that MatMade carries appears only on Groupon. Textbook aggregator-agreement
+     failure — the same shape as evolutionlowell.com.
+
+  ============================================================================
+  A COLLISION THAT WOULD HAVE CORRUPTED A RECORD SILENTLY
+  ============================================================================
+  "Jungle Gym Martial Arts" is BOTH a surviving legacy record (New Rochelle) and
+  a genuinely separate MatMade location (the Bronx, 1526 Unionport Rd). Every
+  name-keyed mechanism in this theme — removal suppression, tjjm-gym-websites,
+  tjjm-gym-addresses — matches on NAME ALONE. Importing the Bronx record under
+  the same name would have rendered two identical cards AND silently given the
+  Bronx record the New Rochelle website override. It is imported as
+  "Jungle Gym Martial Arts - Bronx", following the brand's own suffix
+  convention. build_ny.py now asserts that no imported name collides with any
+  legacy name, surviving or suppressed. RUN THAT GATE ON EVERY FUTURE STATE.
+
+  ============================================================================
+  THE 12 SUPPRESSED LEGACY RECORDS
+  ============================================================================
+  Out of scope — live schools with no BJJ program at all:
+    Rochester Fitness Martial Arts .. now rochesterkungfu.com; Shaolin kung fu,
+                                      kickboxing, qigong, tai chi, lion dance
+    Swan's Martial Arts Academy ..... Family Kempo Karate only
+
+  Wrong region:
+    Savarese BJJ Academy ............ the school is Savarese Brazilian Jiu-Jitsu
+                                      Academy, 40 Park Ave, LYNDHURST NEW JERSEY,
+                                      njbjj.com, run by Chris Savarese. Lynbrook
+                                      NY has no Savarese. "Lynbrook NY" is almost
+                                      certainly a corruption of "Lyndhurst NJ".
+                                      NOT YET CHECKED whether it already exists
+                                      in the directory under NJ — if it does not,
+                                      a net-new NJ add is owed.
+
+  Link is actively harmful and no school could be found:
+    CNY MMA ......................... cnymma.com lapsed and was re-registered as
+                                      an Indonesian online-gambling site, LIVE ON
+                                      PRODUCTION until this change. Haven Jiu
+                                      Jitsu is physically in Baldwinsville
+                                      (2265 Downer St) but its body never
+                                      references a former name, so the two are
+                                      NOT established as the same school.
+
+  No school-owned page exists, second attempt:
+    Seven Tigers Martial Arts Academy  the "official site" four aggregators
+                                      attribute to it (martialartsbuffalo.com)
+                                      is the Buffalo Niagara Martial Arts
+                                      Festival — a different organisation.
+                                      Aggregators describe Karate and Praying
+                                      Mantis Kung Fu, not BJJ. AGGREGATOR-ONLY.
+
+  Dead domain plus positive corroboration:
+    Brazilian Power Team Westchester   zero trace of any BPT academy in
+                                      Westchester; BPT International's own school
+                                      list is Portugal/Angola/France/Brazil
+    Elite Fitness & Martial Arts ..... closure 1 Sep 2017 on the school's own
+                                      Facebook page. WEAK — read via a search
+                                      snippet, not a body.
+
+  ** DEAD DOMAIN AND NOTHING ELSE — the weakest class in this file **
+    Middletown BJJ NY, Newburgh BJJ, Precision Brazilian Jiu Jitsu,
+    Plattsburgh BJJ, Watertown BJJ NY
+
+    These five rest on ABSENCE OF EVIDENCE. Backlog item 2 conflated a dead link
+    with a dead gym in 2 of 6 cases, so this class has a known failure rate.
+    Suppression is a render-time filter and every one is reversible in one edit.
+    Leads that did NOT hold, recorded so they are not re-chased:
+      - Utica Combat Athletics is NOT Precision renamed (independent founding,
+        June 2015, Marc Giordano)
+      - Robert Hugus BJJ, 11 Spellman Rd, is the only BJJ academy in Plattsburgh
+        but nothing ties it to the old name -> NET-NEW LEAD, not a merge
+
+  ============================================================================
+  THE 56 DROPPED MATMADE CANDIDATES
+  ============================================================================
+  28  duplicate of an existing NY legacy record
+  12  not a BJJ school (no grappling program on its own schedule)
+  11  HELD - site returned an empty body, so nothing was concluded either way
+   4  judo / traditional Japanese jujutsu only
+   1  MatMade-internal duplicate (Vamos BJJ & MMA vs Vamos MMA)
+
+  The 12 non-BJJ: Kim's TaeKwonDo, Krav Maga Academy, Krav Maga Institute NYC,
+  Kyokushin Karate NYC, NY San Da, Fighthouse Systema NYC, Traditional Tribal
+  Fitness (a bootcamp in McCarren Park), Sitan Gym Li, Brooklyn Wing Tsun,
+  NY Muay-Thai Kick Boxing Association, Jiu Jitsu Massage (a sports massage
+  practice), Victor CTC.
+
+  VICTOR CTC closes the CTC question, and not the way the prior predicted.
+  ctconline.com is CONNECTION TECHNOLOGY CENTER, an industrial vibration-sensor
+  manufacturer at 7939 Rae Blvd, Victor NY. The acronym collides between
+  "Certified Training Center" (Gracie network) and "Connection Technology
+  Center". It is NOT the same organisation as Gracie Jiu-Jitsu Victor, which is
+  a real CTC at 8050 Victor Mendon Rd and IS imported. So "missing postalCode is
+  a non-gym tell" reaches 3-for-3, but the third case is a WRONG-ENTITY IMPORT,
+  not a training-centre stub. Do not read the 3-for-3 as three of a kind.
+
+  The 4 judo/TJJ-only are flagged separately because "jujitsu" in a name is not
+  evidence of BJJ: Iaido Kendo Club, Eizan Ryu Jujitsu, Staten Island Judo &
+  Jujitsu Academy, Sei Shin Dojo. Reversible in one line if the directory's
+  scope is later widened to grappling arts generally.
+
+  THE 11 HELD RECORDS ARE NOT VERDICTS. Each is a site that returned an empty
+  body on every path tried — a fetch failure is not evidence about a school.
+  Holding one out costs a record; importing it unverified costs a WRONG record.
+  Westchester Judo Club, Pegatessu Fitness, NY Ultimate Fitzone, Tiger Martial
+  Arts, Nubreed Martial Arts Academy, Blitz Dojo, USA Karate & BJJ, Ultimate
+  Sambo MMA Academy, Kai Next Level MMA & BJJ, Red Tiger Jiu Jitsu Ryu, Gracie
+  Jiu-Jitsu Sayville. If all 11 confirm, yield becomes x0.758.
+
+  ============================================================================
+  LOOKED LIKE DUPLICATES, ARE NOT — do not re-open these
+  ============================================================================
+  Bronx Martial Arts Academy x2 ... TWO UNRELATED SCHOOLS. 1051 Allerton Ave is
+      a Renzo Gracie affiliate; 1621 Crosby Ave is a Vitor Shaolin association
+      affiliate trading as "Bronx Jiu-Jitsu" since 2012. Different phones,
+      lineages, neighbourhoods. Both imported; the Crosby Ave record is renamed
+      to Bronx Jiu-Jitsu so the directory does not carry one name twice.
+  Kings Combat Rego Park / Williamsburg .. sibling brands on the same Zen Planner
+      tenant stack, but NEITHER body lists the other as a location and each has
+      its own phone and email domain. Williamsburg = the legacy record;
+      Rego Park imports as net-new.
+  Ronin Athletics / Kyokushin Karate NYC .. both stored at 265 Madison Ave Fl 5,
+      but Kyokushin's own site now lists three dojos and NO Madison Ave at all
+      (current Midtown home is 500 8th Ave). The shared address is STALE on the
+      Kyokushin side. Kyokushin drops as non-BJJ anyway.
+  Valor MMA / Team Jucao ......... both stored at 2067 Broadway. Succession in
+      one commercial space, not one business. Valor was founded by an instructor
+      who left Modern Martial Arts (stated in Valor's own testimonials); Team
+      Jucao's site gives no address anywhere and its live NYC-area presences are
+      LIC, Berkeley Heights NJ and Albany.
+
+  ============================================================================
+  THE MODERN MARTIAL ARTS KNOT
+  ============================================================================
+  mmanewyorkcity.com/locations claims THREE locations and ITS OWN SITE
+  CONTRADICTS THAT: a live, nav-orphaned page /midtown-west carries 780 8th Ave
+  10036, and bjjnewyorkcity.com — the domain on the legacy record "Vitor Shaolin
+  BJJ NYC" — is a live co-branded property whose footer reads "NYC BJJ Academy,
+  780 8th Avenue ... info@mmanewyorkcity.com". So the brand's own roster
+  UNDERCOUNTS it. Treat a brand's locations page as incomplete, never as
+  authoritative.
+
+    legacy Modern Martial Arts NYC ... KEPT, link fixed to mmanewyorkcity.com
+    legacy Vitor Shaolin BJJ NYC ..... KEPT, LINK IS CORRECT. Now trades as
+                                       NYC BJJ Academy, 780 8th Ave. A rename is
+                                       desirable but not overridable (item 0c).
+    MatMade MMA NYC /Manhattan ....... DROPPED. 4blackbelt.com is an abandoned
+                                       domain claiming five Manhattan sites, a
+                                       Westchester location that exists nowhere
+                                       current, and a stray Tulsa OK address.
+                                       "103 West 73th St" is a typo of 73rd.
+    MatMade MMA NYC Upper West Side .. DROPPED, same address, same school
+    MatMade MMA NYC Upper Eastside ... IMPORTED, net-new, URL verified
+    MatMade Modern Martial Arts Tribeca IMPORTED, net-new, Mindbody wrapper
+                                       replaced with the real per-location URL
+    MatMade Modern Martial Arts Astoria IMPORTED WITH A BLANK WEBSITE. Not part
+                                       of the three-location business; trades as
+                                       Omni Martial Arts, whose own domain is
+                                       parked for sale. No live first-party site
+                                       exists, so storing NOTHING beats storing
+                                       a Mindbody wrapper.
+
+  The "/brazilian-jiu-jitsu-east-side" path on the West Side record is NOT a
+  wrong-business link. It is the site-wide BJJ PROGRAM page, which lists all
+  three locations. Cosmetic slug artifact; previously recorded as a mismatch.
+
+  ============================================================================
+  BRAND ROSTERS
+  ============================================================================
+  TIGER SCHULMANN'S — 23 of 23 per-location tsk.com URLs resolve to a real,
+  matching page. Zero failures; the NJ prior (17 of 18) held here at 23 of 23.
+  NET-NEW FOUND: Hauppauge, tsk.com/locations/ny/hauppauge/, 694 Motor Parkway
+  11788 — NOT in the 186, so MatMade's roster is incomplete. Two decoy slugs:
+  /seaford 301s to Merrick, /atlas-park is a stale 2023 "opening soon"
+  placeholder for the same Glendale location. TSK teaches Jiu-Jitsu company-wide
+  so all 23 are in scope. The 23 names are left verbose exactly as sourced
+  ("Tiger Schulmann's Martial Arts Chelsea (New York City) NY") — a rename pass
+  is a style decision that has NOT been taken.
+
+  UFC GYM — the brand's own roster lists only TWO New York locations, and one is
+  a surprise: "Jiu-Livre (NYC), 383 5th Ave" (i.e. the legacy record Jiu Livre
+  NYC is now a UFC GYM site) and "Long Island, 2020 Jericho Turnpike".
+  UFC GYM PARK SLOPE IS ABSENT FROM THE BRAND'S OWN LIST, /locations/
+  brooklyn-park-slope redirects to the map, and no per-location URL exists. It
+  appears to be physically operating (aggregator only). Imported with the bare
+  brand root retained AND FLAGGED — the RULES section 2 blind-spot-4 defect is
+  not fixable from ufcgym.com.
+
+  ============================================================================
+  WHAT WAS NOT CHECKED — silence reads as absence of a problem
+  ============================================================================
+  - THE CORPUS-WIDE CROSS-REGION DIFF WAS NOT COMPLETED. The tooling truncates
+    tjjm-gyms.json at ~75,300 of 487,965 bytes (686 of 4,512 records, names A
+    through "Gentle Art Studio"), identically across three attempts. So: whether
+    Savarese is already in the directory under NJ is UNKNOWN; no Tiger
+    Schulmann's / UFC GYM / Renzo Gracie roster was diffed against the whole
+    corpus; and there is STILL no check that any of the 130 imported records
+    already exists under another region. Read the file through the browser in
+    ~11 KB chunks next run.
+  - Blind spot 1 (never-imported duplicates) remains untouched and is
+    unreachable by anything done here.
+  - Three legacy records remain unsettled and were KEPT rather than guessed:
+    Brandon Abdullah's Martial Arts and Fitness (both candidate domains return
+    an empty body; aggregators say Shotokan and fitness, NOT BJJ — a scope
+    question, unsettled), Fight-Sport Training Center (no school-owned site
+    exists at all), International Training Center of New York (itcny.com is a
+    server answering with IIS 500.19 and no site; never converted into a school
+    search).
+  - MAXUM BJJ's address is first-party but STALE. maxumbjj.com renders
+    inconsistently, with content dated 2015; the working copy lives at
+    voipserviceftp.com/maxumbjj.com, a third-party FTP host last modified 2021.
+    That is where 2995 Sunrise Hwy, Islip Terrace came from. RE-VERIFY.
+  - "Seldon" is probably a MatMade typo for SELDEN NY (East West MMA, 600 Middle
+    Country Rd). Left as sourced because it was not body-verified.
+{%- endcomment -%}

@@ -1,0 +1,146 @@
+id	region	city	name	stored_w	why_blank
+1	CO	Arvada	Genesis Training Academy	http://www.fightgta.com	override blanks it
+2	CO	Aurora	Alliance Jiu Jitsu Colorado	https://alliancejiujitsucolorado.com	override blanks it
+3	CO	Aurora	Gracie Jiu-Jitsu Aurora	http://www.graciejiujitsuaurora.com	override blanks it
+4	CO	Boulder	Alliance Jiu Jitsu Boulder	https://alliancejiujitsububoulder.com	override blanks it
+5	CO	Brighton	Frontline Wrestling and Jiu-Jitsu Academy	http://www.graciebrighton.com	override blanks it
+6	CO	Canon City	Gracie Jiu-Jitsu Canon City	https://graciejiujitsu-canon.com	override blanks it
+7	CO	Carbondale	Carbondale Training Center (Rising Crane)	http://www.risingcrane.net	override blanks it
+8	CO	Castle Rock	Carlson Gracie Jiujitsu Team Castle Rock	http://carlsongracieteamcastlerock.com	override blanks it
+9	CO	Centennial	Valor BJJ & Fitness	http://valorbjjfit.com	override blanks it
+10	CO	Colorado Springs	Cheyenne Mountain BJJ	https://cheyennemountainbjj.com	override blanks it
+11	CO	Colorado Springs	719 Fight Team MMA		no w key
+12	CO	Colorado Springs	Altitude MMA	http://www.altitudemma.com	override blanks it
+13	CO	Colorado Springs	GB Colorado Springs	https://gbcoloradosprings.com	override blanks it
+14	CO	Colorado Springs	Peak Mixed Martial Arts Academy		no w key
+15	CO	Colorado Springs	The HQ - Jiu Jitsu Headquarters	https://www.jiujitsucoloradosprings.com	override blanks it
+16	CO	Conifer	Conifer Jiu Jitsu & Fitness		no w key
+17	CO	Denver	Low Summit Jiu Jitsu	http://www.lowsummitjiujitsu.com	override blanks it
+18	CO	Durango	Durango BJJ	https://durangobjj.com	override blanks it
+19	CO	Englewood	Guetho BJJ Denver	https://guethobjjdenver.com	override blanks it
+20	CO	Englewood	Nova Mente Jiu Jitsu Academy	http://www.novamenteacademy.com	override blanks it
+21	CO	Fort Collins	Gracie Jiu-Jitsu Fort Collins	http://graciefortcollins.com	override blanks it
+22	CO	Fort Collins	Shugyo Training Center	http://www.shugyodojo.com	override blanks it
+23	CO	Grand Junction	Gracie Jiu-Jitsu Grand Junction		no w key
+24	CO	Gunnison	Gunnison Jiu-Jitsu	http://www.gunnisonjiujitsu.com	override blanks it
+25	CO	Lakewood	Atos BJJ Lakewood	http://www.atosbjjlakewood.com	override blanks it
+26	CO	Lakewood	Flo Life BJJ + Colorado Holistic Martial Arts	https://www.flolifebjj.com	override blanks it
+27	CO	Lakewood	Lakewood Martial Arts	http://www.campmartialarts.com	override blanks it
+28	CO	Loveland	Infinite MMA Academy	http://www.infinitemixedmartialarts.com	override blanks it
+29	CO	Loveland	Kingsnake Jiu-Jitsu	http://www.kingsnakebjj.com	override blanks it
+30	CO	New Castle	Ground Zero Roaring Fork Valley BJJ	http://gzglenwoodsprings.com	override blanks it
+31	CO	Northglenn	Rocky Mountain Jiu Jitsu		no w key
+32	CO	Salida	14ers Jiu Jitsu		no w key
+33	CO	Westminster	Flatirons Mixed Martial Arts Academy	http://www.flatironsmma.com	override blanks it
+34	CO	Woodland Park	Discipleship Jiu-Jitsu	https://discipleshipjiujitsu.com	override blanks it
+35	LA	Abbeville	Vermilion Martial Arts Academy	http://www.abbevillesummercamp.com/	override blanks it
+36	LA	Amite City	Gracie Barra Amite		no w key
+37	LA	Baton Rouge	Martial Arts America Baton Rouge	https://www.martialartsamericabr.com/	override blanks it
+38	LA	Baton Rouge	Warrior's Cove Baton Rouge	https://www.warriorscovebjj.com/	override blanks it
+39	LA	Bossier City	Stockwell Martial Arts Academy		no w key
+40	LA	Broussard	Fight to Win Lafayette Jiu -Jitsu	http://www.fighttowinlafayette.com/	override blanks it
+41	LA	Broussard	Louisiana Judo. Louisiana Muay Thai		no w key
+42	LA	Central	Langston's Martial Arts	http://langstonsmartialarts.com/	override blanks it
+43	LA	Crowley	Gladiators Academy of Crowley	https://www.gladiatorsofcrowley.com/	override blanks it
+44	LA	Denham Springs	Combat Athletics	https://ccrosbyjiujitsu.com/contact-us/	override blanks it
+45	LA	Houma	Body Elite Boxing & MMA		no w key
+46	LA	Houma	Evolution Training	https://www.guerrillajiujitsuhouma.com/	override blanks it
+47	LA	Houma	Extreme Mix Martial Arts		no w key
+48	LA	Jennings	Reeds Elite Mixed Martial Arts		no w key
+49	LA	Lafayette	Acadiana Martial Arts Academy	https://www.acadianamartialarts.com/	override blanks it
+50	LA	Lafayette	Premier Martial Arts Lafayette	https://www.premiermartialartsacademy.com/	override blanks it
+51	LA	Lake Charles	Lake Area Brazilian Jiu-Jitsu		no w key
+52	LA	Leesville	Ground Zero Combat Sports Academy		no w key
+53	LA	Metairie	Louisiana Martial Arts Academy	http://www.louisianamaa.com/	override blanks it
+54	LA	New Iberia	Progressive Martial Arts Training Center	https://www.pmatc.com	override blanks it
+55	LA	New Orleans	Danny Daniels' MMA & Fitness	https://www.dannydanielsmma.com/	override blanks it
+56	LA	New Orleans	Mid City Martial Arts & Fitness Academy	https://www.midcitymartialarts.com/	override blanks it
+57	LA	New Orleans	NOLA MMA	https://www.nolammaacademy.com/	override blanks it
+58	LA	New Orleans	The Dojang New Orleans	https://www.thedojangneworleans.com/	override blanks it
+59	LA	Prairieville	Criterion Jiu Jitsu	https://www.criterionjiujitsu.com/home	override blanks it
+60	LA	Ruston	Triad Martial Arts Academy of Ruston		no w key
+61	LA	Shreveport	Warrior Training Center	https://www.warriortrainingcenterla.com/	override blanks it
+62	LA	Shreveport	Carlos Machado Jiu Jitsu of Shreveport	http://shreveportmartialart.com/	override blanks it
+63	LA	Slidell	Alliance Jiu Jitsu Slidell	https://www.alliancebjjslidell.com/	override blanks it
+64	LA	Stonewall	Gracie Stonewall Jiu Jitsu Academy		no w key
+65	LA	Sulphur	Primal Fitness Lake Charles	https://www.primalfitnessla.com/	override blanks it
+66	LA	Sulphur	Gracie United Jiu Jitsu - Lacombe		no w key
+67	LA	Terrytown	Power Extreme Fitness Training Center	http://www.mmanola.com/	override blanks it
+68	NJ	Barnegat	Green Dragon Warrior Arts	http://greendragonunlimited.com/Home_Page.php	override blanks it
+69	NJ	Brick Township	Misfits Muay Thai & Brazilian Jiu Jitsu	http://www.misfitsmuaythai.com/	override blanks it
+70	NJ	Browns Mills	Clay Jiu Jitsu	http://www.clayjiu-jitsu.com/	override blanks it
+71	NJ	Cedar Knolls	AMA Fight Club	https://www.amafightclubcedarknolls.com/	override blanks it
+72	NJ	City Of Orange	AJW Martial Arts Academy & Fitness Center	http://www.ajwmartialartsacademy.com	override blanks it
+73	NJ	Cranford	Jfc Training Center	http://www.jerseyfightclub.com/	override blanks it
+74	NJ	Denville	Real World Martial Arts Team Renzo Gracie	http://rwmma.com/	override blanks it
+75	NJ	Edgewater Park	JBMFIT - Fitness Center and & Brazilian Jiu Jitsu Academy	http://www.jbmfit.com/	override blanks it
+76	NJ	Edison	Jaguar BJJ	http://jaguarbjj.com/	override blanks it
+77	NJ	Elizabeth	Golden Eagle Judo & Jiu-Jitsu	http://www.goldeneaglejjj.com/	override blanks it
+78	NJ	Elizabeth	Team Jucão Elizabeth Brazilian Jiu Jitsu BJJ		no w key
+79	NJ	Ewing Township	Blue Line Defense and Fitness	http://www.bluelinedefenseandfitness.com/	override blanks it
+80	NJ	Flanders	Elite Tactical Martial Arts	http://www.elitetacticalmartialarts.com/	override blanks it
+81	NJ	Freehold	Alliance Jiu Jitsu Freehold	https://www.alliancejiujitsufreehold.com/	override blanks it
+82	NJ	Galloway	Gracie Jiu-Jitsu Galloway		no w key
+83	NJ	Hamilton Square	Hamilton Martial Arts	http://www.hamiltonmartialarts.com/	override blanks it
+84	NJ	Harrison	CE Jiu Jitsu, MMA, boxing, kickboxing Harrison		no w key
+85	NJ	Hoboken	David Branch Jiu Jitsu	https://www.davidbranchbjj.com/	override blanks it
+86	NJ	Hoboken	Renzo Gracie Hoboken	https://www.renzograciehoboken.com/	override blanks it
+87	NJ	Jersey City	CULTR BJJ	https://www.cultrbjj.com/	override blanks it
+88	NJ	Jersey City	Thiago Rela BJJ	https://www.thiagorelateam.com/	override blanks it
+89	NJ	Jersey City	Team Endurance MMA/ Brazilian JiuJitsu & Kickboxing Academy	http://www.teamendurancemma.com/	override blanks it
+90	NJ	Livingston	Amorosi's Mixed Martial Arts	http://www.amorosikarate.com/	override blanks it
+91	NJ	Lyndhurst	Anaconda Brazilian Jiu Jitsu & MMA Academy	http://www.anacondabjjmma.com	override blanks it
+92	NJ	Manville	Red Dragon Martial Arts Academy	http://www.reddragonmaa.com/	override blanks it
+93	NJ	Milltown	Puzon Jiu Jitsu	http://www.puzonjiujitsu.com/	override blanks it
+94	NJ	Mt. Holly	Jbm Brazilian Jiu-Jitsu Academy	http://www.jbmbjj.com/	override blanks it
+95	NJ	Newark	Roberto Gordo BJJ	https://www.robertogordo.com/	override blanks it
+96	NJ	North Brunswick Township	Advanced Martial Arts	http://advancedbjj.com/	override blanks it
+97	NJ	Phillipsburg	Gracie Jiu-Jitsu Phillipsburg		no w key
+98	NJ	South Amboy	Lionheart MMA	http://www.lionheartmixedmartialarts.com/	override blanks it
+99	NJ	South Pennsauken	Advantage MMA	http://www.advantagemixedmartialarts.com/	override blanks it
+100	NJ	South Plainfield	Renzo Gracie South Plainfield	https://www.renzograciesouthplainfield.com/	override blanks it
+101	NJ	Teterboro	Martial Maxx MMA	http://www.martialmaxxmma.com/	override blanks it
+102	NJ	Toms River	Gracie Barra Toms River	https://www.gbtomsriver.com/	override blanks it
+103	NJ	Vineland	US Martial Arts Academy Inc	http://www.usmartialarts.biz/	override blanks it
+104	NJ	Wall Township	Kurt Pellegrino MMA		no w key
+105	NJ	Wayne	Up Top Martial Arts Academy	http://www.martialartswaynenj.com/	override blanks it
+106	NJ	West Long Branch	Rolles Gracie Academy - Long Branch Jiu Jitsu & Muay Thai	https://rollesgracielongbranchnj.com/	override blanks it
+107	NJ	Westfield	Gracie Barra Westfield	https://www.gbwestfield.com/	override blanks it
+108	NJ	Whippany	Gym-Jitsu Mobile Martial Arts		no w key
+109	NJ	Woodland	Camal Judo	http://camaljudo.com/	override blanks it
+110	NJ	Woodland Park	Extreme Fight Club	http://www.efcchampion.com/	override blanks it
+111	OK	Ada	Conquer BJJ Mixed Martial Arts Academy	conquerbjjada.com	override blanks it
+112	OK	Ada	Rebellion Martial Arts		stored w is empty string
+113	OK	Altus	10th Planet Jiu-Jitsu Altus	altusmartialarts.ninja	override blanks it
+114	OK	Bartlesville	Platypus BJJ		stored w is empty string
+115	OK	Blanchard	Munoz BJJ and Combat Sports		stored w is empty string
+116	OK	Broken Arrow	Brothers Jiu Jitsu	brothersjiujitsu.com	override blanks it
+117	OK	Broken Arrow	Cohesion Brazilian Jiu-Jitsu & Judo Academy		stored w is empty string
+118	OK	Broken Arrow	Team Impact Martial Arts & Fitness	teamimpactok.com	override blanks it
+119	OK	Collinsville	Northside Brazilian Jiu Jitsu	thenorthsidebjj.com	override blanks it
+120	OK	Duncan	Lucas Martial Arts		stored w is empty string
+121	OK	Durant	Empire Jiu-Jitsu Durant	empirejiujitsudurant.com	override blanks it
+122	OK	Edmond	American Elite Mixed Martial Arts	edmondbjj.com	override blanks it
+123	OK	Edmond	Kudos		stored w is empty string
+124	OK	Edmond	Prodigy Jiu-Jitsu	peopleclimbers.com	override blanks it
+125	OK	El Reno	KMG Martial Arts Inc	kmgmartialarts.com	override blanks it
+126	OK	Enid	Shah Mat Brazilian Jiu Jitsu		stored w is empty string
+127	OK	McAlester	True Grit Jiu Jitsu and Defense	truegritjiu-jitsu.com	override blanks it
+128	OK	Muskogee	Church BJJ		stored w is empty string
+129	OK	Muskogee	Mega Church Jiu Jitsu		stored w is empty string
+130	OK	Muskogee	Thunder MMA		stored w is empty string
+131	OK	Mustang	F-5 Grappling		stored w is empty string
+132	OK	Norman	Kaizen Performance LLC	kaizenperformance.net	override blanks it
+133	OK	Norman	National Martial Arts of Norman	nmanorman.com	override blanks it
+134	OK	Oklahoma City	Sen Shin Kan Dojo	senshinkandojo.com	override blanks it
+135	OK	Oklahoma City	Yu'ki MMA		stored w is empty string
+136	OK	Okmulgee	Prowess Brazilian Jiu-Jitsu	prowessbjj.com	override blanks it
+137	OK	Owasso	Clinch Martial Arts Academy - Owasso	teamclinch.com	override blanks it
+138	OK	Ponca City	Combat Syndicate		stored w is empty string
+139	OK	Poteau	Oklahoma Combat Sports / KORE BJJ	site.oklahomacombatsports.com	override blanks it
+140	OK	Pryor	Trinity Martial Arts	trinitypryor.com	override blanks it
+141	OK	Seminole	Alexander Jiu-Jitsu	https://alexanderjiujitsu.com	override blanks it
+142	OK	Stillwater	Jackson Academy Martial Art Fitness	jacksonacademymartialarts.com	override blanks it
+143	OK	Tulsa	Ryan Brazilian Jiu Jitsu		stored w is empty string
+144	OK	Tulsa	Tulsa Judo and Jiu Jitsu	tulsajudoclub.com	override blanks it
+145	OK	Wilburton	3 Feathers MMA Muay Thai Warriors 4 Christ		stored w is empty string

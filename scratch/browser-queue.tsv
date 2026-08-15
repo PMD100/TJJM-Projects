@@ -1,0 +1,45 @@
+ref	region	city	name	stored_w	candidates	prior_evidence
+b10-3	CA	Anaheim	Javier Blanchard Brazilian Jiu Jitsu / BJJ Anaheim CA 92801	https://www.javierblanchard.com/	javierblanchard.com	Stored javierblanchard.com is NXDOMAIN (authority SOA is com. itself, so the delegation does not exist); the o
+b10-15	CA	Dixon	Fabio Prado Brazilian Jiu-Jitsu Academy		fabiopradobjj.com	fabiopradobjj.com resolves to live A records (76.223.67.189) but apex, www and /index.html all return a body c
+b10-18	CA	Fresno	Checkmat Fresno-Roots Brazilian Jiu-Jitsu	http://checkmatfresno.com	rootsbjj.com; checkmatfresno.com	Stored checkmatfresno.com is NXDOMAIN (DNS Status 3); candidate rootsbjj.com is DNS-live and serves robots.txt
+b10-26	CA	Irvine	Team Oyama MMA & Fitness	http://teamoyamamma.com/	teamoyama.com; teamoyamamma.com	teamoyama.com resolves (A 216.150.1.1) and serves a genuine gym robots.txt with /member/ and /membership-signu
+b10-33	CA	Los Angeles	Hollywood BJJ		hollywoodbjj.com	hollywoodbjj.com resolves to live Cloudflare A records but every web_fetch of the root and of /academy/, /inst
+b10-34	CA	Los Angeles	Independent Jiu-Jitsu	https://www.independentjiujitsu.co/calendar	independentjiujitsu.com; independentjiujitsu.co	Stored independentjiujitsu.co is NXDOMAIN; independentjiujitsu.com does have an A record (173.236.247.98) but 
+b10-36	CA	Merced	Merced Academy of Jiu Jitsu		mercedjiujitsu.com	mercedjiujitsu.com is Guerrilla Jiu-Jitsu Merced at 530 W. Olive Ave operated by Ferdin Martial Arts LLC, a di
+b10-45	CA	Ridgecrest	Flawless Victory MMA	http://www.fvmma.com/	fvmma.com; flawlessvictorymma.com	Stored fvmma.com is NXDOMAIN and flawlessvictorymma.com is also NXDOMAIN; the only non-aggregator candidate fo
+b10-54	CA	Simi Valley	Watts Brazilian Jiu-Jitsu & Muay Thai Academy	http://www.wattsbjj.com/	paragonsimivalley.com; attsbjj.com	wattsbjj.com is NXDOMAIN; successor candidate paragonsimivalley.com (same 4210 E Los Angeles Ave unit, founded
+b10-57	CA	Stanton	DE LA O Jiu-Jitsu	http://delaojiujitsu.com/	delaojiujitsu.com; delaojj.com	Stored delaojiujitsu.com is DNS Status 3 NXDOMAIN and delaojj.com is also NXDOMAIN; the only remaining candida
+b10-71	CA	West Sacramento	Buena Vida Jiu Jitsu Academy		buenavidajiujitsu.com	buenavidajiujitsu.com returns DNS Status 3 NXDOMAIN, leaving only the school's Facebook and Instagram pages, w
+b10-72	CA	Whittier	Gracie Jiu-Jitsu Whittier			No standalone domain found for the 6723 Comstock Ave academy; the only first-party candidates are its Facebook
+b9-7	FL	Bradenton	Champion Mma of Bradenton			No website found for this gym; only candidate is a Facebook page for CHAMPIONS MMA BRADENTON, which web_fetch 
+b9-11	FL	Clearwater	Grady's Family Mixed Martial Arts	http://www.gradysmma.com	gradysmma.com	Stored gradysmma.com returns DNS Status 3 NXDOMAIN despite still appearing in search results with a live-looki
+b9-13	FL	Coral Springs	Real World M.M.A. Training Center		realworldmma.com	The only website ever advertised for this gym, realworldmma.com, returns NXDOMAIN from Google DoH; the remaini
+b9-19	FL	Deerfield Beach	Burns Bros Jiu Jitsu	https://burnsbrosjiujitsu.com/	burns-bjj.com; burnsbrosjiujitsu.com	Stored burnsbrosjiujitsu.com is NXDOMAIN; the readable page at burns-bjj.com describes the Burns brothers' sys
+b9-20	FL	Delray Beach	Carlson Gracie Manny Soares	https://mannysoaresbjj.com	southfljiujitsu.com; mannysoaresbjj.com	Stored mannysoaresbjj.com is NXDOMAIN; candidate southfljiujitsu.com resolves to 74.220.199.6 but returned an 
+b9-23	FL	Fort Myers	Fight Zone MMA	http://www.fightzonefl.com/	fightzonefl.com	Stored fightzonefl.com returns DNS Status 3 NXDOMAIN; no replacement domain exists and the only candidate is f
+b9-24	FL	Gainesville	Gainesville BJJ Florida	https://gainesvillebjjfl.com	jiujitsugainesville.com; gainesvillebjjfl.com; bjjgainesville.com	Stored gainesvillebjjfl.com is NXDOMAIN and two distinct live Gainesville academies exist (bjjgainesville.com 
+b9-28	FL	Hialeah	Gladiator Sports Fitness MMA			No website domain surfaced in searches; the only first-party presence found is facebook.com/gladiatorsportsfit
+b9-30	FL	Hialeah	Round 5 MMA and Jiu-Jitsu		round5mma.com	Record never had a URL; round5mma.com resolves but returns a completely empty body via web_fetch, and the only
+b9-34	FL	Jupiter	Armory Training Center		ellnessliving.com; thearmory.tv	The only domain any source cites, thearmory.tv, is NXDOMAIN (DNS Status 3); the WellnessLiving page is an uncl
+b9-37	FL	Lake City	Hardkore MMA & Jiu-Jitsu		hardkoremma.com	hardkoremma.com returns NXDOMAIN; the only remaining candidate is the HardKore MMA Facebook page, which web_fe
+b9-49	FL	North Miami Beach	Gracie Jiu-Jitsu North Miami Beach		valentebrothers.com	The North Miami Beach page at valentebrothers.com returned meta tags only with an empty body (JS-rendered), an
+b9-53	FL	Ocoee	Gracie Jiu-Jitsu Ocoee		graciejiujitsuocoee.com	graciejiujitsuocoee.com resolves live (DNS Status 0, A records 76.223.67.189 and 13.248.213.45) but web_fetch 
+b9-60	FL	Ormond Beach	Trident Jiu Jitsu		tridentjiujitsu.com; tridentbjj.com	"Record never had a URL; tridentjiujitsu.com is NXDOMAIN despite search results still serving its ""Home | Tride"
+b9-63	FL	Pine Hills	Team Gladiator MMA & Fitness			No website of any kind found for this gym; the only web presence located is two Facebook pages, which web_fetc
+b9-68	FL	Sebring	GB Sebring		gbsebring.com; graciebarra.com	graciebarra.com/sebring-fl/ returns an empty body and its contact-us path redirects to the national GB contact
+b9-70	FL	St. Cloud	Full Circle MMA	http://www.nucfl.com/	nucfl.com	Stored nucfl.com returns NXDOMAIN (DNS Status 3); the only first-party presence found is Instagram @fullcircle
+b9-86	NL	Labrador City	Labrador City BJJ	https://www.novauniao.ca/lab-city	novauniaocanada.com; novauniao.ca	Stored novauniao.ca is NXDOMAIN at the .ca registry; successor novauniaocanada.com resolves via Wix but the /l
+b10-76	TX	Abilene	Revolutionary Fitness & MMA	http://www.revfitmma.com/	futurefitnessteam.com; revfitmma.com	Stored revfitmma.com is NXDOMAIN and the alternate futurefitnessteam.com cited in listings is also NXDOMAIN; o
+b10-88	TX	Bedford	Carlos Machado Jiu-Jitsu Mid Cities	https://carlosmachadojiujitsumidcities.com/Home/Offer/	midcitiesjiujitsu.com; carlosmachadojiujitsumidcities.com	Stored carlosmachadojiujitsumidcities.com is dead - its nameservers return REFUSED (DNS Status 2); candidate m
+b10-93	TX	Carrollton	Trainers Elite	http://www.trainerselite.net/	trainerselite.com; trainerselite.net	Stored trainerselite.net is NXDOMAIN and trainerselite.com serves a HugeDomains for-sale parking page priced a
+b10-96	TX	Conroe	Gracie Humaita Conroe	https://www.gymconroe.com/	yountbjj.com; gymconroe.com; graciehumaitaconroe.com	Stored gymconroe.com plus both candidates graciehumaitaconroe.com and yountbjj.com all return NXDOMAIN despite
+b10-104	TX	Edinburg	Amazonas MMA & Fitness Academy	https://amazonasmma.com/	amazonasmma.com	amazonasmma.com returns DNS Status 3 (NXDOMAIN) and the only remaining candidate is facebook.com/amazonasmma, 
+b10-105	TX	El Paso	El Paso Jiujitsu / Jiu-Jitsu El Paso TX 79936	http://www.elpjiujitsu.com/	elpasojiujitsu.com; elpjiujitsu.com	Stored elpjiujitsu.com nameservers return REFUSED (lame delegation) and elpasojiujitsu.com redirects to a Huge
+b10-106	TX	El Paso	Warriors Lair MMA		arriorslairmma.com	warriorslairmma.com is NXDOMAIN and no other school-owned domain surfaced; only Facebook, Instagram and Tapolo
+b10-107	TX	Fort Worth	Evolve BJJ	https://www.evolvebjj.com/	storybjj.com; evolvebjj.com	Stored evolvebjj.com nameservers do not respond at apex or www, and the successor domain storybjj.com asserted
+b10-113	TX	Hurst	Collins Martial Arts	http://www.collinsmartialarts.com/	chriscollinsacademy.com; collinsmartialarts.com; collinsmartialarts.net	collinsmartialarts.com and collinsmartialarts.net are both NXDOMAIN; the name-matching chriscollinsacademy.com
+b10-114	TX	Killeen	Strike And Submit Martial Arts And Fitness		sasmartialarts.net	sasmartialarts.net has a live A record (138.68.15.202) and indexed BJJ pages, but root, /about-us and /kids-br
+b10-115	TX	Killeen	Terra Leon Brazilian Jiu Jitsu		terraleonbjj.com; gteambjj.com	terraleonbjj.com is NXDOMAIN and gteambjj.com (the claimed successor) is also NXDOMAIN; the only live candidat
+b10-116	TX	Lakeway	Applied Sports MMA Family Fitness Gym		appliedmma.com	appliedmma.com resolves but now serves a Chinese streaming/piracy site, not the gym, so it must not be used; o
+b10-132	TX	Rhome	Spartan Fit MMA			No domain of any kind found for the 6225 TX-114 gym; the only first-party presence is its Facebook page which 
+b10-145	TX	Spring	Katana Jiu-Jitsu Academy	http://katanajiu-jitsuacademy.com	katanajiu-jitsuacademy.com; katanajiujitsuacademy.com	Stored katanajiu-jitsuacademy.com is NXDOMAIN and katanajiujitsuacademy.com is also NXDOMAIN; the only non-agg

@@ -1,0 +1,44 @@
+{%- comment -%}
+  6 Aug 2026 - WRONG-ENTITY LINK PURGE, 9 records across FL GA MA NV OH OR PA.
+
+  Every one of these domains RESOLVES AND SERVES A WORKING PAGE, so no uptime check,
+  status-code scan or reachability probe would ever flag them. They were found only by
+  reading the body. Each now belongs to a different business - in three cases to
+  gambling or spam operators - and the directory was sending visitors there.
+
+  The value is deliberately EMPTY, which blanks the link. The gym stays listed with its
+  name, city and map link; only the bad URL is removed. Reversible by deleting the row.
+
+  Each name was checked for uniqueness across all 4,630 records before being added: an
+  override matches on NAME ALONE, so a shared name would have blanked two records.
+  All 9 are unique. Do not add a row here without running that check.
+
+  What each domain actually served when read on 6 Aug 2026:
+    FL Robson Moura Jiu-Jitsu
+         squatted domain now hosts a japanese parenting/childcare blog
+    GA James Shook Brazilian Jiu-Jitsu
+         apex jamesshookbjj.com now hosts robocat, norwegian online casino
+    GA Redline MMA
+         chinese quartz materials company, j9 international group
+    MA Jiu-Jitsu USA Brazilian Jiu-Jitsu & Fitness Club
+         square inc payment platform homepage, not the gym
+    NV Fredson Paixao Academy
+         now Apex Credit, a credit-repair company in Canoga Park CA
+    NV Tapout Research & Development Training Center
+         redirects to tapout.com, TapouT LLC apparel brand, not a gym
+    OH Love And Chokes Jiu Jitsu Academy
+         now 216 software, cleveland mvp dev consultancy
+    OR Portland Small Circle Jujitsu
+         hijacked domain, chinese lottery/gambling spam page
+    PA Ramsey Academy of Martial Arts
+         now buffalo valley recreation authority parks site
+{%- endcomment -%}
+~Robson Moura Jiu-Jitsu|~
+~James Shook Brazilian Jiu-Jitsu|~
+~Redline MMA|~
+~Jiu-Jitsu USA Brazilian Jiu-Jitsu & Fitness Club|~
+~Fredson Paixao Academy|~
+~Tapout Research & Development Training Center|~
+~Love And Chokes Jiu Jitsu Academy|~
+~Portland Small Circle Jujitsu|~
+~Ramsey Academy of Martial Arts|~

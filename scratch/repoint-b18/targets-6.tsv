@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+6	GA	Bainbridge	Port City Jiu Jitsu		stored w is empty string
+12	GA	Eastman	Tect Center		stored w is empty string
+18	GA	Hoboken	Invictus Brazilian Jiu Jitsu & Defensive Arts	http://invictusbjj.online/	override blanks it
+24	GA	Pooler	Redline MMA	http://www.redlinemma.com/	override blanks it
+30	GA	Villa Rica	Independent MMA & Fitness - Villa Rica	https://www.independentvillarica.com/	override blanks it
+36	IL	Collinsville	GB Collinsville		no w key
+42	IL	Granite City	Granite City MMA Cage Warriors		no w key
+48	IL	Machesney Park	Northern Illinois Combat Club and Fitness	http://www.niccfitness.com/	override blanks it
+54	IL	Northbrook	Victory Martial Arts Northbrook		no w key
+60	IL	Schaumburg	P3 Martial Arts	https://p3jiujitsu.com	override blanks it
+66	NV	Henderson	Gracie Barra Henderson	http://www.gblasvegas.com	override blanks it
+72	NV	Las Vegas	Tristar Las Vegas	https://tristarlasvegas.com	override blanks it
+78	NV	Las Vegas	Hard Knocks Muay Thai & Judo	http://www.hkmtkickboxing.com	override blanks it
+84	NV	Las Vegas	The Academy of Brazilian Jiu Jitsu		no w key
+90	NV	Sparks	Atos Jiu Jitsu Reno	http://www.atosjiujitsureno.com	override blanks it

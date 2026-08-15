@@ -1,0 +1,26 @@
+# b2-verify-UT02.tsv - 24 Utah candidates needing a body read
+state	city	name	url	address	note
+UT	Lehi	Roots Combat Club	rootscombatclub.com	1657 N State St
+UT	Park City	Park City Jiu Jitsu	parkcitybjj.com	6430 N Business Loop Rd Unit D	also a Lehi location
+UT	Park City	BJJ Revolution Park City	jiujitsurevolution.com	Silver Mtn Sports Club Prospector	address vague
+UT	Pleasant Grove	10th Planet Pleasant Grove	10thplanetpleasantgrove.com	2416 W 700 S Unit 120
+UT	Spanish Fork	Vida Jiu-Jitsu Utah	vidajiujitsu.com	198 W 3450 N Ste 103	moved from Provo
+UT	Mapleton	Infinity BJJ Utah	infinitybjjutah.com	1885 W Alvey Dr Unit 3
+UT	Orem	Bobby Lawrence Karate Orem	oremkarate.com	976 S State St	what orembjj.com redirects to
+UT	St. George	STG Jiu Jitsu	stgjiujitsu.com	1487 S Silicon Way A6	Gracie Humaita
+UT	St. George	Gracie Jiu-Jitsu St. George	graciestgeorge.com	1478 S 270 E Ste 4A	Gracie CTC L4
+UT	St. George	Fusion MMA and Jiu Jitsu	teamfusionmma.com	2746 E 850 N #1
+UT	St. George	Fusion MMA and Jiu Jitsu Sunset	teamfusionmma.com	1469 W Sunset Blvd	second St George location
+UT	Vernal	Triad Jiu Jitsu	triadjiujitsu.com	510 E Main St #5	Pedro Sauer; street no aggregator only
+UT	Hyrum	J-Crew Jiu-Jitsu	jcrewbjj.com	120 N 800 E Bldg B Unit 4
+UT	Roosevelt	Uintah Basin Jiu Jitsu			LOW CONFIDENCE booking listing only
+UT	Layton	Team Link Utah	teamlinkutahbjj.com	3020 N Fairfield Rd Ste B	Fabio Serrao
+UT	Layton	Estavel BJJ	estaveljiujitsu.com	70 S Fairfield Rd	HOLD empty body; shares address with GB Layton
+UT	Logan	Cache Valley Martial Arts and Fitness	cachevalleymartialarts.com	953 W 700 N Ste 107
+UT	Ogden	Mori Training Center	mori-jiu-jitsu.com	3733 S 250 W	Eduardo Mori
+UT	Ogden	Westside BJJ	westsidebjjogden.com	2562 Washington Blvd	body not read; Pedro Sauer
+UT	Provo	Agema Jiu Jitsu and MMA	agemagym.com	1200 Towne Centre Blvd	Court McGee
+UT	Sandy	Jeremy Horn's Elite Performance	eliteperformancegym.com	9599 S 500 W
+UT	West Jordan	CR Brazilian Jiu Jitsu	crbjjusa.com	5320 Wells Park Rd Unit 1	Cristiano Ribeiro
+UT	West Jordan	Absolute MMA	absolutemma.com	1338 W 7800 S	Behring BJJ
+UT	Cedar City	Mixed Grappling Arts	mixedgrapplingarts.com	925 S Main St	HOLD empty body; yelp says temp closed

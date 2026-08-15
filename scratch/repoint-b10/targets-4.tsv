@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+4	CA	Antioch	Sovereign Brazilian Jiu Jitsu (BJJ)		no w key
+14	CA	Culver City	Abrigo Martial Arts	http://www.abrigomartialarts.com/index02.php	override blanks it
+24	CA	Indio	Flow Academy BJJ Indio		no w key
+34	CA	Los Angeles	Independent Jiu-Jitsu	https://www.independentjiujitsu.co/calendar	override blanks it
+44	CA	Redlands	Pinnacle Mixed Martial Arts, Inc.		no w key
+54	CA	Simi Valley	Watts Brazilian Jiu-Jitsu & Muay Thai Academy	http://www.wattsbjj.com/	override blanks it
+64	CA	Twentynine Palms	The Agoge		no w key
+74	CA	Woodland Hills	ZR Brazilian Jiu-jitsu Thousand Oaks / BJJ Thousand Oaks CA 91362	http://zrwoodlandhills.com/index.html	override blanks it
+84	TX	Austin	Austin Fitness Martial Arts - Now is THE VOID MArtial Arts	http://www.austinfitnessmartialarts.com	override blanks it
+94	TX	Cedar Park	GKX Martial Arts	http://www.gkxtreme.com/	override blanks it
+104	TX	Edinburg	Amazonas MMA & Fitness Academy	https://amazonasmma.com/	override blanks it
+114	TX	Killeen	Strike And Submit Martial Arts And Fitness		no w key
+124	TX	Mesquite	KO Empire Fight Academy / BJJ Mesquite TX 75149	https://www.koempirefa.com/	override blanks it
+134	TX	Rockwall	CAYA Martial Arts	http://www.cayamartialarts.com/	override blanks it
+144	TX	Southlake	Lucky Jiu-Jitsu and Fitness Club	https://luckybjj.com	override blanks it

@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+9	CA	Brentwood	Ares BJJ Brentwood	http://aresbrentwood.com/	override blanks it
+19	CA	Fullerton	Gracie Jiu-Jitsu Fullerton		no w key
+29	CA	Laguna Hills	Gracie Jiu-Jitsu Laguna Hills		no w key
+39	CA	Murrieta	Rise Jiu Jitsu Academy	https://risejiujitsumurrieta.com	override blanks it
+49	CA	San Francisco	Ralston Gracie Jiu Jitsu	http://www.ralstongracie.com	override blanks it
+59	CA	Stockton	Ares BJJ Stockton	http://www.aresbjjstockton.com	override blanks it
+69	CA	Visalia	Outlaw MMA & Fitness	http://outlaw559gym.com/	override blanks it
+79	TX	Alvin	Submission Boxing Academy		no w key
+89	TX	Big Spring	Warlord MMA		no w key
+99	TX	Corpus Christi	South texas fight academy		no w key
+109	TX	Fort Worth	TX Black Belt Academy Ft Worth	http://www.txbba-fortworth.com/	override blanks it
+119	TX	Longview	Longview BJJ	https://longviewbjj.com	override blanks it
+129	TX	North Richland Hills	Peak Performance Brazilian Jiu-Jitsu	http://www.peakbjj.com/	override blanks it
+139	TX	San Antonio	Martial Arts Academy Of San Antonio	http://www.martialartssa.com/	override blanks it
+149	TX	Tomball	McCoy's Brazilian Jiu Jitsu & MMA - Tomball	http://mccoysmma.com/	override blanks it

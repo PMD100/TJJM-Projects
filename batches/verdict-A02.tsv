@@ -1,0 +1,86 @@
+# A02 verdicts - 84 flagged links - DNS-first method
+state	city	name	url	verdict	note
+CO	Colorado Springs	GB Colorado Springs	https://gbcoloradosprings.com	DEAD	nxdomain, domain not registered
+CO	Colorado Springs	The HQ - Jiu Jitsu Headquarters	https://www.jiujitsucoloradosprings.com	DEAD	nxdomain, domain not registered
+CO	Denver	Low Summit Jiu Jitsu	http://www.lowsummitjiujitsu.com	DEAD	nxdomain, domain not registered
+CO	Durango	Durango BJJ	https://durangobjj.com	DEAD	nxdomain, domain not registered
+CO	Englewood	Guetho BJJ Denver	https://guethobjjdenver.com	DEAD	nxdomain, domain not registered
+CO	Englewood	Nova Mente Jiu Jitsu Academy	http://www.novamenteacademy.com	DEAD	nxdomain, domain not registered
+CO	Fort Collins	Gracie Jiu-Jitsu Fort Collins	http://graciefortcollins.com	DEAD	nxdomain, domain not registered
+CO	Fort Collins	Shugyo Training Center	http://www.shugyodojo.com	DEAD	nxdomain, domain not registered
+CO	Fort Collins	The Dojo LLC	http://www.thedojofc.com	LIVE-SCHOOL	live martial arts and fitness studio site
+CO	Granby	Mountain Beast MMA & Fitness	http://www.mountainbeast.com	LIVE-SCHOOL	live mma gym site at apex, www was blank
+CO	Grand Junction	Golden Fights MMA Gym	https://cagewarsnow.com	LIVE-SCHOOL	live site, gym trades as golden fights
+CO	Gunnison	Gunnison Jiu-Jitsu	http://www.gunnisonjiujitsu.com	DEAD	nxdomain, domain not registered
+CO	Lakewood	Atos BJJ Lakewood	http://www.atosbjjlakewood.com	DEAD	nxdomain, domain not registered
+CO	Lakewood	Flo Life BJJ + Colorado Holistic Martial Arts	https://www.flolifebjj.com	DEAD	nxdomain, domain not registered
+CO	Lakewood	Lakewood Martial Arts	http://www.campmartialarts.com	DEAD	nxdomain, domain not registered
+CO	Loveland	Infinite MMA Academy	http://www.infinitemixedmartialarts.com	DEAD	nxdomain, domain not registered
+CO	Loveland	Kingsnake Jiu-Jitsu	http://www.kingsnakebjj.com	DEAD	nxdomain, domain not registered
+CO	Loveland	Northern Colorado Jiu Jitsu	http://www.nocojiujitsu.com	LIVE-SCHOOL	dns lame delegation but site loads fine, real bjj content
+CO	New Castle	Ground Zero Roaring Fork Valley BJJ	http://gzglenwoodsprings.com	DEAD	nxdomain, domain not registered
+CO	Parker	Jit Pit Academy	http://www.jitpit.com	LIVE-SCHOOL	live academy site at apex, www was blank
+CO	Peyton	Combative Fighting Systems Brazilian Jiu Jitsu	https://cfsfalcon.com	EMPTY	dns resolves, apex and www both return blank body
+CO	Westminster	Flatirons Mixed Martial Arts Academy	http://www.flatironsmma.com	DEAD	nxdomain, domain not registered
+CO	Woodland Park	Discipleship Jiu-Jitsu	https://discipleshipjiujitsu.com	DEAD	nxdomain, domain not registered
+CT	Ansonia	Casa of Jiu Jitsu	http://www.casabjj.com/	EMPTY	dns resolves, www and apex both blank
+CT	Bridgeport	ZR Association CT	https://zrbridgeportbjj.com/	DEAD	nxdomain, domain not registered
+CT	Danbury	BJJ For Christ Jiu Jitsu	http://www.bjjforchrist.org/	DEAD	nxdomain, domain not registered
+CT	Danbury	Danbury Academy Mixed Martial Arts	https://www.da-mma.com/	DEAD	nxdomain, domain not registered
+CT	Danbury	Team Delima Brazilian Jiu-Jitsu Association	http://delimajiujitsu.com/	DEAD	nxdomain, domain not registered
+CT	Glastonbury	Fortitude Jiu Jitsu	http://fortitudejj.com/	DEAD	nxdomain, domain not registered
+CT	New London	Strikezone MMA	http://www.strikezonemma.com/	LIVE-SCHOOL	live strike zone mma site, lists norwich ct address
+CT	Norwalk	Ronin Martial Arts - Westport	https://www.westportmma.com/	EMPTY	dns lame delegation but resolves, blank both www/apex
+CT	Stamford	Stamford Judo	http://www.stamfordjudo.us/	EMPTY	dns resolves, apex and www both blank
+CT	Watertown	Thunder Martial Arts Academy	http://teamthundermma.net/	LIVE-SCHOOL	live team thunder mma site at www
+CT	West Hartford	Royce Gracie Brazilian Jiu Jitsu	http://gracie-jiu-jitsu.com/	LIVE-SCHOOL	live royce gracie bjj self defense site
+CT	Wethersfield	Hartford Dojo	http://gracieacademy.com/	EMPTY	dns resolves (national gracie academy domain), blank body
+FL	Aventura	Marcus Aurelio Jiu Jitsu Academy	http://www.maximusmartialarts.com/	DEAD	nxdomain, domain not registered
+FL	Boca Raton	GB Boca Raton	http://braziliantopteamflorida.com/	PARKED	redirects to bttbocaraton.com website-update holding page
+FL	Boynton Beach	Xcell Jiu Jitsu	https://www.xcelljiujitsu.com/	DEAD	nxdomain, domain not registered
+FL	Cape Coral	Cali Style MMA	http://calistylemma.com/	DEAD	nxdomain, domain not registered
+FL	Clearwater	Grady's Family Mixed Martial Arts	http://www.gradysmma.com	DEAD	nxdomain, domain not registered
+FL	Coral Gables	Refit Academy - Coral Gables	http://www.refitacademycoralgables.com	DEAD	nxdomain, domain not registered
+FL	Dania Beach	Marcelo Meleiro BJJ – Nova Uniao South Florida	http://www.novauniaosouthflorida.com/	DEAD	nxdomain, domain not registered
+FL	Davie	RAIVA Brazilian Jiu Jitsu	http://www.raivabjj.com	LIVE-SCHOOL	live raiva bjj site, davie fl
+FL	DeLand	West Volusia Academy Of Mixed Martial Arts	http://theacademyofmma.com/	DEAD	nxdomain, domain not registered
+FL	Deerfield Beach	Burns Bros Jiu Jitsu	https://burnsbrosjiujitsu.com/	DEAD	nxdomain, domain not registered
+FL	Delray Beach	Carlson Gracie Manny Soares	https://mannysoaresbjj.com	DEAD	nxdomain, domain not registered
+FL	Dunnellon	Team Carvalho Academy	http://www.teamcarvalho.com/home.html	EMPTY	dns resolves, root blank on both www and apex
+FL	Fort Lauderdale	Renzo Gracie Fort Lauderdale	https://www.renzogracieftlauderdale.com/	DEAD	nxdomain, domain not registered
+FL	Fort Myers	Fight Zone MMA	http://www.fightzonefl.com/	DEAD	nxdomain, domain not registered
+FL	Fort Pierce	Team Carvalho Treasure Coast	http://www.teamcarvalho.com/	EMPTY	same domain as team carvalho academy row, blank body
+FL	Gainesville	Gainesville BJJ Florida	https://gainesvillebjjfl.com	DEAD	nxdomain, domain not registered
+FL	Gulf Breeze	Gulf Breeze Jiu Jitsu	https://gulfbreezejiujitsu.com/	DEAD	nxdomain, domain not registered
+FL	Hallandale Beach	Gracie Barra Hallandale Beach	http://gbhallandale.com	DEAD	nxdomain, domain not registered
+FL	Indian Harbour Beach	BLTeam Brazilian Jiu-Jitsu and Muay Thai Academy	https://blteam1.com/	DEAD	nxdomain, domain not registered
+FL	Inverness	Agogi Academy of Combatives	http://agogiac.com/	DEAD	nxdomain, domain not registered
+FL	Jacksonville Beach	Ludus Martial Arts LLC	http://ludusmartialarts.com/	LIVE-SCHOOL	live ludus martial arts site, jacksonville beach
+FL	Jacksonville	Alpha Dogs Martial Arts	https://alphadogsmartialarts.com/	DEAD	nxdomain, domain not registered
+FL	Jupiter	Team Nogueira Bloise Academy	http://www.teamnog.com/	LIVE-SCHOOL	live team nogueira bloise academy site at apex
+FL	Jupiter	The Jupiter Jiu Jitsu Academy in Jupiter Fl	http://www.jupiterjiujitsu.com/	EMPTY	dns resolves, blank body both www and apex
+FL	Key Biscayne	Alliance Jiu Jitsu	http://www.alliancekb.com	DEAD	nxdomain, domain not registered
+FL	Lake Worth	Combat Club Lake Worth	https://combatclublakeworth.com/	DEAD	nxdomain, domain not registered
+FL	Lauderhill	South Florida Fight Club	http://www.sffc.tv/	DEAD	nxdomain, domain not registered
+FL	Longwood	Kokopelli's Gym	http://www.kokogym.com/	EMPTY	dns lame delegation but resolves, blank both www/apex
+FL	Melbourne	Master Lowell's MMA Academy	https://jlmma.com/	DEAD	nxdomain, domain not registered
+FL	Miami Beach	Black House Miami Beach	http://www.blackhousemiamibeach.com	LIVE-SCHOOL	live black house miami beach site at apex
+FL	Miami	Champion Martial Arts	http://www.judochampion.com/	DEAD	nxdomain, domain not registered
+FL	Miami	Fight Sports Miami	https://fightsportsmiami.com/	EMPTY	dns resolves, blank body both apex and www
+FL	Miami	Refit Academy - Wynwood	http://www.refit-academy.com	EMPTY	dns resolves via cloudflare ns, blank body both tries
+FL	Miami	Teknica MMA	https://www.teknicamartialarts.com/	DEAD	nxdomain, domain not registered
+FL	Naples	Gracie Barra – Naples	http://www.graciebarranaples.com/	DEAD	nxdomain, domain not registered
+FL	Ocala	GTK Academy of Martial Arts	https://gtkacademy.com/	DEAD	nxdomain, domain not registered
+FL	Orange City	Orange City Academy Of Mixed Martial Arts	http://theacademyofmma.com/	DEAD	nxdomain, domain not registered
+FL	Orange City	USD & MMA Fitness	http://www.mmagetfit.com/	DEAD	nxdomain, domain not registered
+FL	Orlando	Alliance Jiu Jitsu Orlando	https://alliancejiujitsuorlando.com	DEAD	nxdomain, domain not registered
+FL	Orlando	American Combat Club	http://www.americancombatclub.com/	LIVE-SCHOOL	live american combat club site at apex
+FL	Orlando	Central Florida BJJ	https://offers.avbjj.com/free-2-week-pass	EMPTY	dns resolves via crm funnel host, blank body
+FL	Orlando	Ronin Training Center Orlando	https://www.roninorlandofl.com/	DEAD	nxdomain, domain not registered
+FL	Oxford	Robson Moura Jiu-Jitsu	http://www.usajujitsu.net/	LIVE-OTHER	squatted domain now hosts a japanese parenting/childcare blog
+FL	Palm Beach Gardens	Gamblers Jiu-Jitsu & Kickboxing Club	http://gamblersjiujitsuclub.com/sign-up-for-free-trial/	LIVE-SCHOOL	live site at root domain, sign-up path was blank
+FL	Panama City	Rilion Gracie Jiu-Jitsu Panama City	http://jiujitsulynnhaven.com/	EMPTY	dns resolves, blank body both apex and www
+FL	Pembroke Pines	Valente Brothers Jiu-Jitsu Pembroke Pines	http://www.graciemiami.com	LIVE-SCHOOL	live valente brothers jiu-jitsu network site
+FL	Pensacola	Team Remedy	https://teamremedymma.com/	DEAD	nxdomain, domain not registered
+FL	Plantation	Kumite Martial Arts	http://www.kumitemartialarts.com/	DEAD	nxdomain, domain not registered
+FL	Port Orange	Fight Sports Daytona	https://www.fightsportsdaytona.com/freetrial	DEAD	nxdomain, domain not registered

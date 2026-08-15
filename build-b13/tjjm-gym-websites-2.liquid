@@ -1,0 +1,611 @@
+{%- comment -%}
+  TJJM website overrides, FILE 2 of 2. Same idiom as tjjm-gym-websites: one row per
+  gym, tilde + exact gym name + pipe + value + tilde. An EMPTY value BLANKS the link.
+
+  This file exists only because file 1 was approaching the 24 KB Admin API rewrite
+  ceiling. The section concatenates both into one string before probing, so the two
+  files behave as a single lookup. Precedence note: the probe takes the LAST match,
+  so a name present in both files resolves to the entry HERE, in file 2.
+
+  CONTENT: 426 dead or parked links, blanked. Curated states only (Tier A).
+  Generated 6 Aug 2026 from a full audit of all 4,282 published outbound links.
+
+  METHOD, stated so the claim dies with the method that produced it:
+    1. Harvested every gym link the site publishes, from all 61 rendered region pages.
+    2. Browser reachability screen produced 899 candidates. That screen is UNRELIABLE:
+       a measured 39 percent false-positive rate (n=18), and it is structurally blind
+       to a working link that belongs to somebody else.
+    3. Every candidate in the 27 curated states was then re-checked SERVER-SIDE, DNS
+       first. NXDOMAIN is conclusive. A blank body is NOT, and was recorded as
+       unresolved rather than dead.
+    Across 586 verified Tier A links: 414 dead, 12 parked, 9 wrong-entity (blanked in
+    file 1), 96 live-and-correct (NOT touched), 55 unresolved (NOT touched).
+
+  WHAT IS DELIBERATELY NOT HERE:
+    - the 96 the screen flagged that are live and correct. Blanking those would have
+      destroyed 96 working links. This is why a screen orders work and never concludes.
+    - the 55 that returned an empty body. A fetch failure is not evidence about a
+      school. Each is owed one body read.
+    - all 300 flagged links in the 34 never-curated regions. Those are a different
+      problem: 174 are records named after their own city, and the open question is
+      whether the LISTING should exist at all, not whether to blank a URL.
+
+  EVERY NAME HERE WAS CHECKED FOR UNIQUENESS ACROSS ALL 4,630 RECORDS. An override
+  matches on NAME ALONE, so a shared name blanks TWO records. 14 names in the corpus
+  are used by more than one record; none appear below. DO NOT ADD A ROW WITHOUT
+  RUNNING THAT CHECK.
+
+  The gym stays listed with its name, city and map link. Only the bad URL is removed.
+  Any row here is reversible by deleting the line.
+
+  Counts by region: AL 5  AZ 11  CA 33  CO 28  CT 5  FL 49  GA 20  IL 19  KY 9  LA 22  MA 14  MD 7  MI 10  MO 13  MT 2  NC 12  NJ 37  NV 15  OH 15  OK 20  OR 7  PA 12  TX 45  VA 13  WI 3
+{%- endcomment -%}
+~Athens Jiu Jitsu|https://www.ajjathens.com~
+~Calera Fitness and MMA|~
+~Yamane Championship Mixed Martial Arts|~
+~Champions Freestyle MMA & Fitness|~
+~Prattville Fitness Kickboxing And MMA|~
+~Dominate Fitness and MMA|~
+~Deets Jiu Jitsu Academy|~
+~Ruffhouse Jiu-Jitsu|~
+~Allied Jiu Jitsu|~
+~Gracie Peoria|~
+~Fury Brazilian Jiu Jitsu|~
+~Gracie Jiu-Jitsu Scottsdale|~
+~Flow Game Gym|~
+~American Pankration Fighting MMA|~
+~Dragon-Snake MMA & Fitness|~
+~Always Forward Jiu-Jitsu Academy|~
+~Javier Blanchard Brazilian Jiu Jitsu / BJJ Anaheim CA 92801|https://www.facebook.com/javierblanchardbrazilianjiujitsu/~
+~The Chute MMA, Jiu Jitsu and Wrestling|https://thechutemma.com/~
+~Ares BJJ Brentwood|~
+~Abrigo Martial Arts|~
+~Checkmat Fresno-Roots Brazilian Jiu-Jitsu|https://www.facebook.com/rootsbjjfresno/~
+~Royce Gracie Jiu Jitsu Academy SoCal|~
+~Hayward BJJ Darcio Lira|~
+~Team Oyama MMA & Fitness|https://teamoyama.com/~
+~Valhalla Jiu Jitsu|~
+~Joker's MMA|~
+~Alliance Jiu Jitsu Los Angeles|https://www.cobrinhabjj.com/~
+~Bang Bang Power Fit|~
+~Independent Jiu-Jitsu|~
+~Rise Jiu Jitsu Academy|~
+~GB Paso Robles|~
+~10th Planet Redland|https://10thplanetjiujitsuredlands.com/~
+~Flawless Victory MMA|https://www.facebook.com/FlawlessVictoryMma/~
+~Academy Of Striking & Grappling|https://www.asgmma.com/~
+~Alliance Jiu Jitsu San Diego|https://alliancesandiego.com/~
+~Ralston Gracie Jiu Jitsu|~
+~I M C Survival Center|~
+~Knoxx Martial Arts and Fitness|~
+~Watts Brazilian Jiu-Jitsu & Muay Thai Academy|https://www.paragonsimivalley.com/~
+~DE LA O Jiu-Jitsu|https://www.facebook.com/p/De-La-O-Jiu-Jitsu-Training-Center-Stanton-CA-100067935109362/~
+~Andre de Freitas Brazilian Jiu-Jitsu / BJJ Stockton CA 95210|~
+~Ares BJJ Stockton|~
+~Shingu Fighter|~
+~10th Planet Torrance|https://10ptorrance.com/~
+~Rodrigo Cardoso Brazilian Jiu-Jitsu Academy|https://atlasbjj.com/~
+~Rock And Roll Fight Company|~
+~Outlaw MMA & Fitness|~
+~ZR Brazilian Jiu-jitsu Thousand Oaks / BJJ Thousand Oaks CA 91362|~
+~BloodSpillerBJJ & Caveirinha Jiu Jitsu Academy|~
+~Genesis Training Academy|https://genesis-fight.com/~
+~Alliance Jiu Jitsu Colorado|~
+~Gracie Jiu-Jitsu Aurora|~
+~Alliance Jiu Jitsu Boulder|~
+~Frontline Wrestling and Jiu-Jitsu Academy|~
+~Gracie Jiu-Jitsu Canon City|https://www.gjj-canoncity.com~
+~Carbondale Training Center (Rising Crane)|~
+~Valor BJJ & Fitness|~
+~Altitude MMA|~
+~Cheyenne Mountain BJJ|~
+~GB Colorado Springs|https://graciebarra.com/colorado-springs-co/~
+~The HQ - Jiu Jitsu Headquarters|~
+~Durango BJJ|~
+~Guetho BJJ Denver|~
+~Nova Mente Jiu Jitsu Academy|https://www.novamentebjj.com~
+~Gracie Jiu-Jitsu Fort Collins|~
+~Shugyo Training Center|~
+~Gunnison Jiu-Jitsu|~
+~Atos BJJ Lakewood|~
+~Flo Life BJJ + Colorado Holistic Martial Arts|~
+~Infinite MMA Academy|https://infinitemixedmartialarts.perfectmind.com/SocialSite/about-us~
+~Kingsnake Jiu-Jitsu|~
+~Ground Zero Roaring Fork Valley BJJ|~
+~Flatirons Mixed Martial Arts Academy|~
+~Discipleship Jiu-Jitsu|~
+~ZR Association CT|~
+~BJJ For Christ Jiu Jitsu|~
+~Danbury Academy Mixed Martial Arts|~
+~Team Delima Brazilian Jiu-Jitsu Association|~
+~Fortitude Jiu Jitsu|~
+~Marcus Aurelio Jiu Jitsu Academy|https://aureliobjj.com/~
+~GB Boca Raton|https://gbbocaraton.com/~
+~Xcell Jiu Jitsu|https://www.xcellbjj.com/~
+~Cali Style MMA|~
+~Grady's Family Mixed Martial Arts|https://www.facebook.com/gradysmma/~
+~Refit Academy - Coral Gables|~
+~Marcelo Meleiro BJJ – Nova Uniao South Florida|~
+~West Volusia Academy Of Mixed Martial Arts|~
+~Burns Bros Jiu Jitsu|~
+~Carlson Gracie Manny Soares|~
+~Renzo Gracie Fort Lauderdale|https://renzogracieftl.com/~
+~Fight Zone MMA|~
+~Gainesville BJJ Florida|~
+~Gulf Breeze Jiu Jitsu|https://gulfbreezebjj.com/~
+~Gracie Barra Hallandale Beach|~
+~BLTeam Brazilian Jiu-Jitsu and Muay Thai Academy|~
+~Agogi Academy of Combatives|~
+~Alpha Dogs Martial Arts|~
+~Alliance Jiu Jitsu|https://alliancejjkb.com/~
+~Combat Club Lake Worth|https://www.combatclub.com/~
+~South Florida Fight Club|~
+~Master Lowell's MMA Academy|~
+~Champion Martial Arts|~
+~Teknica MMA|https://teknicajj.com/~
+~Gracie Barra – Naples|~
+~GTK Academy of Martial Arts|~
+~Orange City Academy Of Mixed Martial Arts|~
+~USD & MMA Fitness|~
+~Alliance Jiu Jitsu Orlando|https://brunomalfacine.com/~
+~Ronin Training Center Orlando|~
+~Team Remedy|~
+~Kumite Martial Arts|~
+~Fight Sports Daytona|https://www.cutlerbjj.com/~
+~Cogito Jiu Jitsu|https://www.sanfordmartialarts.com/~
+~BJJ Academy Of Sarasota (wbjja)|~
+~GB Saint Augustine|https://graciebarra.com/saint-augustine-fl/~
+~Full Circle MMA|~
+~Elite Training Center|~
+~Synergy Martial Arts and Fitness|~
+~Fist Factory|~
+~American Tigers Martial Arts|~
+~New Port Richey Jiu-jitsu Academy|~
+~American Top Team – Vero Beach|https://rtmartialartsvb.com/~
+~Gracie Martial Arts – Vero Beach|~
+~Renato Tavares Assoc HQ|~
+~GB West Palm Beach|https://graciebarrawestpalm.com/~
+~Hands Down Martial Arts|~
+~Vprok MMA Academy|~
+~USA Jiu-Jitsu|~
+~Carlos Machado Jiu-Jitsu North Atlanta|~
+~Hamby Freestyle Jiu Jitsu|~
+~Atlanta Kyusho and Jujitsu|~
+~Gracie Barra - Augusta|~
+~Ruff House Boxing and MMA|~
+~World Jiu-Jitsu Academy|~
+~Full Throttle Fitness|~
+~Blalock International Mixed Martial Arts Academy|~
+~Gracie Barra Gainesville|~
+~Invictus Brazilian Jiu Jitsu & Defensive Arts|~
+~Gwinnett Training Academy|~
+~Advantage Jiu-Jitsu and Self Defense|~
+~East Cobb Martial Arts|~
+~Tekniques Brazilian Jiu-Jitsu & Fitness|~
+~Atlanta Budokan|~
+~Sylvester Jiu-Jitsu Academy|~
+~Redemption Martial Arts Academy|~
+~Independent MMA & Fitness - Villa Rica|~
+~Zanshin South Gracie Jiu Jitsu|~
+~Megalodon MMA|~
+~Force Brazilian Jiu-Jitsu|~
+~10th Planet Jiu Jitsu Chicago|~
+~Bodhi Collaborative BJJ|~
+~Devine Jiu Jitsu Lake County|~
+~Comprido BJJ|~
+~Norse Academy Martial Arts|~
+~10th Planet Jiu Jitsu Lombard|~
+~Northern Illinois Combat Club and Fitness|~
+~Cassady Martial Arts Academy Royce Gracie Jiu Jitsu|~
+~The Shed JiuJitsu Academy|~
+~Pedigo Submission Fighting|~
+~Middeke Brazilian Jiu Jitsu|~
+~Randori MMA & Jiu Jitsu|~
+~Falconbury Warrior Concepts|~
+~Keith Hackney's Combat Academy|~
+~LCCT Brazilian Jiu Jitsu|~
+~P3 Martial Arts|~
+~Ohana Martial Arts|~
+~LCCT Brazilian Jiu-Jitsu West Dundee|~
+~Grant County Martial Arts Center|~
+~E-town Brazilian Jiu-Jitsu|~
+~Hopkinsville BJJ|~
+~Triple Crown MMA|~
+~Louisville Ju Jitsu|~
+~Louisville Martial Arts Academy|~
+~Gracie Jiujitsu of Madisonville|~
+~Myers Martial Arts Center|~
+~Premier Martial Arts – Paducah|~
+~Vermilion Martial Arts Academy|~
+~Martial Arts America Baton Rouge|~
+~Warrior's Cove Baton Rouge|~
+~Fight to Win Lafayette Jiu -Jitsu|~
+~Langston's Martial Arts|~
+~Combat Athletics|~
+~Evolution Training|~
+~Acadiana Martial Arts Academy|~
+~Premier Martial Arts Lafayette|~
+~Louisiana Martial Arts Academy|~
+~Progressive Martial Arts Training Center|~
+~Danny Daniels' MMA & Fitness|~
+~Mid City Martial Arts & Fitness Academy|https://www.midcitymma.com~
+~NOLA MMA|https://www.nolamma.com/~
+~The Dojang New Orleans|https://thedojangnola.com/~
+~Criterion Jiu Jitsu|~
+~Warrior Training Center|~
+~Alliance Jiu Jitsu Slidell|~
+~Primal Fitness Lake Charles|~
+~Power Extreme Fitness Training Center|~
+~Cascão Jiu Jitsu Ashland|~
+~Lauzon Mixed Martial Arts|~
+~American Martial Arts Center|~
+~Massachusetts Submission Academy|~
+~Brazilian Top Team North Shore|~
+~Fighting Arts Academy Gardner|~
+~Lokahi Academy|~
+~Aldo Batista Brazilian Jiu-Jitsu|~
+~Ko Gym|~
+~South Shore Sport Fighting|~
+~Dynamic Martial Athletics|~
+~Trifecta Martial Arts And Fitness|~
+~Bochniak Martial Arts & Fitness|~
+~Jon Manley MMA @ Williamstown youth center|~
+~Foundation Jiu-Jitsu|~
+~Rollstar Jiu Jitsu|~
+~Central Maryland Martial Arts|~
+~Cabrera Jiu Jitsu Academy|~
+~Mount Airy Jiu-Jitsu & MMA|~
+~Native Brazilian Jiu Jitsu|~
+~Gracie Randallstown Jiu Jitsu in Hillandale|~
+~Gladiator MMA|~
+~Combat Base Clarkston|~
+~Clawson Fit|~
+~GRBJJ|~
+~Lansing Brazilian Jiu-Jitsu|~
+~The Ludus Martial Arts and Fitness Center|~
+~Lakeshore Black Belt Academy|~
+~Michigan Kickboxing Academy / 10th Planet Troy|~
+~FC Fitness Academy|~
+~Ann Arbor Jiu-Jitsu|~
+~Branson Jiu Jitsu - Fulcrum 360|~
+~Integrity Fitness|~
+~S2 Bjj|~
+~Team Z MMA Fitness Center|~
+~Whole Armour Martial Arts|~
+~Joplin Brotherhood Mixed Martial Arts|~
+~TCB Fight Factory 417|~
+~Aegis Jiu Jitsu|~
+~Gracie Barra Springfield Fight Club|~
+~Checkmat St. Louis|~
+~St. Louis Combat Institute|~
+~Warrior Jiu-Jitsu|~
+~Raven's Ridge MMA|~
+~Grizzly Combat Sports|~
+~Hughes' Grappling Academy|~
+~Verity Brazilian Jiu-Jitsu|~
+~Charlotte Jiu-Jitsu Academy|~
+~Crossface MMA|~
+~Pitbull Martial Arts Center-USA|~
+~Triangle Jiu-Jitsu Academy|~
+~Warrior Fitness Center Laurinburg|~
+~SAGA Combat Systems|~
+~Gracie Barra - Spring Lake|~
+~Ethos BJJ|https://ethosjitsu.com/~
+~Ravensguard BJJ Academy|~
+~Gustavo Machado Brazilian Jiu Jitsu Wilson|~
+~Evolution MMA Academy|~
+~Green Dragon Warrior Arts|~
+~Misfits Muay Thai & Brazilian Jiu Jitsu|~
+~Clay Jiu Jitsu|~
+~AJW Martial Arts Academy & Fitness Center|~
+~Jfc Training Center|~
+~Real World Martial Arts Team Renzo Gracie|https://renzograciedenville.com~
+~JBMFIT - Fitness Center and & Brazilian Jiu Jitsu Academy|~
+~Jaguar BJJ|~
+~Golden Eagle Judo & Jiu-Jitsu|~
+~Blue Line Defense and Fitness|~
+~Elite Tactical Martial Arts|~
+~Alliance Jiu Jitsu Freehold|~
+~Hamilton Martial Arts|~
+~David Branch Jiu Jitsu|https://dbjjhoboken.com/~
+~Renzo Gracie Hoboken|~
+~CULTR BJJ|https://www.cultrfightclub.com/~
+~Team Endurance MMA/ Brazilian JiuJitsu & Kickboxing Academy|~
+~Thiago Rela BJJ|~
+~Amorosi's Mixed Martial Arts|~
+~Anaconda Brazilian Jiu Jitsu & MMA Academy|https://anacondabjjnjny.com/~
+~Red Dragon Martial Arts Academy|~
+~Puzon Jiu Jitsu|~
+~Jbm Brazilian Jiu-Jitsu Academy|~
+~Roberto Gordo BJJ|~
+~Advanced Martial Arts|https://advancedbjjnj.com/~
+~Lionheart MMA|~
+~Advantage MMA|~
+~Renzo Gracie South Plainfield|~
+~Martial Maxx MMA|~
+~Gracie Barra Toms River|~
+~US Martial Arts Academy Inc|~
+~Up Top Martial Arts Academy|https://www.uptopmartialarts.com/~
+~Rolles Gracie Academy - Long Branch Jiu Jitsu & Muay Thai|~
+~Gracie Barra Westfield|~
+~Camal Judo|https://camalandcruz.com/~
+~Extreme Fight Club|~
+~Gracie Barra Henderson|~
+~Relson Gracie Jiu Jitsu Team HK Las Vegas|~
+~Renzo Gracie Henderson Jiu Jitsu|~
+~Samurai Brazilian Jiu Jitsu Academy|~
+~Veritas Combat Arts And Fitness Academy|~
+~Cascao Jiu Jitsu|~
+~Hard Knocks Muay Thai & Judo|~
+~Las Vegas Fight Center|~
+~Las Vegas Fight Club|~
+~Ribeiro Jiu-Jitsu - Las Vegas|~
+~Tristar Las Vegas|~
+~Wand Fight Team|~
+~Battle Born MMA|~
+~Lion's Den MMA & Fitness Center|~
+~Atos Jiu Jitsu Reno|~
+~RTSC Training Center|~
+~Bryan Jiu-Jitsu Academy|~
+~Victory MMA Jujitsu Sbmssn|~
+~Kombat Arts Ohio|~
+~Cal Crowell Fitness, Athletic & MMA Training Center|~
+~Renzo Gracie Cleveland|~
+~Resistance Lab Brazilian Jiu Jitsu|~
+~Bushido Martial Arts Club|~
+~Ernie Reyes' Midwest Martial Arts|~
+~Rise Ohio|~
+~Martial Arts Alliance|~
+~Endeavor Defense & Fitness|~
+~Danger Zone Gym|~
+~Synergy Martial Arts Academy|~
+~Koguryo Martial Arts Academy|~
+~Conquer BJJ Mixed Martial Arts Academy|~
+~10th Planet Jiu-Jitsu Altus|https://www.10thplanetjj.com/locations/altus/~
+~Team Impact Martial Arts & Fitness|~
+~Northside Brazilian Jiu Jitsu|https://www.thenorthsidejiujitsu.com~
+~Empire Jiu-Jitsu Durant|~
+~American Elite Mixed Martial Arts|https://www.americanelitemma.com/~
+~KMG Martial Arts Inc|~
+~True Grit Jiu Jitsu and Defense|~
+~Kaizen Performance LLC|~
+~National Martial Arts of Norman|~
+~Sen Shin Kan Dojo|~
+~Prowess Brazilian Jiu-Jitsu|https://www.prowessgym.com/~
+~Clinch Martial Arts Academy - Owasso|~
+~Oklahoma Combat Sports / KORE BJJ|~
+~Trinity Martial Arts|~
+~Alexander Jiu-Jitsu|https://alexanderjj.com/~
+~Eugene Jiu Jitsu Club|~
+~RISE Mixed Martial Arts - Eugene|~
+~CTA Forest Grove Jiu Jitsu|~
+~Impact Next Generation|~
+~Cauliflower Ear Family|~
+~Krav Maga Self Defense & Fitness|~
+~Rockaway Brazilian Jiu Jitsu|~
+~Apgar Mixed Martial Arts|~
+~Jade Studio|~
+~Zezinho's Mota Jiu-Jitsu School|~
+~Gracie Barra Carlisle|~
+~House of Arts Jiu Jitsu|~
+~Bucks MMA|~
+~Ricardo Almeida Brazilian Jiu Jitsu & Martial Arts|~
+~USA MMA Academy|~
+~Elite Performance Combat Club|~
+~Northeastern Ju Jitsu|~
+~X-Treme MMA American Top Team|~
+~Delco Brazilian Jiu-Jitsu|~
+~Revolutionary Fitness & MMA|~
+~Austin Fitness Martial Arts|https://www.thevoidmartialarts.com/~
+~Austin Fitness Martial Arts - Now is THE VOID MArtial Arts|https://www.thevoidmartialarts.com/~
+~Austin Mixed Martial Arts|~
+~Brazilian Fight Factory|https://fightfactoryjiujitsu.com/~
+~Fight Factory Austin|https://fightfactoryjiujitsu.com/~
+~Carlos Machado Jiu-Jitsu Mid Cities|~
+~Ironside Martial Arts|https://doublefivemidcities.com/~
+~Grind House Training Facility|~
+~GB Burleson|https://www.graciebarraburleson.com/~
+~Gracie Barra Carrollton|~
+~Trainers Elite|~
+~GKX Martial Arts|~
+~EnergyFIT Mixed Martial Arts & Fitness|~
+~Gracie Humaita Conroe|https://www.facebook.com/yountbjj/~
+~Jiu Jitsu Tech Mix martial arts and fitness|https://www.jiujitsutech.com/~
+~Renzo Gracie|https://renzograciecorpuschristi.com/~
+~Xtreme MMA|~
+~Atos Jiu-Jitsu Houston|~
+~Texas Elite MMA|~
+~Amazonas MMA & Fitness Academy|https://www.facebook.com/amazonasmma/~
+~El Paso Jiujitsu / Jiu-Jitsu El Paso TX 79936|https://www.facebook.com/elpaso.jiujitsu/~
+~Evolve BJJ|~
+~TX Black Belt Academy Ft Worth|~
+~Chop Shop MMA|~
+~Collins Martial Arts|~
+~Sangue Novo FT / Gallos Prietos Jiu Jitsu|~
+~Longview BJJ|~
+~Pure Jiu-Jitsu Longview|~
+~Victory Combat Sports Academy|https://victorycombatsports.academy/~
+~Combat Base TX / Shebaro Jiu Jitsu / We Defy HQ|~
+~KO Empire Fight Academy / BJJ Mesquite TX 75149|~
+~Midland BJJ Texas|https://midlandbjj.com/~
+~Premier Martial Arts-Mission|~
+~Peak Performance Brazilian Jiu-Jitsu|~
+~ASL JunSur Martial Arts|~
+~CAYA Martial Arts|~
+~American Kickboxing Academy Texas|https://akasanantonio.com/~
+~Martial Arts Academy Of San Antonio|~
+~Benavides Mixed Martial Arts|~
+~South Texas Grappling Team|https://south-texas-grappling-team.ueniweb.com/~
+~Lucky Jiu-Jitsu and Fitness Club|~
+~Katana Jiu-Jitsu Academy|~
+~Defenders Martial Arts Academy|~
+~McCoy's Brazilian Jiu Jitsu & MMA - Tomball|~
+~Virginia Jiu-Jitsu Academy|~
+~RVA MMA Ashland|~
+~Culpeper Brazilian Jiu-Jitsu|~
+~GB Fredericksburg|~
+~The Lab MMA|~
+~Tenth Round Boxing & MMA|~
+~Feks MMA|~
+~Breakaway Jiu Jitsu|~
+~Bushido MMA (Muay Thai and BJJ)|~
+~Augusta Combat Sports|~
+~Winbjj Mixed Martial Arts|~
+~Gold Medal Grappling|~
+~Modern American MMA|~
+~Filipe Barbosa Brazilian Jiu-Jitsu|~
+~Elevation Jiu-Jitsu|~
+~Seamless Progression Academy|~
+{%- comment -%}
+  APPENDED 7 Aug 2026 - Tier B, piece 1: 109 dead links in NEVER-CURATED regions.
+
+  These are records carrying a REAL SCHOOL NAME whose domain is simply gone. They are
+  separate from the 174 city-stub records in the same regions, which are deliberately
+  NOT touched here - for those the open question is whether the LISTING should exist,
+  not whether to blank a URL, and that is being handled as region-by-region rebuilds.
+
+  Verified server-side, DNS first, same method as the Tier A block above.
+  Result across 116 checked: 109 dead, 3 live-and-correct (NOT touched), 4 unresolved
+  (NOT touched). 94 percent dead - against 71 percent in the curated states.
+  That gap is the clearest evidence in this whole audit that the never-curated regions
+  are not merely thin, they are substantially rotted.
+
+  Zero wrong-entity links were found here, which is worth recording: squatters buy
+  lapsed domains that still carry traffic. These regions never had any.
+
+  All 109 names checked for uniqueness across the corpus before adding - an override
+  matches on NAME ALONE. None collide.
+
+  Counts by region: AB 3  BC 6  DC 3  DE 3  HI 5  IA 4  ID 5  KS 3  ME 6  MN 5  MS 3  NB 2  ND 2  NE 3  NH 3  NM 3  NS 4  ON 7  PE 4  QC 10  RI 2  SC 4  SD 3  TN 8  UT 3  VT 2  WY 3
+{%- endcomment -%}
+~101 Academy Jiu Jitsu|~
+~Alliance Jiu Jitsu Calgary|~
+~Phoenix Martial Arts Club|https://phoenixmartialartsclub.ca~
+~Poderoso Jiu Jitsu|~
+~Mission BC BJJ|~
+~Pinnacle MMA|~
+~Alliance Jiu Jitsu Vancouver|~
+~SBG Victoria|~
+~Van Isle BJJ|https://www.vibjj.com~
+~Capital City BJJ|~
+~Capitol Hill BJJ|~
+~DC BJJ Academy|~
+~Dover AFB BJJ|~
+~First State BJJ|~
+~Milford BJJ Delaware|~
+~BJ Penn MMA|~
+~Purebred Jiu-Jitsu|~
+~Maui BJJ Academy|~
+~Kona BJJ|~
+~Fighting Arts Academy Hawaii|~
+~Burlington BJJ Iowa|~
+~Alliance Jiu Jitsu Iowa|~
+~Clinton BJJ Iowa|~
+~Fighting Gravity Jiu Jitsu|~
+~Lewiston ID BJJ|~
+~Meridian BJJ Idaho|~
+~Snake River MMA|~
+~Authentic BJJ Idaho|~
+~Alliance Jiu Jitsu Twin Falls|https://alliancetf.com~
+~Alliance Jiu Jitsu Lawrence|~
+~Manhattan KS BJJ|~
+~Pittsburg KS BJJ|~
+~Augusta BJJ Maine|~
+~Maine BJJ|~
+~Seacoast Brazilian Jiu-Jitsu|~
+~Brunswick BJJ Maine|~
+~Lewiston-Auburn BJJ|~
+~Portland BJJ Maine|~
+~Alliance Jiu Jitsu Minnesota|~
+~Checkmat S. Minneapolis|~
+~Fargo BJJ MN side|~
+~Akagi Jiu-Jitsu|~
+~TC Martial Arts|~
+~Columbus MS BJJ|~
+~Greenville BJJ MS|~
+~Southern Combat Arts|~
+~Victory Jiu Jitsu Dieppe|https://victoryjiujitsuacademy.ca~
+~Woodstock NB BJJ|~
+~Jamestown BJJ ND|~
+~Prairie Jiu Jitsu|~
+~Columbus NE BJJ|~
+~Husker Combat Club|~
+~Norfolk NE BJJ|~
+~Lebanon BJJ NH|~
+~Alliance Jiu Jitsu NH|~
+~Seacoast BJJ NH|~
+~Duke City BJJ|~
+~Las Vegas NM BJJ|~
+~New Mexico BJJ|~
+~Atlantic BJJ|~
+~Shelburne BJJ NS|~
+~Cape Breton BJJ|~
+~Valens Jiu Jitsu Academy|~
+~Alliance Jiu Jitsu London Ontario|~
+~South Mississauga Jiu Jitsu|~
+~Alliance Jiu Jitsu Ottawa|~
+~Stratford BJJ Ontario|~
+~Four-Eleven Brazilian Jiu Jitsu|https://fourelevenbjj.ca/~
+~Woodstock BJJ Ontario|~
+~PEI Brazilian Jiu Jitsu|~
+~Island Grappling Club|~
+~Summerside BJJ PEI|~
+~Patenaude Martial Arts Gatineau|~
+~Action & Reaction MMA|~
+~Levis BJJ|~
+~Alliance Jiu Jitsu Montreal|https://brazilianjiujitsumontreal.com~
+~Renzo Gracie Montreal|~
+~Santos Brothers BJJ Montreal|~
+~Alliance Jiu Jitsu Quebec City|~
+~Royal Jiu-Jitsu Quebec|~
+~Sept-Iles BJJ|~
+~Trois-Rivieres BJJ|~
+~Middletown BJJ RI|~
+~Ricardo Cavalcanti BJJ RI|~
+~Alliance Jiu Jitsu Easley|https://alliancejjeasley.com~
+~Florence BJJ SC|~
+~Hilton Head BJJ|~
+~American Judo and Jiu-Jitsu|~
+~Black Hills BJJ|~
+~Joku Dojo|~
+~Watertown BJJ SD|~
+~Maryville Jiu-Jitsu|~
+~Armory Jiu-Jitsu Academy Chattanooga|~
+~Columbia BJJ Tennessee|~
+~Profectus Jiu-Jitsu Hendersonville|~
+~Jackson BJJ Tennessee|~
+~Tri-Cities BJJ|~
+~Lebanon BJJ Tennessee|~
+~Alliance Jiu Jitsu Tennessee|~
+~Alliance Jiu Jitsu Utah|~
+~SLC BJJ Academy|~
+~Alliance Jiu Jitsu St. George|~
+~Green Mountain BJJ|~
+~White River BJJ|~
+~Wyoming Martial Arts|~
+~Alliance Jiu Jitsu Wyoming|~
+~Sheridan BJJ Wyoming|~
+{%- comment -%}
+  APPENDED 7 Aug 2026 - region rebuild batch 1 (Maine, Arkansas, Ontario).
+
+  These 4 are NOT blankings. They are city-stub records that turned out to be REAL
+  SCHOOLS with a broken URL, found during the Ontario rebuild. Blanking them would
+  have been wrong - the school exists, only the stored domain is bad:
+    Cambridge BJJ  stored the .com; the school is on the .ca
+    Oshawa BJJ     stored oshawawbjj.com - a literal typo, an extra w
+    Windsor BJJ    school trades at windsorbrazilianjiujitsu.com
+    Barrie BJJ     school trades at 705bjj.com
+  All four verified by reading the school's own page body.
+{%- endcomment -%}
+~Cambridge BJJ|https://cambridgebjj.ca/~
+~Oshawa BJJ|https://oshawabjj.com/~
+~Windsor BJJ|https://windsorbrazilianjiujitsu.com/~
+~Barrie BJJ|https://705bjj.com/~
+~Swan River BJJ|~
+~Coventry Brazilian Jiu Jitsu|https://coventryribjj.com~
+~Cortes BJJ|~
+~Bemidji BJJ|https://www.bemidjibjj.com~
+~Aiken Jiu-Jitsu|http://www.aikenjiu-jitsu.com~
+~Elite Martial Arts Calgary|https://calgarymartialarts.com~
+~YYC Brazilian Jiu Jitsu|https://www.yycbjj.ca~
+~Lions MMA|https://www.lionsmma.ca~

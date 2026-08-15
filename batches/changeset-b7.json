@@ -1,0 +1,545 @@
+{
+ "adds": [
+  [
+   "AK",
+   "Alaska Krav Maga & Fitness (BJJ program)",
+   "Fairbanks",
+   "https://akkravmaga.com/programs/brazilian-jiu-jitsu/"
+  ],
+  [
+   "AK",
+   "Gracie Jiu-Jitsu North Pole",
+   "North Pole",
+   "https://www.gracieuniversity.com/Pages/Public/AffiliateDetail?enc=yxZXrgNU%2BwRZsUTND1HmMw%3D%3D"
+  ],
+  [
+   "DC",
+   "BETA Academy",
+   "Washington",
+   "betaacademy.com"
+  ],
+  [
+   "DC",
+   "Estilo Jiu Jitsu",
+   "Washington",
+   "estilojiujitsu.com"
+  ],
+  [
+   "DC",
+   "Underworld BJJ DC",
+   "Washington",
+   "underworlddc.com"
+  ],
+  [
+   "DE",
+   "Dauntless BJJ & MMA",
+   "Newark",
+   "fightdrive.com"
+  ],
+  [
+   "DE",
+   "302 BJJ Middletown",
+   "Middletown",
+   "302bjj.com"
+  ],
+  [
+   "DE",
+   "302 BJJ Wilmington",
+   "Wilmington",
+   "302bjj.com"
+  ],
+  [
+   "DE",
+   "Bayside Athletics",
+   "Milford",
+   "baysideathleticsde.com"
+  ],
+  [
+   "DE",
+   "Kaizen Jiu-Jitsu Academy",
+   "Dover",
+   "kaizen-jiu-jitsu.com"
+  ],
+  [
+   "DE",
+   "Meia Guarda Gracie Brazilian Jiu-Jitsu",
+   "Dover",
+   "delawareselfdefenseacademy.com"
+  ],
+  [
+   "NB",
+   "MXT BJJ Miramichi",
+   "Miramichi",
+   "https://mxt-bjj-miramichi.gymdesk.com/"
+  ],
+  [
+   "NB",
+   "Victory Jiu-Jitsu Edmundston",
+   "Edmundston",
+   "https://www.facebook.com/VictoryJJEdmundston/"
+  ],
+  [
+   "NB",
+   "Restigouche Dojo",
+   "Campbellton",
+   "https://restigouchedojo.com/"
+  ],
+  [
+   "NS",
+   "Abhaya Martial Arts Academy",
+   "Windsor",
+   "https://www.abhaya.ca/windsor"
+  ],
+  [
+   "NS",
+   "Bulldog Martial Arts",
+   "Lantz",
+   "https://www.facebook.com/groups/206127349417091"
+  ],
+  [
+   "PE",
+   "JM Brazilian Jiu-Jitsu",
+   "Charlottetown",
+   "https://jmbjj.ca"
+  ],
+  [
+   "PE",
+   "PEI Martial Arts Academy O'Leary",
+   "O'Leary",
+   "https://www.peimma.com/oleary"
+  ],
+  [
+   "TN",
+   "Chattanooga Jiu-Jitsu Academy",
+   "Chattanooga",
+   "chattanoogajiujitsu.com"
+  ],
+  [
+   "TN",
+   "Progressive Martial Arts Academy",
+   "Oak Ridge",
+   "pmaoakridge.com"
+  ],
+  [
+   "TN",
+   "Progressive Martial Arts Academy - Knoxville",
+   "Knoxville",
+   "pmaoakridge.com"
+  ],
+  [
+   "TN",
+   "Seymour Brazilian Jiu-Jitsu Academy",
+   "Seymour",
+   "seymourbjj.com"
+  ],
+  [
+   "TN",
+   "Tennessee BJJ Academy Murfreesboro",
+   "Murfreesboro",
+   "bestboromma.com"
+  ],
+  [
+   "TN",
+   "Triangle Academy of Jiu-Jitsu",
+   "Franklin",
+   "trianglefranklin.com"
+  ],
+  [
+   "TN",
+   "Greeneville Jiu-Jitsu",
+   "Greeneville",
+   "greenevillejiujitsu.com"
+  ],
+  [
+   "TN",
+   "Athens Jiu Jitsu Tennessee",
+   "Athens",
+   "athensjiu-jitsu.com"
+  ],
+  [
+   "TN",
+   "Kingsport JiuJitsu",
+   "Kingsport",
+   "kingsportjiujitsu.com"
+  ],
+  [
+   "TN",
+   "Shelbyville BJJ",
+   "Shelbyville",
+   "bjjshelbyville.com"
+  ],
+  [
+   "TN",
+   "Dogwood MMA",
+   "Dyersburg",
+   "dogwoodmma.com"
+  ],
+  [
+   "TN",
+   "Station 6 Fitness and Martial Arts",
+   "Tullahoma",
+   "station6fitness.com"
+  ],
+  [
+   "TN",
+   "Victory Brazilian Jiu-Jitsu",
+   "Morristown",
+   "teamvictorybjj.com"
+  ],
+  [
+   "TN",
+   "McMinnville Jiu-Jitsu Academy",
+   "McMinnville",
+   "mcminnvillejiujitsu.com"
+  ],
+  [
+   "TN",
+   "Renzo Gracie of Stewart County",
+   "Dover",
+   "renzogracieofstewartcounty.com"
+  ],
+  [
+   "TN",
+   "Border Martial Arts Academy",
+   "Collierville",
+   "colliervillemartialarts.com"
+  ],
+  [
+   "TN",
+   "Vigilance Martial Arts",
+   "Dickson",
+   "vigilancemartialarts.com"
+  ],
+  [
+   "TN",
+   "Olson's Martial Arts Academy",
+   "Johnson City",
+   "olsonsma.com"
+  ],
+  [
+   "TN",
+   "Global Martial Arts USA",
+   "Gallatin",
+   "globalmartialartsusa.com"
+  ],
+  [
+   "TN",
+   "Fit Factory Fitness and Jiu Jitsu",
+   "Sevierville",
+   "fitfactoryonline.com"
+  ],
+  [
+   "TN",
+   "Brazilian Jiu-Jitsu Centers of Memphis",
+   "Memphis",
+   "bjjmemphis.com"
+  ],
+  [
+   "NB",
+   "B7 Jiu Jitsu",
+   "Woodstock",
+   "https://www.facebook.com/B7JiuJitsu/"
+  ],
+  [
+   "NB",
+   "Team Flow State",
+   "Saint John",
+   "https://www.facebook.com/FlowstateJJ/"
+  ],
+  [
+   "NS",
+   "Woodshop Jiu-Jitsu",
+   "Antigonish",
+   "https://www.facebook.com/woodshopjits"
+  ],
+  [
+   "NS",
+   "Shiretown Grappling Club",
+   "Pictou",
+   "https://www.instagram.com/shiretownbjj"
+  ],
+  [
+   "NS",
+   "Workhorse Mixed Martial Arts",
+   "Port Hawkesbury",
+   "https://workhorse-mma.gymdesk.com/"
+  ],
+  [
+   "NS",
+   "Marmac Athletics",
+   "Truro",
+   "https://www.facebook.com/marmacathletics"
+  ],
+  [
+   "NS",
+   "Porters Lake Brazilian Jiujitsu",
+   "Porters Lake",
+   "https://www.facebook.com/averageday"
+  ],
+  [
+   "NS",
+   "Manimal Athletics Training Center",
+   "Lucasville",
+   "https://www.facebook.com/ManimalTraining"
+  ],
+  [
+   "NS",
+   "True Leverage Alliance BJJ",
+   "Kingston",
+   "https://www.instagram.com/tla_bjj"
+  ],
+  [
+   "NS",
+   "The Tap Room Grappling Group",
+   "Middle Sackville",
+   "https://www.facebook.com/p/The-Tap-Room-Grappling-Group-61571256489758"
+  ],
+  [
+   "NS",
+   "Cheticamp Martial Arts",
+   "Ch\u00e9ticamp",
+   "https://www.cheticampmartialarts.com/"
+  ],
+  [
+   "PE",
+   "Renzo Gracie PEI Lot 36",
+   "Charlottetown",
+   "https://www.facebook.com/p/Renzo-Gracie-PEI-Lot-36-100069410847003/"
+  ],
+  [
+   "TN",
+   "Alliance TN",
+   "Memphis",
+   "https://www.facebook.com/AllianceTNBJJ/"
+  ],
+  [
+   "TN",
+   "Paris Gracie Jiu Jitsu Academy",
+   "Paris",
+   "https://www.facebook.com/parisgraciejiujitsuacademy/"
+  ],
+  [
+   "NL",
+   "Golden Rule Jiu Jitsu",
+   "Flat Bay",
+   "https://golden-rule-jiu-jitsu-ltd.gymdesk.com"
+  ],
+  [
+   "DE",
+   "Rip Tide Brazilian Jiu Jitsu",
+   "Lewes",
+   "brazilianjiujitsudelaware.com"
+  ],
+  [
+   "DE",
+   "First State Martial Arts Academy",
+   "Dover",
+   ""
+  ]
+ ],
+ "sups": [
+  [
+   "AK",
+   "Arctic Warrior Brazilian Jiu-Jitsu"
+  ],
+  [
+   "AK",
+   "Eclipse Martial Arts"
+  ],
+  [
+   "AK",
+   "Gracie Barra - Jiu Jitsu"
+  ],
+  [
+   "AK",
+   "Krav Maga Anchorage"
+  ],
+  [
+   "AK",
+   "Shoshin Ryu"
+  ],
+  [
+   "AK",
+   "The International Karate Association & College of the Martial Arts"
+  ],
+  [
+   "AK",
+   "Alaska Center For The Martial Arts"
+  ],
+  [
+   "DC",
+   "Capital City BJJ"
+  ],
+  [
+   "DC",
+   "Capitol Hill BJJ"
+  ],
+  [
+   "DC",
+   "Combat Athletics DC"
+  ],
+  [
+   "DC",
+   "DC BJJ Academy"
+  ],
+  [
+   "DE",
+   "Delaware BJJ"
+  ],
+  [
+   "DE",
+   "Synergy MMA"
+  ],
+  [
+   "DE",
+   "Dover AFB BJJ"
+  ],
+  [
+   "DE",
+   "Milford BJJ Delaware"
+  ],
+  [
+   "NB",
+   "Campbellton BJJ"
+  ],
+  [
+   "NB",
+   "Miramichi BJJ"
+  ],
+  [
+   "NB",
+   "Moncton BJJ"
+  ],
+  [
+   "NB",
+   "Saint John BJJ"
+  ],
+  [
+   "NL",
+   "Corner Brook BJJ"
+  ],
+  [
+   "NL",
+   "Gander BJJ"
+  ],
+  [
+   "NL",
+   "NL BJJ Academy"
+  ],
+  [
+   "NS",
+   "Halifax BJJ"
+  ],
+  [
+   "NS",
+   "Shelburne BJJ NS"
+  ],
+  [
+   "NS",
+   "Stellarton BJJ"
+  ],
+  [
+   "NS",
+   "Atlantic BJJ"
+  ],
+  [
+   "NS",
+   "Cape Breton BJJ"
+  ],
+  [
+   "PE",
+   "Island Grappling Club"
+  ],
+  [
+   "PE",
+   "Summerside BJJ PEI"
+  ],
+  [
+   "TN",
+   "Athens Brazilian Jiu-Jitsu"
+  ],
+  [
+   "TN",
+   "Knoxville BJJ"
+  ],
+  [
+   "TN",
+   "Upper Cumberland MMA"
+  ],
+  [
+   "TN",
+   "Chattanooga BJJ"
+  ],
+  [
+   "TN",
+   "Alliance Jiu Jitsu Tennessee"
+  ],
+  [
+   "NB",
+   "Woodstock NB BJJ"
+  ],
+  [
+   "PE",
+   "PEI Brazilian Jiu Jitsu"
+  ],
+  [
+   "AK",
+   "Greatland Martial Arts"
+  ],
+  [
+   "AK",
+   "Tonbo Dojo - Alaska Samurai Arts"
+  ],
+  [
+   "AK",
+   "Shoshindo of Alaska"
+  ],
+  [
+   "DE",
+   "Tribal BJJ"
+  ],
+  [
+   "DE",
+   "Rehoboth Beach BJJ"
+  ],
+  [
+   "DE",
+   "First State BJJ"
+  ]
+ ],
+ "fixurl_extra": [
+  [
+   "NB",
+   "Victory Jiu Jitsu Dieppe"
+  ]
+ ],
+ "renames": [
+  [
+   "DE",
+   "Rehoboth Beach BJJ",
+   "Rip Tide Brazilian Jiu Jitsu",
+   "Lewes",
+   "brazilianjiujitsudelaware.com"
+  ],
+  [
+   "DE",
+   "First State BJJ",
+   "First State Martial Arts Academy",
+   "Dover",
+   ""
+  ]
+ ],
+ "nl_cities": [
+  "St. John's",
+  "Corner Brook",
+  "Gander",
+  "Paradise",
+  "Conception Bay South",
+  "Labrador City",
+  "Grand Falls-Windsor",
+  "Clarenville",
+  "Mount Pearl",
+  "Torbay",
+  "Flat Bay"
+ ]
+}

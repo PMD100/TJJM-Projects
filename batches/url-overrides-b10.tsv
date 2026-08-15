@@ -1,0 +1,48 @@
+id	region	city	name	stored_w	current_override	override_file	new_w	verified	note
+1	CA	Agoura Hills	GB Agoura			NEW	https://gbagoura.com/	PASS	Own site; 5883 Kanan Rd Ste 16-17 Agoura Hills CA 91301, +1 805-800-9681, GB BJJ kids/adults.
+2	CA	Alameda	Gracie Jiu-Jitsu Alameda			NEW	https://www.graciealameda.com/	PASS	Own site, phone (510) 260-0226, Gracie Combatives/Bullyproof; no street address published anywhere on site.
+5	CA	Bakersfield	The Chute MMA, Jiu Jitsu and Wrestling	http://www.chutetraining.com		websites-2	https://thechutemma.com/	PASS	6801 White Ln Ste E3-4 Bakersfield CA 93309, (661) 369-0342; named No-Gi Jiu Jitsu classes.
+6	CA	Barstow	Gracie Jiu-Jitsu Barstow			NEW	https://graciebarstow.com/	PASS	312 E. Main St. Barstow CA 92311, 760-600-9087; Gracie CTC with full BJJ curriculum.
+8	CA	Beverly Hills	Gracie Jiu-Jitsu Beverly Hills			NEW	https://www.graciejiujitsubeverlyhills.com/	PASS	Root is a splash page; /contact gives 324 S. Beverly Dr 2nd Fl, Beverly Hills CA 90212, (310) 553-0500.
+12	CA	Chula Vista	GB Chula Vista			NEW	https://graciebarrachulavista.com/	PASS	2015 Birch Rd #1207 Chula Vista CA 91915, +1 619-240-3404; schedules dated 29-06-26.
+13	CA	Clovis	Gracie Jiu-Jitsu Clovis			NEW	https://www.bjjclovis.com/	PASS	1521 Tollhouse Road Ste F Clovis CA 93611, 559-318-3136.
+22	CA	Hawthorne	Pedigo Submission Fighting Los Angeles			NEW	https://www.psflosangeles.com/	PASS	12958 Hawthorne Blvd, Hawthorne CA 90250, (731) 513-0341; coach Derek Featherstun.
+24	CA	Indio	Flow Academy BJJ Indio			NEW	https://flowacademybjjindio.com/	PASS	42425 Jackson Street Ste C112 Indio CA 92203, (951) 337-3781; Prof. Carlos Miller.
+25	CA	Indio	Gracie Jiu-Jitsu Indio			NEW	https://gjjindio.com/	PASS	80150 Hwy 111 C1 Indio CA 92201, 760-775-0982.
+28	CA	La Crescenta	GB La Crescenta			NEW	https://graciebarra.com/la-canada-ca/	PASS_WITH_CAVEAT	Page renders as GB La Canada Flintridge, 645 Foothill Blvd, La Canada Flintridge CA 91011, 818-790-2500 - adjacent municipality, not La Crescenta.
+31	CA	Los Angeles	Alliance Jiu Jitsu Los Angeles	https://alliancejiujitsusla.com		websites-2	https://www.cobrinhabjj.com/	PASS	Alliance LA by Cobrinha, 4929 Wilshire Blvd #104, Los Angeles CA 90010.
+35	CA	Los Angeles	Uactp			NEW	https://www.uactp.com/	PASS	2200 Beverly Blvd, Los Angeles CA 90057, 213.352.4042; jiu-jitsu group classes listed.
+38	CA	Monterey	Gracie Jiu-Jitsu Monterey			NEW	https://graciemonterey.com/	PASS	800 Lighthouse Avenue Monterey CA 93940, 831-633-7141.
+43	CA	Redlands	10th Planet Redland	http://www.10thplanetredlands.com		websites-2	https://10thplanetjiujitsuredlands.com/	PASS	821 West Colton Ave, Redlands CA 92374, (909) 809-6694.
+46	CA	Riverside	Academy Of Striking & Grappling	http://www.asgfacility.com/		websites-2	https://www.asgmma.com/	PASS_WITH_CAVEAT	Correct school (owner Karl Glover, Wrestling/Jiu Jitsu Grappling page) but address is 24210 Postal Ave, Moreno Valley CA 92553, not Riverside.
+48	CA	San Diego	Alliance Jiu Jitsu San Diego	https://alliancejiujitsusandiego.com		websites-2	https://alliancesandiego.com/	PASS	8990 Miramar Rd Suite 225, San Diego CA 92126.
+52	CA	Santa Clarita	Gracie Jiu-Jitsu Santa Clarita			NEW	https://graciejiujitsuscv.com/	PASS	26370 Diamond Pl Suite 501, Santa Clarita CA 91350, 661-513-3150.
+53	CA	Santa Cruz	Gracie Jiu-Jitsu Santa Cruz			NEW	https://www.graciesantacruz.com/	PASS_WITH_CAVEAT	Address is 1408 41st Avenue, Capitola CA 95010 - adjacent city to Santa Cruz; no phone published.
+56	CA	Stanford	Stanford BJJ			NEW	https://stanfordclubsports.com/sports/brazilian-jiu-jitsu	PASS_WITH_CAVEAT	Official Stanford Club Sports BJJ page exists, but carries no address, phone or current content; schedule link still points to 2023-24 and events list is empty.
+62	CA	Torrance	10th Planet Torrance	https://www.darkartsacademy.net		websites-2	https://10ptorrance.com/	PASS	24433 Hawthorne Blvd, Torrance CA 90505, (424) 999-0787; nogi jiu jitsu.
+63	CA	Torrance	GB Redondo Beach			NEW	https://www.gbredondobeach.com/	PASS	Own site for Gracie Barra Redondo Beach, mobile (424) 409-6755, Prof. Murillo; no street address published, Yelp link is the Torrance listing.
+65	CA	Vacaville	Rodrigo Cardoso Brazilian Jiu-Jitsu Academy	https://rodrigocardosoacademy.com/		websites-2	https://atlasbjj.com/	PASS	Rebrand to Atlas BJJ Vacaville, 2068 Harbison Drive Vacaville CA 95687, (415) 466-5800; Facebook is /rodrigocardosoacademy and Prof. Rodrigo still teaches.
+67	CA	Ventura	GB Ventura			NEW	https://www.graciebarraventura.com/	PASS	3503 Arundell Circle, Ventura CA, (805) 663-9220.
+73	CA	Woodland Hills	Gracie Jiu-Jitsu Woodland Hills			NEW	https://www.gracieuniversity.com/Pages/Public/AffiliateDetail?enc=qLoBB8zQLaHlpiOPxVswyw%3D%3D	PASS	Franchisor CTC page renders with specifics: 5340 Topanga Canyon Blvd, Woodland Hills CA 91364, 818-884-0663, instructor Rocky Glenn, Apr-May 2026 schedule.
+81	TX	Austin	Austin Fitness Martial Arts	https://www.afmatx.com/		websites-2	https://www.thevoidmartialarts.com/	PASS_WITH_CAVEAT	"The Void Martial Arts, 701 Tillery St Suite A7B, Austin TX 78702, named BJJ class; page never mentions ""Austin Fitness Martial Arts"" so the rename is unverified from the site."
+83	TX	Austin	Fight Factory Austin	https://fightfactoryaustin.com/		websites-2	https://fightfactoryjiujitsu.com/	PASS	9607 Research Blvd #675, Austin TX 78759, (512) 428-6125; Prof. Rodrigo Cabral.
+84	TX	Austin	Austin Fitness Martial Arts - Now is THE VOID MArtial Arts	http://www.austinfitnessmartialarts.com		websites-2	https://www.thevoidmartialarts.com/	PASS_WITH_CAVEAT	Same site as id 81; The Void at 701 Tillery St A7B Austin TX 78702 with real BJJ classes, but no on-page evidence of the former name.
+85	TX	Austin	Brazilian Fight Factory	http://www.brazilianfightfactory.com/		websites-2	https://fightfactoryjiujitsu.com/	PASS	Same academy as id 83; Facebook handle is /BrazilianFightFactory, address 9607 Research Blvd #675 Austin TX 78759.
+86	TX	Austin	GB Dripping Springs			NEW	https://www.gbdrip.com/	PASS_WITH_CAVEAT	261 Frog Pond Lane, Dripping Springs TX 78620, 512-971-9359 - Dripping Springs, not Austin.
+87	TX	Austin	GB Westlake			NEW	https://gbwestlakehills.com/	PASS_WITH_CAVEAT	Gracie Barra Westlake Hills, phone 512 820 4440; street address appears only inside a map embed, and the city is West Lake Hills rather than Austin.
+91	TX	Burleson	GB Burleson	https://www.gbburleson.com		websites-2	https://www.graciebarraburleson.com/	PASS	201 Northeast Wilshire Blvd, Burleson TX 76028, (817) 720-5577.
+97	TX	Corinth	Jiu Jitsu Tech Mix martial arts and fitness	https://jiujitsutechofcorinth.com		websites-2	https://www.jiujitsutech.com/	PASS	7650 Interstate 35E, Corinth TX 76210, (940) 279-1091.
+98	TX	Corpus Christi	Renzo Gracie	http://www.renzogracietx.com/		websites-2	https://renzograciecorpuschristi.com/	PASS	6314 Yorktown Blvd Suite 101, Corpus Christi TX 78414, (361) 290-9078; Prof. Ruben Arredondo.
+101	TX	Dallas	144 Academy Jiu Jitsu/Self-Defense/Fitness			NEW	https://144academy.com/	PASS	3406 Easy St, Dallas TX 75247, (214) 551-0276, owner Jairo Bautista; apex returned an empty body to the fetcher, www.144academy.com served the same canonical page.
+112	TX	Highland Village	Gracie Jiu-Jitsu Highland Village			NEW	https://graciebarrahighlandvillage.com/	PASS_WITH_CAVEAT	200 Marketplace Ln Suite 205, Highland Village TX 75077, (972) 439-7411 - but this is a Gracie Barra school, not a Gracie Jiu-Jitsu/Gracie University school as the record name implies.
+121	TX	Lubbock	Victory Combat Sports Academy	https://www.victorycombatsportsacademy.com/contact		websites-2	https://victorycombatsports.academy/	PASS	3520 Woodrow Road Suite 103, Lubbock TX 79423, 806-559-7626; named BJJ program.
+123	TX	McKinney	GB McKinney			NEW	https://gbmckinney.com/	PASS	7901 Eldorado Pkwy STE 120, McKinney TX 75070, (469) 712-0737.
+125	TX	Midland	Midland BJJ Texas	https://midlandbjjtx.com		websites-2	https://midlandbjj.com/	PASS	4612 Billingsley Blvd, Midland TX 79705, (432) 230-5545; owner Brad Barnes.
+127	TX	New Braunfels	Gracie Jiu-Jitsu New Braunfels			NEW	https://gjjnb.com/	PASS	167A S I-35 South Frontage Rd, New Braunfels TX 78130, 830-743-2664.
+135	TX	Salado	Gracie Jiu-Jitsu Salado			NEW	https://saladoma.com/	PASS	227 N. Main St. Salado TX 76571, 254-289-6250.
+136	TX	San Antonio	American Kickboxing Academy Texas	http://www.akatexas.com/		websites-2	https://akasanantonio.com/	PASS	8934 Broadway St, San Antonio TX 78217; coach Bobby Southworth, Facebook /americankickboxingacademytexas.
+137	TX	San Antonio	GB Alamo Ranch			NEW	https://graciebarra.com/alamo-ranch-tx/	PASS	Franchisor subpage renders live: 10919 Culebra Rd #187, San Antonio TX 78253, 210-251-2912.
+142	TX	San Benito	South Texas Grappling Team	https://southtexasgrappling.com		websites-2	https://south-texas-grappling-team.ueniweb.com/	PASS_WITH_CAVEAT	"Address 2404 West Highway 77 Suite Y San Benito TX 78586 and (956) 778-1443 match, and Judo/BJJ are listed, but the page is generic UENI boilerplate titled ""Atlanta"" with geo coords for Atlanta TX and was last updated 2023."
+143	TX	Seguin	Gracie Jiu-Jitsu Seguin			NEW	https://graciejiujitsuseguin.com/	PASS	110 W. Court Street, Seguin TX 78155, (830) 340-1292.
+146	TX	Spring Branch	GB Spring Branch			NEW	https://graciebarra.com/spring-branch-tx/	PASS	Franchisor subpage renders live: 19750 TX-46 #110, Spring Branch TX 78070, 210-426-1202.
+147	TX	Springtown	Spartan Fit MMA - Springtown TX			NEW	https://spartanspringtown.com/	PASS_WITH_CAVEAT	"554 J E Woody Rd, Springtown TX, (918) 399-0531, BJJ gi/no-gi; school now trades as ""Spartan Grappling Academy"" and the site shows no MMA."

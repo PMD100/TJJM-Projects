@@ -1,0 +1,21 @@
+{
+ "counts": {
+  "NM": 34,
+  "HI": 38,
+  "ID": 45,
+  "VT": 12,
+  "RI": 23,
+  "NJ": 209,
+  "NY": 183
+ },
+ "total": 4921,
+ "sizes": {
+  "snippets/tjjm-gyms-data-40.liquid": 19732,
+  "snippets/tjjm-gyms-data.liquid": 113186,
+  "snippets/tjjm-removed-index.liquid": 10853,
+  "snippets/tjjm-gym-websites-2.liquid": 20139,
+  "snippets/tjjm-gym-addresses.liquid": 7892,
+  "sections/tjjm-state-directory.liquid": 12691,
+  "snippets/tjjm-region-index.liquid": 3445
+ }
+}

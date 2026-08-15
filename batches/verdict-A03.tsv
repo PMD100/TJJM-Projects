@@ -1,0 +1,86 @@
+# A03 verdicts - 84 flagged links - DNS-first method
+state	city	name	url	verdict	note
+FL	Sanford	Cogito Jiu Jitsu	http://cogitojiujitsu.com/	DEAD	domain not registered, nxdomain
+FL	Sarasota	BJJ Academy Of Sarasota (wbjja)	http://www.wbjja.com/	DEAD	domain not registered, www and apex nxdomain
+FL	St. Augustine	GB Saint Augustine	https://gbsaintaugustine.com/	DEAD	domain not registered, nxdomain
+FL	St. Cloud	Full Circle MMA	http://www.nucfl.com/	DEAD	domain not registered, www and apex nxdomain
+FL	St. Petersburg	Elite Training Center	http://www.elitetraininginc.com/	DEAD	domain not registered, www and apex nxdomain
+FL	St. Petersburg	Synergy Martial Arts and Fitness	http://synergymartialarts.fitness/	DEAD	domain not registered, nxdomain
+FL	Stuart	Fist Factory	http://www.thefistfactory.com/	DEAD	domain not registered, www and apex nxdomain
+FL	Sunrise	American Tigers Martial Arts	https://americantigers.com/	PARKED	domain for sale, eweb development landing page
+FL	Tarpon Springs	New Port Richey Jiu-jitsu Academy	http://nprbjj.com/	DEAD	domain not registered, nxdomain
+FL	Vero Beach	American Top Team – Vero Beach	http://www.attverobeach.com/	DEAD	domain not registered, www and apex nxdomain
+FL	Vero Beach	Gracie Martial Arts – Vero Beach	http://www.graciemartialartsverobeach.com	DEAD	domain not registered, www and apex nxdomain
+FL	Vero Beach	Renato Tavares Assoc HQ	http://www.legacymmausa.com/	DEAD	domain not registered, www and apex nxdomain
+FL	West Palm Beach	GB Lake Park	https://lp.gblakepark.com/	LIVE-SCHOOL	www subdomain blank, apex gblakepark.com is live gb site
+FL	West Palm Beach	GB West Palm Beach	http://gbwestpalmbeach.com/	DEAD	domain not registered, nxdomain
+FL	West Palm Beach	Hands Down Martial Arts	http://www.wpbmma.com/	DEAD	domain not registered, nxdomain
+FL	West Palm Beach	Team Nogueira	http://www.teamnog.com/	LIVE-SCHOOL	redirects to jupiterbjj.com, team nogueira bloise academy
+FL	Weston	Vprok MMA Academy	http://www.vprokmma.com/United_States.html	DEAD	domain not registered, nxdomain
+FL	Wildwood	USA Jiu-Jitsu	http://www.usajujitsu.net/	DEAD	dns lame delegation, www and apex refused
+GA	Acworth	Carlos Machado Jiu-Jitsu North Atlanta	http://www.cmjjnatl.com/	DEAD	domain not registered, nxdomain
+GA	Acworth	James Shook Brazilian Jiu-Jitsu	http://zenith.jamesshookbjj.com/	LIVE-OTHER	apex jamesshookbjj.com now hosts robocat, norwegian online casino
+GA	Albany	Hamby Freestyle Jiu Jitsu	http://www.hambyfreestyle.com/	DEAD	domain not registered, nxdomain
+GA	Alpharetta	KBX Gym	http://www.kbxgym.com/	LIVE-SCHOOL	kbx gym alpharetta bjj/mma site live
+GA	Athens	Athens Fitness and MMA	http://www.athensfitnessandmma.com/	LIVE-SCHOOL	redirects to sbgathens.com, rebranded straight blast gym
+GA	Atlanta	Atlanta Kyusho and Jujitsu	http://www.atlantajujitsu.com/	DEAD	domain not registered, nxdomain
+GA	Augusta	Gracie Barra - Augusta	http://gbaugusta.com/	DEAD	domain not registered, nxdomain
+GA	Cartersville	AllAmbition Brazilian Jiu Jitsu	http://allambitionbjj.com/	LIVE-SCHOOL	allambition bjj cartersville site live
+GA	Covington	Ruff House Boxing and MMA	https://www.ruffhouseboxing.com/	DEAD	domain not registered, nxdomain
+GA	Cumming	World Jiu-Jitsu Academy	http://worldjiujitsuatlanta.com/	DEAD	domain not registered, nxdomain
+GA	Dalton	Veritas Brazilian Jiu-Jitsu - Kuzushi Club Dalton	http://veritasbjj.com/	LIVE-SCHOOL	veritas bjj dalton site live
+GA	Flowery Branch	Full Throttle Fitness	http://www.fullthrottleoakwood.com/	DEAD	domain not registered, nxdomain
+GA	Fort Oglethorpe	Blalock International Mixed Martial Arts Academy	http://www.blalocksimb.com/	DEAD	domain not registered, nxdomain
+GA	Gainesville	Gracie Barra Gainesville	https://www.gbgainesville.com/	DEAD	domain not registered, nxdomain
+GA	Grovetown	Liberty Jiu-Jitsu Grovetown	http://libertybjj.community/	LIVE-SCHOOL	redirects to gymdesk, liberty jiu jitsu grovetown live
+GA	Hoboken	Invictus Brazilian Jiu Jitsu & Defensive Arts	http://invictusbjj.online/	DEAD	domain not registered, nxdomain
+GA	Lawrenceville	Gwinnett Training Academy	http://www.gwinnetttrainingacademy.com/	DEAD	cloudflare zone active but no a/aaaa record published
+GA	Leesburg	Black Sheep MMA	http://www.blacksheep-mma.com/	LIVE-SCHOOL	black sheep mma leesburg site live
+GA	Marietta	Advantage Jiu-Jitsu and Self Defense	https://www.advantagejj.com/	DEAD	domain not registered, nxdomain
+GA	Marietta	East Cobb Martial Arts	http://www.eastcobbma.com/	DEAD	domain not registered, nxdomain
+GA	Marietta	Fusion MMA	http://fusionfitnessandmma.com/	LIVE-SCHOOL	fusion fitness and mma marietta site live
+GA	Norcross	Nucleus Brazilian Jiu Jitsu	https://nucleusbjj.com	EMPTY	resolves, fetch succeeds, blank body on www and apex
+GA	Pooler	Coastal Combatives	http://www.coastalcombatives.com/	LIVE-SCHOOL	site live, under-construction notice with real info
+GA	Pooler	Redline MMA	http://www.redlinemma.com/	LIVE-OTHER	chinese quartz materials company, j9 international group
+GA	Powder Springs	Tekniques Brazilian Jiu-Jitsu & Fitness	http://www.tekniquesbjj.com/	DEAD	domain not registered, nxdomain
+GA	Savannah	Champions Training Center	http://www.ctcsavannah.com	EMPTY	resolves, fetch succeeds, blank body on www and apex
+GA	Smyrna	Atlanta Budokan	http://www.atlantabudokan.com/	DEAD	dns lame delegation, www and apex refused
+GA	Smyrna	Tonchu Martial Arts Academy	http://www.tonchumartialarts.com/	EMPTY	resolves, title only, no readable body, js shell
+GA	Statesboro	Hanto Jiu-Jitsu Academy	https://hantojiu-jitsuacademy.com/	LIVE-SCHOOL	redirects to hantobjj.com, hanto union jiu-jitsu live
+GA	Sylvester	Sylvester Jiu-Jitsu Academy	http://sylvesterjiujitsu.com/	DEAD	domain not registered, nxdomain
+GA	Tifton	Redemption Martial Arts Academy	http://www.martialartstifton.com/	DEAD	domain not registered, nxdomain
+GA	Valdosta	American Top Team Valdosta	http://att229.com/	LIVE-SCHOOL	american top team valdosta site live
+GA	Villa Rica	Independent MMA & Fitness - Villa Rica	https://www.independentvillarica.com/	DEAD	domain not registered, nxdomain
+GA	Warner Robins	Zanshin South Gracie Jiu Jitsu	http://www.zanshinsouthgraciejiujitsu.com/	DEAD	domain not registered, nxdomain
+GA	Watkinsville	Megalodon MMA	http://www.megalodonmma.com/	PARKED	cname to namecheap parking page
+IL	Alton	Alton Family Martial Arts & Fitness	https://www.altonfma.com/	LIVE-SCHOOL	alton family martial arts site live
+IL	Burr Ridge	Force Brazilian Jiu-Jitsu	http://www.madeyoutap.com/	DEAD	dns lame delegation, www and apex refused
+IL	Chicago	10th Planet Jiu Jitsu Chicago	http://www.10thplanetjjchicago.com	DEAD	domain not registered, nxdomain
+IL	Chicago	TDC MMA + Fitness	http://www.tdcmmaandfitness.com	LIVE-SCHOOL	tdc mma + fitness chicago site live
+IL	Downers Grove	Bodhi Collaborative BJJ	http://www.bodhicollaborative.com	DEAD	domain not registered, nxdomain
+IL	Fox Lake	Devine Jiu Jitsu Lake County	http://www.scholarwarriormma.com/devine-jiujitsu-lake-county	DEAD	domain not registered, nxdomain
+IL	Highland Park	Comprido BJJ	http://www.highlandparkbjj.com	DEAD	domain not registered, nxdomain
+IL	Lake Villa	Norse Academy Martial Arts	http://norseacademymartialarts.com/	DEAD	domain not registered, nxdomain
+IL	Lisle	Mequinho Jiu Jitsu	http://www.downersgrovejiujitsu.com	EMPTY	resolves, fetch succeeds, blank body
+IL	Lombard	10th Planet Jiu Jitsu Lombard	http://www.10thplanetjjlombard.com/	DEAD	domain not registered, nxdomain
+IL	Machesney Park	Northern Illinois Combat Club and Fitness	http://www.niccfitness.com/	DEAD	hosting error, site not in ldap database
+IL	Macomb	Cassady Martial Arts Academy Royce Gracie Jiu Jitsu	http://www.cassadymartialarts.com/	DEAD	domain not registered, nxdomain
+IL	Macomb	The Shed JiuJitsu Academy	https://theshedjiujitsuacademy.com/	DEAD	dns lame delegation, apex and www refused
+IL	Mt. Vernon	Pedigo Submission Fighting	https://pedigosubmissionfighting.com	DEAD	domain not registered, nxdomain
+IL	New Baden	Middeke Brazilian Jiu Jitsu	https://www.middekebjj.com/	DEAD	domain not registered, nxdomain
+IL	Orland Park	Randori MMA & Jiu Jitsu	http://www.randorijiujitsu.com/	DEAD	domain not registered, nxdomain
+IL	Robinson	Falconbury Warrior Concepts	http://falconburywarriorconcepts.com/	DEAD	domain not registered, nxdomain
+IL	Roselle	Keith Hackney's Combat Academy	http://www.hackneyscombat.com/	DEAD	nameservers unresponsive, apex and www
+IL	Schaumburg	LCCT Brazilian Jiu Jitsu	https://lcctbjj.com	DEAD	domain not registered, nxdomain
+IL	Schaumburg	P3 Martial Arts	https://p3jiujitsu.com	DEAD	domain not registered, nxdomain
+IL	Waukegan	Ohana Martial Arts	https://ohanamartialarts.net	DEAD	domain not registered, nxdomain
+IL	West Dundee	LCCT Brazilian Jiu-Jitsu West Dundee	https://lcctbjjwestdundee.com/	DEAD	domain not registered, nxdomain
+IN	Greenwood	Indiana Brazilian Jiu-Jitsu Academy	https://ibjja.com	LIVE-SCHOOL	indiana bjj academy greenwood site live
+IN	Muncie	Muncie Brazilian Jiu-Jitsu	https://munciebjj.com	LIVE-SCHOOL	muncie bjj site live
+KY	Bowling Green	Hicsmma	https://www.hicsmma.com/	EMPTY	resolves, fetch succeeds, blank body
+KY	Dry Ridge	Grant County Martial Arts Center	https://www.grantcountymartialarts.com/	DEAD	domain not registered, nxdomain
+KY	Elizabethtown	E-town Brazilian Jiu-Jitsu	https://etownjiujitsu.com	DEAD	domain not registered, nxdomain
+KY	Hopkinsville	Hopkinsville BJJ	https://hopkinsvillebjj.com	DEAD	domain not registered, nxdomain
+KY	Lexington	Triple Crown MMA	https://triplecrownnmma.com	DEAD	domain not registered, nxdomain
+KY	Louisville	Louisville Ju Jitsu	https://www.louisvillejujitsu.com	DEAD	domain not registered, nxdomain
+KY	Louisville	Louisville Martial Arts Academy	https://louisvillemartialarts.net/	DEAD	domain not registered, nxdomain

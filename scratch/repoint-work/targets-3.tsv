@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+3	FL	Boca Raton	GB Boca Raton	http://braziliantopteamflorida.com/	override blanks it
+9	FL	Cape Coral	Cali Style MMA	http://calistylemma.com/	override blanks it
+15	FL	Dania Beach	Marcelo Meleiro BJJ – Nova Uniao South Florida	http://www.novauniaosouthflorida.com/	override blanks it
+21	FL	Destin	Destin Academy of Mixed Martial Arts		no w key
+27	FL	Hialeah	GB Hialeah		no w key
+33	FL	Jacksonville	Alpha Dogs Martial Arts	https://alphadogsmartialarts.com/	override blanks it
+39	FL	Largo	Gracie Jiu-Jitsu Largo		no w key
+45	FL	Miami	Team Alpha Miami		no w key
+51	FL	Ocala	GTK Academy of Martial Arts	https://gtkacademy.com/	override blanks it
+57	FL	Orlando	Ronin Training Center Orlando	https://www.roninorlandofl.com/	override blanks it
+63	FL	Pine Hills	Team Gladiator MMA & Fitness		no w key
+69	FL	St. Augustine	GB Saint Augustine	https://gbsaintaugustine.com/	override blanks it
+75	FL	Sunrise	American Tigers Martial Arts	https://americantigers.com/	override blanks it
+81	FL	West Palm Beach	GB West Palm Beach	http://gbwestpalmbeach.com/	override blanks it
+87	QC	Laval	Action & Reaction MMA	https://actionreactionmma.ca	override blanks it

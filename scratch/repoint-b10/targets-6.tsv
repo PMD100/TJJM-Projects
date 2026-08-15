@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+6	CA	Barstow	Gracie Jiu-Jitsu Barstow		no w key
+16	CA	El Sobrante	Gracie Jiu-Jitsu El Sobrante		no w key
+26	CA	Irvine	Team Oyama MMA & Fitness	http://teamoyamamma.com/	override blanks it
+36	CA	Merced	Merced Academy of Jiu Jitsu		no w key
+46	CA	Riverside	Academy Of Striking & Grappling	http://www.asgfacility.com/	override blanks it
+56	CA	Stanford	Stanford BJJ		no w key
+66	CA	Vallejo	Gracie Jiu-Jitsu Vallejo		no w key
+76	TX	Abilene	Revolutionary Fitness & MMA	http://www.revfitmma.com/	override blanks it
+86	TX	Austin	GB Dripping Springs		no w key
+96	TX	Conroe	Gracie Humaita Conroe	https://www.gymconroe.com/	override blanks it
+106	TX	El Paso	Warriors Lair MMA		no w key
+116	TX	Lakeway	Applied Sports MMA Family Fitness Gym		no w key
+126	TX	Mission	Premier Martial Arts-Mission	http://www.missiontxmartialarts.com/	override blanks it
+136	TX	San Antonio	American Kickboxing Academy Texas	http://www.akatexas.com/	override blanks it
+146	TX	Spring Branch	GB Spring Branch		no w key

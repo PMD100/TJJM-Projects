@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+1	AL	Athens	Athens Jiu Jitsu	https://www.athensjiujitsu.info/	override blanks it
+7	FL	Bradenton	Champion Mma of Bradenton		no w key
+13	FL	Coral Springs	Real World M.M.A. Training Center		no w key
+19	FL	Deerfield Beach	Burns Bros Jiu Jitsu	https://burnsbrosjiujitsu.com/	override blanks it
+25	FL	Gulf Breeze	Gulf Breeze Jiu Jitsu	https://gulfbreezejiujitsu.com/	override blanks it
+31	FL	Indian Harbour Beach	BLTeam Brazilian Jiu-Jitsu and Muay Thai Academy	https://blteam1.com/	override blanks it
+37	FL	Lake City	Hardkore MMA & Jiu-Jitsu		no w key
+43	FL	Miami	Champion Martial Arts	http://www.judochampion.com/	override blanks it
+49	FL	North Miami Beach	Gracie Jiu-Jitsu North Miami Beach		no w key
+55	FL	Orange City	USD & MMA Fitness	http://www.mmagetfit.com/	override blanks it
+61	FL	Oxford	Robson Moura Jiu-Jitsu	http://www.usajujitsu.net/	override blanks it
+67	FL	Sarasota	BJJ Academy Of Sarasota (wbjja)	http://www.wbjja.com/	override blanks it
+73	FL	Stuart	Fist Factory	http://www.thefistfactory.com/	override blanks it
+79	FL	Vero Beach	Renato Tavares Assoc HQ	http://www.legacymmausa.com/	override blanks it
+85	NC	Wilmington	Ethos BJJ	https://ubjjnc.com/	override blanks it

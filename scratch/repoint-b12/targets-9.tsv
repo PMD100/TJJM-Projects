@@ -1,0 +1,17 @@
+id	region	city	name	stored_w	why_blank
+9	CO	Centennial	Valor BJJ & Fitness	http://valorbjjfit.com	override blanks it
+18	CO	Durango	Durango BJJ	https://durangobjj.com	override blanks it
+27	CO	Lakewood	Lakewood Martial Arts	http://www.campmartialarts.com	override blanks it
+36	LA	Amite City	Gracie Barra Amite		no w key
+45	LA	Houma	Body Elite Boxing & MMA		no w key
+54	LA	New Iberia	Progressive Martial Arts Training Center	https://www.pmatc.com	override blanks it
+63	LA	Slidell	Alliance Jiu Jitsu Slidell	https://www.alliancebjjslidell.com/	override blanks it
+72	NJ	City Of Orange	AJW Martial Arts Academy & Fitness Center	http://www.ajwmartialartsacademy.com	override blanks it
+81	NJ	Freehold	Alliance Jiu Jitsu Freehold	https://www.alliancejiujitsufreehold.com/	override blanks it
+90	NJ	Livingston	Amorosi's Mixed Martial Arts	http://www.amorosikarate.com/	override blanks it
+99	NJ	South Pennsauken	Advantage MMA	http://www.advantagemixedmartialarts.com/	override blanks it
+108	NJ	Whippany	Gym-Jitsu Mobile Martial Arts		no w key
+117	OK	Broken Arrow	Cohesion Brazilian Jiu-Jitsu & Judo Academy		stored w is empty string
+126	OK	Enid	Shah Mat Brazilian Jiu Jitsu		stored w is empty string
+135	OK	Oklahoma City	Yu'ki MMA		stored w is empty string
+144	OK	Tulsa	Tulsa Judo and Jiu Jitsu	tulsajudoclub.com	override blanks it

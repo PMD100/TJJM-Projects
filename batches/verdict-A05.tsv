@@ -1,0 +1,86 @@
+# A05 verdicts - 84 flagged links - DNS-first method
+state	city	name	url	verdict	note
+MO	Lee's Summit	K2L Martial Arts	http://www.kids2leaders.com/	LIVE-SCHOOL	redirects to k2lma.com, active taekwondo/bjj school
+MO	Nixa	TCB Fight Factory 417	http://tcbfightfactory417.com	DEAD	nxdomain
+MO	North Kansas City	Aegis Jiu Jitsu	http://aegisjiujitsu.com/	PARKED	ad/tracking redirect lander page
+MO	Salem	Kifaru Jitsu Martial Arts	http://www.kifarujitsu.com/	EMPTY	resolves, empty body on apex/www, http/https
+MO	Springfield	Gracie Barra Springfield Fight Club	http://www.springfieldfightclub.com/	DEAD	nxdomain
+MO	St Charles	St. Charles MMA and BJJ	http://www.stcharlesmma.com/	LIVE-SCHOOL	active mma/bjj school site
+MO	St. Louis	Checkmat St. Louis	https://checkmatstl.com	DEAD	nxdomain
+MO	St. Louis	St. Louis Combat Institute	http://www.stlcombatinstitute.com/	DEAD	nxdomain
+MO	Sullivan	Sullivan Athletic Club	http://www.sullivanathleticclub.net/	LIVE-SCHOOL	active karate/bjj/boxing club site
+MO	Warrensburg	Warrior Jiu-Jitsu	http://www.warriorjujitsu.com	DEAD	no A record on apex or www, nodata
+MO	Webster Groves	Raven's Ridge MMA	http://www.ravensridgemma.com/	DEAD	nxdomain
+MT	Bozeman	Grizzly Combat Sports	https://grizzlycombatsports.com	DEAD	nxdomain
+MT	Kalispell	Hughes' Grappling Academy	https://www.hughesgrapplingacademy.com	DEAD	nxdomain
+NV	Henderson	American Top Team Nevada	http://www.attnevada.com	EMPTY	resolves, empty body http/https/www
+NV	Henderson	Gracie Barra Henderson	http://www.gblasvegas.com	DEAD	nxdomain
+NV	Henderson	Relson Gracie Jiu Jitsu Team HK Las Vegas	http://relsongracielv.com	DEAD	nxdomain
+NV	Henderson	Renzo Gracie Henderson Jiu Jitsu	https://www.renzograciehenderson.com	DEAD	nxdomain
+NV	Henderson	Samurai Brazilian Jiu Jitsu Academy	https://samuraitc.com	DEAD	nodata on apex and www, no web server
+NV	Henderson	Veritas Combat Arts And Fitness Academy	http://veritascombatarts.com	DEAD	nxdomain
+NV	Las Vegas	Asylum Fight Team	http://www.asylumfightteam.com	EMPTY	redirects to asylumfightteamvegas.com, js shell no body
+NV	Las Vegas	Atos Jiu Jitsu Las Vegas	http://www.atosjiujitsulv.com	EMPTY	resolves, empty body http/https/www
+NV	Las Vegas	Cascao Jiu Jitsu	http://www.cascaojiujitsu.com	PARKED	icann whois verification suspended, registrar placeholder
+NV	Las Vegas	Drysdale Fight For Us Jiu Jitsu	http://www.drysdalefightforus.com	EMPTY	resolves, empty body http/https/www
+NV	Las Vegas	Fredson Paixao Academy	http://fredsonpaixaobjj.com	LIVE-OTHER	now Apex Credit, a credit-repair company in Canoga Park CA
+NV	Las Vegas	Hard Knocks Muay Thai & Judo	http://www.hkmtkickboxing.com	DEAD	nxdomain
+NV	Las Vegas	Jiu-Jitsu Methods	http://jiujitsumethods.com	LIVE-SCHOOL	redirects to jiujitsumethodslv.com, active bjj gym
+NV	Las Vegas	Las Vegas Fight Center	https://lasvegasfightcenter.com	DEAD	nxdomain
+NV	Las Vegas	Las Vegas Fight Club	http://www.thelasvegasfightclub.com	DEAD	nxdomain
+NV	Las Vegas	Ribeiro Jiu-Jitsu - Las Vegas	http://www.ribeirojiujitsulasvegas.com	DEAD	dns refused/lame delegation on all nameservers
+NV	Las Vegas	Summerlin BJJ	https://summerlinbjj.com	EMPTY	resolves, empty body http/https/www
+NV	Las Vegas	Tapout Research & Development Training Center	http://www.tapoutlasvegas.com	LIVE-OTHER	redirects to tapout.com, TapouT LLC apparel brand, not a gym
+NV	Las Vegas	Tristar Las Vegas	https://tristarlasvegas.com	DEAD	nxdomain
+NV	Las Vegas	Wand Fight Team	https://www.wandfightteam.vegas	DEAD	nodata on apex and www, no web server
+NV	North Las Vegas	Kifaru Jitsu Academy of Martial Arts	http://www.kifarujitsu.com	EMPTY	resolves, empty body, same domain as Salem MO row
+NV	North Las Vegas	Ronin Jiu-Jitsu North Las Vegas	http://www.roninbjj.org	LIVE-SCHOOL	active bjj school but located in Attleboro MA, not NLV
+NV	Reno	Battle Born MMA	http://www.battlebornmma.com	DEAD	nxdomain
+NV	Reno	Lion's Den MMA & Fitness Center	http://www.lionsdenreno.com	DEAD	nxdomain
+NV	Reno	Momentum Martial Arts	http://momentumreno.com	LIVE-SCHOOL	redirects to mmarenonv.com, active mma/bjj gym
+NV	Reno	Team Reno	https://www.momentumreno.com/brazilian-jiu-jitsu	LIVE-SCHOOL	same live domain as Momentum Martial Arts reno
+NV	Sparks	Atos Jiu Jitsu Reno	http://www.atosjiujitsureno.com	DEAD	nxdomain
+NJ	Barnegat	Green Dragon Warrior Arts	http://greendragonunlimited.com/Home_Page.php	DEAD	nxdomain
+NJ	Brick Township	Misfits Muay Thai & Brazilian Jiu Jitsu	http://www.misfitsmuaythai.com/	DEAD	nxdomain
+NJ	Browns Mills	Clay Jiu Jitsu	http://www.clayjiu-jitsu.com/	DEAD	nxdomain
+NJ	Caldwell	Guerrero BJJ & MMA	http://kneeonbelly.com/	LIVE-SCHOOL	redirects to njkick.com, rebranded No Limit Martial Arts
+NJ	Cedar Knolls	AMA Fight Club	https://www.amafightclubcedarknolls.com/	DEAD	nxdomain
+NJ	City Of Orange	AJW Martial Arts Academy & Fitness Center	http://www.ajwmartialartsacademy.com	DEAD	nxdomain
+NJ	Clark	Kombat Brazilian Jiu-Jitsu	https://www.kombatbjj.com/	EMPTY	resolves, empty body http/https/www
+NJ	Clifton	Unity Jiu Jitsu New Jersey	http://unitybjjnj.com	EMPTY	resolves, empty body http/https/www
+NJ	Cranford	Jfc Training Center	http://www.jerseyfightclub.com/	DEAD	nxdomain
+NJ	Denville	Real World Martial Arts Team Renzo Gracie	http://rwmma.com/	DEAD	nodata on apex and www, no web server
+NJ	East Rutherford	Notorious Mixed Martial Arts	http://www.notoriousbjj.com/	LIVE-SCHOOL	active mma/bjj school site
+NJ	Edgewater Park	JBMFIT - Fitness Center and & Brazilian Jiu Jitsu Academy	http://www.jbmfit.com/	DEAD	nxdomain
+NJ	Edison	Jaguar BJJ	http://jaguarbjj.com/	DEAD	nxdomain
+NJ	Elizabeth	Golden Eagle Judo & Jiu-Jitsu	http://www.goldeneaglejjj.com/	DEAD	nxdomain
+NJ	Ewing Township	Blue Line Defense and Fitness	http://www.bluelinedefenseandfitness.com/	DEAD	nxdomain
+NJ	Flanders	Elite Tactical Martial Arts	http://www.elitetacticalmartialarts.com/	DEAD	nxdomain
+NJ	Freehold	Alliance Jiu Jitsu Freehold	https://www.alliancejiujitsufreehold.com/	DEAD	nxdomain
+NJ	Hamilton Square	Hamilton Martial Arts	http://www.hamiltonmartialarts.com/	DEAD	nxdomain
+NJ	Hoboken	David Branch Jiu Jitsu	https://www.davidbranchbjj.com/	DEAD	nxdomain
+NJ	Hoboken	Renzo Gracie Hoboken	https://www.renzograciehoboken.com/	DEAD	nxdomain
+NJ	Jersey City	CULTR BJJ	https://www.cultrbjj.com/	DEAD	nxdomain
+NJ	Jersey City	Team Endurance MMA/ Brazilian JiuJitsu & Kickboxing Academy	http://www.teamendurancemma.com/	DEAD	nxdomain
+NJ	Jersey City	Thiago Rela BJJ	https://www.thiagorelateam.com/	DEAD	nxdomain
+NJ	Livingston	Amorosi's Mixed Martial Arts	http://www.amorosikarate.com/	DEAD	nxdomain
+NJ	Lyndhurst	Anaconda Brazilian Jiu Jitsu & MMA Academy	http://www.anacondabjjmma.com	DEAD	nxdomain
+NJ	Manville	Red Dragon Martial Arts Academy	http://www.reddragonmaa.com/	DEAD	nxdomain
+NJ	Milltown	Puzon Jiu Jitsu	http://www.puzonjiujitsu.com/	DEAD	nxdomain
+NJ	Montclair	Straight Blast Gym New Jersey	https://www.sbgnj.com/	EMPTY	resolves, empty body http/https/www
+NJ	Mt. Holly	Jbm Brazilian Jiu-Jitsu Academy	http://www.jbmbjj.com/	DEAD	nxdomain
+NJ	Newark	Roberto Gordo BJJ	https://www.robertogordo.com/	DEAD	nxdomain
+NJ	Newton	Martial Way MMA	https://martialwaymma.com/	LIVE-SCHOOL	active mma/bjj school site
+NJ	North Brunswick Township	Advanced Martial Arts	http://advancedbjj.com/	DEAD	dns refused/lame delegation
+NJ	South Amboy	Lionheart MMA	http://www.lionheartmixedmartialarts.com/	DEAD	nxdomain
+NJ	South Pennsauken	Advantage MMA	http://www.advantagemixedmartialarts.com/	DEAD	nxdomain
+NJ	South Plainfield	Renzo Gracie South Plainfield	https://www.renzograciesouthplainfield.com/	DEAD	nxdomain
+NJ	Teterboro	Martial Maxx MMA	http://www.martialmaxxmma.com/	DEAD	nxdomain
+NJ	Toms River	Gracie Barra Toms River	https://www.gbtomsriver.com/	DEAD	nxdomain
+NJ	Vineland	Legion Mixed Martial Arts	http://legionmixedmartialarts.com/	LIVE-SCHOOL	active mma/bjj school site
+NJ	Vineland	The Shark Tank BJJ	http://sharktankbjj.com/	LIVE-SCHOOL	active bjj school site
+NJ	Vineland	US Martial Arts Academy Inc	http://www.usmartialarts.biz/	DEAD	nxdomain
+NJ	Wayne	Up Top Martial Arts Academy	http://www.martialartswaynenj.com/	DEAD	nxdomain
+NJ	West Long Branch	Rolles Gracie Academy - Long Branch Jiu Jitsu & Muay Thai	https://rollesgracielongbranchnj.com/	DEAD	nxdomain
+NJ	Westfield	Gracie Barra Westfield	https://www.gbwestfield.com/	DEAD	nxdomain
+NJ	Woodland Park	Extreme Fight Club	http://www.efcchampion.com/	DEAD	nxdomain

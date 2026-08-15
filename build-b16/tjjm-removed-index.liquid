@@ -1,0 +1,88 @@
+{%- comment -%}
+  TJJM removed-index — the suppressed legacy gym names for every state, one row per state.
+  Format: <STATE CODE>|<name>|<name>|...   Read by sections/tjjm-state-directory.liquid,
+  the same way tjjm-region-index is read: strip, newline_to_br, split on '<br />'.
+
+  Moved out of the section on 5 Aug 2026 to reclaim section headroom
+  (the section was at 20,758 B against the Admin API's ~24 KB rewrite ceiling).
+
+  RULES
+  - Removal matches on the EXACT gym name. Before adding a name, check it against the names
+    you are KEEPING: legacyNames.filter(n => keptNames.has(n)). A collision deletes BOTH
+    records and nothing in the count-based verification catches it, because the counts agree.
+  - ALSO CHECK DOMAINS, NOT JUST NAMES. Oregon (5 Aug 2026) found two legacy records that
+    shared a domain with a MatMade record under a DIFFERENT name, which the name-only check
+    cannot see: legacyDomains ∩ keptDomains. Run both.
+  - When a legacy name and a MatMade name collide, do NOT list it here. Keep the legacy
+    record, drop the MatMade duplicate, and supply the address via tjjm-gym-addresses.
+  - Arizona has NO fakes, so AZ has no row.
+  - WA NOTE: "Bellingham BJJ" is deliberately ABSENT from the WA row for exactly that reason.
+  - OR NOTE: "Ashland BJJ" is deliberately ABSENT from the OR row for the same reason — it
+    shares ashlandbjj.com with MatMade's "Ashland Jiu-jitsu Academy", which was not imported.
+  - CA NOTE: "MZ Brazilian Jiu-Jitsu" is a MATMADE record, not a legacy one — the only such
+    entry in this file. It is a stale listing of Mendes Jiu-Jitsu HQ: same building on
+    Deschutes Rd, same domain (reddingselfdefense.com), and that site lists only Ste 5&7 and
+    never mentions MZ. Removal matches on name from either source, so this works.
+  - Names must not contain "|" — the section splits on it.
+  - Per-state rationale lives in snippets/tjjm-statedir-notes and tjjm-statedir-notes-<code>.
+{%- endcomment -%}
+NV|Carson City BJJ|Elko BJJ|Henderson BJJ|Mesquite BJJ|North Las Vegas BJJ|Pahrump BJJ|Reno BJJ|Sparks BJJ
+CO|Aspen BJJ|Boulder BJJ|Broomfield BJJ|Grand Junction BJJ|Longmont BJJ|Parker BJJ|Pueblo BJJ|Vail BJJ|Northern Colorado BJJ|14ers Jiu Jitsu
+MT|Billings BJJ|Butte BJJ|Great Falls Jiu Jitsu|Havre BJJ|Montana BJJ|Kalispell BJJ|Livingston BJJ|Miles City BJJ|Missoula BJJ
+CA|Bakersfield BJJ|Berkeley BJJ|Fresno BJJ|Long Beach BJJ|Modesto BJJ|Orange County BJJ|Palm Springs BJJ|Pasadena BJJ|Riverside BJJ|Sacramento BJJ|San Bernardino BJJ|San Jose BJJ|Santa Barbara BJJ|Stockton BJJ|Ventura BJJ|Visalia BJJ|MZ Brazilian Jiu-Jitsu
+TX|Abilene BJJ|Amarillo BJJ|Beaumont BJJ|Denton BJJ|El Paso BJJ|Killeen BJJ|Odessa BJJ|Tyler BJJ|Waco BJJ|CJJF Academy - North Texas
+FL|Boca Raton BJJ|Clearwater BJJ|Daytona Beach BJJ|Destin BJJ|Lakeland BJJ|Palm Beach BJJ|Panama City BJJ|Stuart BJJ|Vero Beach BJJ|Gracie Barra Fort Lauderdale / BJJ Fort Lauderdale FL 33306|Carlson Gracie Jiu Jitsu
+LA|Thibodaux BJJ|Alexandria BJJ Louisiana|Kenner BJJ|Covington BJJ Louisiana|Louisiana BJJ Academy|Shreveport Brazilian Jiu Jitsu|Brazilian Jiu Jitsu Houma|Monroe Brazilian Jiu Jitsu|Hammond BJJ|Bayou Jiu Jitsu & Self Defense|UFC Gym New Orleans|UFC GYM Acadian, Baton Rouge
+KY|Bowling Green BJJ|Covington BJJ|Danville BJJ|Florence BJJ Kentucky|Frankfort BJJ|Morehead BJJ|Murray BJJ|Owensboro BJJ|Richmond BJJ Kentucky|Core Combat Sports
+OH|Akron BJJ|Findlay BJJ|Mansfield BJJ|Lima BJJ|Chillicothe BJJ|Medina BJJ|Newark BJJ Ohio|Sandusky BJJ|Springfield BJJ Ohio|Steubenville BJJ|Toledo BJJ|Youngstown BJJ|Zanesville BJJ|Alliance Jiu Jitsu Columbus|Alliance Jiu Jitsu Ohio|Canton BJJ|Cuyahoga Falls BJJ|Dayton BJJ
+MO|Cape Girardeau BJJ|Jefferson City BJJ|St. Joseph BJJ|Alliance Jiu Jitsu Columbia|10th Planet St. Louis
+MI|Alliance BJJ Ann Arbor|Alliance BJJ Michigan Livonia|Alliance Jiu Jitsu Michigan|Alpena BJJ|Battle Creek BJJ|Bay City BJJ|Flint BJJ|Great Lakes BJJ|Jackson BJJ Michigan|Lansing BJJ|Marquette BJJ|Midland BJJ|Monroe BJJ Michigan|Muskegon BJJ|Saginaw BJJ|Sterling Heights BJJ|Traverse City BJJ|West Michigan BJJ
+AL|Anniston BJJ|Decatur BJJ Alabama|Dothan BJJ|Gadsden BJJ|Bailey's Tiger Rock Martial Arts|WuDang Martial Arts Center|Guerrilla Fitness|Triad Martial Arts Academy
+NJ|Atlantic City BJJ|Trenton BJJ|Vineland BJJ|Precision MMA|Premier Fitness|Power House Gym|Zephyr Performance Training|Driven Gym|Whippany Athletic Club|Intrepid Gym|Survival Fitness|Outlawz Fitness|Haduko|Training Center Of New Jersey|The Inferno Training and Performance Center|Edge Hoboken|Tiger Schulmann's Clifton|AJW Martial Arts Academy & Fitness Center
+IL|Aurora BJJ|Bloomington-Normal BJJ|Carbondale BJJ|Champaign BJJ|Decatur BJJ Illinois|Dekalb County BJJ|Elgin BJJ|Evanston BJJ|Galesburg BJJ|Joliet BJJ|Naperville BJJ|Peoria BJJ|Quincy BJJ Illinois|Rockford BJJ|Springfield BJJ Illinois
+PA|Alliance Jiu Jitsu Pittsburgh|Bethlehem BJJ|Butler BJJ|Carlson Gracie Pennsylvania|Chester PA BJJ|Easton PA BJJ|Erie BJJ|Harrisburg BJJ|Indiana PA BJJ|Johnstown BJJ|Lancaster BJJ|Norristown BJJ|Pottsville BJJ|Reading BJJ|Renzo Gracie Philadelphia|SBG Pennsylvania|State College BJJ|Wilkes-Barre BJJ|York BJJ|Zombie Brazilian Jiu-Jitsu and MMA
+VA|Alliance Jiu Jitsu Norfolk|Alliance Jiu Jitsu Virginia|Blacksburg BJJ|Charlottesville BJJ|Chesapeake BJJ|Crazy 88 BJJ Virginia|Danville BJJ Virginia|Harrisonburg BJJ|Lynchburg BJJ|Newport News BJJ|Richmond BJJ Academy|Roanoke BJJ|Staunton BJJ|Suffolk BJJ|Top Game Brazilian Jiu-Jitsu|Virginia Beach BJJ|Winchester BJJ|Capital MMA & Elite Fitness
+GA|Alliance Jiu Jitsu Atlanta|Checkmat Atlanta|Augusta BJJ|Brunswick BJJ|Carrollton BJJ|Columbus BJJ|Dalton BJJ|Tiger Academy Gracie Atlanta|Gainesville BJJ Georgia|Ascension MMA|LaGrange BJJ|Macon BJJ|Moultrie BJJ|SBG Atlanta|Rome BJJ Georgia|Alliance Jiu Jitsu Roswell|Renzo Gracie Savannah|Statesboro BJJ|Valdosta BJJ|Warner Robins BJJ|Sakura BJJ
+NC|Apex Jiu Jitsu NC|Burlington BJJ NC|Lucas Lepri Jiu Jitsu Charlotte|Triangle BJJ|Goldsboro BJJ|Alliance Jiu Jitsu Greensboro|Greensboro BJJ|High Point BJJ|Alliance Wilmington|New Bern BJJ|Alliance Jiu Jitsu Raleigh|Wilmington BJJ NC|Winston-Salem BJJ
+CT|Bridgeport BJJ|Bristol BJJ CT|Twisted Kimura|Alliance Jiu Jitsu Glastonbury|Greenwich BJJ|New England BJJ|Meriden BJJ|Middletown BJJ CT|Connecticut Brazilian Jiu-Jitsu|New Britain BJJ|New Haven BJJ|Renzo Gracie Connecticut|Shelton BJJ|Prime BJJ|Stamford BJJ|Torrington BJJ|Waterbury BJJ
+MD|Aberdeen BJJ MD|Relative Jiu Jitsu|Capital City MMA|Dundalk BJJ|Top Flight Mixed Martial Arts|Bowerhouse MMA|Frederick BJJ|Culture of Jiu Jitsu Academy|Renzo Gracie Maryland|Hagerstown BJJ|Prince Frederick BJJ|American Top Team Maryland|Salisbury BJJ|Lloyd Irvin's MMA Academy|Waldorf BJJ|Southern Maryland Martial Arts & Fitness
+IN|Anderson BJJ Indiana|Hoosier BJJ|Columbus BJJ Indiana|Evansville BJJ|Fortitude BJJ|Gary BJJ|Kokomo BJJ|Lafayette BJJ|Michigan City BJJ|Muncie Brazilian Jiu Jitsu|Richmond BJJ Indiana|South Bend BJJ|Terre Haute BJJ|Valparaiso BJJ|Bushido Jiu-Jitsu Zionsville
+OK|Bartlesville BJJ|Broken Arrow BJJ|Edmond BJJ|Enid BJJ|Lawton BJJ|Midwest City BJJ|Muskogee BJJ|Norman BJJ|Owasso BJJ|Shawnee BJJ|Stillwater BJJ|Tulsa BJJ|Burdette BJJ|Integrity Martial Arts|Mega Church Jiu Jitsu|Empire Jiu-Jitsu Durant
+MA|Attleboro BJJ|Bernardo Faria Academy|Central Rock Gym|Dave Ginsberg Brazilian Jiu Jitsu / GAMMA|Redline Fight Sports|SBG East Coast|Alliance Framingham Jiu Jitsu|Boston Brazilian Jiu-Jitsu of Framingham|Leominster BJJ|Evolution Brazilian Jiu Jitsu|Fenix Brazilian Jiu Jitsu|Team Flo Brazilian Jiu Jitsu|Soneca Brazilian Jiu-Jitsu Marlborough|New Bedford BJJ|Northampton BJJ|Pittsfield BJJ|Springfield BJJ|Taunton BJJ
+WI|Alliance BJJ Madison|Alliance Jiu Jitsu Wisconsin|Baraboo BJJ|Beaver Dam BJJ|Fluid Motion BJJ|Fond du Lac BJJ|Fox Valley BJJ|Janesville BJJ|Kenosha BJJ|La Crosse BJJ|Madison BJJ|Manitowoc BJJ|Marinette BJJ|Milwaukee BJJ|Neutral Ground Academy|Oshkosh BJJ|Rhinelander BJJ|Sheboygan BJJ|Superior BJJ|Waukesha BJJ|Wausau BJJ|Wisconsin BJJ|Evolution Jiu Jitsu
+WA|Auburn WA BJJ|Bremerton BJJ|Everett BJJ|Tri-Cities BJJ Washington|Kirkland BJJ|Alliance BJJ Lakewood|Lynnwood BJJ|Mount Vernon BJJ|BJJ Olympia|Port Angeles BJJ|Seattle BJJ|Alliance BJJ Spokane|Warrior Camp Spokane|Tacoma BJJ|Northwest Fighting Arts|Wenatchee BJJ|Breno Bittencourt BJJ|Connection Rio Jiu-Jitsu Academy|Logic Jiu Jitsu
+OR|Albany BJJ Oregon|Bend BJJ|Coos Bay BJJ|Corvallis BJJ|Oregon BJJ|Grants Pass BJJ|Klamath Falls BJJ|Medford BJJ|Newport BJJ Oregon|Pendleton BJJ|Alliance Jiu Jitsu Portland|Portland BJJ|Roseburg BJJ|Alliance Jiu Jitsu Salem|EchoValor Striking & MMA
+NY|Brazilian Power Team Westchester|CNY MMA|Elite Fitness & Martial Arts|Middletown BJJ NY|Newburgh BJJ|Plattsburgh BJJ|Precision Brazilian Jiu Jitsu|Rochester Fitness Martial Arts|Savarese BJJ Academy|Seven Tigers Martial Arts Academy|Swan's Martial Arts Academy|Watertown BJJ NY
+ME|Ellsworth BJJ|Saco BJJ|Rumford BJJ|Waterville BJJ
+AR|Conway BJJ|Fort Smith BJJ|Pine Bluff BJJ|Russellville BJJ|Springdale BJJ|Impact Martial Arts
+ON|Ajax BJJ|Kingston BJJ|North Bay BJJ|Orillia BJJ|Peterborough BJJ|Pickering BJJ|Sault Ste. Marie BJJ|Thunder Bay BJJ
+ND|Bismarck Jiu Jitsu|Dickinson BJJ|Grand Forks BJJ|Jamestown BJJ ND|Mandan BJJ|Prairie Jiu Jitsu|Valley City BJJ|Williston BJJ
+SK|Estevan BJJ|Lloydminster BJJ|Melfort BJJ|Moose Jaw BJJ|North Battleford BJJ|Prince Albert BJJ|Saskatoon BJJ|Swift Current BJJ|Weyburn BJJ|Yorkton BJJ
+UT|Cedar City BJJ|Layton BJJ|Logan BJJ|Moab BJJ|Ogden BJJ|Orem BJJ|Provo BJJ|Alliance Jiu Jitsu Utah|SLC BJJ Academy|Sandy BJJ|Alliance Jiu Jitsu St. George|Vernal BJJ|West Jordan BJJ
+WY|Casper BJJ|Cody BJJ|Gillette BJJ|Wyoming Martial Arts|Alliance Jiu Jitsu Wyoming|Riverton BJJ|Rock Springs BJJ|Sheridan BJJ Wyoming
+IA|Ames BJJ|Burlington BJJ Iowa|Alliance Jiu Jitsu Iowa|Clinton BJJ Iowa|Council Bluffs BJJ|Dubuque BJJ|Fort Dodge BJJ|Marshalltown BJJ|Mason City BJJ|Ottumwa BJJ|Sioux City BJJ|Waterloo BJJ
+KS|Dodge City BJJ|Garden City BJJ|Hutchinson BJJ|Junction City BJJ|Leavenworth BJJ|Liberal BJJ|Salina BJJ|Kansas BJJ|Midwest Training Center|Alliance Jiu Jitsu Lawrence|Manhattan KS BJJ|Pittsburg KS BJJ
+MB|Brandon BJJ|Flin Flon BJJ|Portage la Prairie BJJ|Steinbach BJJ|Thompson BJJ|Winkler BJJ|Winnipeg BJJ|Red River BJJ|Thompson Jiu Jitsu Winnipeg|CFC Gym Winnipeg
+SD|Aberdeen BJJ|Brookings BJJ|Huron BJJ|Mitchell BJJ|Sioux Falls BJJ|Vermillion BJJ|Joku Dojo|Watertown BJJ SD|Black Hills BJJ
+NM|Alamogordo BJJ|Carlsbad BJJ|Clovis BJJ|Duke City BJJ|Farmington BJJ|Jackson-Wink MMA|Las Cruces BJJ|Las Vegas NM BJJ|New Mexico BJJ|Portales BJJ|Roswell BJJ|Taos BJJ
+HI|BJ Penn MMA|Fighting Arts Academy Hawaii|Gracie Technics Hawaii|Hawaii Academy of Brazilian Jiu-Jitsu|Kailua BJJ|Kona BJJ|Lihue BJJ|Maui BJJ Academy|Pearl City BJJ|Purebred Jiu-Jitsu|Wailuku BJJ
+ID|Authentic BJJ Idaho|Coeur d'Alene BJJ|Idaho Falls BJJ|Lewiston ID BJJ|Meridian BJJ Idaho|Nampa BJJ|Rexburg BJJ|Sandpoint BJJ
+VT|Barre BJJ|Bennington BJJ|Brattleboro BJJ|Burlington Brazilian Jiu Jitsu|Gracie Vermont|Green Mountain BJJ|Rutland BJJ|White River BJJ
+RI|Cranston BJJ|East Providence BJJ|Middletown BJJ RI|Mission First BJJ|Pawtucket BJJ|Ricardo Cavalcanti BJJ RI|Woonsocket BJJ
+MN|Alliance Jiu Jitsu Minnesota|Brainerd BJJ|Duluth BJJ|Fargo BJJ MN side|Faribault BJJ|Hibbing BJJ|Mankato BJJ|Minnesota Martial Arts Academy|Moorhead BJJ|Rochester BJJ|Roufusport MMA Academy|St. Cloud BJJ|Willmar BJJ
+SC|American Judo and Jiu-Jitsu|Beaufort BJJ|Charleston BJJ|Columbia BJJ|Florence BJJ SC|Hilton Head BJJ|Orangeburg BJJ|Spartanburg BJJ|Summerville BJJ|Myrtle Beach BJJ
+MS|Coast BJJ|Columbus MS BJJ|Corinth BJJ|Delta BJJ|Greenville BJJ MS|Laurel BJJ|Meridian BJJ|Mississippi BJJ|Natchez BJJ|Oxford BJJ|Southern Combat Arts|Starkville BJJ|Vicksburg BJJ|Tupelo BJJ
+NE|Columbus NE BJJ|Fremont BJJ|Grand Island BJJ|Hastings BJJ|Husker Combat Club|Kearney BJJ|Norfolk BJJ|Norfolk NE BJJ|North Platte BJJ|Scottsbluff BJJ|Lincoln BJJ|Nebraska BJJ|Corner Brook BJJ|Gander BJJ|NL BJJ Academy
+NH|Alliance Jiu Jitsu NH|Claremont BJJ|Concord BJJ|Derry BJJ|Dover BJJ|Keene BJJ|Laconia BJJ|Lebanon BJJ NH
+WV|Beckley BJJ|Clarksburg BJJ|Fairmont BJJ|Huntington BJJ|Martinsburg BJJ|West Virginia BJJ|Nitro BJJ|Wheeling BJJ|Lewisburg BJJ|Parkersburg BJJ
+AB|Airdrie BJJ|Banff BJJ|Brooks BJJ|101 Academy Jiu Jitsu|Alliance Jiu Jitsu Calgary|Angry Monkey MMA|Camrose BJJ|Cochrane BJJ|Fort McMurray BJJ|Grande Prairie BJJ|Lethbridge BJJ|Medicine Hat BJJ|Red Deer BJJ|Sherwood Park BJJ|Wetaskiwin BJJ
+BC|Alliance Jiu Jitsu Vancouver|BUDo Vancouver|Campbell River BJJ|Chilliwack BJJ|Fort St. John BJJ|Kamloops BJJ|Kelowna BJJ|Maple Ridge BJJ|Mission BC BJJ|Nanaimo BJJ|North Vancouver BJJ|Pacific Top Team|Penticton BJJ|Pinnacle MMA|Poderoso Jiu Jitsu|Prince George BJJ|SBG Victoria|Surrey BJJ|Trail BJJ|Vernon BJJ|Williams Lake BJJ|Wise Warrior Gym
+QC|Alma BJJ|Drummondville BJJ|Fearless MMA|Longueuil BJJ|Rimouski BJJ|Royal Jiu-Jitsu Quebec|Saguenay BJJ|Sherbrooke BJJ|Trois-Rivieres BJJ
+AK|Alaska Center For The Martial Arts|Arctic Warrior Brazilian Jiu-Jitsu|Eclipse Martial Arts|Gracie Barra - Jiu Jitsu|Greatland Martial Arts|Krav Maga Anchorage|Shoshin Ryu|Shoshindo of Alaska|The International Karate Association & College of the Martial Arts|Tonbo Dojo - Alaska Samurai Arts
+DC|Capital City BJJ|Capitol Hill BJJ|Combat Athletics DC|DC BJJ Academy
+DE|Delaware BJJ|Dover AFB BJJ|First State BJJ|Milford BJJ Delaware|Rehoboth Beach BJJ|Synergy MMA|Tribal BJJ
+NB|Campbellton BJJ|Miramichi BJJ|Moncton BJJ|Saint John BJJ|Woodstock NB BJJ
+NS|Atlantic BJJ|Cape Breton BJJ|Halifax BJJ|Shelburne BJJ NS|Stellarton BJJ
+PE|Island Grappling Club|PEI Brazilian Jiu Jitsu|Summerside BJJ PEI
+TN|Alliance Jiu Jitsu Tennessee|Athens Brazilian Jiu-Jitsu|Chattanooga BJJ|Knoxville BJJ|Upper Cumberland MMA
+AZ|Infinite Jiu-Jitsu

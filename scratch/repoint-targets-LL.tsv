@@ -1,0 +1,740 @@
+region	name	city	stored_w	override_w	why_blank	src
+AL	Ultimate MMA	Albertville			no w key	snippets/tjjm-gyms-data-18.liquid
+AL	Brewton Olympic Wrestling and Gracie Jiu Jitsu	Brewton			no w key	snippets/tjjm-gyms-data-18.liquid
+AL	Calera Fitness and MMA	Calera	https://www.calerafitness.com/Calera_Fitness_%26_MMA/Home.html		override blanks it	snippets/tjjm-gyms-data.liquid
+AL	Gracie Jiu-Jitsu Centreville	Centreville			no w key	snippets/tjjm-gyms-data-18.liquid
+AL	Yamane Championship Mixed Martial Arts	Daphne	http://www.ycmma.com/		override blanks it	snippets/tjjm-gyms-data-18.liquid
+AL	The Academy	Foley			no w key	snippets/tjjm-gyms-data-18.liquid
+AL	Champions Freestyle MMA & Fitness	Hoover	http://www.championsfreestylemma.com/		override blanks it	snippets/tjjm-gyms-data-18.liquid
+AL	10th Planet Mobile	Mobile			no w key	snippets/tjjm-gyms-data-18.liquid
+AL	Karate 4 Kids, Dutch Kickboxing, Jujitsu & MMA	Mobile			no w key	snippets/tjjm-gyms-data-18.liquid
+AL	Prattville Fitness Kickboxing And MMA	Prattville	http://fitnesskickboxingandmmaprattville.com/		override blanks it	snippets/tjjm-gyms-data-18.liquid
+AL	Combat Survival of Alabama	Rainbow City			no w key	snippets/tjjm-gyms-data-18.liquid
+AL	Koryu Martial arts	Scottsboro			stored w is empty string	snippets/tjjm-gyms-data.liquid
+AL	Lions Pride Jiu Jitsu	Trussville			no w key	snippets/tjjm-gyms-data-18.liquid
+AL	Blue Hawk MMA	Tuscaloosa			no w key	snippets/tjjm-gyms-data-18.liquid
+AL	The Cage MMA & Fitness	Vestavia Hills			stored w is empty string	snippets/tjjm-gyms-data.liquid
+AZ	State 48 Brazilian Jiu Jitsu	Cottonwood			no w key	snippets/tjjm-gyms-data-11.liquid
+AZ	Empire Martial Arts	El Mirage			no w key	snippets/tjjm-gyms-data-11.liquid
+AZ	Sunnyside Boxing MMA	Flagstaff			no w key	snippets/tjjm-gyms-data-11.liquid
+AZ	Dominate Fitness and MMA	Green Valley	http://www.dominatefitnessmma.com/		override blanks it	snippets/tjjm-gyms-data-11.liquid
+AZ	Deets Jiu Jitsu Academy	Kingman	http://www.gladiatorunderground.com/		override blanks it	snippets/tjjm-gyms-data-11.liquid
+AZ	Ruffhouse Jiu-Jitsu	Mesa	http://www.ruffhousejiujitsumesa.com/		override blanks it	snippets/tjjm-gyms-data-11.liquid
+AZ	Caza BJJ	Nogales			no w key	snippets/tjjm-gyms-data-11.liquid
+AZ	Allied Jiu Jitsu	Peoria	http://alliedjiujitsu.com		override blanks it	snippets/tjjm-gyms-data-11.liquid
+AZ	Gracie Peoria	Peoria	http://www.graciepeoria.com		override blanks it	snippets/tjjm-gyms-data-11.liquid
+AZ	Oss MMA	Peoria			no w key	snippets/tjjm-gyms-data-11.liquid
+AZ	Fury Brazilian Jiu Jitsu	Phoenix	https://www.furybjj.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+AZ	Gracie Jiu-Jitsu Scottsdale	Scottsdale	http://graciescottsdale.com/		override blanks it	snippets/tjjm-gyms-data-11.liquid
+AZ	Flow Game Gym	Sierra Vista	http://www.flowgamegym.org/		override blanks it	snippets/tjjm-gyms-data-11.liquid
+AZ	Kickers Mixed Martial Arts	Surprise			no w key	snippets/tjjm-gyms-data-11.liquid
+AZ	Tough Survival Martial Arts Academy	Surprise			no w key	snippets/tjjm-gyms-data-11.liquid
+AZ	American Pankration Fighting MMA	Tempe	http://www.americanpankration.net/		override blanks it	snippets/tjjm-gyms-data-11.liquid
+AZ	Dragon-Snake MMA & Fitness	Tempe	http://dragonsnakemma.com/		override blanks it	snippets/tjjm-gyms-data-11.liquid
+AZ	Always Forward Jiu-Jitsu Academy	Tucson	http://www.alwaysforwardjiujitsu.com/		override blanks it	snippets/tjjm-gyms-data-11.liquid
+AZ	Carlson Gracie Jiu Jitsu	Yuma			no w key	snippets/tjjm-gyms-data-11.liquid
+AZ	Rogue Wave Brazilian Jiu Jitsu	Yuma			no w key	snippets/tjjm-gyms-data-11.liquid
+CA	Sovereign Brazilian Jiu Jitsu (BJJ)	Antioch			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Team Mata Brazilian Jiu Jitsu	Bell			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Ares BJJ Brentwood	Brentwood	http://aresbrentwood.com/		override blanks it	snippets/tjjm-gyms-data-5.liquid
+CA	Bond Squad MMA	Camarillo			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Alliance MMA Gym	Chula Vista			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Abrigo Martial Arts	Culver City	http://www.abrigomartialarts.com/index02.php		override blanks it	snippets/tjjm-gyms-data-5.liquid
+CA	Fabio Prado Brazilian Jiu-Jitsu Academy	Dixon			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Gracie Jiu-Jitsu El Sobrante	El Sobrante			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Piranha Jiu Jitsu	Fountain Valley			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Gracie Jiu-Jitsu Fullerton	Fullerton			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Granada Hills Martial Arts & Fitness	Granada Hills			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Royce Gracie Jiu Jitsu Academy SoCal	Harbor City	https://roycegraciesouthbay.com/		override blanks it	snippets/tjjm-gyms-data-5.liquid
+CA	Hayward BJJ Darcio Lira	Hayward	https://www.haywardbjjdarciolira.com/		override blanks it	snippets/tjjm-gyms-data-5.liquid
+CA	Valhalla Jiu Jitsu	Irvine	http://www.valhallabjj.com/		override blanks it	snippets/tjjm-gyms-data-5.liquid
+CA	Gracie Jiu-Jitsu Laguna Hills	Laguna Hills			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Joker's MMA	Laguna Hills	http://www.jokersmma.com/		override blanks it	snippets/tjjm-gyms-data-5.liquid
+CA	Bang Bang Power Fit	Los Angeles	http://bangbangpowerfit.com/		override blanks it	snippets/tjjm-gyms-data-5.liquid
+CA	Hollywood BJJ	Los Angeles			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Independent Jiu-Jitsu	Los Angeles	https://www.independentjiujitsu.co/calendar		override blanks it	snippets/tjjm-gyms-data-5.liquid
+CA	MMA Cardio Fitness Center	Modesto			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Rise Jiu Jitsu Academy	Murrieta	https://risejiujitsumurrieta.com		override blanks it	snippets/tjjm-gyms-data-5.liquid
+CA	Gracie Jiu-Jitsu Nipomo	Nipomo			no w key	snippets/tjjm-gyms-data-5.liquid
+CA	Kihon Traditional MMA	Oakhurst			no w key	snippets/tjjm-gyms-data-6.liquid
+CA	GB Paso Robles	Paso Robles	https://gbpasorobles.com/		override blanks it	snippets/tjjm-gyms-data-6.liquid
+CA	Pinnacle Mixed Martial Arts, Inc.	Redlands			no w key	snippets/tjjm-gyms-data-6.liquid
+CA	Next Generation MMA & Fitness	Sacramento			no w key	snippets/tjjm-gyms-data-6.liquid
+CA	Ralston Gracie Jiu Jitsu	San Francisco	http://www.ralstongracie.com		override blanks it	snippets/tjjm-gyms-data-6.liquid
+CA	I M C Survival Center	San Jose	http://www.imcsurvivalcenter.com/		override blanks it	snippets/tjjm-gyms-data-6.liquid
+CA	Knoxx Martial Arts and Fitness	San Jose	https://knoxxgym.com		override blanks it	snippets/tjjm-gyms-data-6.liquid
+CA	GB Santa Ynez Valley	Solvang			no w key	snippets/tjjm-gyms-data-6.liquid
+CA	Andre de Freitas Brazilian Jiu-Jitsu / BJJ Stockton CA 95210	Stockton	http://andredefreitasbjj.com/index.html		override blanks it	snippets/tjjm-gyms-data-6.liquid
+CA	Ares BJJ Stockton	Stockton	http://www.aresbjjstockton.com		override blanks it	snippets/tjjm-gyms-data-6.liquid
+CA	Shingu Fighter	Stockton	http://www.shingufighter.com/		override blanks it	snippets/tjjm-gyms-data-6.liquid
+CA	Underground MMA and Amador gym and fitness	Sutter Creek			no w key	snippets/tjjm-gyms-data-6.liquid
+CA	The Agoge	Twentynine Palms			no w key	snippets/tjjm-gyms-data-6.liquid
+CA	Gracie Jiu-Jitsu Vallejo	Vallejo			no w key	snippets/tjjm-gyms-data-6.liquid
+CA	Rock And Roll Fight Company	Ventura	https://rocknrollfightcompany.com/		override blanks it	snippets/tjjm-gyms-data-6.liquid
+CA	Outlaw MMA & Fitness	Visalia	http://outlaw559gym.com/		override blanks it	snippets/tjjm-gyms-data-6.liquid
+CA	Gracie Jiu-Jitsu Vista	Vista			no w key	snippets/tjjm-gyms-data-6.liquid
+CA	ZR Brazilian Jiu-jitsu Thousand Oaks / BJJ Thousand Oaks CA 91362	Woodland Hills	http://zrwoodlandhills.com/index.html		override blanks it	snippets/tjjm-gyms-data-6.liquid
+CA	BloodSpillerBJJ & Caveirinha Jiu Jitsu Academy	Yucaipa	http://www.cjjfsocal.com/		override blanks it	snippets/tjjm-gyms-data-6.liquid
+CO	Genesis Training Academy	Arvada	http://www.fightgta.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Alliance Jiu Jitsu Colorado	Aurora	https://alliancejiujitsucolorado.com		override blanks it	snippets/tjjm-gyms-data.liquid
+CO	Gracie Jiu-Jitsu Aurora	Aurora	http://www.graciejiujitsuaurora.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Alliance Jiu Jitsu Boulder	Boulder	https://alliancejiujitsububoulder.com		override blanks it	snippets/tjjm-gyms-data.liquid
+CO	Frontline Wrestling and Jiu-Jitsu Academy	Brighton	http://www.graciebrighton.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Gracie Jiu-Jitsu Canon City	Canon City	https://graciejiujitsu-canon.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Carbondale Training Center (Rising Crane)	Carbondale	http://www.risingcrane.net		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Carlson Gracie Jiujitsu Team Castle Rock	Castle Rock	http://carlsongracieteamcastlerock.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Valor BJJ & Fitness	Centennial	http://valorbjjfit.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Cheyenne Mountain BJJ	Colorado Springs	https://cheyennemountainbjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+CO	719 Fight Team MMA	Colorado Springs			no w key	snippets/tjjm-gyms-data-3.liquid
+CO	Altitude MMA	Colorado Springs	http://www.altitudemma.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	GB Colorado Springs	Colorado Springs	https://gbcoloradosprings.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Peak Mixed Martial Arts Academy	Colorado Springs			no w key	snippets/tjjm-gyms-data-3.liquid
+CO	The HQ - Jiu Jitsu Headquarters	Colorado Springs	https://www.jiujitsucoloradosprings.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Conifer Jiu Jitsu & Fitness	Conifer			no w key	snippets/tjjm-gyms-data-3.liquid
+CO	Low Summit Jiu Jitsu	Denver	http://www.lowsummitjiujitsu.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Durango BJJ	Durango	https://durangobjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+CO	Guetho BJJ Denver	Englewood	https://guethobjjdenver.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Nova Mente Jiu Jitsu Academy	Englewood	http://www.novamenteacademy.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Gracie Jiu-Jitsu Fort Collins	Fort Collins	http://graciefortcollins.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Shugyo Training Center	Fort Collins	http://www.shugyodojo.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Gracie Jiu-Jitsu Grand Junction	Grand Junction			no w key	snippets/tjjm-gyms-data-3.liquid
+CO	Gunnison Jiu-Jitsu	Gunnison	http://www.gunnisonjiujitsu.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Atos BJJ Lakewood	Lakewood	http://www.atosbjjlakewood.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Flo Life BJJ + Colorado Holistic Martial Arts	Lakewood	https://www.flolifebjj.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Lakewood Martial Arts	Lakewood	http://www.campmartialarts.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Infinite MMA Academy	Loveland	http://www.infinitemixedmartialarts.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Kingsnake Jiu-Jitsu	Loveland	http://www.kingsnakebjj.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Ground Zero Roaring Fork Valley BJJ	New Castle	http://gzglenwoodsprings.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Rocky Mountain Jiu Jitsu	Northglenn			no w key	snippets/tjjm-gyms-data-3.liquid
+CO	14ers Jiu Jitsu	Salida			no w key	snippets/tjjm-gyms-data-3.liquid
+CO	Flatirons Mixed Martial Arts Academy	Westminster	http://www.flatironsmma.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CO	Discipleship Jiu-Jitsu	Woodland Park	https://discipleshipjiujitsu.com		override blanks it	snippets/tjjm-gyms-data-3.liquid
+CT	Joao Luz BJJ	Bridgeport			no w key	snippets/tjjm-gyms-data-28.liquid
+CT	ZR Association CT	Bridgeport	https://zrbridgeportbjj.com/		override blanks it	snippets/tjjm-gyms-data-28.liquid
+CT	RiSu Martial Arts Academy	Bristol			no w key	snippets/tjjm-gyms-data-28.liquid
+CT	BJJ For Christ Jiu Jitsu	Danbury	http://www.bjjforchrist.org/		override blanks it	snippets/tjjm-gyms-data-28.liquid
+CT	Danbury Academy Mixed Martial Arts	Danbury	https://www.da-mma.com/		override blanks it	snippets/tjjm-gyms-data-28.liquid
+CT	Team Delima Brazilian Jiu-Jitsu Association	Danbury	http://delimajiujitsu.com/		override blanks it	snippets/tjjm-gyms-data-28.liquid
+CT	Fortitude Jiu Jitsu	Glastonbury	http://fortitudejj.com/		override blanks it	snippets/tjjm-gyms-data-28.liquid
+CT	Giroux BJJ	Glastonbury			no w key	snippets/tjjm-gyms-data-28.liquid
+CT	Team Dexter Vale Tudo	Groton			no w key	snippets/tjjm-gyms-data-28.liquid
+CT	Xtreme Martial Arts Training	Guilford			no w key	snippets/tjjm-gyms-data-28.liquid
+CT	Fifth Dimension Brazilian Jiu-Jitsu MMA	Milford			no w key	snippets/tjjm-gyms-data-28.liquid
+CT	Elevate Personal Training + MMA	Stamford			no w key	snippets/tjjm-gyms-data-28.liquid
+CT	Ronin Jiu Jitsu	Stamford			no w key	snippets/tjjm-gyms-data-28.liquid
+DE	First State Martial Arts Academy	Dover			no w key	snippets/tjjm-gyms-data-44.liquid
+FL	R2F Boxing & MMA Fitness Studio	Boca Raton			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	Champion Mma of Bradenton	Bradenton			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	Cali Style MMA	Cape Coral	http://calistylemma.com/		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Mata Leao BJJ/MMA Academy	Casselberry			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	Refit Academy - Coral Gables	Coral Gables	http://www.refitacademycoralgables.com		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Real World M.M.A. Training Center	Coral Springs			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	Marcelo Meleiro BJJ – Nova Uniao South Florida	Dania Beach	http://www.novauniaosouthflorida.com/		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Complete MMA Fitness	DeBary			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	West Volusia Academy Of Mixed Martial Arts	DeLand	http://theacademyofmma.com/		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Burns Bros Jiu Jitsu	Deerfield Beach	https://burnsbrosjiujitsu.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+FL	Carlson Gracie Manny Soares	Delray Beach	https://mannysoaresbjj.com		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Fight Zone MMA	Fort Myers	http://www.fightzonefl.com/		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Gainesville BJJ Florida	Gainesville	https://gainesvillebjjfl.com		override blanks it	snippets/tjjm-gyms-data.liquid
+FL	Gracie Barra Hallandale Beach	Hallandale Beach	http://gbhallandale.com		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Gladiator Sports Fitness MMA	Hialeah			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	Paladin MMA Academy	Hialeah			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	Round 5 MMA and Jiu-Jitsu	Hialeah			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	BLTeam Brazilian Jiu-Jitsu and Muay Thai Academy	Indian Harbour Beach	https://blteam1.com/		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Agogi Academy of Combatives	Inverness	http://agogiac.com/		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Alpha Dogs Martial Arts	Jacksonville	https://alphadogsmartialarts.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+FL	Armory Training Center	Jupiter			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	Hardkore MMA & Jiu-Jitsu	Lake City			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	South Florida Fight Club	Lauderhill	http://www.sffc.tv/		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Master Lowell's MMA Academy	Melbourne	https://jlmma.com/		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Champion Martial Arts	Miami	http://www.judochampion.com/		override blanks it	snippets/tjjm-gyms-data-9.liquid
+FL	Miami Jiu Jitsu	Miami			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	Beach Martial Arts	Miami Beach			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	Capital Jiu Jitsu	Miami Beach			no w key	snippets/tjjm-gyms-data-9.liquid
+FL	Gracie Barra – Naples	Naples	http://www.graciebarranaples.com/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	Gracie Jiu-Jitsu North Miami Beach	North Miami Beach			no w key	snippets/tjjm-gyms-data-10.liquid
+FL	Gracie Jiu-Jitsu North Palm Beach	North Palm Beach			no w key	snippets/tjjm-gyms-data-10.liquid
+FL	GTK Academy of Martial Arts	Ocala	https://gtkacademy.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+FL	Gracie Jiu-Jitsu Ocoee	Ocoee			no w key	snippets/tjjm-gyms-data-10.liquid
+FL	Orange City Academy Of Mixed Martial Arts	Orange City	http://theacademyofmma.com/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	USD & MMA Fitness	Orange City	http://www.mmagetfit.com/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	Ronin Training Center Orlando	Orlando	https://www.roninorlandofl.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+FL	Trident Jiu Jitsu	Ormond Beach			no w key	snippets/tjjm-gyms-data-10.liquid
+FL	Robson Moura Jiu-Jitsu	Oxford	http://www.usajujitsu.net/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	Team Remedy	Pensacola	https://teamremedymma.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+FL	Team Gladiator MMA & Fitness	Pine Hills			no w key	snippets/tjjm-gyms-data-10.liquid
+FL	Kumite Martial Arts	Plantation	http://www.kumitemartialarts.com/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	BJJ Academy Of Sarasota (wbjja)	Sarasota	http://www.wbjja.com/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	Full Circle MMA	St. Cloud	http://www.nucfl.com/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	Elite Training Center	St. Petersburg	http://www.elitetraininginc.com/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	Synergy Martial Arts and Fitness	St. Petersburg	http://synergymartialarts.fitness/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	Fist Factory	Stuart	http://www.thefistfactory.com/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	American Tigers Martial Arts	Sunrise	https://americantigers.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+FL	New Port Richey Jiu-jitsu Academy	Tarpon Springs	http://nprbjj.com/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	Gracie Martial Arts – Vero Beach	Vero Beach	http://www.graciemartialartsverobeach.com		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	Renato Tavares Assoc HQ	Vero Beach	http://www.legacymmausa.com/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	Hands Down Martial Arts	West Palm Beach	http://www.wpbmma.com/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	Vprok MMA Academy	Weston	http://www.vprokmma.com/United_States.html		override blanks it	snippets/tjjm-gyms-data-10.liquid
+FL	USA Jiu-Jitsu	Wildwood	http://www.usajujitsu.net/		override blanks it	snippets/tjjm-gyms-data-10.liquid
+GA	Carlos Machado Jiu-Jitsu North Atlanta	Acworth	http://www.cmjjnatl.com/		override blanks it	snippets/tjjm-gyms-data-24.liquid
+GA	James Shook Brazilian Jiu-Jitsu	Acworth	http://zenith.jamesshookbjj.com/		override blanks it	snippets/tjjm-gyms-data-24.liquid
+GA	Hamby Freestyle Jiu Jitsu	Albany	http://www.hambyfreestyle.com/		override blanks it	snippets/tjjm-gyms-data-24.liquid
+GA	Atlanta Kyusho and Jujitsu	Atlanta	http://www.atlantajujitsu.com/		override blanks it	snippets/tjjm-gyms-data-24.liquid
+GA	Gracie Barra - Augusta	Augusta	http://gbaugusta.com/		override blanks it	snippets/tjjm-gyms-data-24.liquid
+GA	Port City Jiu Jitsu	Bainbridge			stored w is empty string	snippets/tjjm-gyms-data-25.liquid
+GA	Hybrid Fitness MMA	Between			stored w is empty string	snippets/tjjm-gyms-data-25.liquid
+GA	Iron Wolf Academy	Braselton			stored w is empty string	snippets/tjjm-gyms-data-25.liquid
+GA	Ruff House Boxing and MMA	Covington	https://www.ruffhouseboxing.com/		override blanks it	snippets/tjjm-gyms-data-25.liquid
+GA	Prime Combat Sports	Cumming			stored w is empty string	snippets/tjjm-gyms-data-24.liquid
+GA	World Jiu-Jitsu Academy	Cumming	http://worldjiujitsuatlanta.com/		override blanks it	snippets/tjjm-gyms-data-24.liquid
+GA	Tect Center	Eastman			stored w is empty string	snippets/tjjm-gyms-data-25.liquid
+GA	Full Throttle Fitness	Flowery Branch	http://www.fullthrottleoakwood.com/		override blanks it	snippets/tjjm-gyms-data-25.liquid
+GA	Blalock International Mixed Martial Arts Academy	Fort Oglethorpe	http://www.blalocksimb.com/		override blanks it	snippets/tjjm-gyms-data-25.liquid
+GA	Gracie Barra Gainesville	Gainesville	https://www.gbgainesville.com/		override blanks it	snippets/tjjm-gyms-data-24.liquid
+GA	Absolute Martial Arts	Gainesville			stored w is empty string	snippets/tjjm-gyms-data-24.liquid
+GA	Praxis MMA	Griffin			stored w is empty string	snippets/tjjm-gyms-data-24.liquid
+GA	Invictus Brazilian Jiu Jitsu & Defensive Arts	Hoboken	http://invictusbjj.online/		override blanks it	snippets/tjjm-gyms-data-25.liquid
+GA	Rodriguez MMA	Lawrenceville			stored w is empty string	snippets/tjjm-gyms-data-24.liquid
+GA	Gwinnett Training Academy	Lawrenceville	http://www.gwinnetttrainingacademy.com/		override blanks it	snippets/tjjm-gyms-data-24.liquid
+GA	Macon Jiu Jitsu Academy	Macon			stored w is empty string	snippets/tjjm-gyms-data-24.liquid
+GA	Advantage Jiu-Jitsu and Self Defense	Marietta	https://www.advantagejj.com/		override blanks it	snippets/tjjm-gyms-data-24.liquid
+GA	East Cobb Martial Arts	Marietta	http://www.eastcobbma.com/		override blanks it	snippets/tjjm-gyms-data-24.liquid
+GA	Redline MMA	Pooler	http://www.redlinemma.com/		override blanks it	snippets/tjjm-gyms-data-25.liquid
+GA	Tekniques Brazilian Jiu-Jitsu & Fitness	Powder Springs	http://www.tekniquesbjj.com/		override blanks it	snippets/tjjm-gyms-data-25.liquid
+GA	Atlanta Budokan	Smyrna	http://www.atlantabudokan.com/		override blanks it	snippets/tjjm-gyms-data-24.liquid
+GA	Fit to Fight Georgia	Statesboro			stored w is empty string	snippets/tjjm-gyms-data-25.liquid
+GA	Sylvester Jiu-Jitsu Academy	Sylvester	http://sylvesterjiujitsu.com/		override blanks it	snippets/tjjm-gyms-data-25.liquid
+GA	Redemption Martial Arts Academy	Tifton	http://www.martialartstifton.com/		override blanks it	snippets/tjjm-gyms-data-25.liquid
+GA	Independent MMA & Fitness - Villa Rica	Villa Rica	https://www.independentvillarica.com/		override blanks it	snippets/tjjm-gyms-data-25.liquid
+GA	Zanshin South Gracie Jiu Jitsu	Warner Robins	http://www.zanshinsouthgraciejiujitsu.com/		override blanks it	snippets/tjjm-gyms-data-25.liquid
+GA	Megalodon MMA	Watkinsville	http://www.megalodonmma.com/		override blanks it	snippets/tjjm-gyms-data-25.liquid
+HI	Shibui Dojo	Kailua-Kona			no w key	snippets/tjjm-gyms-data-40.liquid
+IA	Fighting Gravity Jiu Jitsu	Davenport	https://fightinggravityjiujitsu.com		override blanks it	snippets/tjjm-gyms-data.liquid
+IA	Ludus Combat Sports	Mount Pleasant			no w key	snippets/tjjm-gyms-data-39.liquid
+ID	Snake River MMA	Pocatello	https://snakerivermma.com		override blanks it	snippets/tjjm-gyms-data.liquid
+IL	EDS Martial Arts and Self-Defense School	Bloomingdale			no w key	snippets/tjjm-gyms-data-20.liquid
+IL	Force Brazilian Jiu-Jitsu	Burr Ridge	http://www.madeyoutap.com/		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	10th Planet Jiu Jitsu Chicago	Chicago	http://www.10thplanetjjchicago.com		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	GB Collinsville	Collinsville			no w key	snippets/tjjm-gyms-data-20.liquid
+IL	Chicago Martial Arts / Brazilian Top Team Jiu-Jitsu	Deerfield			no w key	snippets/tjjm-gyms-data-20.liquid
+IL	Bodhi Collaborative BJJ	Downers Grove	http://www.bodhicollaborative.com		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	GB Evanston	Evanston			no w key	snippets/tjjm-gyms-data-20.liquid
+IL	Devine Jiu Jitsu Lake County	Fox Lake	http://www.scholarwarriormma.com/devine-jiujitsu-lake-county		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	Gracie Jiu-Jitsu Geneva	Geneva			no w key	snippets/tjjm-gyms-data-20.liquid
+IL	Granite City MMA Cage Warriors	Granite City			no w key	snippets/tjjm-gyms-data-20.liquid
+IL	Comprido BJJ	Highland Park	http://www.highlandparkbjj.com		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	Brasa Jiu-Jitsu Highwood	Highwood			no w key	snippets/tjjm-gyms-data-20.liquid
+IL	GB Jacksonville	Jacksonville			no w key	snippets/tjjm-gyms-data-20.liquid
+IL	Norse Academy Martial Arts	Lake Villa	http://norseacademymartialarts.com/		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	10th Planet Jiu Jitsu Lombard	Lombard	http://www.10thplanetjjlombard.com/		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	Northern Illinois Combat Club and Fitness	Machesney Park	http://www.niccfitness.com/		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	Cassady Martial Arts Academy Royce Gracie Jiu Jitsu	Macomb	http://www.cassadymartialarts.com/		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	The Shed JiuJitsu Academy	Macomb	https://theshedjiujitsuacademy.com/		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	Constrictor MMA	McHenry			no w key	snippets/tjjm-gyms-data-20.liquid
+IL	Pedigo Submission Fighting	Mt. Vernon	https://pedigosubmissionfighting.com		override blanks it	snippets/tjjm-gyms-data.liquid
+IL	Middeke Brazilian Jiu Jitsu	New Baden	https://www.middekebjj.com/		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	Victory Martial Arts Northbrook	Northbrook			no w key	snippets/tjjm-gyms-data-20.liquid
+IL	Randori MMA & Jiu Jitsu	Orland Park	http://www.randorijiujitsu.com/		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	Falconbury Warrior Concepts	Robinson	http://falconburywarriorconcepts.com/		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	RMNU Rockton Judo & Jiu Jitsu Academy	Rockton			no w key	snippets/tjjm-gyms-data-20.liquid
+IL	Keith Hackney's Combat Academy	Roselle	http://www.hackneyscombat.com/		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IL	LCCT Brazilian Jiu Jitsu	Schaumburg	https://lcctbjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+IL	P3 Martial Arts	Schaumburg	https://p3jiujitsu.com		override blanks it	snippets/tjjm-gyms-data.liquid
+IL	Ohana Martial Arts	Waukegan	https://ohanamartialarts.net		override blanks it	snippets/tjjm-gyms-data.liquid
+IL	LCCT Brazilian Jiu-Jitsu West Dundee	West Dundee	https://lcctbjjwestdundee.com/		override blanks it	snippets/tjjm-gyms-data-20.liquid
+IN	Razzano Academy BJJ & Judo	Bloomington			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Vortex Martial Arts Gym	Bloomington			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Brown’s Brazilian Jiu-Jitsu	Columbus			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Harrison County Brazilian Jiu-Jitsu	Corydon			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Nice Guys Submission Fighting	Evansville			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Fishers Brazilian Jiu-Jitsu And Boxing	Fishers			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Carlson Gracie Indianapolis Jiu Jitsu	Greenwood			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Garra Brazilian Jiu Jitsu and MMA	Kokomo			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Soma Jiu Jitsu of Kokomo	Kokomo			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Lagrange Gracie Jiu-Jitsu	LaGrange			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Ascend Brazilian Jiu Jitsu	Lafayette			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	MC Fitness & Submission Grappling	Loogootee			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Gracie Jiu-Jitsu New Albany	New Albany			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	RT Torres Brazilian Jiu Jitsu	New Castle			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	BJJ Coach Sheepdog	Rushville			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Ribeiro Jiu-Jitsu South Bend	South Bend			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+IN	Choke-U Brazilian Jiu-jitsu	Valparaiso			stored w is empty string	snippets/tjjm-gyms-data-30.liquid
+KS	Caio Terra Academy Lawrence	Lawrence			no w key	snippets/tjjm-gyms-data-39.liquid
+KS	Bulldog Muay Thai and BJJ	Lenexa			no w key	snippets/tjjm-gyms-data-39.liquid
+KS	Rabbit Hole Jiu Jitsu	Topeka			no w key	snippets/tjjm-gyms-data-39.liquid
+KY	Ebmas Bowling Green	Bowling Green			no w key	snippets/tjjm-gyms-data-14.liquid
+KY	Kentucky Grapplers	Bowling Green			no w key	snippets/tjjm-gyms-data-14.liquid
+KY	Corbin Martial Arts	Corbin			no w key	snippets/tjjm-gyms-data-14.liquid
+KY	Grant County Martial Arts Center	Dry Ridge	https://www.grantcountymartialarts.com/		override blanks it	snippets/tjjm-gyms-data-14.liquid
+KY	E-town Brazilian Jiu-Jitsu	Elizabethtown	https://etownjiujitsu.com		override blanks it	snippets/tjjm-gyms-data.liquid
+KY	Combat Defense USA	Elizabethtown			no w key	snippets/tjjm-gyms-data-14.liquid
+KY	Hopkinsville BJJ	Hopkinsville	https://hopkinsvillebjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+KY	King's Academy BJJ	Leitchfield			no w key	snippets/tjjm-gyms-data-14.liquid
+KY	Powers' Martial Arts	Lewisport			no w key	snippets/tjjm-gyms-data-14.liquid
+KY	Triple Crown MMA	Lexington	https://triplecrownnmma.com		override blanks it	snippets/tjjm-gyms-data.liquid
+KY	Louisville Ju Jitsu	Louisville	https://www.louisvillejujitsu.com		override blanks it	snippets/tjjm-gyms-data-14.liquid
+KY	Louisville Martial Arts Academy	Louisville	https://louisvillemartialarts.net/		override blanks it	snippets/tjjm-gyms-data-14.liquid
+KY	Gracie Jiujitsu of Madisonville	Madisonville	https://www.gjjmadisonville.com/		override blanks it	snippets/tjjm-gyms-data-14.liquid
+KY	Myers Martial Arts Center	Madisonville	https://www.myersdojo.net/		override blanks it	snippets/tjjm-gyms-data-14.liquid
+KY	Premier Martial Arts – Paducah	Paducah	https://pmapaducah.com/		override blanks it	snippets/tjjm-gyms-data-14.liquid
+KY	Paris Fight Academy	Paris			no w key	snippets/tjjm-gyms-data-14.liquid
+KY	Figure 4 Fight Academy	Pikeville			no w key	snippets/tjjm-gyms-data-14.liquid
+LA	Vermilion Martial Arts Academy	Abbeville	http://www.abbevillesummercamp.com/		override blanks it	snippets/tjjm-gyms-data-13.liquid
+LA	Gracie Barra Amite	Amite City			no w key	snippets/tjjm-gyms-data-13.liquid
+LA	Martial Arts America Baton Rouge	Baton Rouge	https://www.martialartsamericabr.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+LA	Warrior's Cove Baton Rouge	Baton Rouge	https://www.warriorscovebjj.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+LA	Stockwell Martial Arts Academy	Bossier City			no w key	snippets/tjjm-gyms-data-13.liquid
+LA	Fight to Win Lafayette Jiu -Jitsu	Broussard	http://www.fighttowinlafayette.com/		override blanks it	snippets/tjjm-gyms-data-13.liquid
+LA	Louisiana Judo. Louisiana Muay Thai	Broussard			no w key	snippets/tjjm-gyms-data-13.liquid
+LA	Langston's Martial Arts	Central	http://langstonsmartialarts.com/		override blanks it	snippets/tjjm-gyms-data-13.liquid
+LA	Gladiators Academy of Crowley	Crowley	https://www.gladiatorsofcrowley.com/		override blanks it	snippets/tjjm-gyms-data-13.liquid
+LA	Combat Athletics	Denham Springs	https://ccrosbyjiujitsu.com/contact-us/		override blanks it	snippets/tjjm-gyms-data-13.liquid
+LA	Body Elite Boxing & MMA	Houma			no w key	snippets/tjjm-gyms-data-13.liquid
+LA	Evolution Training	Houma	https://www.guerrillajiujitsuhouma.com/		override blanks it	snippets/tjjm-gyms-data-13.liquid
+LA	Extreme Mix Martial Arts	Houma			no w key	snippets/tjjm-gyms-data-13.liquid
+LA	Reeds Elite Mixed Martial Arts	Jennings			no w key	snippets/tjjm-gyms-data-13.liquid
+LA	Acadiana Martial Arts Academy	Lafayette	https://www.acadianamartialarts.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+LA	Premier Martial Arts Lafayette	Lafayette	https://www.premiermartialartsacademy.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+LA	Lake Area Brazilian Jiu-Jitsu	Lake Charles			no w key	snippets/tjjm-gyms-data-13.liquid
+LA	Ground Zero Combat Sports Academy	Leesville			no w key	snippets/tjjm-gyms-data-13.liquid
+LA	Louisiana Martial Arts Academy	Metairie	http://www.louisianamaa.com/		override blanks it	snippets/tjjm-gyms-data-13.liquid
+LA	Progressive Martial Arts Training Center	New Iberia	https://www.pmatc.com		override blanks it	snippets/tjjm-gyms-data-13.liquid
+LA	Danny Daniels' MMA & Fitness	New Orleans	https://www.dannydanielsmma.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+LA	Mid City Martial Arts & Fitness Academy	New Orleans	https://www.midcitymartialarts.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+LA	NOLA MMA	New Orleans	https://www.nolammaacademy.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+LA	The Dojang New Orleans	New Orleans	https://www.thedojangneworleans.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+LA	Criterion Jiu Jitsu	Prairieville	https://www.criterionjiujitsu.com/home		override blanks it	snippets/tjjm-gyms-data-13.liquid
+LA	Triad Martial Arts Academy of Ruston	Ruston			no w key	snippets/tjjm-gyms-data-13.liquid
+LA	Warrior Training Center	Shreveport	https://www.warriortrainingcenterla.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+LA	Carlos Machado Jiu Jitsu of Shreveport	Shreveport	http://shreveportmartialart.com/		override blanks it	snippets/tjjm-gyms-data-13.liquid
+LA	Alliance Jiu Jitsu Slidell	Slidell	https://www.alliancebjjslidell.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+LA	Gracie Stonewall Jiu Jitsu Academy	Stonewall			no w key	snippets/tjjm-gyms-data-13.liquid
+LA	Primal Fitness Lake Charles	Sulphur	https://www.primalfitnessla.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+LA	Gracie United Jiu Jitsu - Lacombe	Sulphur			no w key	snippets/tjjm-gyms-data-13.liquid
+LA	Power Extreme Fitness Training Center	Terrytown	http://www.mmanola.com/		override blanks it	snippets/tjjm-gyms-data-13.liquid
+MA	Mass Bjj Arlington	Arlington			stored w is empty string	snippets/tjjm-gyms-data-32.liquid
+MA	Cascão Jiu Jitsu Ashland	Ashland	cascaoashland.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	Ronin Brazilian Jiu Jitsu and Fitness	Attleboro			stored w is empty string	snippets/tjjm-gyms-data-32.liquid
+MA	Lauzon Mixed Martial Arts	Bridgewater	rsdmma.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	American Martial Arts Center	Cambridge	https://www.americanmartialartscenter.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+MA	Jiu-Jitsu USA Brazilian Jiu-Jitsu & Fitness Club	Charlton	squareup.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	Massachusetts Submission Academy	Clinton	masssubmissionacademy.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	Brazilian Top Team North Shore	Danvers	bttnorthshore.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	Team Link Framingham	Framingham			stored w is empty string	snippets/tjjm-gyms-data-32.liquid
+MA	Fighting Arts Academy Gardner	Gardner	fightingartsgardner.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	Lokahi Academy	Hudson	lokahiacademy.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	Aldo Batista Brazilian Jiu-Jitsu	Lowell	aldobatistabjj.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	Cascao Jiu Jitsu - Team Exodus	Marlborough			stored w is empty string	snippets/tjjm-gyms-data-32.liquid
+MA	Renan Borjes Brazilian jiu-jitsu And New England United BJJ	Medford			stored w is empty string	snippets/tjjm-gyms-data-32.liquid
+MA	Michael DeLuca Brazilian Jiu Jitsu	Middleborough			stored w is empty string	snippets/tjjm-gyms-data-32.liquid
+MA	Ko Gym	New Bedford	kogymnewbedford.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	South Shore Sport Fighting	Norwell	sssfighting.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	Dynamic Martial Athletics	Pepperell	pepperellbjj.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	Trifecta Martial Arts And Fitness	Quincy	bjj-boston.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	Iron House MMA	Revere			stored w is empty string	snippets/tjjm-gyms-data-32.liquid
+MA	Bochniak Martial Arts & Fitness	Saugus	bochniakmma.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MA	Jon Manley MMA @ Williamstown youth center	Williamstown	jonmanleymma.com		override blanks it	snippets/tjjm-gyms-data-32.liquid
+MB	Swan River BJJ	Swan River	https://swanriverbjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+MD	Foundation Jiu-Jitsu	Baltimore	foundation-jiujitsu.com		override blanks it	snippets/tjjm-gyms-data-29.liquid
+MD	Rollstar Jiu Jitsu	Baltimore	rsjiujitsumd.com		override blanks it	snippets/tjjm-gyms-data-29.liquid
+MD	Central Maryland Martial Arts	Frederick	cmmatsd.com		override blanks it	snippets/tjjm-gyms-data-29.liquid
+MD	Groundswell MMA	Frederick			stored w is empty string	snippets/tjjm-gyms-data-29.liquid
+MD	301 MMA & Fitness	Gambrills			stored w is empty string	snippets/tjjm-gyms-data-29.liquid
+MD	Cabrera Jiu Jitsu Academy	Hyattsville	graciepg.com		override blanks it	snippets/tjjm-gyms-data-29.liquid
+MD	Mount Airy Jiu-Jitsu & MMA	Mt Airy	mountairybjj.com		override blanks it	snippets/tjjm-gyms-data-29.liquid
+MD	Nomad Brazilian Jiu-Jitsu & MMA	Oakland			stored w is empty string	snippets/tjjm-gyms-data-29.liquid
+MD	Native Brazilian Jiu Jitsu	Rockville	nativebjj.com		override blanks it	snippets/tjjm-gyms-data-29.liquid
+MD	Gracie Randallstown Jiu Jitsu in Hillandale	Silver Spring	hillandalejiujitsu.com		override blanks it	snippets/tjjm-gyms-data-29.liquid
+MD	David Adams Jiujitsu	Towson			stored w is empty string	snippets/tjjm-gyms-data-29.liquid
+MD	Team Maryland BJJ	Towson			stored w is empty string	snippets/tjjm-gyms-data-29.liquid
+ME	Augusta BJJ Maine	Augusta	https://augustabjjme.com		override blanks it	snippets/tjjm-gyms-data.liquid
+ME	Maine BJJ	Bangor	https://mainebjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+ME	Seacoast Brazilian Jiu-Jitsu	Biddeford	https://seacoastbjjme.com		override blanks it	snippets/tjjm-gyms-data.liquid
+ME	Brunswick BJJ Maine	Brunswick	https://brunswickbjjme.com		override blanks it	snippets/tjjm-gyms-data.liquid
+ME	Lewiston-Auburn BJJ	Lewiston	https://lewistonauburnbjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+ME	Portland BJJ Maine	Portland	https://portlandbjjmaine.com		override blanks it	snippets/tjjm-gyms-data.liquid
+MI	Gladiator MMA	Brighton	http://www.gladiator-mma.com		override blanks it	snippets/tjjm-gyms-data-17.liquid
+MI	Combat Base Clarkston	Clarkston	https://www.combatbaseclarkston.com		override blanks it	snippets/tjjm-gyms-data-17.liquid
+MI	Clawson Fit	Clawson	http://clawsonfit.com		override blanks it	snippets/tjjm-gyms-data-17.liquid
+MI	GRBJJ	Grand Rapids	http://www.grbjj.net/		override blanks it	snippets/tjjm-gyms-data-17.liquid
+MI	Lansing Brazilian Jiu-Jitsu	Lansing	http://www.lansingbjj.com/		override blanks it	snippets/tjjm-gyms-data-17.liquid
+MI	American Mixed Martial Arts	Lincoln Park			no w key	snippets/tjjm-gyms-data-17.liquid
+MI	Stronghold BJJ Academy	Livonia			no w key	snippets/tjjm-gyms-data-17.liquid
+MI	Lake Effect Jiu Jitsu	Negaunee			no w key	snippets/tjjm-gyms-data-17.liquid
+MI	Newaygo Jiu-Jitsu Academy	Newaygo			no w key	snippets/tjjm-gyms-data-17.liquid
+MI	The Ludus Martial Arts and Fitness Center	Petoskey	http://www.theludusmartialarts.com/		override blanks it	snippets/tjjm-gyms-data-17.liquid
+MI	Ribeiro Jiu Jitsu Association of Plymouth	Plymouth			no w key	snippets/tjjm-gyms-data-17.liquid
+MI	Lakeshore Black Belt Academy	Saint Joseph	http://www.lakeshorebba.com/		override blanks it	snippets/tjjm-gyms-data-17.liquid
+MI	The Grey Jiujitsu	St Helen			no w key	snippets/tjjm-gyms-data-17.liquid
+MI	Michigan Kickboxing Academy / 10th Planet Troy	Troy	https://michigankickboxingacademy.com		override blanks it	snippets/tjjm-gyms-data.liquid
+MI	Gracie Jiu-Jitsu Vicksburg	Vicksburg			no w key	snippets/tjjm-gyms-data-17.liquid
+MI	10th Planet Jiu Jitsu Pontiac	Waterford Township			no w key	snippets/tjjm-gyms-data-17.liquid
+MI	FC Fitness Academy	Waterford Township	http://fcfitnessacademy.com		override blanks it	snippets/tjjm-gyms-data-17.liquid
+MI	Ann Arbor Jiu-Jitsu	Ypsilanti	http://annarborjj.com/wp/		override blanks it	snippets/tjjm-gyms-data-17.liquid
+MI	Bushido Mixed Martial Arts	Ypsilanti			no w key	snippets/tjjm-gyms-data-17.liquid
+MN	Checkmat S. Minneapolis	Minneapolis	https://dangerooms612.com		override blanks it	snippets/tjjm-gyms-data.liquid
+MN	Akagi Jiu-Jitsu	St. Paul	https://akagijiujitsu.com		override blanks it	snippets/tjjm-gyms-data.liquid
+MN	TC Martial Arts	St. Paul	https://tcmartialarts.com		override blanks it	snippets/tjjm-gyms-data.liquid
+MO	Branson Jiu Jitsu - Fulcrum 360	Branson	http://rkbjjbranson.com/instructors/		override blanks it	snippets/tjjm-gyms-data-16.liquid
+MO	Integrity Fitness	Bridgeton	http://www.integrityfit-stl.com/		override blanks it	snippets/tjjm-gyms-data-16.liquid
+MO	S2 Bjj	Chesterfield	http://www.s2bjj.com/		override blanks it	snippets/tjjm-gyms-data-16.liquid
+MO	Team Z MMA Fitness Center	Chesterfield	http://www.teamzmma.com/		override blanks it	snippets/tjjm-gyms-data-16.liquid
+MO	The Proving Ground	Fenton			no w key	snippets/tjjm-gyms-data-16.liquid
+MO	Whole Armour Martial Arts	Festus	http://whole-armour.com/		override blanks it	snippets/tjjm-gyms-data-16.liquid
+MO	St Louis's F.I.T. Martial Arts Center	Florissant			no w key	snippets/tjjm-gyms-data-16.liquid
+MO	Joplin Brotherhood Mixed Martial Arts	Joplin	http://www.jbhmma.com/		override blanks it	snippets/tjjm-gyms-data-16.liquid
+MO	Legacy MMA & Jiujitsu	Joplin			no w key	snippets/tjjm-gyms-data-16.liquid
+MO	Stealth Brazilian Jiu-Jitsu LLC	Knob Noster			no w key	snippets/tjjm-gyms-data-16.liquid
+MO	Lake Ozark Brazilian Jiu Jitsu	Lake Ozark			no w key	snippets/tjjm-gyms-data-16.liquid
+MO	TCB Fight Factory 417	Nixa	http://tcbfightfactory417.com		override blanks it	snippets/tjjm-gyms-data-16.liquid
+MO	Aegis Jiu Jitsu	North Kansas City	http://aegisjiujitsu.com/		override blanks it	snippets/tjjm-gyms-data-16.liquid
+MO	21st Century Self Defense	Pacific			no w key	snippets/tjjm-gyms-data-16.liquid
+MO	Perryville Jiu Jitsu	Perryville			no w key	snippets/tjjm-gyms-data-16.liquid
+MO	Pak's Academy of Martial Arts	Raymore			no w key	snippets/tjjm-gyms-data-16.liquid
+MO	Caveman Crew MMA Gym	Raytown			no w key	snippets/tjjm-gyms-data-16.liquid
+MO	Eagle Gyms	Rolla			no w key	snippets/tjjm-gyms-data-16.liquid
+MO	Gracie Barra Springfield Fight Club	Springfield	http://www.springfieldfightclub.com/		override blanks it	snippets/tjjm-gyms-data-21.liquid
+MO	Checkmat St. Louis	St. Louis	https://checkmatstl.com		override blanks it	snippets/tjjm-gyms-data.liquid
+MO	GB Shrewsbury	St. Louis			no w key	snippets/tjjm-gyms-data-16.liquid
+MO	St. Louis Combat Institute	St. Louis	http://www.stlcombatinstitute.com/		override blanks it	snippets/tjjm-gyms-data-16.liquid
+MO	Warrior Jiu-Jitsu	Warrensburg	http://www.warriorjujitsu.com		override blanks it	snippets/tjjm-gyms-data-16.liquid
+MO	Raven's Ridge MMA	Webster Groves	http://www.ravensridgemma.com/		override blanks it	snippets/tjjm-gyms-data-16.liquid
+MO	Gracie Barra Whiteman Afb	Whiteman AFB			no w key	snippets/tjjm-gyms-data-16.liquid
+MS	Relson Gracie 601 Jiu-Jitsu and MMA	Meridian			no w key	snippets/tjjm-gyms-data-41.liquid
+MT	Grizzly Combat Sports	Bozeman	https://grizzlycombatsports.com		override blanks it	snippets/tjjm-gyms-data.liquid
+MT	Hughes' Grappling Academy	Kalispell	https://www.hughesgrapplingacademy.com		override blanks it	snippets/tjjm-gyms-data-4.liquid
+NC	Devine Jiu Jitsu and Team R.O.C MMA	Albemarle			stored w is empty string	snippets/tjjm-gyms-data-26.liquid
+NC	Verity Brazilian Jiu-Jitsu	Cary	https://veritybjj.com/		override blanks it	snippets/tjjm-gyms-data-26.liquid
+NC	Charlotte Jiu-Jitsu Academy	Charlotte	https://charlottejiujitsuacademy.com		override blanks it	snippets/tjjm-gyms-data.liquid
+NC	Crossface MMA	Cornelius	http://www.crossface.net/		override blanks it	snippets/tjjm-gyms-data-26.liquid
+NC	Pitbull Martial Arts Center-USA	Durham	http://pmacusamma.com/		override blanks it	snippets/tjjm-gyms-data-26.liquid
+NC	United Thai Boxing & MMA	Durham			stored w is empty string	snippets/tjjm-gyms-data-26.liquid
+NC	Kamicuozzi MMA & Fitness	Eden			stored w is empty string	snippets/tjjm-gyms-data-26.liquid
+NC	Triangle Jiu-Jitsu Academy	Goldsboro	http://www.trianglejj.com/		override blanks it	snippets/tjjm-gyms-data-26.liquid
+NC	Warrior Fitness Center Laurinburg	Laurinburg	http://www.laurinburgbjj.com/		override blanks it	snippets/tjjm-gyms-data-26.liquid
+NC	SAGA Combat Systems	Lincolnton	http://www.sagacombat.com/		override blanks it	snippets/tjjm-gyms-data-26.liquid
+NC	Gracie Barra - Spring Lake	Spring Lake	http://gbspringlake.com/		override blanks it	snippets/tjjm-gyms-data-26.liquid
+NC	Ravensguard BJJ Academy	Wilmington	http://ravensguardacademy.com/		override blanks it	snippets/tjjm-gyms-data-26.liquid
+NC	Gustavo Machado Brazilian Jiu Jitsu Wilson	Wilson	https://gmbjjwnc68.com/		override blanks it	snippets/tjjm-gyms-data-26.liquid
+NC	Ground Control BJJ And MMA	Winston-Salem			stored w is empty string	snippets/tjjm-gyms-data-26.liquid
+NC	Evolution MMA Academy	Wrightsville Beach	http://www.evolutionmixedmartialarts.com/		override blanks it	snippets/tjjm-gyms-data-26.liquid
+NH	Seacoast BJJ NH	Portsmouth	https://seacoastbjjnh.com		override blanks it	snippets/tjjm-gyms-data.liquid
+NJ	Green Dragon Warrior Arts	Barnegat	http://greendragonunlimited.com/Home_Page.php		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Misfits Muay Thai & Brazilian Jiu Jitsu	Brick Township	http://www.misfitsmuaythai.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Clay Jiu Jitsu	Browns Mills	http://www.clayjiu-jitsu.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	AMA Fight Club	Cedar Knolls	https://www.amafightclubcedarknolls.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	AJW Martial Arts Academy & Fitness Center	City Of Orange	http://www.ajwmartialartsacademy.com		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Jfc Training Center	Cranford	http://www.jerseyfightclub.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Real World Martial Arts Team Renzo Gracie	Denville	http://rwmma.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	JBMFIT - Fitness Center and & Brazilian Jiu Jitsu Academy	Edgewater Park	http://www.jbmfit.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Jaguar BJJ	Edison	http://jaguarbjj.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Golden Eagle Judo & Jiu-Jitsu	Elizabeth	http://www.goldeneaglejjj.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Team Jucão Elizabeth Brazilian Jiu Jitsu BJJ	Elizabeth			no w key	snippets/tjjm-gyms-data-19.liquid
+NJ	Blue Line Defense and Fitness	Ewing Township	http://www.bluelinedefenseandfitness.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Elite Tactical Martial Arts	Flanders	http://www.elitetacticalmartialarts.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Alliance Jiu Jitsu Freehold	Freehold	https://www.alliancejiujitsufreehold.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+NJ	Gracie Jiu-Jitsu Galloway	Galloway			no w key	snippets/tjjm-gyms-data-19.liquid
+NJ	Hamilton Martial Arts	Hamilton Square	http://www.hamiltonmartialarts.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	CE Jiu Jitsu, MMA, boxing, kickboxing Harrison	Harrison			no w key	snippets/tjjm-gyms-data-19.liquid
+NJ	David Branch Jiu Jitsu	Hoboken	https://www.davidbranchbjj.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+NJ	Renzo Gracie Hoboken	Hoboken	https://www.renzograciehoboken.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+NJ	CULTR BJJ	Jersey City	https://www.cultrbjj.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+NJ	Thiago Rela BJJ	Jersey City	https://www.thiagorelateam.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+NJ	Team Endurance MMA/ Brazilian JiuJitsu & Kickboxing Academy	Jersey City	http://www.teamendurancemma.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Amorosi's Mixed Martial Arts	Livingston	http://www.amorosikarate.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Anaconda Brazilian Jiu Jitsu & MMA Academy	Lyndhurst	http://www.anacondabjjmma.com		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Red Dragon Martial Arts Academy	Manville	http://www.reddragonmaa.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Puzon Jiu Jitsu	Milltown	http://www.puzonjiujitsu.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Jbm Brazilian Jiu-Jitsu Academy	Mt. Holly	http://www.jbmbjj.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Roberto Gordo BJJ	Newark	https://www.robertogordo.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+NJ	Advanced Martial Arts	North Brunswick Township	http://advancedbjj.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Gracie Jiu-Jitsu Phillipsburg	Phillipsburg			no w key	snippets/tjjm-gyms-data-19.liquid
+NJ	Lionheart MMA	South Amboy	http://www.lionheartmixedmartialarts.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Advantage MMA	South Pennsauken	http://www.advantagemixedmartialarts.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Renzo Gracie South Plainfield	South Plainfield	https://www.renzograciesouthplainfield.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+NJ	Martial Maxx MMA	Teterboro	http://www.martialmaxxmma.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Gracie Barra Toms River	Toms River	https://www.gbtomsriver.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+NJ	US Martial Arts Academy Inc	Vineland	http://www.usmartialarts.biz/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Kurt Pellegrino MMA	Wall Township			no w key	snippets/tjjm-gyms-data-19.liquid
+NJ	Up Top Martial Arts Academy	Wayne	http://www.martialartswaynenj.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Rolles Gracie Academy - Long Branch Jiu Jitsu & Muay Thai	West Long Branch	https://rollesgracielongbranchnj.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Gracie Barra Westfield	Westfield	https://www.gbwestfield.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+NJ	Gym-Jitsu Mobile Martial Arts	Whippany			no w key	snippets/tjjm-gyms-data-19.liquid
+NJ	Camal Judo	Woodland	http://camaljudo.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NJ	Extreme Fight Club	Woodland Park	http://www.efcchampion.com/		override blanks it	snippets/tjjm-gyms-data-19.liquid
+NM	Mata Leao Brazilian Jiu Jitsu	Taos			no w key	snippets/tjjm-gyms-data-40.liquid
+NV	Fight Camp Nv	Carson City			no w key	snippets/tjjm-gyms-data-2.liquid
+NV	No Limits Martial Arts	Carson City			no w key	snippets/tjjm-gyms-data-2.liquid
+NV	University of Grappling: Elko	Elko			no w key	snippets/tjjm-gyms-data-2.liquid
+NV	Gracie Barra Henderson	Henderson	http://www.gblasvegas.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Relson Gracie Jiu Jitsu Team HK Las Vegas	Henderson	http://relsongracielv.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Renzo Gracie Henderson Jiu Jitsu	Henderson	https://www.renzograciehenderson.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Samurai Brazilian Jiu Jitsu Academy	Henderson	https://samuraitc.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Veritas Combat Arts And Fitness Academy	Henderson	http://veritascombatarts.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Las Vegas Fight Center	Las Vegas	https://lasvegasfightcenter.com		override blanks it	snippets/tjjm-gyms-data.liquid
+NV	Tristar Las Vegas	Las Vegas	https://tristarlasvegas.com		override blanks it	snippets/tjjm-gyms-data.liquid
+NV	AE Brazilian Jiu Jitsu	Las Vegas			no w key	snippets/tjjm-gyms-data-2.liquid
+NV	Cascao Evolution BJJ	Las Vegas			no w key	snippets/tjjm-gyms-data-2.liquid
+NV	Cascao Jiu Jitsu	Las Vegas	http://www.cascaojiujitsu.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Destiny Health & MMA	Las Vegas			no w key	snippets/tjjm-gyms-data-2.liquid
+NV	Fredson Paixao Academy	Las Vegas	http://fredsonpaixaobjj.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Hard Knocks Muay Thai & Judo	Las Vegas	http://www.hkmtkickboxing.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Las Vegas Fight Club	Las Vegas	http://www.thelasvegasfightclub.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	MC Unit jiu jitsu Academy	Las Vegas			no w key	snippets/tjjm-gyms-data-2.liquid
+NV	Reylson Gracie Jiu-Jitsu Health & Wellness Center	Las Vegas			no w key	snippets/tjjm-gyms-data-2.liquid
+NV	Ribeiro Jiu-Jitsu - Las Vegas	Las Vegas	http://www.ribeirojiujitsulasvegas.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Tapout Research & Development Training Center	Las Vegas	http://www.tapoutlasvegas.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	The Academy of Brazilian Jiu Jitsu	Las Vegas			no w key	snippets/tjjm-gyms-data-2.liquid
+NV	Throwdown Training Center	Las Vegas			no w key	snippets/tjjm-gyms-data-2.liquid
+NV	Wand Fight Team	Las Vegas	https://www.wandfightteam.vegas		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Orient Jiu Jitsu	Paradise			no w key	snippets/tjjm-gyms-data-2.liquid
+NV	Battle Born MMA	Reno	http://www.battlebornmma.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Lion's Den MMA & Fitness Center	Reno	http://www.lionsdenreno.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NV	Atos Jiu Jitsu Reno	Sparks	http://www.atosjiujitsureno.com		override blanks it	snippets/tjjm-gyms-data-2.liquid
+NY	Modern Martial Arts Astoria	Queens			stored w is empty string	snippets/tjjm-gyms-data-36.liquid
+NY	Yin Yang Jiu Jitsu	Queens			stored w is empty string	snippets/tjjm-gyms-data-36.liquid
+OH	Apex Fight Systems	Akron			no w key	snippets/tjjm-gyms-data-15.liquid
+OH	Dudu Barros Jiu Jitsu Academy	Akron			no w key	snippets/tjjm-gyms-data-15.liquid
+OH	McLeod Jiu-Jitsu Predator Martial Arts Royce Gracie Jiu-Jitsu	Akron			no w key	snippets/tjjm-gyms-data-15.liquid
+OH	Ohio Fitness & Martial Arts	Bellefontaine			no w key	snippets/tjjm-gyms-data-15.liquid
+OH	RTSC Training Center	Brook Park	https://sasclevelandohio.com		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Bryan Jiu-Jitsu Academy	Bryan	http://jiujitsubryan.ninja/		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Victory MMA Jujitsu Sbmssn	Canton	http://www.victorymmasubmissionfighting.org/		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Kombat Arts Ohio	Cincinnati	https://kombatartsohio.com		override blanks it	snippets/tjjm-gyms-data.liquid
+OH	GB Kenwood	Cincinnati			no w key	snippets/tjjm-gyms-data-15.liquid
+OH	Renzo Gracie Cleveland	Cleveland	https://renzograciecleveland.com		override blanks it	snippets/tjjm-gyms-data.liquid
+OH	Cal Crowell Fitness, Athletic & MMA Training Center	Cleveland	http://www.clevelandmmatraining.com/		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Resistance Lab Brazilian Jiu Jitsu	Columbia Station	http://resistancelabbjj.com/		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Bushido Martial Arts Club	Columbus	http://www.graciebushido.com/		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Ernie Reyes' Midwest Martial Arts	Columbus	http://www.columbus-martial-arts.com/		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Rise Ohio	Delaware	http://www.riseohio.com		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Martial Arts Alliance	Dublin	http://www.martialartsalliance.net/		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Zenith Ohio BJJ	Elyria			no w key	snippets/tjjm-gyms-data-15.liquid
+OH	Dayton Vision MMA	Fairborn			no w key	snippets/tjjm-gyms-data-15.liquid
+OH	Endeavor Defense & Fitness	Hilliard	http://www.gymhilliard.com		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Danger Zone Gym	Lima	http://www.dangerzonegym.com/contact-us		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	GB Middleburg	Middleburg Heights			no w key	snippets/tjjm-gyms-data-15.liquid
+OH	McCabe Militia - Mixed Martial arts training	New Holland			no w key	snippets/tjjm-gyms-data-15.liquid
+OH	Synergy Martial Arts Academy	Newton Falls	http://www.synergymartialartsohio.com/		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Adrenaline Academy	Sandusky			no w key	snippets/tjjm-gyms-data-15.liquid
+OH	Koguryo Martial Arts Academy	Sunbury	http://www.koguryoma.com/		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	Love And Chokes Jiu Jitsu Academy	Warrensville Heights	http://loveandchokes.com/		override blanks it	snippets/tjjm-gyms-data-15.liquid
+OH	GB Lewis Center	Westerville			no w key	snippets/tjjm-gyms-data-15.liquid
+OH	Team Torque Mixed Martial Arts	Wilmington			no w key	snippets/tjjm-gyms-data-15.liquid
+OK	Conquer BJJ Mixed Martial Arts Academy	Ada	conquerbjjada.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Rebellion Martial Arts	Ada			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	10th Planet Jiu-Jitsu Altus	Altus	altusmartialarts.ninja		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Platypus BJJ	Bartlesville			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	Munoz BJJ and Combat Sports	Blanchard			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	Brothers Jiu Jitsu	Broken Arrow	brothersjiujitsu.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Cohesion Brazilian Jiu-Jitsu & Judo Academy	Broken Arrow			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	Team Impact Martial Arts & Fitness	Broken Arrow	teamimpactok.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Northside Brazilian Jiu Jitsu	Collinsville	thenorthsidebjj.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Lucas Martial Arts	Duncan			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	Empire Jiu-Jitsu Durant	Durant	empirejiujitsudurant.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	American Elite Mixed Martial Arts	Edmond	edmondbjj.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Kudos	Edmond			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	Prodigy Jiu-Jitsu	Edmond	peopleclimbers.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	KMG Martial Arts Inc	El Reno	kmgmartialarts.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Shah Mat Brazilian Jiu Jitsu	Enid			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	True Grit Jiu Jitsu and Defense	McAlester	truegritjiu-jitsu.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Church BJJ	Muskogee			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	Mega Church Jiu Jitsu	Muskogee			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	Thunder MMA	Muskogee			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	F-5 Grappling	Mustang			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	Kaizen Performance LLC	Norman	kaizenperformance.net		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	National Martial Arts of Norman	Norman	nmanorman.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Sen Shin Kan Dojo	Oklahoma City	senshinkandojo.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Yu'ki MMA	Oklahoma City			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	Prowess Brazilian Jiu-Jitsu	Okmulgee	prowessbjj.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Clinch Martial Arts Academy - Owasso	Owasso	teamclinch.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Combat Syndicate	Ponca City			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	Oklahoma Combat Sports / KORE BJJ	Poteau	site.oklahomacombatsports.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Trinity Martial Arts	Pryor	trinitypryor.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Alexander Jiu-Jitsu	Seminole	https://alexanderjiujitsu.com		override blanks it	snippets/tjjm-gyms-data.liquid
+OK	Jackson Academy Martial Art Fitness	Stillwater	jacksonacademymartialarts.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	Ryan Brazilian Jiu Jitsu	Tulsa			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+OK	Tulsa Judo and Jiu Jitsu	Tulsa	tulsajudoclub.com		override blanks it	snippets/tjjm-gyms-data-31.liquid
+OK	3 Feathers MMA Muay Thai Warriors 4 Christ	Wilburton			stored w is empty string	snippets/tjjm-gyms-data-31.liquid
+ON	Valens Jiu Jitsu Academy	Hamilton	https://valensjiujitsu.com		override blanks it	snippets/tjjm-gyms-data.liquid
+ON	Alliance Jiu Jitsu London Ontario	London	https://alliancejiujitsulondon.ca		override blanks it	snippets/tjjm-gyms-data.liquid
+ON	South Mississauga Jiu Jitsu	Mississauga	https://southmississaugabjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+ON	Alliance Jiu Jitsu Ottawa	Ottawa	https://alliancejiujitsuottawa.com		override blanks it	snippets/tjjm-gyms-data.liquid
+ON	Stratford BJJ Ontario	Stratford	https://stratfordbjjon.com		override blanks it	snippets/tjjm-gyms-data.liquid
+ON	Woodstock BJJ Ontario	Woodstock	https://woodstockbjjon.com		override blanks it	snippets/tjjm-gyms-data.liquid
+OR	Full Force Mma	Aloha			stored w is empty string	snippets/tjjm-gyms-data-35.liquid
+OR	RISE Mixed Martial Arts - Eugene	Eugene	http://risemixedmartialartseugene.com/		override blanks it	snippets/tjjm-gyms-data-35.liquid
+OR	Eugene Jiu Jitsu Club	Eugene	http://www.eugenejiujitsuclub.com/		override blanks it	snippets/tjjm-gyms-data-35.liquid
+OR	CTA Forest Grove Jiu Jitsu	Forest Grove	https://www.forestgrovebjj.com/		override blanks it	snippets/tjjm-gyms-data-35.liquid
+OR	Impact Next Generation	Gresham	http://impactnextgeneration.com		override blanks it	snippets/tjjm-gyms-data-35.liquid
+OR	Animals MMA Oregon	Hubbard			stored w is empty string	snippets/tjjm-gyms-data-35.liquid
+OR	Rogue Jiu Jitsu	Medford			stored w is empty string	snippets/tjjm-gyms-data-35.liquid
+OR	Cauliflower Ear Family	Medford	http://cauliflowerearfamily.com/		override blanks it	snippets/tjjm-gyms-data-35.liquid
+OR	Krav Maga Self Defense & Fitness	Milwaukie	http://www.kravmagaportland.com		override blanks it	snippets/tjjm-gyms-data-35.liquid
+OR	Walkers Martial Arts Academy	Newberg			stored w is empty string	snippets/tjjm-gyms-data-35.liquid
+OR	Defense Training Institute	Philomath			stored w is empty string	snippets/tjjm-gyms-data-35.liquid
+OR	Portland Small Circle Jujitsu	Portland	http://www.portlandjujitsu.com/		override blanks it	snippets/tjjm-gyms-data-35.liquid
+OR	Rockaway Brazilian Jiu Jitsu	Rockaway Beach	http://rockawaybjj.net/		override blanks it	snippets/tjjm-gyms-data-35.liquid
+OR	Stayton Self Defense	Stayton			stored w is empty string	snippets/tjjm-gyms-data-35.liquid
+PA	Apgar Mixed Martial Arts	Bath	http://www.apgarmma.com/		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Jade Studio	Berwyn	http://www.jademovementstudio.com		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Zezinho's Mota Jiu-Jitsu School	Bridgeville	http://www.zzmbjj.com/		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Keystone Brazilian Jiu-Jitsu & Mixed Martial Arts	Bristol			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	Gracie Barra Carlisle	Carlisle	http://www.gbcarlisle.com/		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Gracie Sports Team	Dunmore			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	NEPA Mixed Martial Arts	Edwardsville			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	Harrisburg Mixed Martial Arts	Harrisburg			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	Hermitage Brazilian Jiu Jitsu	Hermitage			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	Green Jiu Jitsu	King of Prussia			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	Ramsey Academy of Martial Arts	Lewisburg	http://www.bvrec.org/		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Competitive Edge Martial Arts	Maple Glen			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	House of Arts Jiu Jitsu	Media	http://hoabjj.com		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Bucks MMA	Newtown	http://www.bucksmma.com/		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Ricardo Almeida Brazilian Jiu Jitsu & Martial Arts	Newtown	http://www.newtownbjj.com		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Marquez MMA	Philadelphia			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	USA MMA Academy	Phoenixville	http://www.usammaacademy.com		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Personal Training Tactics by Don Kaecher	Pittsburgh			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	Gracie Jiu-Jitsu Richboro	Richboro			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	Elite Performance Combat Club	Shamokin	http://www.epccbjj.com/		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Spring Grove Brazilian Jiu-Jitsu	Spring Grove			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	Renzo Gracie Pocono / Jiu Jitsu Asylum	Stroudsburg			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	Northeastern Ju Jitsu	Swoyersville	http://www.nejujitsu.com/		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	X-Treme MMA American Top Team	Warrington	http://www.warringtonjiu-jitsu.com/		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Williamsport School of Self Defense	Williamsport			no w key	snippets/tjjm-gyms-data-22.liquid
+PA	Delco Brazilian Jiu-Jitsu	Woodlyn	http://www.delcobjj.com/		override blanks it	snippets/tjjm-gyms-data-22.liquid
+PA	Red Lion BJJ	York			no w key	snippets/tjjm-gyms-data-22.liquid
+QC	Patenaude Martial Arts Gatineau	Gatineau	https://patenaude-martialarts.com		override blanks it	snippets/tjjm-gyms-data.liquid
+QC	Action & Reaction MMA	Laval	https://actionreactionmma.ca		override blanks it	snippets/tjjm-gyms-data.liquid
+QC	Levis BJJ	Lévis	https://levisbjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+QC	Renzo Gracie Montreal	Montreal	https://renzogracieontreal.com		override blanks it	snippets/tjjm-gyms-data.liquid
+QC	Santos Brothers BJJ Montreal	Montreal	https://santosbrothersbjjmtl.com		override blanks it	snippets/tjjm-gyms-data.liquid
+QC	Alliance Jiu Jitsu Quebec City	Quebec City	https://alliancejiujitsuqc.com		override blanks it	snippets/tjjm-gyms-data.liquid
+QC	Rimouski Submission Fight	Rimouski			no w key	snippets/tjjm-gyms-data-43.liquid
+QC	Newaza Studio Jiujitsu	Rouyn-Noranda			no w key	snippets/tjjm-gyms-data-43.liquid
+QC	Nova Uniao St-Jean	Saint-Jean-sur-Richelieu			no w key	snippets/tjjm-gyms-data-43.liquid
+QC	Sept-Iles BJJ	Sept-Îles	https://septilesbjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+RI	Cortes BJJ	Warwick	https://cortesbjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+SD	Rapid City Brazilian Jiu Jitsu	Rapid City			no w key	snippets/tjjm-gyms-data-39.liquid
+SK	Estevan Combat Sports and Fitness	Estevan			stored w is empty string	snippets/tjjm-gyms-data-38.liquid
+SK	Weyburn MMA Club	Weyburn			stored w is empty string	snippets/tjjm-gyms-data-38.liquid
+TN	Maryville Jiu-Jitsu	Alcoa	https://www.maryvillejiujitsu.com		override blanks it	snippets/tjjm-gyms-data.liquid
+TN	Armory Jiu-Jitsu Academy Chattanooga	Chattanooga	https://www.armoryjiujitsuacademy.com		override blanks it	snippets/tjjm-gyms-data.liquid
+TN	Kaze BJJ and Judo Institute	Clarksville	https://kazebjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+TN	Columbia BJJ Tennessee	Columbia	https://columbiabjjtn.com		override blanks it	snippets/tjjm-gyms-data.liquid
+TN	Profectus Jiu-Jitsu Hendersonville	Hendersonville	https://profectusjiujitsu.com		override blanks it	snippets/tjjm-gyms-data.liquid
+TN	Jackson BJJ Tennessee	Jackson	https://jacksonbjjtn.com		override blanks it	snippets/tjjm-gyms-data.liquid
+TN	Tri-Cities BJJ	Johnson City	https://tricitiesbjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+TN	Lebanon BJJ Tennessee	Lebanon	https://lebanonbjjtn.com		override blanks it	snippets/tjjm-gyms-data.liquid
+TX	Revolutionary Fitness & MMA	Abilene	http://www.revfitmma.com/		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	Gracie Jiu-Jitsu Adkins	Adkins			no w key	snippets/tjjm-gyms-data-7.liquid
+TX	Checkmat BJJ Allen - Texas	Allen			no w key	snippets/tjjm-gyms-data-7.liquid
+TX	Submission Boxing Academy	Alvin			no w key	snippets/tjjm-gyms-data-7.liquid
+TX	Independent Brazilian Jiu Jitsu, Arlington	Arlington			no w key	snippets/tjjm-gyms-data-7.liquid
+TX	Austin Mixed Martial Arts	Austin	https://www.austinmixedmartialarts.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+TX	Carlos Machado Jiu-Jitsu Mid Cities	Bedford	https://carlosmachadojiujitsumidcities.com/Home/Offer/		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	Warlord MMA	Big Spring			no w key	snippets/tjjm-gyms-data-7.liquid
+TX	Grind House Training Facility	Boerne	http://www.grindhousetraining.com/		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	Gracie Barra Carrollton	Carrollton	https://www.gbcarrollton.com		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	Trainers Elite	Carrollton	http://www.trainerselite.net/		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	GKX Martial Arts	Cedar Park	http://www.gkxtreme.com/		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	EnergyFIT Mixed Martial Arts & Fitness	Conroe	http://energyfitacademy.com/		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	South texas fight academy	Corpus Christi			no w key	snippets/tjjm-gyms-data-7.liquid
+TX	Xtreme MMA	Corpus Christi	http://www.xtrememmabjj.com/		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	Atos Jiu-Jitsu Houston	Deer Park	http://www.atoshoustonbjj.com		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	Texas Elite MMA	Denton	http://www.teamgibson.net/		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	Evolve BJJ	Fort Worth	https://www.evolvebjj.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+TX	Powerhouse MMA Academy	Fort Worth			no w key	snippets/tjjm-gyms-data-7.liquid
+TX	TX Black Belt Academy Ft Worth	Fort Worth	http://www.txbba-fortworth.com/		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	GB Sienna	Fresno			no w key	snippets/tjjm-gyms-data-12.liquid
+TX	Chop Shop MMA	Greenville	http://www.chopshopmma.com/		override blanks it	snippets/tjjm-gyms-data-7.liquid
+TX	Collins Martial Arts	Hurst	http://www.collinsmartialarts.com/		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	Terra Leon Brazilian Jiu Jitsu	Killeen			no w key	snippets/tjjm-gyms-data-8.liquid
+TX	Applied Sports MMA Family Fitness Gym	Lakeway			no w key	snippets/tjjm-gyms-data-8.liquid
+TX	Sangue Novo FT / Gallos Prietos Jiu Jitsu	Laredo	https://sanguenovojj.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+TX	Sangue Novo Brazilian Jiu-Jitsu Academy	Laredo			no w key	snippets/tjjm-gyms-data-8.liquid
+TX	Longview BJJ	Longview	https://longviewbjj.com		override blanks it	snippets/tjjm-gyms-data.liquid
+TX	Pure Jiu-Jitsu Longview	Longview	https://pjlvtx.com/		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	Combat Base TX / Shebaro Jiu Jitsu / We Defy HQ	McKinney	https://shebarojiujitsu.com		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	KO Empire Fight Academy / BJJ Mesquite TX 75149	Mesquite	https://www.koempirefa.com/		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	Premier Martial Arts-Mission	Mission	http://www.missiontxmartialarts.com/		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	Unconventional Performance & Training	New Braunfels	http://www.rodrigopinheirobjj.com/		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	Peak Performance Brazilian Jiu-Jitsu	North Richland Hills	http://www.peakbjj.com/		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	Gracie Jiu-Jitsu Pearland	Pearland			no w key	snippets/tjjm-gyms-data-8.liquid
+TX	Sahuque Brazilian Jiu-jitsu	Pecos			no w key	snippets/tjjm-gyms-data-8.liquid
+TX	Spartan Fit MMA	Rhome			no w key	snippets/tjjm-gyms-data-8.liquid
+TX	ASL JunSur Martial Arts	Richardson	https://www.asljiujitsu.com/		override blanks it	snippets/tjjm-gyms-data.liquid
+TX	CAYA Martial Arts	Rockwall	http://www.cayamartialarts.com/		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	JBSA BJJ Open Mat	San Antonio			no w key	snippets/tjjm-gyms-data-8.liquid
+TX	Martial Arts Academy Of San Antonio	San Antonio	http://www.martialartssa.com/		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	Benavides Mixed Martial Arts	San Benito	http://www.benavidesmma.com/		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	Garcia Brazilian Jiu-Jitsu	San Benito			no w key	snippets/tjjm-gyms-data-8.liquid
+TX	Lucky Jiu-Jitsu and Fitness Club	Southlake	https://luckybjj.com		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	Katana Jiu-Jitsu Academy	Spring	http://katanajiu-jitsuacademy.com		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	Defenders Martial Arts Academy	Tomball	http://www.defendersmaa.com		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	McCoy's Brazilian Jiu Jitsu & MMA - Tomball	Tomball	http://mccoysmma.com/		override blanks it	snippets/tjjm-gyms-data-8.liquid
+TX	Gracie Jiu-Jitsu Weatherford	Weatherford			no w key	snippets/tjjm-gyms-data-8.liquid
+VA	Capital Jiu-Jitsu Academy-Royce Gracie Network	Alexandria			no w key	snippets/tjjm-gyms-data-23.liquid
+VA	Virginia Jiu-Jitsu Academy	Ashburn	http://www.virginiajiu-jitsuacademy.com		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	RVA MMA Ashland	Ashland	http://rvamma.com/		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	Elite Grappling	Cedar Bluff			no w key	snippets/tjjm-gyms-data-23.liquid
+VA	Silverback Academy	Chantilly			no w key	snippets/tjjm-gyms-data-23.liquid
+VA	Culpeper Brazilian Jiu-Jitsu	Culpeper	http://crossfitculpeper.com/		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	GB Fredericksburg	Fredericksburg	https://graciejiujitsufredericksburg.com/		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	The Kennel MMA	Fredericksburg			no w key	snippets/tjjm-gyms-data-23.liquid
+VA	The Lab MMA	Fredericksburg	http://www.thelabbjj.com/		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	Tenth Round Boxing & MMA	Leesburg	https://www.pedroboxing.com/		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	Feks MMA	Lynchburg	http://www.mma4lynchburg.com/		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	Breakaway Jiu Jitsu	Newport News	http://www.breakawayjiujitsu.com		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	Bushido MMA (Muay Thai and BJJ)	Portsmouth	http://bushidomma.net/		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	Gracie Jiu-Jitsu Richmond	Richmond			no w key	snippets/tjjm-gyms-data-23.liquid
+VA	Team Passos Jiu Jitsu	Sterling			no w key	snippets/tjjm-gyms-data-23.liquid
+VA	Augusta Combat Sports	Stuarts Draft	http://www.augustacombatsports.com/		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	Principle MMA	Timberville			no w key	snippets/tjjm-gyms-data-23.liquid
+VA	Winbjj Mixed Martial Arts	Winchester	http://www.winbjj.com/		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	Gold Medal Grappling	Woodbridge	http://www.ameri-jitsu.com/		override blanks it	snippets/tjjm-gyms-data-23.liquid
+VA	Modern American MMA	Yorktown	http://www.mammas-boys.com/		override blanks it	snippets/tjjm-gyms-data-23.liquid
+WA	Elite Brazilian Jiu-Jitsu of Factoria	Bellevue			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Seiei Martial Arts and Fitness Center	Bellevue			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Northshore MMA & Fitness	Bothell			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Urban Alliance Training Center	Brush Prairie			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Forge Combat Academy	Camas			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Connection Rio Jiu-Jitsu Academy College Place	College Place			no w key	snippets/tjjm-gyms-data-45.liquid
+WA	Enumclaw Jiu-Jitsu	Enumclaw			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Matwork MMA	Gig Harbor			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Ring Demon	Kent			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Cap City BJJ	Lacey			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Ground Game BJJ & Universal Martial Arts	Lakewood			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Gracie Barra Bothell	Mill Creek			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Kalahi Martial Arts Academy	Mount Vernon			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Mutual Combat Sports and Fitness	Mountlake Terrace			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Gracie Jiu-Jitsu Mukilteo	Mukilteo			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Wakizashi BJJ	Oak Harbor			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Hammerhead Mixed Martial Arts Gym of Team Carlson Gracie	Olympia			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Harai Judo & Brazilian Jiu Jitsu Dojo	Rainier			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Elite Brazilian Jiu-Jitsu of Redmond	Redmond			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Monkey Bar Gym Eastside	Redmond			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Shoreline MMA	Seattle			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Virtuous Grappling	Silverdale			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Bulwark Jiu Jitsu	Snohomish			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Team Mean MMA Snohomish	Snohomish			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	True North Martial Arts	Tacoma			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WA	Lone Wolf Jiu Jitsu Academy	Washougal			stored w is empty string	snippets/tjjm-gyms-data-34.liquid
+WI	Metrics Martial Arts	Appleton			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Theory Jiu-Jitsu Studio	Appleton			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Filipe Barbosa Brazilian Jiu-Jitsu	Baraboo	bjjwisconsin.com		override blanks it	snippets/tjjm-gyms-data-33.liquid
+WI	Veneration BJJ	Delavan			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Valkyrie BJJ	Dousman			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Combat Sports Academy - Eau Claire	Eau Claire			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Fond du Lac Jiu-Jitsu Club	Fond du Lac			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Fearless Mixed Martial Arts Academy	Janesville			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Devine Jiu-Jitsu Lake Geneva	Lake Geneva			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Pura Vida Menomonee Falls	Menomonee Falls			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Elevation Jiu-Jitsu	Milwaukee	elevationjiujitsu.com		override blanks it	snippets/tjjm-gyms-data-33.liquid
+WI	Zero To 100 Fitness & MMA	Milwaukee			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Ivy Jiu-Jitsu Academy	Platteville			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Next Level Martial Arts	Portage			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Seamless Progression Academy	Saukville	seamlessprogressionacademy.com		override blanks it	snippets/tjjm-gyms-data-33.liquid
+WI	Premier Mixed Martial Arts	Schofield			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Badgerland Jiu-Jitsu	Sun Prairie			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WI	Sweeps Brazilian Jiu-Jitsu	Wautoma			stored w is empty string	snippets/tjjm-gyms-data-33.liquid
+WV	Oak Hill Brazilian Jiu-Jitsu	Oak Hill			no w key	snippets/tjjm-gyms-data-42.liquid

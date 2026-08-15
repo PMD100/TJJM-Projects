@@ -1,0 +1,72 @@
+# NY legacy records — RAW stored values from the audit-dump harness (154657063084)
+# Fetched 5 Aug 2026 via /pages/bjj-schools-new-york?view=tjjmaudit&preview_theme_id=154657063084
+# Format: REMOVED|name|city|website|address   (records separated by ~~)
+# MEASURED: 64 records, 0 suppressed, 64 with a website, 0 with a stored address.
+# NOTE: every NY legacy record has an EMPTY address field. NY cannot be deduped by
+# stored address against incoming MatMade records; name + domain only on the legacy side.
+# Scheme mix (raw): 63 https://, 1 http:// (Buffalo Brazilian Jiu Jitsu Academy). 0 scheme-less.
+
+0|10th Planet Jiu Jitsu NYC|New York|https://www.10thplanetjjnyc.com|
+0|A-Force BJJ Academy|Great Neck|https://www.aforcebjj.com|
+0|Anderson's Martial Arts Academy|New York|https://www.andersonsmartialarts.com|
+0|Bellmore Kickboxing Academy|Bellmore|https://www.bellmorekickboxing.com/|
+0|Binghamton Brazilian Jiu Jitsu|Binghamton|https://www.binghamtonbjj.com/|
+0|Brandon Abdullah's Martial Arts and Fitness|Albany|https://www.albanybjj.com/|
+0|Brazilian Power Team Westchester|White Plains|https://www.bptwestchester.com/|
+0|Brian Beury Jiu Jitsu|Albany|https://www.brianbeury.com/|
+0|Brooklyn Brazilian Jiu Jitsu|Brooklyn|https://brooklynbjj.com|
+0|Buffalo Brazilian Jiu Jitsu Academy|Buffalo|http://www.buffalobjj.com|
+0|City Jiu Jitsu Academy|Long Island City|https://cityjiujitsuacademy.com|
+0|Clobber Jiu Jitsu Academy|Cohoes|https://www.clobberbjj.com/|
+0|Clockwork Brazilian Jiu-Jitsu|New York|https://www.clockworkbjj.com|
+0|CNY MMA|Baldwinsville|https://www.cnymma.com/|
+0|Elite Fitness & Martial Arts|Rochester|https://www.elitefitnessmartialarts.com/|
+0|Fight-Sport Training Center|Niagara Falls|https://www.fightsporttrainingcenter.com/|
+0|Gentle Art Studio Lotus Club|Astoria|https://www.gentleartstudio.com/|
+0|Gregor Gracie Academy Brooklyn|Brooklyn|https://www.gregorgracie.com/|
+0|Haven Jiu Jitsu|Syracuse|https://cnyjiujitsu.com|
+0|Igor Gracie Jiu Jitsu Academy|New Rochelle|https://igorgraciejiujitsu.com|
+0|International Training Center of New York|Long Island City|https://www.itcny.com/|
+0|Ithaca BJJ|Ithaca|https://www.ithacabjj.com/|
+0|Jiu Livre NYC|New York|https://www.jiulivrenyc.com/|
+0|Jon Calestine BJJ|New York|https://www.joncalestinebjj.com/|
+0|Jungle Gym Martial Arts|New Rochelle|https://junglegym.com/|
+0|Kings Combat|Brooklyn|https://kingscombat.com/|
+0|Kioto Brazilian Jiu Jitsu|New York|https://www.kiotobjj.com/|
+0|Long Island MMA|Lake Grove|https://limixedmartialarts.com/|
+0|Marcelo Garcia Academy|New York|https://www.marcelogarciajj.com/|
+0|Marlon Colorado BJJ NYC|Sunnyside|https://www.marloncoloradobjjnyc.com/|
+0|Maxum BJJ Long Island|Huntington|https://www.maxumbjj.com|
+0|Middletown BJJ NY|Middletown|https://middletownbjjny.com|
+0|Miori Martial Arts|Syracuse|https://www.miorimartialarts.com/|
+0|Modern Martial Arts NYC|New York|https://modernmartialarts.com/|
+0|Newburgh BJJ|Newburgh|https://newburghbjj.com|
+0|Next Evolution Martial Arts|New York|https://nextevolutionma.com/|
+0|Nova Jiu Jitsu Rochester|Rochester|https://novajiujitsu.com|
+0|Paxibellum|New York|https://www.paxibellum.com/|
+0|Peak Performance MMA|Yonkers|https://peakperformancemma.com/|
+0|Plattsburgh BJJ|Plattsburgh|https://plattsburghbjj.com|
+0|Precision Brazilian Jiu Jitsu|Utica|https://www.precisionbjj.com/|
+0|Queens Jiu-Jitsu|Astoria|https://www.queensjiujitsu.com/|
+0|Range Brazilian Jiu-Jitsu|New York|https://www.rangebjj.com|
+0|Renzo Gracie Academy|New York|https://renzogracieacademy.com|
+0|Renzo Gracie Bayside|Bayside|https://renzograciebayside.com|
+0|Renzo Gracie Brooklyn|Brooklyn|https://renzograciebrooklynnyc.com|
+0|Renzo Gracie East Side|New York|https://www.renzogracieeastside.com|
+0|Renzo Gracie Latham|Latham|https://renzogracielatham.com/|
+0|Renzo Gracie Rockland|New City|https://www.renzogracierockland.com|
+0|Rochester Fitness Martial Arts|Rochester|https://www.rochesterfitnessmartialarts.com/|
+0|Rochester Jiu Jitsu|Irondequoit|https://rochesterjiujitsu.com|
+0|Ronin Athletics|New York|https://roninathletics.com|
+0|Savarese BJJ Academy|Lynbrook|https://www.savarese.com/|
+0|Serra BJJ Academy|Levittown|https://serrabjj.com/|
+0|Seven Tigers Martial Arts Academy|Cheektowaga|https://www.seventigersmartialarts.com/|
+0|Studio X|New York|https://www.studiox.nyc/|
+0|Sub Zero Brazilian Jiu Jitsu|Hamburg|https://subzerobjj.com|
+0|Swan's Martial Arts Academy|Cheektowaga|https://www.swansmartialarts.com/|
+0|Synthesis Brazilian Jiu-Jitsu|Rochester|https://synthesisbjj.com|
+0|The Dojo NYC|Brooklyn|https://www.thedonycny.com/|
+0|The Jiu Jitsu Mill|Port Chester|https://thejiujitsumill.com|
+0|Unity Jiu Jitsu|New York|https://unityjiujitsu.com|
+0|Vitor Shaolin BJJ NYC|New York|https://www.bjjnewyorkcity.com|
+0|Watertown BJJ NY|Watertown|https://watertownbjjny.com|

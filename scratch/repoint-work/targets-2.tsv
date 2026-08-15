@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+2	FL	Aventura	Marcus Aurelio Jiu Jitsu Academy	http://www.maximusmartialarts.com/	override blanks it
+8	FL	Cape Coral	Brazilian Jiu Jitsu Academy Cape Coral		no w key
+14	FL	Crestview	GB Crestview		no w key
+20	FL	Delray Beach	Carlson Gracie Manny Soares	https://mannysoaresbjj.com	override blanks it
+26	FL	Hallandale Beach	Gracie Barra Hallandale Beach	http://gbhallandale.com	override blanks it
+32	FL	Inverness	Agogi Academy of Combatives	http://agogiac.com/	override blanks it
+38	FL	Lake Worth	Combat Club Lake Worth	https://combatclublakeworth.com/	override blanks it
+44	FL	Miami	Miami Jiu Jitsu		no w key
+50	FL	North Palm Beach	Gracie Jiu-Jitsu North Palm Beach		no w key
+56	FL	Orlando	Alliance Jiu Jitsu Orlando	https://alliancejiujitsuorlando.com	override blanks it
+62	FL	Pensacola	Team Remedy	https://teamremedymma.com/	override blanks it
+68	FL	Sebring	GB Sebring		no w key
+74	FL	Stuart	GB Stuart		no w key
+80	FL	West Melbourne	GB Melbourne		no w key
+86	NL	Labrador City	Labrador City BJJ	https://www.novauniao.ca/lab-city	dead link, no override

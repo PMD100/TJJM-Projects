@@ -1,0 +1,238 @@
+{% comment %}
+  TJJM State Directory — server-side rendering of every BJJ school in one region.
+  >>> READ snippets/tjjm-statedir-notes IN FULL BEFORE TOUCHING THE DATA. <<<
+  Every engineering rule, curation trap, per-state removal rationale and the yield model
+  now lives there, NOT inline, so this file stays under the Admin API's ~24 KB rewrite
+  ceiling. The one rule worth repeating here: gym names must not contain "|", because the
+  loop below emits "city|name|website|address" and splits on it.
+  Website corrections live in snippets/tjjm-gym-websites (~Name|URL~); an override wins over
+  the record's own "w", and an empty value blanks the link entirely.
+{% endcomment %}
+
+{{ 'tjjm-core.css' | asset_url | stylesheet_tag }}
+
+{%- capture region_index -%}{%- render 'tjjm-region-index' -%}{%- endcapture -%}
+{%- assign region_rows = region_index | strip | newline_to_br | split: '<br />' -%}
+{%- assign code = '' -%}
+{%- assign region = page.title -%}
+{%- assign country = 'US' -%}
+{%- for r in region_rows limit: 200 -%}
+  {%- assign rf = r | strip | split: '|' -%}
+  {%- if rf[0] == page.handle -%}
+    {%- assign region = rf[1] | strip -%}
+    {%- assign code = rf[3] | strip -%}
+    {%- assign country = rf[4] | strip -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- comment -%}
+  Newfoundland and Labrador gyms are miscoded "NE" (Nebraska) in the source data.
+  They are re-filed here by city so neither region shows the other's schools.
+{%- endcomment -%}
+{%- assign nl_cities = "St. John's|Corner Brook|Gander|Paradise|Conception Bay South|Labrador City|Grand Falls-Windsor|Clarenville|Mount Pearl|Torbay" | split: '|' -%}
+{%- assign scan_code = code -%}
+{%- if code == 'NL' -%}{%- assign scan_code = 'NE' -%}{%- endif -%}
+
+{%- comment -%}
+  Legacy records excluded from the listings. The per-state name lists now live in
+  snippets/tjjm-removed-index (one row per state code) so this file stays under the
+  Admin API's ~24 KB rewrite ceiling. Read that snippet's header before adding a state.
+{%- endcomment -%}
+{%- capture removed_index -%}{%- render 'tjjm-removed-index' -%}{%- endcapture -%}
+{%- assign removed_rows = removed_index | strip | newline_to_br | split: '<br />' -%}
+{%- assign removed = '' | split: '|' -%}
+{%- for r in removed_rows limit: 100 -%}
+  {%- assign rr = r | strip -%}
+  {%- if rr == blank -%}{%- continue -%}{%- endif -%}
+  {%- assign rc = rr | split: '|' | first -%}
+  {%- if rc == scan_code -%}
+    {%- assign removed = rr | remove_first: rc | remove_first: '|' | split: '|' -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- capture gym_json -%}{%- render 'tjjm-gyms-data' -%}{%- render 'tjjm-gyms-data-2' -%}{%- render 'tjjm-gyms-data-3' -%}{%- render 'tjjm-gyms-data-4' -%}{%- render 'tjjm-gyms-data-5' -%}{%- render 'tjjm-gyms-data-6' -%}{%- render 'tjjm-gyms-data-7' -%}{%- render 'tjjm-gyms-data-8' -%}{%- render 'tjjm-gyms-data-9' -%}{%- render 'tjjm-gyms-data-10' -%}{%- render 'tjjm-gyms-data-11' -%}{%- render 'tjjm-gyms-data-12' -%}{%- render 'tjjm-gyms-data-13' -%}{%- render 'tjjm-gyms-data-14' -%}{%- render 'tjjm-gyms-data-15' -%}{%- render 'tjjm-gyms-data-16' -%}{%- render 'tjjm-gyms-data-17' -%}{%- render 'tjjm-gyms-data-18' -%}{%- render 'tjjm-gyms-data-19' -%}{%- render 'tjjm-gyms-data-20' -%}{%- render 'tjjm-gyms-data-21' -%}{%- render 'tjjm-gyms-data-22' -%}{%- render 'tjjm-gyms-data-23' -%}{%- render 'tjjm-gyms-data-24' -%}{%- render 'tjjm-gyms-data-25' -%}{%- render 'tjjm-gyms-data-26' -%}{%- render 'tjjm-gyms-data-27' -%}{%- render 'tjjm-gyms-data-28' -%}{%- render 'tjjm-gyms-data-29' -%}{%- render 'tjjm-gyms-data-30' -%}{%- render 'tjjm-gyms-data-31' -%}{%- render 'tjjm-gyms-data-32' -%}{%- render 'tjjm-gyms-data-33' -%}{%- render 'tjjm-gyms-data-34' -%}{%- render 'tjjm-gyms-data-35' -%}{%- render 'tjjm-gyms-data-36' -%}{%- render 'tjjm-gyms-data-37' -%}{%- render 'tjjm-gyms-data-38' -%}{%- endcapture -%}
+{%- capture addr_overrides -%}{%- render 'tjjm-gym-addresses' -%}{%- endcapture -%}
+{%- capture web_overrides -%}{%- render 'tjjm-gym-websites' -%}{%- render 'tjjm-gym-websites-2' -%}{%- endcapture -%}
+{%- assign recs = gym_json | split: '{"n":"' -%}
+{%- assign needle = '","s":"' | append: scan_code | append: '"' -%}
+
+{%- capture buf -%}
+{%- for rec in recs offset: 1 limit: 20000 -%}
+  {%- unless rec contains needle -%}{%- continue -%}{%- endunless -%}
+  {%- assign a1 = rec | split: '","c":"' -%}
+  {%- assign g_name = a1[0] | strip -%}
+  {%- if g_name == blank -%}{%- continue -%}{%- endif -%}
+  {%- if removed contains g_name -%}{%- continue -%}{%- endif -%}
+  {%- assign a2 = a1[1] | split: '","s":"' -%}
+  {%- assign g_city = a2[0] | strip -%}
+  {%- assign is_nl = false -%}
+  {%- if nl_cities contains g_city -%}{%- assign is_nl = true -%}{%- endif -%}
+  {%- if scan_code == 'NE' -%}
+    {%- if code == 'NL' and is_nl == false -%}{%- continue -%}{%- endif -%}
+    {%- if code == 'NE' and is_nl -%}{%- continue -%}{%- endif -%}
+  {%- endif -%}
+  {%- assign g_web = '' -%}
+  {%- assign w1 = rec | split: '","w":"' -%}
+  {%- if w1.size > 1 -%}{%- assign g_web = w1[1] | split: '"' | first | strip -%}{%- endif -%}
+  {%- assign wprobe = '~' | append: g_name | append: '|' -%}
+  {%- if web_overrides contains wprobe -%}
+    {%- assign g_web = web_overrides | split: wprobe | last | split: '~' | first | strip -%}
+  {%- endif -%}
+  {%- assign g_addr = '' -%}
+  {%- assign d1 = rec | split: '","a":"' -%}
+  {%- if d1.size > 1 -%}{%- assign g_addr = d1[1] | split: '"' | first | strip -%}{%- endif -%}
+  {%- if g_addr == blank -%}
+    {%- assign probe = '~' | append: g_name | append: '|' -%}
+    {%- if addr_overrides contains probe -%}
+      {%- assign g_addr = addr_overrides | split: probe | last | split: '~' | first | strip -%}
+    {%- endif -%}
+  {%- endif -%}
+  {{ g_city }}|{{ g_name }}|{{ g_web }}|{{ g_addr }}~~
+{%- endfor -%}
+{%- endcapture -%}
+
+{%- assign list = buf | strip | split: '~~' | sort -%}
+{%- assign gym_count = list.size -%}
+{%- assign city_count = 0 -%}
+{%- assign prev_city = '' -%}
+{%- for item in list limit: 2000 -%}
+  {%- assign c0 = item | strip | split: '|' | first -%}
+  {%- if c0 != prev_city -%}
+    {%- assign city_count = city_count | plus: 1 -%}
+    {%- assign prev_city = c0 -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign country_name = 'the United States' -%}
+{%- if country == 'CA' -%}{%- assign country_name = 'Canada' -%}{%- endif -%}
+
+<section class="tjjm-scope tjjm-sec" data-tjjm-statedir>
+  <div class="tjjm-wrap">
+
+    <nav class="tjjm-crumbs" aria-label="Breadcrumb">
+      <a href="{{ routes.root_url }}">Home</a><span aria-hidden="true">/</span><a href="/pages/jiu-jitsu-schools-near-you">Schools Near You</a><span aria-hidden="true">/</span><span aria-current="page">{{ region | escape }}</span>
+    </nav>
+
+    <header class="tjjm-reveal" style="position:relative;z-index:2;margin-bottom:30px">
+      <div class="tjjm-kicker">The Community</div>
+      <h1 class="tjjm-display tjjm-h2">Brazilian Jiu Jitsu Schools in {{ region | escape }}</h1>
+      {%- if gym_count > 0 -%}
+        <p class="tjjm-p">{{ gym_count }} BJJ gym{% if gym_count != 1 %}s{% endif %} and academies{% if city_count > 0 %} across {{ city_count }} cit{% if city_count == 1 %}y{% else %}ies{% endif %}{% endif %} in {{ region | escape }}, {{ country_name }}. Every school is listed free. Train somewhere that is not here yet? <a href="/pages/jiu-jitsu-schools-near-you#add-gym">Add your gym</a>.</p>
+      {%- endif -%}
+    </header>
+
+    {%- if gym_count > 0 -%}
+      {%- assign current_city = '' -%}
+      {%- assign grid_open = false -%}
+      {%- for item in list limit: 2000 -%}
+        {%- assign f = item | strip | split: '|' -%}
+        {%- assign g_city = f[0] | strip -%}
+        {%- assign g_name = f[1] | strip -%}
+        {%- if g_name == blank -%}{%- continue -%}{%- endif -%}
+        {%- assign g_web = f[2] | strip -%}
+        {%- assign g_addr = f[3] | strip -%}
+
+        {%- if g_city != current_city -%}
+          {%- if grid_open -%}</div>{%- endif -%}
+          {%- assign current_city = g_city -%}
+          {%- assign grid_open = true -%}
+          <h2 class="tjjm-city-h" id="{{ g_city | handleize }}">Jiu Jitsu in {{ g_city | escape }}{% if code != blank %}, {{ code }}{% endif %}</h2>
+          <div class="tjjm-gyms tjjm-reveal">
+        {%- endif -%}
+
+        <div class="tjjm-gym">
+          <h3>{{ g_name | escape }}</h3>
+          {%- if g_addr != blank -%}
+            {%- capture mapq -%}{{ g_addr }}, {{ g_city }}, {{ code }}{%- endcapture -%}
+            <p class="tjjm-gym-loc"><a class="tjjm-gym-map" href="https://maps.google.com/?q={{ mapq | url_encode }}" target="_blank" rel="noopener">{{ g_addr | escape }}</a></p>
+          {%- else -%}
+            <p class="tjjm-gym-loc">{{ g_city | escape }}{% if code != blank %}, {{ code }}{% endif %}</p>
+          {%- endif -%}
+          {%- if g_web != blank -%}
+            {%- assign g_href = g_web -%}
+            {%- unless g_href contains '://' -%}{%- assign g_href = 'https://' | append: g_web -%}{%- endunless -%}
+            <a class="tjjm-gym-site" href="{{ g_href }}" target="_blank" rel="noopener nofollow">Visit Website <span class="tjjm-arr">&rarr;</span></a>
+          {%- endif -%}
+        </div>
+      {%- endfor -%}
+      {%- if grid_open -%}</div>{%- endif -%}
+    {%- else -%}
+      <p class="tjjm-p">No schools listed in {{ region | escape }} yet &mdash; <a href="/pages/jiu-jitsu-schools-near-you#add-gym">yours could be the first</a>.</p>
+    {%- endif -%}
+
+    {%- if region_rows.size > 1 -%}
+      <div class="tjjm-regions">
+        <h2 class="tjjm-city-h">Find schools in another state or province</h2>
+        <ul class="tjjm-region-list">
+          {%- for r in region_rows limit: 200 -%}
+            {%- assign rf = r | strip | split: '|' -%}
+            {%- assign r_slug = rf[0] | strip -%}
+            {%- if r_slug == blank -%}{%- continue -%}{%- endif -%}
+            <li>
+              {%- if r_slug == page.handle -%}
+                <span class="is-current">{{ rf[1] | strip | escape }} <em>{{ rf[2] | strip }}</em></span>
+              {%- else -%}
+                <a href="/pages/{{ r_slug }}">{{ rf[1] | strip | escape }} <em>{{ rf[2] | strip }}</em></a>
+              {%- endif -%}
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    {%- endif -%}
+
+    <div class="tjjm-state-cta">
+      <p class="tjjm-p">Browse the <a href="/pages/jiu-jitsu-schools-near-you">full directory of every school we list</a>, or start with the <a href="/blogs/encyclopedia">BJJ Encyclopedia</a> if you are brand new to the mats.</p>
+    </div>
+
+  </div>
+</section>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": {{ request.origin | json }} },
+    { "@type": "ListItem", "position": 2, "name": "Schools Near You", "item": {{ request.origin | append: '/pages/jiu-jitsu-schools-near-you' | json }} },
+    { "@type": "ListItem", "position": 3, "name": {{ region | json }}, "item": {{ request.origin | append: page.url | json }} }
+  ]
+}
+</script>
+
+{%- if gym_count > 0 -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ 'Brazilian Jiu Jitsu schools in ' | append: region | json }},
+  "numberOfItems": {{ gym_count }},
+  "itemListElement": [
+{%- assign printed = 0 -%}
+{%- for item in list limit: 2000 -%}
+{%- assign f = item | strip | split: '|' -%}
+{%- assign g_city = f[0] | strip -%}
+{%- assign g_name = f[1] | strip -%}
+{%- if g_name == blank -%}{%- continue -%}{%- endif -%}
+{%- assign g_web = f[2] | strip -%}
+{%- assign g_addr = f[3] | strip -%}
+{%- if printed > 0 %},{% endif -%}
+{%- assign printed = printed | plus: 1 -%}
+{ "@type": "ListItem", "position": {{ printed }}, "item": { "@type": "SportsActivityLocation", "name": {{ g_name | json }}, "sport": "Brazilian Jiu-Jitsu", "address": { "@type": "PostalAddress"{% if g_addr != blank %}, "streetAddress": {{ g_addr | json }}{% endif %}, "addressLocality": {{ g_city | json }}, "addressRegion": {{ code | json }}, "addressCountry": {{ country | json }} }{%- if g_web != blank -%}{%- assign g_href = g_web -%}{%- unless g_href contains '://' -%}{%- assign g_href = 'https://' | append: g_web -%}{%- endunless -%}, "url": {{ g_href | json }}{%- endif -%} } }
+{%- endfor -%}
+  ]
+}
+</script>
+{%- endif -%}
+
+{%- render 'tjjm-statedir-css' -%}
+
+{% schema %}
+{
+  "name": "TJJM State Directory",
+  "tag": "section",
+  "settings": [],
+  "presets": [{ "name": "TJJM State Directory" }]
+}
+{% endschema %}

@@ -1,0 +1,28 @@
+{%- comment -%}
+  5 Aug 2026 (New York run) - two CORRECTIONS to entries below, both found only
+  because the NY import forced a same-address diff. Note WHY they were invisible
+  before: every NY legacy record stores an EMPTY address, so a scan over stored
+  values sees nothing. These addresses exist ONLY here, and only at render time.
+  A stored-data scan structurally cannot find a collision in this file.
+
+  1. Vitor Shaolin BJJ NYC: was 220 E 86th St. That is Modern Martial Arts NYC
+     Upper Eastside, which is now imported as its own record - two records would
+     have rendered at one address. The school this record actually points at
+     (bjjnewyorkcity.com) trades as NYC BJJ Academy and its own footer gives
+     780 8th Avenue, New York, NY 10036. The two businesses are co-branded and
+     share the UES site, but 780 8th Ave is this record's own location.
+     Corrected to 780 8th Ave, which also keeps the city (New York) truthful.
+
+  2. Kioto Brazilian Jiu Jitsu: entry REMOVED, not corrected. It read
+     1786 3rd Ave, which is Next Evolution Martial Arts' address - the line
+     immediately below still carries it correctly. The Kioto record was
+     back-filled from a MatMade listing (Kioto Brazilian Jiu Jitsu / NEMMAA)
+     that is really Next Evolution running a Kioto-affiliated program.
+     The real Kioto is 96 Biltmore Ave, OAKDALE, and this record's city says
+     New York. Per this file's own rule - skip when the address sits in a
+     different city than our data records, because it produces a misleading
+     map link - it gets no entry until the city is fixed by a snippet rewrite
+     (backlog item 0c).
+{%- endcomment -%}
+~Vitor Shaolin BJJ NYC|780 8th Ave
+~Next Evolution Martial Arts|1786 3rd Ave

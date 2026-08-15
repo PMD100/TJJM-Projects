@@ -1,0 +1,906 @@
+# TJJM link audit - FLAGGED CANDIDATES, not a removal list.
+# Generated 6 Aug 2026 from the published site (all 61 region pages, 4,282 linked records).
+# Method: browser no-cors reachability screen, HTTPS only, retried against the www/apex alternate.
+# MEASURED FALSE-POSITIVE RATE: 39% (n=18, server-side check, incl. a known-live control).
+# So roughly 550 of these 899 are expected to be genuinely dead or parked. VERIFY BEFORE REMOVING.
+# The screen CANNOT see wrong-entity links (a live site belonging to someone else) - those pass it.
+state	city	name	url
+NY	Albany	Brandon Abdullah's Martial Arts and Fitness	https://www.albanybjj.com/
+NY	Brooklyn	JG Monster Jiujitsu Fitness	http://www.jgmonsterjiujitsufitness.com
+NY	Cicero	Curtis Tillman's Mixed Martial Arts Academy	http://tillman-mma.com
+NY	Deer Park	American Academy Of Self Defense	http://www.aaofsd.com
+NY	Garden City	Longo and Weidman MMA	http://lawmma.com
+NY	Long Island City	International Training Center of New York	https://www.itcny.com/
+NY	Lynbrook	Kfm Martial Arts & Fitness Academy	http://www.kfmnewyork.com
+NY	Mount Kisco	Westchester Mixed Martial Arts & Fitness	http://www.westchestermmafit.com
+NY	New Rochelle	Westchester Fight Club	https://westchesterfightclub.com
+NY	New York	Bwarrior MMA	http://bwarrior.com
+NY	New York	Yojimbo BJJ	http://www.yojimbonyc.com
+NY	Niagara Falls	Fight-Sport Training Center	https://www.fightsporttrainingcenter.com/
+NY	North Babylon	Gracie Barra North Babylon	https://gbnorthbabylon.com
+NY	Patchogue	D'Arce Brazilian Jiu-Jitsu	http://www.darcejiujitsu.com
+NY	Point Lookout	Gracie Jiu-Jitsu Point Lookout	https://graciejiujitsuli.com
+NY	Queens	Butch's Boxing & MMA	http://www.ny-mma.com
+NY	Queens	Touro Fajardo Brazilian Jiu Jitsu	https://www.tourofajardobrazilianjiujitsu.com
+NY	Rochester	10th Planet Rochester	http://www.10thplanetjiujitsurochester.com
+NY	Rochester	Crossfit 585 BJJ	http://www.crossfit585bjj.com/home
+NY	Rockville Centre	Alpha Omega MMA	http://www.alphaomegamma.com
+NY	Seldon	East West MMA	http://www.circleofoneny.com
+NY	Spencerport	Peloton Martial Arts Center	http://www.peloton-bjj.com
+NY	Utica	Utica Combat Athletics	http://www.uticacombat.com
+AL	Athens	Athens Jiu Jitsu	https://www.athensjiujitsu.info/
+AL	Birmingham	Samuel Puccio Brazilian Jiu-Jitsu	https://bhmbjj.com/
+AL	Calera	Calera Fitness and MMA	https://www.calerafitness.com/Calera_Fitness_%26_MMA/Home.html
+AL	Daphne	Yamane Championship Mixed Martial Arts	http://www.ycmma.com/
+AL	Hoover	Champions Freestyle MMA & Fitness	http://www.championsfreestylemma.com/
+AL	Prattville	Prattville Fitness Kickboxing And MMA	http://fitnesskickboxingandmmaprattville.com/
+AK	Juneau	Evolution Jiu Jitsu	https://evojj.com/
+AB	Airdrie	Airdrie BJJ	https://airdriebjj.com
+AB	Banff	Banff BJJ	https://banffbjj.com
+AB	Calgary	101 Academy Jiu Jitsu	https://101academyjiujitsu.com
+AB	Calgary	Alliance Jiu Jitsu Calgary	https://alliancejiujitsucalgary.com
+AB	Calgary	Elite Martial Arts Calgary	https://elitemartialarts.ca
+AB	Camrose	Camrose BJJ	https://camrosebjj.com
+AB	Cochrane	Cochrane BJJ	https://cochranebjj.com
+AB	Fort McMurray	Fort McMurray BJJ	https://fortmcmurraybjj.com
+AB	Grande Prairie	Grande Prairie BJJ	https://grandeprairebjj.com
+AB	Lethbridge	Lethbridge BJJ	https://lethbridgebjj.com
+AB	Medicine Hat	Medicine Hat BJJ	https://medicinehatbjj.com
+AB	Red Deer	Red Deer BJJ	https://reddeerbjj.com
+AB	Sherwood Park	Sherwood Park BJJ	https://sherwoodparkbjj.com
+AB	St. Albert	Phoenix Martial Arts Club	https://phoenixmartialarts.ca
+AB	Wetaskiwin	Wetaskiwin BJJ	https://wetaskiwinbjj.com
+AZ	Chandler	Courage Honor Strength Brazilian Jiu-Jitsu	http://www.chsbjj.com/
+AZ	Chandler	Lopez Martial Arts	https://lopezjiujitsu.com/
+AZ	Chandler	The Desert Dojo	https://thedesertdojo.com/
+AZ	Glendale	Black Flag Submission Co.	https://www.blackflagsubco.com/
+AZ	Glendale	Cannon Brazilian Jiu-Jitsu	https://www.cannonbjj.net/
+AZ	Green Valley	Dominate Fitness and MMA	http://www.dominatefitnessmma.com/
+AZ	Kingman	Deets Jiu Jitsu Academy	http://www.gladiatorunderground.com/
+AZ	Lake Havasu City	Bridge City Combat	http://aaeamerica.com/
+AZ	Mesa	Ruffhouse Jiu-Jitsu	http://www.ruffhousejiujitsumesa.com/
+AZ	Mesa	Southwest MMA	http://southwestmma.com/
+AZ	Peoria	Allied Jiu Jitsu	http://alliedjiujitsu.com
+AZ	Peoria	Gracie Peoria	http://www.graciepeoria.com
+AZ	Phoenix	Checkmat Phoenix	https://mkbjj.com/
+AZ	Phoenix	Fury Brazilian Jiu Jitsu	https://www.furybjj.com/
+AZ	Scottsdale	Gracie Jiu-Jitsu Scottsdale	http://graciescottsdale.com/
+AZ	Sierra Vista	Flow Game Gym	http://www.flowgamegym.org/
+AZ	Surprise	Baker's MMA & Fitness LLC	http://bakersmmaandfitness.com/
+AZ	Tempe	American Pankration Fighting MMA	http://www.americanpankration.net/
+AZ	Tempe	Dragon-Snake MMA & Fitness	http://dragonsnakemma.com/
+AZ	Tucson	Alliance Jiu Jitsu - Vail	https://alliancejiujitsuvail.com/
+AZ	Tucson	Always Forward Jiu-Jitsu Academy	http://www.alwaysforwardjiujitsu.com/
+AZ	Tucson	TeckHit Boxing, Kickboxing, & MMA Gym	https://teckhit.com/
+AR	Conway	Conway BJJ	https://conwaybjj.com
+AR	Fort Smith	Fort Smith BJJ	https://fortsmithbjj.com
+AR	Pine Bluff	Pine Bluff BJJ	https://pinebluffbjj.com
+AR	Russellville	Russellville BJJ	https://russellvillebjj.com
+AR	Springdale	Springdale BJJ	https://springdalebjj.com
+BC	Abbotsford	Poderoso Jiu Jitsu	https://poderosojiujitsu.com
+BC	Campbell River	Campbell River BJJ	https://campbellriverbjj.com
+BC	Chilliwack	Chilliwack BJJ	https://chilliwackbjj.com
+BC	Fort St. John	Fort St. John BJJ	https://fortstjohnbjj.com
+BC	Kamloops	Kamloops BJJ	https://kamloopsbjj.com
+BC	Maple Ridge	Maple Ridge BJJ	https://mapleridgebjj.com
+BC	Mission	Mission BC BJJ	https://missionbcbjj.com
+BC	Nanaimo	Nanaimo BJJ	https://nanaimobjj.com
+BC	North Vancouver	North Vancouver BJJ	https://northvancouverbjj.com
+BC	Penticton	Penticton BJJ	https://pentictonbjj.com
+BC	Prince George	Prince George BJJ	https://princegeorgebjj.com
+BC	Richmond	Pinnacle MMA	https://pinncalemma.com
+BC	Surrey	Surrey BJJ	https://surreybjj.com
+BC	Trail	Trail BJJ	https://trailbjj.com
+BC	Vancouver	Alliance Jiu Jitsu Vancouver	https://alliancejiujitsuvancouver.com
+BC	Vernon	Vernon BJJ	https://vernonbjj.com
+BC	Victoria	SBG Victoria	https://sbgvictoria.com
+BC	Victoria	Van Isle BJJ	https://vanislebjj.com
+BC	Williams Lake	Williams Lake BJJ	https://williamslakebjj.com
+CA	Anaheim	Javier Blanchard Brazilian Jiu Jitsu / BJJ Anaheim CA 92801	https://www.javierblanchard.com/
+CA	Arcata	Institute of Combat	https://www.instituteofcombat.com/
+CA	Bakersfield	Eric Nolan’s Xtreme Training Center	http://www.ericnolan.com/
+CA	Bakersfield	The Chute MMA, Jiu Jitsu and Wrestling	http://www.chutetraining.com
+CA	Brentwood	Ares BJJ Brentwood	http://aresbrentwood.com/
+CA	Chico	Bruno Lima Brazilian Jiu Jitsu	http://www.brunolimabjj.com/
+CA	Chula Vista	Global Fighting Legion / Jiu-Jitsu Chula Vista CA 91914	https://theinstituteofhealthandfitness.com/Home
+CA	Culver City	Abrigo Martial Arts	http://www.abrigomartialarts.com/index02.php
+CA	Fresno	Checkmat Fresno-Roots Brazilian Jiu-Jitsu	http://checkmatfresno.com
+CA	Gold River	Brazilian Jiu Jitsu Academy of Sacramento	http://elementsofjiujitsu.com/
+CA	Harbor City	Royce Gracie Jiu Jitsu Academy SoCal	https://roycegraciesouthbay.com/
+CA	Hayward	Hayward BJJ Darcio Lira	https://www.haywardbjjdarciolira.com/
+CA	Irvine	Phenom Brazilian Jiu Jitsu	http://phenombjjoc.com/
+CA	Irvine	Team Oyama MMA & Fitness	http://teamoyamamma.com/
+CA	Irvine	Valhalla Jiu Jitsu	http://www.valhallabjj.com/
+CA	Laguna Hills	Joker's MMA	http://www.jokersmma.com/
+CA	Los Angeles	Alliance Jiu Jitsu Los Angeles	https://alliancejiujitsusla.com
+CA	Los Angeles	Bang Bang Power Fit	http://bangbangpowerfit.com/
+CA	Los Angeles	Independent Jiu-Jitsu	https://www.independentjiujitsu.co/calendar
+CA	Los Angeles	Marcelo Garcia Academy LA	https://marcelogarciaacademy.com/la
+CA	Madera	Madera Martial Arts	http://maderamma.com/
+CA	Murrieta	Rise Jiu Jitsu Academy	https://risejiujitsumurrieta.com
+CA	Oakland	Catch MMA	https://www.catchmma.com/
+CA	Orange	OC Carlson Gracie Jiu Jitsu	https://www.carlsongracieoc.com/
+CA	Paso Robles	GB Paso Robles	https://gbpasorobles.com/
+CA	Redlands	10th Planet Redland	http://www.10thplanetredlands.com
+CA	Ridgecrest	Flawless Victory MMA	http://www.fvmma.com/
+CA	Riverside	Academy Of Striking & Grappling	http://www.asgfacility.com/
+CA	Rocklin	Infinite Jiu-Jitsu	http://www.infinitejiujitsu.net/
+CA	Rocklin	SLL Grappling Academy - Brazilian Jiu-Jitsu (BJJ)	http://sllgrapplingacademy.com/
+CA	Rocklin	Synergy Jiu-Jitsu Academy	http://www.bjj-rocklin.com/
+CA	Salinas	Salinas Jiu Jitsu & Personal Training	http://www.salinasbjj.com/
+CA	San Diego	4S Brazilian Jiu Jitsu / Jiu-Jitsu San Diego CA 92127	http://www.4sbjj.com/
+CA	San Diego	Alliance Jiu Jitsu San Diego	https://alliancejiujitsusandiego.com
+CA	San Diego	Atos BJJ San Diego	https://atosjiujitsu.com
+CA	San Diego	Fabio Santos BJJ	http://www.fabiojiujitsu.com/
+CA	San Francisco	Ralston Gracie Jiu Jitsu	http://www.ralstongracie.com
+CA	San Jose	I M C Survival Center	http://www.imcsurvivalcenter.com/
+CA	San Jose	Knoxx Martial Arts and Fitness	https://knoxxgym.com
+CA	Simi Valley	Watts Brazilian Jiu-Jitsu & Muay Thai Academy	http://www.wattsbjj.com/
+CA	Stanton	DE LA O Jiu-Jitsu	http://delaojiujitsu.com/
+CA	Stockton	Andre de Freitas Brazilian Jiu-Jitsu / BJJ Stockton CA 95210	http://andredefreitasbjj.com/index.html
+CA	Stockton	Ares BJJ Stockton	http://www.aresbjjstockton.com
+CA	Stockton	Shingu Fighter	http://www.shingufighter.com/
+CA	Torrance	10th Planet Torrance	https://www.darkartsacademy.net
+CA	Torrance	Gracie Jiu-Jitsu Academy	http://www.gracieacademy.com/
+CA	Vacaville	Ralph Gracie Vacaville	http://ralphgracievacaville.com/
+CA	Vacaville	Rodrigo Cardoso Brazilian Jiu-Jitsu Academy	https://rodrigocardosoacademy.com/
+CA	Ventura	Rock And Roll Fight Company	https://rocknrollfightcompany.com/
+CA	Visalia	Outlaw MMA & Fitness	http://outlaw559gym.com/
+CA	Woodland Hills	ZR Brazilian Jiu-jitsu Thousand Oaks / BJJ Thousand Oaks CA 91362	http://zrwoodlandhills.com/index.html
+CA	Yucaipa	BloodSpillerBJJ & Caveirinha Jiu Jitsu Academy	http://www.cjjfsocal.com/
+CO	Arvada	Genesis Training Academy	http://www.fightgta.com
+CO	Aurora	Alliance Jiu Jitsu Colorado	https://alliancejiujitsucolorado.com
+CO	Aurora	Gracie Jiu-Jitsu Aurora	http://www.graciejiujitsuaurora.com
+CO	Boulder	Alliance Jiu Jitsu Boulder	https://alliancejiujitsububoulder.com
+CO	Brighton	Frontline Wrestling and Jiu-Jitsu Academy	http://www.graciebrighton.com
+CO	Canon City	Gracie Jiu-Jitsu Canon City	https://graciejiujitsu-canon.com
+CO	Carbondale	Carbondale Training Center (Rising Crane)	http://www.risingcrane.net
+CO	Castle Rock	Carlson Gracie Jiujitsu Team Castle Rock	http://carlsongracieteamcastlerock.com
+CO	Centennial	Valor BJJ & Fitness	http://valorbjjfit.com
+CO	Colorado Springs	Altitude MMA	http://www.altitudemma.com
+CO	Colorado Springs	Cheyenne Mountain BJJ	https://cheyennemountainbjj.com
+CO	Colorado Springs	GB Colorado Springs	https://gbcoloradosprings.com
+CO	Colorado Springs	The HQ - Jiu Jitsu Headquarters	https://www.jiujitsucoloradosprings.com
+CO	Denver	Low Summit Jiu Jitsu	http://www.lowsummitjiujitsu.com
+CO	Durango	Durango BJJ	https://durangobjj.com
+CO	Englewood	Guetho BJJ Denver	https://guethobjjdenver.com
+CO	Englewood	Nova Mente Jiu Jitsu Academy	http://www.novamenteacademy.com
+CO	Fort Collins	Gracie Jiu-Jitsu Fort Collins	http://graciefortcollins.com
+CO	Fort Collins	Shugyo Training Center	http://www.shugyodojo.com
+CO	Fort Collins	The Dojo LLC	http://www.thedojofc.com
+CO	Granby	Mountain Beast MMA & Fitness	http://www.mountainbeast.com
+CO	Grand Junction	Golden Fights MMA Gym	https://cagewarsnow.com
+CO	Gunnison	Gunnison Jiu-Jitsu	http://www.gunnisonjiujitsu.com
+CO	Lakewood	Atos BJJ Lakewood	http://www.atosbjjlakewood.com
+CO	Lakewood	Flo Life BJJ + Colorado Holistic Martial Arts	https://www.flolifebjj.com
+CO	Lakewood	Lakewood Martial Arts	http://www.campmartialarts.com
+CO	Loveland	Infinite MMA Academy	http://www.infinitemixedmartialarts.com
+CO	Loveland	Kingsnake Jiu-Jitsu	http://www.kingsnakebjj.com
+CO	Loveland	Northern Colorado Jiu Jitsu	http://www.nocojiujitsu.com
+CO	New Castle	Ground Zero Roaring Fork Valley BJJ	http://gzglenwoodsprings.com
+CO	Parker	Jit Pit Academy	http://www.jitpit.com
+CO	Peyton	Combative Fighting Systems Brazilian Jiu Jitsu	https://cfsfalcon.com
+CO	Westminster	Flatirons Mixed Martial Arts Academy	http://www.flatironsmma.com
+CO	Woodland Park	Discipleship Jiu-Jitsu	https://discipleshipjiujitsu.com
+CT	Ansonia	Casa of Jiu Jitsu	http://www.casabjj.com/
+CT	Bridgeport	ZR Association CT	https://zrbridgeportbjj.com/
+CT	Danbury	BJJ For Christ Jiu Jitsu	http://www.bjjforchrist.org/
+CT	Danbury	Danbury Academy Mixed Martial Arts	https://www.da-mma.com/
+CT	Danbury	Team Delima Brazilian Jiu-Jitsu Association	http://delimajiujitsu.com/
+CT	Glastonbury	Fortitude Jiu Jitsu	http://fortitudejj.com/
+CT	New London	Strikezone MMA	http://www.strikezonemma.com/
+CT	Norwalk	Ronin Martial Arts - Westport	https://www.westportmma.com/
+CT	Stamford	Stamford Judo	http://www.stamfordjudo.us/
+CT	Watertown	Thunder Martial Arts Academy	http://teamthundermma.net/
+CT	West Hartford	Royce Gracie Brazilian Jiu Jitsu	http://gracie-jiu-jitsu.com/
+CT	Wethersfield	Hartford Dojo	http://gracieacademy.com/
+DE	Dover	Dover AFB BJJ	https://doverafbbjj.com
+DE	Middletown	First State BJJ	https://firststatebjj.com
+DE	Milford	Milford BJJ Delaware	https://milfordbjjde.com
+DE	Rehoboth Beach	Rehoboth Beach BJJ	https://rehobothbeachbjj.com
+FL	Aventura	Marcus Aurelio Jiu Jitsu Academy	http://www.maximusmartialarts.com/
+FL	Boca Raton	GB Boca Raton	http://braziliantopteamflorida.com/
+FL	Boynton Beach	Xcell Jiu Jitsu	https://www.xcelljiujitsu.com/
+FL	Cape Coral	Cali Style MMA	http://calistylemma.com/
+FL	Clearwater	Grady's Family Mixed Martial Arts	http://www.gradysmma.com
+FL	Coral Gables	Refit Academy - Coral Gables	http://www.refitacademycoralgables.com
+FL	Dania Beach	Marcelo Meleiro BJJ – Nova Uniao South Florida	http://www.novauniaosouthflorida.com/
+FL	Davie	RAIVA Brazilian Jiu Jitsu	http://www.raivabjj.com
+FL	DeLand	West Volusia Academy Of Mixed Martial Arts	http://theacademyofmma.com/
+FL	Deerfield Beach	Burns Bros Jiu Jitsu	https://burnsbrosjiujitsu.com/
+FL	Delray Beach	Carlson Gracie Manny Soares	https://mannysoaresbjj.com
+FL	Dunnellon	Team Carvalho Academy	http://www.teamcarvalho.com/home.html
+FL	Fort Lauderdale	Renzo Gracie Fort Lauderdale	https://www.renzogracieftlauderdale.com/
+FL	Fort Myers	Fight Zone MMA	http://www.fightzonefl.com/
+FL	Fort Pierce	Team Carvalho Treasure Coast	http://www.teamcarvalho.com/
+FL	Gainesville	Gainesville BJJ Florida	https://gainesvillebjjfl.com
+FL	Gulf Breeze	Gulf Breeze Jiu Jitsu	https://gulfbreezejiujitsu.com/
+FL	Hallandale Beach	Gracie Barra Hallandale Beach	http://gbhallandale.com
+FL	Indian Harbour Beach	BLTeam Brazilian Jiu-Jitsu and Muay Thai Academy	https://blteam1.com/
+FL	Inverness	Agogi Academy of Combatives	http://agogiac.com/
+FL	Jacksonville Beach	Ludus Martial Arts LLC	http://ludusmartialarts.com/
+FL	Jacksonville	Alpha Dogs Martial Arts	https://alphadogsmartialarts.com/
+FL	Jupiter	Team Nogueira Bloise Academy	http://www.teamnog.com/
+FL	Jupiter	The Jupiter Jiu Jitsu Academy in Jupiter Fl	http://www.jupiterjiujitsu.com/
+FL	Key Biscayne	Alliance Jiu Jitsu	http://www.alliancekb.com
+FL	Lake Worth	Combat Club Lake Worth	https://combatclublakeworth.com/
+FL	Lauderhill	South Florida Fight Club	http://www.sffc.tv/
+FL	Longwood	Kokopelli's Gym	http://www.kokogym.com/
+FL	Melbourne	Master Lowell's MMA Academy	https://jlmma.com/
+FL	Miami Beach	Black House Miami Beach	http://www.blackhousemiamibeach.com
+FL	Miami	Champion Martial Arts	http://www.judochampion.com/
+FL	Miami	Fight Sports Miami	https://fightsportsmiami.com/
+FL	Miami	Refit Academy - Wynwood	http://www.refit-academy.com
+FL	Miami	Teknica MMA	https://www.teknicamartialarts.com/
+FL	Naples	Gracie Barra – Naples	http://www.graciebarranaples.com/
+FL	Ocala	GTK Academy of Martial Arts	https://gtkacademy.com/
+FL	Orange City	Orange City Academy Of Mixed Martial Arts	http://theacademyofmma.com/
+FL	Orange City	USD & MMA Fitness	http://www.mmagetfit.com/
+FL	Orlando	Alliance Jiu Jitsu Orlando	https://alliancejiujitsuorlando.com
+FL	Orlando	American Combat Club	http://www.americancombatclub.com/
+FL	Orlando	Central Florida BJJ	https://offers.avbjj.com/free-2-week-pass
+FL	Orlando	Ronin Training Center Orlando	https://www.roninorlandofl.com/
+FL	Oxford	Robson Moura Jiu-Jitsu	http://www.usajujitsu.net/
+FL	Palm Beach Gardens	Gamblers Jiu-Jitsu & Kickboxing Club	http://gamblersjiujitsuclub.com/sign-up-for-free-trial/
+FL	Panama City	Rilion Gracie Jiu-Jitsu Panama City	http://jiujitsulynnhaven.com/
+FL	Pembroke Pines	Valente Brothers Jiu-Jitsu Pembroke Pines	http://www.graciemiami.com
+FL	Pensacola	Team Remedy	https://teamremedymma.com/
+FL	Plantation	Kumite Martial Arts	http://www.kumitemartialarts.com/
+FL	Port Orange	Fight Sports Daytona	https://www.fightsportsdaytona.com/freetrial
+FL	Sanford	Cogito Jiu Jitsu	http://cogitojiujitsu.com/
+FL	Sarasota	BJJ Academy Of Sarasota (wbjja)	http://www.wbjja.com/
+FL	St. Augustine	GB Saint Augustine	https://gbsaintaugustine.com/
+FL	St. Cloud	Full Circle MMA	http://www.nucfl.com/
+FL	St. Petersburg	Elite Training Center	http://www.elitetraininginc.com/
+FL	St. Petersburg	Synergy Martial Arts and Fitness	http://synergymartialarts.fitness/
+FL	Stuart	Fist Factory	http://www.thefistfactory.com/
+FL	Sunrise	American Tigers Martial Arts	https://americantigers.com/
+FL	Tarpon Springs	New Port Richey Jiu-jitsu Academy	http://nprbjj.com/
+FL	Vero Beach	American Top Team – Vero Beach	http://www.attverobeach.com/
+FL	Vero Beach	Gracie Martial Arts – Vero Beach	http://www.graciemartialartsverobeach.com
+FL	Vero Beach	Renato Tavares Assoc HQ	http://www.legacymmausa.com/
+FL	West Palm Beach	GB Lake Park	https://lp.gblakepark.com/
+FL	West Palm Beach	GB West Palm Beach	http://gbwestpalmbeach.com/
+FL	West Palm Beach	Hands Down Martial Arts	http://www.wpbmma.com/
+FL	West Palm Beach	Team Nogueira	http://www.teamnog.com/
+FL	Weston	Vprok MMA Academy	http://www.vprokmma.com/United_States.html
+FL	Wildwood	USA Jiu-Jitsu	http://www.usajujitsu.net/
+GA	Acworth	Carlos Machado Jiu-Jitsu North Atlanta	http://www.cmjjnatl.com/
+GA	Acworth	James Shook Brazilian Jiu-Jitsu	http://zenith.jamesshookbjj.com/
+GA	Albany	Hamby Freestyle Jiu Jitsu	http://www.hambyfreestyle.com/
+GA	Alpharetta	KBX Gym	http://www.kbxgym.com/
+GA	Athens	Athens Fitness and MMA	http://www.athensfitnessandmma.com/
+GA	Atlanta	Atlanta Kyusho and Jujitsu	http://www.atlantajujitsu.com/
+GA	Augusta	Gracie Barra - Augusta	http://gbaugusta.com/
+GA	Cartersville	AllAmbition Brazilian Jiu Jitsu	http://allambitionbjj.com/
+GA	Covington	Ruff House Boxing and MMA	https://www.ruffhouseboxing.com/
+GA	Cumming	World Jiu-Jitsu Academy	http://worldjiujitsuatlanta.com/
+GA	Dalton	Veritas Brazilian Jiu-Jitsu - Kuzushi Club Dalton	http://veritasbjj.com/
+GA	Flowery Branch	Full Throttle Fitness	http://www.fullthrottleoakwood.com/
+GA	Fort Oglethorpe	Blalock International Mixed Martial Arts Academy	http://www.blalocksimb.com/
+GA	Gainesville	Gracie Barra Gainesville	https://www.gbgainesville.com/
+GA	Grovetown	Liberty Jiu-Jitsu Grovetown	http://libertybjj.community/
+GA	Hoboken	Invictus Brazilian Jiu Jitsu & Defensive Arts	http://invictusbjj.online/
+GA	Lawrenceville	Gwinnett Training Academy	http://www.gwinnetttrainingacademy.com/
+GA	Leesburg	Black Sheep MMA	http://www.blacksheep-mma.com/
+GA	Marietta	Advantage Jiu-Jitsu and Self Defense	https://www.advantagejj.com/
+GA	Marietta	East Cobb Martial Arts	http://www.eastcobbma.com/
+GA	Marietta	Fusion MMA	http://fusionfitnessandmma.com/
+GA	Norcross	Nucleus Brazilian Jiu Jitsu	https://nucleusbjj.com
+GA	Pooler	Coastal Combatives	http://www.coastalcombatives.com/
+GA	Pooler	Redline MMA	http://www.redlinemma.com/
+GA	Powder Springs	Tekniques Brazilian Jiu-Jitsu & Fitness	http://www.tekniquesbjj.com/
+GA	Savannah	Champions Training Center	http://www.ctcsavannah.com
+GA	Smyrna	Atlanta Budokan	http://www.atlantabudokan.com/
+GA	Smyrna	Tonchu Martial Arts Academy	http://www.tonchumartialarts.com/
+GA	Statesboro	Hanto Jiu-Jitsu Academy	https://hantojiu-jitsuacademy.com/
+GA	Sylvester	Sylvester Jiu-Jitsu Academy	http://sylvesterjiujitsu.com/
+GA	Tifton	Redemption Martial Arts Academy	http://www.martialartstifton.com/
+GA	Valdosta	American Top Team Valdosta	http://att229.com/
+GA	Villa Rica	Independent MMA & Fitness - Villa Rica	https://www.independentvillarica.com/
+GA	Warner Robins	Zanshin South Gracie Jiu Jitsu	http://www.zanshinsouthgraciejiujitsu.com/
+GA	Watkinsville	Megalodon MMA	http://www.megalodonmma.com/
+HI	Hilo	BJ Penn MMA	https://bjpennmma.com
+HI	Honolulu	Purebred Jiu-Jitsu	https://purebredjiujitsu.com
+HI	Kahului	Maui BJJ Academy	https://mauibjjacademy.com
+HI	Kailua-Kona	Kona BJJ	https://konabjj.com
+HI	Kailua	Kailua BJJ	https://kailuabjj.com
+HI	Lihue	Lihue BJJ	https://lihuebjj.com
+HI	Maui	Fighting Arts Academy Hawaii	https://fightingartsacademyhi.com
+HI	Pearl City	Pearl City BJJ	https://pearlcitybjj.com
+ID	Coeur d'Alene	Coeur d'Alene BJJ	https://cdalenebjj.com
+ID	Lewiston	Lewiston ID BJJ	https://lewistonidbjj.com
+ID	Meridian	Meridian BJJ Idaho	https://meridianbjjidaho.com
+ID	Nampa	Nampa BJJ	https://nampabjj.com
+ID	Pocatello	Snake River MMA	https://snakerivermma.com
+ID	Sandpoint	Sandpoint BJJ	https://sandpointbjj.com
+ID	Star	Authentic BJJ Idaho	https://authenticbjjidaho.com
+ID	Twin Falls	Alliance Jiu Jitsu Twin Falls	https://alliancejiujitsutf.com
+IL	Alton	Alton Family Martial Arts & Fitness	https://www.altonfma.com/
+IL	Burr Ridge	Force Brazilian Jiu-Jitsu	http://www.madeyoutap.com/
+IL	Chicago	10th Planet Jiu Jitsu Chicago	http://www.10thplanetjjchicago.com
+IL	Chicago	TDC MMA + Fitness	http://www.tdcmmaandfitness.com
+IL	Downers Grove	Bodhi Collaborative BJJ	http://www.bodhicollaborative.com
+IL	Fox Lake	Devine Jiu Jitsu Lake County	http://www.scholarwarriormma.com/devine-jiujitsu-lake-county
+IL	Highland Park	Comprido BJJ	http://www.highlandparkbjj.com
+IL	Lake Villa	Norse Academy Martial Arts	http://norseacademymartialarts.com/
+IL	Lisle	Mequinho Jiu Jitsu	http://www.downersgrovejiujitsu.com
+IL	Lombard	10th Planet Jiu Jitsu Lombard	http://www.10thplanetjjlombard.com/
+IL	Machesney Park	Northern Illinois Combat Club and Fitness	http://www.niccfitness.com/
+IL	Macomb	Cassady Martial Arts Academy Royce Gracie Jiu Jitsu	http://www.cassadymartialarts.com/
+IL	Macomb	The Shed JiuJitsu Academy	https://theshedjiujitsuacademy.com/
+IL	Mt. Vernon	Pedigo Submission Fighting	https://pedigosubmissionfighting.com
+IL	New Baden	Middeke Brazilian Jiu Jitsu	https://www.middekebjj.com/
+IL	Orland Park	Randori MMA & Jiu Jitsu	http://www.randorijiujitsu.com/
+IL	Robinson	Falconbury Warrior Concepts	http://falconburywarriorconcepts.com/
+IL	Roselle	Keith Hackney's Combat Academy	http://www.hackneyscombat.com/
+IL	Schaumburg	LCCT Brazilian Jiu Jitsu	https://lcctbjj.com
+IL	Schaumburg	P3 Martial Arts	https://p3jiujitsu.com
+IL	Waukegan	Ohana Martial Arts	https://ohanamartialarts.net
+IL	West Dundee	LCCT Brazilian Jiu-Jitsu West Dundee	https://lcctbjjwestdundee.com/
+IN	Greenwood	Indiana Brazilian Jiu-Jitsu Academy	https://ibjja.com
+IN	Muncie	Muncie Brazilian Jiu-Jitsu	https://munciebjj.com
+IA	Ames	Ames BJJ	https://amesbjj.com
+IA	Burlington	Burlington BJJ Iowa	https://burlingtonbjjiowa.com
+IA	Cedar Rapids	Alliance Jiu Jitsu Iowa	https://alliancejiujitsuiowa.com
+IA	Clinton	Clinton BJJ Iowa	https://clintonbjjiowa.com
+IA	Council Bluffs	Council Bluffs BJJ	https://councilbluffsbjj.com
+IA	Davenport	Fighting Gravity Jiu Jitsu	https://fightinggravityjiujitsu.com
+IA	Fort Dodge	Fort Dodge BJJ	https://fortdodgebjj.com
+IA	Marshalltown	Marshalltown BJJ	https://marshalltownbjj.com
+IA	Mason City	Mason City BJJ	https://masoncitybjj.com
+IA	Ottumwa	Ottumwa BJJ	https://ottumwabjj.com
+IA	Sioux City	Sioux City BJJ	https://siouxcitybjj.com
+IA	Waterloo	Waterloo BJJ	https://waterloobjj.com
+KS	Dodge City	Dodge City BJJ	https://dodgecitybjj.com
+KS	Garden City	Garden City BJJ	https://gardencitybjj.com
+KS	Hutchinson	Hutchinson BJJ	https://hutchinsonbjj.com
+KS	Junction City	Junction City BJJ	https://junctioncitybjj.com
+KS	Lawrence	Alliance Jiu Jitsu Lawrence	https://alliancejiujitsulawrence.com
+KS	Leavenworth	Leavenworth BJJ	https://leavenworthbjj.com
+KS	Liberal	Liberal BJJ	https://liberalbjj.com
+KS	Manhattan	Manhattan KS BJJ	https://manhattanksbjj.com
+KS	Pittsburg	Pittsburg KS BJJ	https://pittsburgksbjj.com
+KS	Salina	Salina BJJ	https://salinabjj.com
+KY	Bowling Green	Hicsmma	https://www.hicsmma.com/
+KY	Dry Ridge	Grant County Martial Arts Center	https://www.grantcountymartialarts.com/
+KY	Elizabethtown	E-town Brazilian Jiu-Jitsu	https://etownjiujitsu.com
+KY	Hopkinsville	Hopkinsville BJJ	https://hopkinsvillebjj.com
+KY	Lexington	Triple Crown MMA	https://triplecrownnmma.com
+KY	Louisville	Louisville Ju Jitsu	https://www.louisvillejujitsu.com
+KY	Louisville	Louisville Martial Arts Academy	https://louisvillemartialarts.net/
+KY	Madisonville	Gracie Jiujitsu of Madisonville	https://www.gjjmadisonville.com/
+KY	Madisonville	Myers Martial Arts Center	https://www.myersdojo.net/
+KY	Owensboro	Hidden Samurai Martial Arts	https://www.hiddensamurai.cmasdirect.com
+KY	Paducah	Premier Martial Arts – Paducah	https://pmapaducah.com/
+LA	Abbeville	Vermilion Martial Arts Academy	http://www.abbevillesummercamp.com/
+LA	Baton Rouge	Martial Arts America Baton Rouge	https://www.martialartsamericabr.com/
+LA	Baton Rouge	Warrior's Cove Baton Rouge	https://www.warriorscovebjj.com/
+LA	Breaux Bridge	Gladiators Academy of Breaux Bridge	http://www.gladiatorsbb.com/
+LA	Broussard	Fight to Win Lafayette Jiu -Jitsu	http://www.fighttowinlafayette.com/
+LA	Central	Langston's Martial Arts	http://langstonsmartialarts.com/
+LA	Crowley	Gladiators Academy of Crowley	https://www.gladiatorsofcrowley.com/
+LA	Denham Springs	Combat Athletics	https://ccrosbyjiujitsu.com/contact-us/
+LA	Houma	Evolution Training	https://www.guerrillajiujitsuhouma.com/
+LA	Lafayette	Acadiana Martial Arts Academy	https://www.acadianamartialarts.com/
+LA	Lafayette	Premier Martial Arts Lafayette	https://www.premiermartialartsacademy.com/
+LA	Metairie	Louisiana Martial Arts Academy	http://www.louisianamaa.com/
+LA	New Iberia	Progressive Martial Arts Training Center	https://www.pmatc.com
+LA	New Orleans	Danny Daniels' MMA & Fitness	https://www.dannydanielsmma.com/
+LA	New Orleans	Mid City Martial Arts & Fitness Academy	https://www.midcitymartialarts.com/
+LA	New Orleans	NOLA BJJ Westbank	http://westbanksocialclub.com/
+LA	New Orleans	NOLA MMA	https://www.nolammaacademy.com/
+LA	New Orleans	The Dojang New Orleans	https://www.thedojangneworleans.com/
+LA	Prairieville	Criterion Jiu Jitsu	https://www.criterionjiujitsu.com/home
+LA	Shreveport	Carlos Machado Jiu Jitsu of Shreveport	http://shreveportmartialart.com/
+LA	Shreveport	Warrior Training Center	https://www.warriortrainingcenterla.com/
+LA	Slidell	Alliance Jiu Jitsu Slidell	https://www.alliancebjjslidell.com/
+LA	Sulphur	Primal Fitness Lake Charles	https://www.primalfitnessla.com/
+LA	Terrytown	Power Extreme Fitness Training Center	http://www.mmanola.com/
+ME	Augusta	Augusta BJJ Maine	https://augustabjjme.com
+ME	Bangor	Maine BJJ	https://mainebjj.com
+ME	Biddeford	Seacoast Brazilian Jiu-Jitsu	https://seacoastbjjme.com
+ME	Brunswick	Brunswick BJJ Maine	https://brunswickbjjme.com
+ME	Ellsworth	Ellsworth BJJ	https://ellsworthbjj.com
+ME	Lewiston	Lewiston-Auburn BJJ	https://lewistonauburnbjj.com
+ME	Portland	Portland BJJ Maine	https://portlandbjjmaine.com
+ME	Presque Isle	Presque Isle BJJ	https://presqueislebjj.com
+ME	Rumford	Rumford BJJ	https://rumfordbjj.com
+ME	Saco	Saco BJJ	https://sacobjj.com
+ME	Waterville	Waterville BJJ	https://watervillebjj.com
+MB	Brandon	Brandon BJJ	https://brandonbjj.com
+MB	Flin Flon	Flin Flon BJJ	https://flinflobbjj.com
+MB	Portage la Prairie	Portage la Prairie BJJ	https://portagebjj.com
+MB	Steinbach	Steinbach BJJ	https://steinbachbjj.com
+MB	Swan River	Swan River BJJ	https://swanriverbjj.com
+MB	Thompson	Thompson BJJ	https://thompsonbjj.com
+MB	Winkler	Winkler BJJ	https://winklerbjj.com
+MB	Winnipeg	Winnipeg BJJ	https://winnipegbjj.com
+MD	Baltimore	Foundation Jiu-Jitsu	https://foundation-jiujitsu.com
+MD	Baltimore	Rollstar Jiu Jitsu	https://rsjiujitsumd.com
+MD	Frederick	Central Maryland Martial Arts	https://cmmatsd.com
+MD	Gaithersburg	Infinite Fighting Concepts MMA	https://ifcmma.com
+MD	Hyattsville	Cabrera Jiu Jitsu Academy	https://graciepg.com
+MD	Mt Airy	Mount Airy Jiu-Jitsu & MMA	https://mountairybjj.com
+MD	Nottingham	New Wave Martial Arts Perry Hall	https://newwavema.com
+MD	Rockville	Native Brazilian Jiu Jitsu	https://nativebjj.com
+MD	Silver Spring	Gracie Randallstown Jiu Jitsu in Hillandale	https://hillandalejiujitsu.com
+MA	Ashland	Cascão Jiu Jitsu Ashland	https://cascaoashland.com
+MA	Bridgewater	Lauzon Mixed Martial Arts	https://rsdmma.com
+MA	Cambridge	American Martial Arts Center	https://www.americanmartialartscenter.com/
+MA	Charlton	Jiu-Jitsu USA Brazilian Jiu-Jitsu & Fitness Club	https://squareup.com
+MA	Clinton	Massachusetts Submission Academy	https://masssubmissionacademy.com
+MA	Danvers	Brazilian Top Team North Shore	https://bttnorthshore.com
+MA	Everett	Brazilian Top Team Boston	https://bttboston.com
+MA	Gardner	Fighting Arts Academy Gardner	https://fightingartsgardner.com
+MA	Hopkinton	Terrinha Draculino BJJ Team	https://tdtbjj.com
+MA	Hudson	Lokahi Academy	https://lokahiacademy.com
+MA	Kingston	Thurston Academy (NEU BJJ affiliate)	https://thurstonacademy.com
+MA	Lowell	Aldo Batista Brazilian Jiu-Jitsu	https://aldobatistabjj.com
+MA	New Bedford	Ko Gym	https://kogymnewbedford.com
+MA	Norwell	South Shore Sport Fighting	https://sssfighting.com
+MA	Pepperell	Dynamic Martial Athletics	https://pepperellbjj.com
+MA	Quincy	Trifecta Martial Arts And Fitness	https://bjj-boston.com
+MA	Salem	Dragon Within Mixed Martial Arts	https://dragonwithinmartialarts.com
+MA	Saugus	Bochniak Martial Arts & Fitness	https://bochniakmma.com
+MA	Springfield	Fighting Arts Academy	https://fightingartsacademy.com
+MA	Wareham	Nexus Martial Arts & Fitness	https://nexusma.com
+MA	Watertown	CrossFit Arsenal (and BJJ)	https://crossfitarsenal.com
+MA	Williamstown	Jon Manley MMA @ Williamstown youth center	https://jonmanleymma.com
+MI	Brighton	Gladiator MMA	http://www.gladiator-mma.com
+MI	Clarkston	Combat Base Clarkston	https://www.combatbaseclarkston.com
+MI	Clawson	Clawson Fit	http://clawsonfit.com
+MI	Coldwater	Michigan Sports Camps	https://www.ttsfitness.com/
+MI	East Lansing	East Lansing Underground Martial Arts	http://www.elunderground.com/
+MI	Fowlerville	REAL WORLD MMA & Fitness	http://independentmartialarts.us/
+MI	Grand Rapids	GRBJJ	http://www.grbjj.net/
+MI	Keego Harbor	Gracie Jiu-Jitsu Keego Harbor	http://www.graciejiujitsumichigan.com
+MI	Lansing	Lansing Brazilian Jiu-Jitsu	http://www.lansingbjj.com/
+MI	Livonia	Gracie Barra Livonia	http://graciebarralivonia.com/
+MI	Petoskey	The Ludus Martial Arts and Fitness Center	http://www.theludusmartialarts.com/
+MI	Saint Joseph	Lakeshore Black Belt Academy	http://www.lakeshorebba.com/
+MI	Shelby Charter Township	New Way Martial Arts Academy	http://newwaymartialarts.com
+MI	Southgate	Royce Gracie Jiu-Jitsu Academy of Michigan	http://www.roycegracieaom.com/
+MI	Troy	Michigan Kickboxing Academy / 10th Planet Troy	https://michigankickboxingacademy.com
+MI	Waterford Township	FC Fitness Academy	http://fcfitnessacademy.com
+MI	Westland	Master Gauss Martial Arts Center	http://www.gaussmartialarts.com/
+MI	Ypsilanti	Ann Arbor Jiu-Jitsu	http://annarborjj.com/wp/
+MN	Brainerd	Brainerd BJJ	https://brainerdbjj.com
+MN	Duluth	Duluth BJJ	https://duluthbjj.com
+MN	Eden Prairie	Alliance Jiu Jitsu Minnesota	https://alliancejiujitsumn.com
+MN	Faribault	Faribault BJJ	https://faribaultbjj.com
+MN	Hibbing	Hibbing BJJ	https://hibbingbjj.com
+MN	Mankato	Mankato BJJ	https://mankatobjj.com
+MN	Minneapolis	Checkmat S. Minneapolis	https://dangerooms612.com
+MN	Moorhead	Fargo BJJ MN side	https://fargobjjmn.com
+MN	Moorhead	Moorhead BJJ	https://moorheadbjj.com
+MN	St. Cloud	St. Cloud BJJ	https://stcloudbjj.com
+MN	St. Paul	Akagi Jiu-Jitsu	https://akagijiujitsu.com
+MN	St. Paul	TC Martial Arts	https://tcmartialarts.com
+MN	Willmar	Willmar BJJ	https://willmarbjj.com
+MS	Columbus	Columbus MS BJJ	https://columbusmsbjj.com
+MS	Corinth	Corinth BJJ	https://corinthbjj.com
+MS	Greenville	Greenville BJJ MS	https://greenvillebjjms.com
+MS	Hattiesburg	Southern Combat Arts	https://southerncombatarts.com
+MS	Natchez	Natchez BJJ	https://natchezbjj.com
+MS	Ridgeland	Mississippi BJJ	https://mississippibjj.com
+MS	Starkville	Starkville BJJ	https://starkvillebjj.com
+MS	Tupelo	Tupelo BJJ	https://tupelobjj.com
+MS	Vicksburg	Vicksburg BJJ	https://vicksburgbjj.com
+MO	Branson	Branson Jiu Jitsu - Fulcrum 360	http://rkbjjbranson.com/instructors/
+MO	Bridgeton	Integrity Fitness	http://www.integrityfit-stl.com/
+MO	Chesterfield	S2 Bjj	http://www.s2bjj.com/
+MO	Chesterfield	Team Z MMA Fitness Center	http://www.teamzmma.com/
+MO	Columbia	Gracie Humaita Columbia	https://graciehumaitacolumbia.com
+MO	Festus	Whole Armour Martial Arts	http://whole-armour.com/
+MO	Joplin	Joplin Brotherhood Mixed Martial Arts	http://www.jbhmma.com/
+MO	Lee's Summit	K2L Martial Arts	http://www.kids2leaders.com/
+MO	Nixa	TCB Fight Factory 417	http://tcbfightfactory417.com
+MO	North Kansas City	Aegis Jiu Jitsu	http://aegisjiujitsu.com/
+MO	Salem	Kifaru Jitsu Martial Arts	http://www.kifarujitsu.com/
+MO	Springfield	Gracie Barra Springfield Fight Club	http://www.springfieldfightclub.com/
+MO	St Charles	St. Charles MMA and BJJ	http://www.stcharlesmma.com/
+MO	St. Louis	Checkmat St. Louis	https://checkmatstl.com
+MO	St. Louis	St. Louis Combat Institute	http://www.stlcombatinstitute.com/
+MO	Sullivan	Sullivan Athletic Club	http://www.sullivanathleticclub.net/
+MO	Warrensburg	Warrior Jiu-Jitsu	http://www.warriorjujitsu.com
+MO	Webster Groves	Raven's Ridge MMA	http://www.ravensridgemma.com/
+MT	Bozeman	Grizzly Combat Sports	https://grizzlycombatsports.com
+MT	Kalispell	Hughes' Grappling Academy	https://www.hughesgrapplingacademy.com
+NE	Columbus	Columbus NE BJJ	https://columbusnebj.com
+NE	Hastings	Hastings BJJ	https://hastingsbjj.com
+NE	Lincoln	Husker Combat Club	https://huskercombatclub.com
+NE	Norfolk	Norfolk BJJ	https://norfolkbjjne.com
+NE	Norfolk	Norfolk NE BJJ	https://norfolknebjj.com
+NE	North Platte	North Platte BJJ	https://northplattebjj.com
+NE	Scottsbluff	Scottsbluff BJJ	https://scottsbluffbjj.com
+NV	Henderson	American Top Team Nevada	http://www.attnevada.com
+NV	Henderson	Gracie Barra Henderson	http://www.gblasvegas.com
+NV	Henderson	Relson Gracie Jiu Jitsu Team HK Las Vegas	http://relsongracielv.com
+NV	Henderson	Renzo Gracie Henderson Jiu Jitsu	https://www.renzograciehenderson.com
+NV	Henderson	Samurai Brazilian Jiu Jitsu Academy	https://samuraitc.com
+NV	Henderson	Veritas Combat Arts And Fitness Academy	http://veritascombatarts.com
+NV	Las Vegas	Asylum Fight Team	http://www.asylumfightteam.com
+NV	Las Vegas	Atos Jiu Jitsu Las Vegas	http://www.atosjiujitsulv.com
+NV	Las Vegas	Cascao Jiu Jitsu	http://www.cascaojiujitsu.com
+NV	Las Vegas	Drysdale Fight For Us Jiu Jitsu	http://www.drysdalefightforus.com
+NV	Las Vegas	Fredson Paixao Academy	http://fredsonpaixaobjj.com
+NV	Las Vegas	Hard Knocks Muay Thai & Judo	http://www.hkmtkickboxing.com
+NV	Las Vegas	Jiu-Jitsu Methods	http://jiujitsumethods.com
+NV	Las Vegas	Las Vegas Fight Center	https://lasvegasfightcenter.com
+NV	Las Vegas	Las Vegas Fight Club	http://www.thelasvegasfightclub.com
+NV	Las Vegas	Ribeiro Jiu-Jitsu - Las Vegas	http://www.ribeirojiujitsulasvegas.com
+NV	Las Vegas	Summerlin BJJ	https://summerlinbjj.com
+NV	Las Vegas	Tapout Research & Development Training Center	http://www.tapoutlasvegas.com
+NV	Las Vegas	Tristar Las Vegas	https://tristarlasvegas.com
+NV	Las Vegas	Wand Fight Team	https://www.wandfightteam.vegas
+NV	North Las Vegas	Kifaru Jitsu Academy of Martial Arts	http://www.kifarujitsu.com
+NV	North Las Vegas	Ronin Jiu-Jitsu North Las Vegas	http://www.roninbjj.org
+NV	Reno	Battle Born MMA	http://www.battlebornmma.com
+NV	Reno	Lion's Den MMA & Fitness Center	http://www.lionsdenreno.com
+NV	Reno	Momentum Martial Arts	http://momentumreno.com
+NV	Reno	Team Reno	https://www.momentumreno.com/brazilian-jiu-jitsu
+NV	Sparks	Atos Jiu Jitsu Reno	http://www.atosjiujitsureno.com
+NB	Campbellton	Campbellton BJJ	https://campbelltonbjj.com
+NB	Dieppe	Victory Jiu Jitsu Dieppe	https://victoryjjdieppe.com
+NB	Fredericton	Evolution Training Centre	https://www.evolutiontrainingcenter.ca
+NB	Miramichi	Miramichi BJJ	https://miramichibjj.com
+NB	Moncton	Moncton BJJ	https://monctonbjj.com
+NB	Saint John	Saint John BJJ	https://saintjohnbjj.com
+NB	Woodstock	Woodstock NB BJJ	https://woodstocknbbjj.com
+NH	Derry	Derry BJJ	https://derrybjj.com
+NH	Dover	Dover BJJ	https://doverbjjnh.com
+NH	Keene	Keene BJJ	https://keenebjj.com
+NH	Laconia	Laconia BJJ	https://laconiabjj.com
+NH	Lebanon	Lebanon BJJ NH	https://lebanonbjjnh.com
+NH	Nashua	Alliance Jiu Jitsu NH	https://alliancejiujitsunh.com
+NH	Portsmouth	Seacoast BJJ NH	https://seacoastbjjnh.com
+NJ	Barnegat	Green Dragon Warrior Arts	http://greendragonunlimited.com/Home_Page.php
+NJ	Brick Township	Misfits Muay Thai & Brazilian Jiu Jitsu	http://www.misfitsmuaythai.com/
+NJ	Browns Mills	Clay Jiu Jitsu	http://www.clayjiu-jitsu.com/
+NJ	Caldwell	Guerrero BJJ & MMA	http://kneeonbelly.com/
+NJ	Cedar Knolls	AMA Fight Club	https://www.amafightclubcedarknolls.com/
+NJ	City Of Orange	AJW Martial Arts Academy & Fitness Center	http://www.ajwmartialartsacademy.com
+NJ	Clark	Kombat Brazilian Jiu-Jitsu	https://www.kombatbjj.com/
+NJ	Clifton	Unity Jiu Jitsu New Jersey	http://unitybjjnj.com
+NJ	Cranford	Jfc Training Center	http://www.jerseyfightclub.com/
+NJ	Denville	Real World Martial Arts Team Renzo Gracie	http://rwmma.com/
+NJ	East Rutherford	Notorious Mixed Martial Arts	http://www.notoriousbjj.com/
+NJ	Edgewater Park	JBMFIT - Fitness Center and & Brazilian Jiu Jitsu Academy	http://www.jbmfit.com/
+NJ	Edison	Jaguar BJJ	http://jaguarbjj.com/
+NJ	Elizabeth	Golden Eagle Judo & Jiu-Jitsu	http://www.goldeneaglejjj.com/
+NJ	Ewing Township	Blue Line Defense and Fitness	http://www.bluelinedefenseandfitness.com/
+NJ	Flanders	Elite Tactical Martial Arts	http://www.elitetacticalmartialarts.com/
+NJ	Freehold	Alliance Jiu Jitsu Freehold	https://www.alliancejiujitsufreehold.com/
+NJ	Hamilton Square	Hamilton Martial Arts	http://www.hamiltonmartialarts.com/
+NJ	Hoboken	David Branch Jiu Jitsu	https://www.davidbranchbjj.com/
+NJ	Hoboken	Renzo Gracie Hoboken	https://www.renzograciehoboken.com/
+NJ	Jersey City	CULTR BJJ	https://www.cultrbjj.com/
+NJ	Jersey City	Team Endurance MMA/ Brazilian JiuJitsu & Kickboxing Academy	http://www.teamendurancemma.com/
+NJ	Jersey City	Thiago Rela BJJ	https://www.thiagorelateam.com/
+NJ	Livingston	Amorosi's Mixed Martial Arts	http://www.amorosikarate.com/
+NJ	Lyndhurst	Anaconda Brazilian Jiu Jitsu & MMA Academy	http://www.anacondabjjmma.com
+NJ	Manville	Red Dragon Martial Arts Academy	http://www.reddragonmaa.com/
+NJ	Milltown	Puzon Jiu Jitsu	http://www.puzonjiujitsu.com/
+NJ	Montclair	Straight Blast Gym New Jersey	https://www.sbgnj.com/
+NJ	Mt. Holly	Jbm Brazilian Jiu-Jitsu Academy	http://www.jbmbjj.com/
+NJ	Newark	Roberto Gordo BJJ	https://www.robertogordo.com/
+NJ	Newton	Martial Way MMA	https://martialwaymma.com/
+NJ	North Brunswick Township	Advanced Martial Arts	http://advancedbjj.com/
+NJ	South Amboy	Lionheart MMA	http://www.lionheartmixedmartialarts.com/
+NJ	South Pennsauken	Advantage MMA	http://www.advantagemixedmartialarts.com/
+NJ	South Plainfield	Renzo Gracie South Plainfield	https://www.renzograciesouthplainfield.com/
+NJ	Teterboro	Martial Maxx MMA	http://www.martialmaxxmma.com/
+NJ	Toms River	Gracie Barra Toms River	https://www.gbtomsriver.com/
+NJ	Vineland	Legion Mixed Martial Arts	http://legionmixedmartialarts.com/
+NJ	Vineland	The Shark Tank BJJ	http://sharktankbjj.com/
+NJ	Vineland	US Martial Arts Academy Inc	http://www.usmartialarts.biz/
+NJ	Wayne	Up Top Martial Arts Academy	http://www.martialartswaynenj.com/
+NJ	West Long Branch	Rolles Gracie Academy - Long Branch Jiu Jitsu & Muay Thai	https://rollesgracielongbranchnj.com/
+NJ	Westfield	Gracie Barra Westfield	https://www.gbwestfield.com/
+NJ	Woodland Park	Extreme Fight Club	http://www.efcchampion.com/
+NJ	Woodland	Camal Judo	http://camaljudo.com/
+NM	Alamogordo	Alamogordo BJJ	https://alamogordobjj.com
+NM	Albuquerque	Duke City BJJ	https://dukecitybjj.com
+NM	Farmington	Farmington BJJ	https://farmingtonbjj.com
+NM	Las Cruces	Las Cruces BJJ	https://lascrucesbjj.com
+NM	Las Vegas	Las Vegas NM BJJ	https://lasvegasnmbjj.com
+NM	Portales	Portales BJJ	https://portalesbjj.com
+NM	Roswell	Roswell BJJ	https://roswellbjj.com
+NM	Santa Fe	New Mexico BJJ	https://newmexicobjj.com
+NM	Taos	Taos BJJ	https://taosbjj.com
+NL	Clarenville	Velocity Martial Arts Academy	https://www.velocitynl.com
+NL	Corner Brook	Corner Brook BJJ	https://cornerbrookbjj.com
+NL	Gander	Gander BJJ	https://ganderbjj.com
+NL	Labrador City	Labrador City BJJ	https://www.novauniao.ca/lab-city
+NL	St. John's	St. John's BJJ	https://stjohnsbjj.com
+NC	Cary	Verity Brazilian Jiu-Jitsu	https://veritybjj.com/
+NC	Chapel Hill	Chapel Hill Gracie Jiu Jitsu	http://www.chapelhilljiujitsu.net/
+NC	Charlotte	Atos Jiu Jitsu of Charlotte	http://martialartscharlottenc.com/
+NC	Charlotte	Charlotte Jiu-Jitsu Academy	https://charlottejiujitsuacademy.com
+NC	Clayton	Chuva Brazilian Jiu Jitsu	http://chuvabjj.com/
+NC	Cornelius	Crossface MMA	http://www.crossface.net/
+NC	Durham	Pitbull Martial Arts Center-USA	http://pmacusamma.com/
+NC	Durham	Saunders Brazilian Jiu-Jitsu	http://www.saundersbjj.com/
+NC	Goldsboro	Triangle Jiu-Jitsu Academy	http://www.trianglejj.com/
+NC	Laurinburg	Warrior Fitness Center Laurinburg	http://www.laurinburgbjj.com/
+NC	Lincolnton	SAGA Combat Systems	http://www.sagacombat.com/
+NC	Spring Lake	Gracie Barra - Spring Lake	http://gbspringlake.com/
+NC	Wilmington	Ethos BJJ	https://ubjjnc.com/
+NC	Wilmington	Ravensguard BJJ Academy	http://ravensguardacademy.com/
+NC	Wilson	Gustavo Machado Brazilian Jiu Jitsu Wilson	https://gmbjjwnc68.com/
+NC	Wrightsville Beach	Evolution MMA Academy	http://www.evolutionmixedmartialarts.com/
+ND	Bismarck	Bismarck Jiu Jitsu	https://bismarckjiujitsu.com
+ND	Dickinson	Dickinson BJJ	https://dickinsonbjj.com
+ND	Grand Forks	Grand Forks BJJ	https://grandforksjj.com
+ND	Jamestown	Jamestown BJJ ND	https://jamestownbjjnd.com
+ND	Mandan	Mandan BJJ	https://mandanbjj.com
+ND	Minot	Prairie Jiu Jitsu	https://prairiejiujitsu.com
+ND	Valley City	Valley City BJJ	https://valleycitybjj.com
+ND	Williston	Williston BJJ	https://willistonbjj.com
+NS	Bridgewater	Team Fortitude NS	https://teamfortitudens.com
+NS	Dartmouth	Atlantic BJJ	https://atlanticbjj.com
+NS	Shelburne	Shelburne BJJ NS	https://shelburnebjjns.com
+NS	Stellarton	Stellarton BJJ	https://stellartonbjj.com
+NS	Sydney	Cape Breton BJJ	https://capebretonbjj.com
+NS	Yarmouth	Yarmouth BJJ	https://yarmouthbjj.com
+OH	Bedford Heights	Rising Dragon Mixed Martial Arts & Fitness	http://risingdragonmma.com/
+OH	Brook Park	RTSC Training Center	https://sasclevelandohio.com
+OH	Bryan	Bryan Jiu-Jitsu Academy	http://jiujitsubryan.ninja/
+OH	Canton	Victory MMA Jujitsu Sbmssn	http://www.victorymmasubmissionfighting.org/
+OH	Cincinnati	Kombat Arts Ohio	https://kombatartsohio.com
+OH	Cleveland	Cal Crowell Fitness, Athletic & MMA Training Center	http://www.clevelandmmatraining.com/
+OH	Cleveland	Renzo Gracie Cleveland	https://renzograciecleveland.com
+OH	Columbia Station	Resistance Lab Brazilian Jiu Jitsu	http://resistancelabbjj.com/
+OH	Columbus	Bushido Martial Arts Club	http://www.graciebushido.com/
+OH	Columbus	Ernie Reyes' Midwest Martial Arts	http://www.columbus-martial-arts.com/
+OH	Delaware	Rise Ohio	http://www.riseohio.com
+OH	Dublin	Martial Arts Alliance	http://www.martialartsalliance.net/
+OH	Hilliard	Endeavor Defense & Fitness	http://www.gymhilliard.com
+OH	Lima	Danger Zone Gym	http://www.dangerzonegym.com/contact-us
+OH	Newton Falls	Synergy Martial Arts Academy	http://www.synergymartialartsohio.com/
+OH	Sunbury	Koguryo Martial Arts Academy	http://www.koguryoma.com/
+OH	Walton Hills	Team Chard BJJ	http://ohiobjjc.com/
+OH	Warrensville Heights	Love And Chokes Jiu Jitsu Academy	http://loveandchokes.com/
+OK	Ada	Conquer BJJ Mixed Martial Arts Academy	https://conquerbjjada.com
+OK	Altus	10th Planet Jiu-Jitsu Altus	https://altusmartialarts.ninja
+OK	Bixby	Omar French Brazilian Jiu Jitsu	https://omarfrench.com
+OK	Broken Arrow	Brothers Jiu Jitsu	https://brothersjiujitsu.com
+OK	Broken Arrow	Team Impact Martial Arts & Fitness	https://teamimpactok.com
+OK	Collinsville	Northside Brazilian Jiu Jitsu	https://thenorthsidebjj.com
+OK	Durant	Empire Jiu-Jitsu Durant	https://empirejiujitsudurant.com
+OK	Edmond	American Elite Mixed Martial Arts	https://edmondbjj.com
+OK	Edmond	Prodigy Jiu-Jitsu	https://peopleclimbers.com
+OK	El Reno	KMG Martial Arts Inc	https://kmgmartialarts.com
+OK	McAlester	True Grit Jiu Jitsu and Defense	https://truegritjiu-jitsu.com
+OK	Norman	Kaizen Performance LLC	https://kaizenperformance.net
+OK	Norman	National Martial Arts of Norman	https://nmanorman.com
+OK	Oklahoma City	Sen Shin Kan Dojo	https://senshinkandojo.com
+OK	Okmulgee	Prowess Brazilian Jiu-Jitsu	https://prowessbjj.com
+OK	Owasso	Clinch Martial Arts Academy - Owasso	https://teamclinch.com
+OK	Poteau	Oklahoma Combat Sports / KORE BJJ	https://site.oklahomacombatsports.com
+OK	Pryor	Trinity Martial Arts	https://trinitypryor.com
+OK	Seminole	Alexander Jiu-Jitsu	https://alexanderjiujitsu.com
+OK	Stillwater	Jackson Academy Martial Art Fitness	https://jacksonacademymartialarts.com
+OK	Tulsa	Relentless Martial Arts	https://relentlessmartialarts.com
+OK	Tulsa	Tulsa Judo and Jiu Jitsu	https://tulsajudoclub.com
+ON	Ajax	Ajax BJJ	https://ajaxbjj.com
+ON	Cambridge	Cambridge BJJ	https://cambridgebjj.com
+ON	Hamilton	Valens Jiu Jitsu Academy	https://valensjiujitsu.com
+ON	Kingston	Kingston BJJ	https://kingstonbjj.ca
+ON	London	Alliance Jiu Jitsu London Ontario	https://alliancejiujitsulondon.ca
+ON	Mississauga	South Mississauga Jiu Jitsu	https://southmississaugabjj.com
+ON	North Bay	North Bay BJJ	https://northbaybjj.com
+ON	Orillia	Orillia BJJ	https://orilliabjj.com
+ON	Oshawa	Oshawa BJJ	https://oshawawbjj.com
+ON	Ottawa	Alliance Jiu Jitsu Ottawa	https://alliancejiujitsuottawa.com
+ON	Peterborough	Peterborough BJJ	https://peterboroughbjj.com
+ON	Pickering	Pickering BJJ	https://pickeringbjj.com
+ON	Sault Ste. Marie	Sault Ste. Marie BJJ	https://saultbjj.com
+ON	Stratford	Stratford BJJ Ontario	https://stratfordbjjon.com
+ON	Thunder Bay	Thunder Bay BJJ	https://thunderbaybjj.com
+ON	Toronto	Yorkdale Martial Arts	https://yorkdalemartialarts.com
+ON	Whitby	Four-Eleven Brazilian Jiu Jitsu	https://foureleven-bjj.com
+ON	Windsor	Windsor BJJ	https://windsorbjj.com
+ON	Woodstock	Woodstock BJJ Ontario	https://woodstockbjjon.com
+OR	Astoria	White Panther Tae Kwon Do Boxing and Filipino Martial Arts	http://www.whitepantherastoria.com/
+OR	Eugene	Eugene Jiu Jitsu Club	http://www.eugenejiujitsuclub.com/
+OR	Eugene	RISE Mixed Martial Arts - Eugene	http://risemixedmartialartseugene.com/
+OR	Forest Grove	CTA Forest Grove Jiu Jitsu	https://www.forestgrovebjj.com/
+OR	Gresham	Impact Next Generation	http://impactnextgeneration.com
+OR	Medford	Cauliflower Ear Family	http://cauliflowerearfamily.com/
+OR	Medford	Spartan Team Brazilian Jiu-Jitsu	http://spartanboxinggym.com/
+OR	Milwaukie	Krav Maga Self Defense & Fitness	http://www.kravmagaportland.com
+OR	Portland	Portland Small Circle Jujitsu	http://www.portlandjujitsu.com/
+OR	Rockaway Beach	Rockaway Brazilian Jiu Jitsu	http://rockawaybjj.net/
+PA	Bath	Apgar Mixed Martial Arts	http://www.apgarmma.com/
+PA	Berwyn	Jade Studio	http://www.jademovementstudio.com
+PA	Bridgeville	Zezinho's Mota Jiu-Jitsu School	http://www.zzmbjj.com/
+PA	Carlisle	Gracie Barra Carlisle	http://www.gbcarlisle.com/
+PA	Ephrata	Ephrata Martial Arts	https://www.ephratamartialarts.com/
+PA	Huntingdon Valley	Kozma Brazilian Jiu-Jitsu	http://www.kozmabjj.com
+PA	Lewisburg	Ramsey Academy of Martial Arts	http://www.bvrec.org/
+PA	Media	House of Arts Jiu Jitsu	http://hoabjj.com
+PA	Newtown	Bucks MMA	http://www.bucksmma.com/
+PA	Newtown	Ricardo Almeida Brazilian Jiu Jitsu & Martial Arts	http://www.newtownbjj.com
+PA	Phoenixville	USA MMA Academy	http://www.usammaacademy.com
+PA	Shamokin	Elite Performance Combat Club	http://www.epccbjj.com/
+PA	Swoyersville	Northeastern Ju Jitsu	http://www.nejujitsu.com/
+PA	Warrington	X-Treme MMA American Top Team	http://www.warringtonjiu-jitsu.com/
+PA	Woodlyn	Delco Brazilian Jiu-Jitsu	http://www.delcobjj.com/
+PE	Charlottetown	PEI Brazilian Jiu Jitsu	https://peibjj.com
+PE	Souris	Souris Brazilian Jiu-Jitsu	https://sourisbjj.com
+PE	Stratford	Stratford BJJ PEI	https://stratfordbjjpei.com
+PE	Summerside	Island Grappling Club	https://islandgrapplingclub.com
+PE	Summerside	Summerside BJJ PEI	https://summersidebjjpei.com
+QC	Alma	Alma BJJ	https://almabjj.com
+QC	Drummondville	Drummondville BJJ	https://drummondvillebjj.com
+QC	Gatineau	Patenaude Martial Arts Gatineau	https://patenaude-martialarts.com
+QC	Laval	Action & Reaction MMA	https://actionreactionmma.ca
+QC	Longueuil	Longueuil BJJ	https://longueuilbjj.com
+QC	Lévis	Levis BJJ	https://levisbjj.com
+QC	Montreal	Alliance Jiu Jitsu Montreal	https://alliancejiujitsumontreal.com
+QC	Montreal	Renzo Gracie Montreal	https://renzogracieontreal.com
+QC	Montreal	Santos Brothers BJJ Montreal	https://santosbrothersbjjmtl.com
+QC	Quebec City	Alliance Jiu Jitsu Quebec City	https://alliancejiujitsuqc.com
+QC	Quebec City	Royal Jiu-Jitsu Quebec	https://royaljiujitsu.ca
+QC	Rimouski	Rimouski BJJ	https://rimouskibjj.com
+QC	Saguenay	Saguenay BJJ	https://saguenaybjj.com
+QC	Sept-Îles	Sept-Iles BJJ	https://septilesbjj.com
+QC	Trois-Rivières	Trois-Rivieres BJJ	https://troisrivieresbjj.com
+RI	Bristol	Bristol BJJ	https://bristolbjj.com
+RI	Cranston	Cranston BJJ	https://cranstonbjj.com
+RI	East Providence	East Providence BJJ	https://eastprovidencebjj.com
+RI	Middletown	Middletown BJJ RI	https://middletownbjjri.com
+RI	Pawtucket	Pawtucket BJJ	https://pawtucketbjj.com
+RI	Providence	Ricardo Cavalcanti BJJ RI	https://cavalcantibjjri.com
+RI	Woonsocket	Woonsocket BJJ	https://woonsocketbjj.com
+SK	Estevan	Estevan BJJ	https://estevanbjj.com
+SK	Lloydminster	Lloydminster BJJ	https://lloydminsterbjj.com
+SK	Melfort	Melfort BJJ	https://melfortbjj.com
+SK	Moose Jaw	Moose Jaw BJJ	https://moosejawbjj.com
+SK	North Battleford	North Battleford BJJ	https://northbattlefordbjj.com
+SK	Prince Albert	Prince Albert BJJ	https://princealberbjj.com
+SK	Saskatoon	Saskatoon BJJ	https://saskatoonbjj.com
+SK	Swift Current	Swift Current BJJ	https://swiftcurrentbjj.com
+SK	Weyburn	Weyburn BJJ	https://weyburnbjj.com
+SK	Yorkton	Yorkton BJJ	https://yorktonbjj.com
+SC	Aiken	Aiken Jiu-Jitsu	https://aikenjiujitsu.com
+SC	Beaufort	Beaufort BJJ	https://beaufortbjj.com
+SC	Columbia	Columbia BJJ	https://columbiabjj.com
+SC	Easley	Alliance Jiu Jitsu Easley	https://allianceeasley.com
+SC	Florence	Florence BJJ SC	https://florencebjjsc.com
+SC	Hilton Head Island	Hilton Head BJJ	https://hiltonheadbjj.com
+SC	North Charleston	American Judo and Jiu-Jitsu	https://americanjudoandjiujitsu.com
+SC	Orangeburg	Orangeburg BJJ	https://orangeburgbjj.com
+SC	Spartanburg	Spartanburg BJJ	https://spartanburgbjj.com
+SC	Summerville	Summerville BJJ	https://summervillebjj.com
+SD	Aberdeen	Aberdeen BJJ	https://aberdeenbjj.com
+SD	Brookings	Brookings BJJ	https://brookingsbjj.com
+SD	Rapid City	Black Hills BJJ	https://blackhillsbjj.com
+SD	Sioux Falls	Joku Dojo	https://jokudojo.com
+SD	Sioux Falls	Sioux Falls BJJ	https://siouxfallsbjj.com
+SD	Vermillion	Vermillion BJJ	https://vermillionbjj.com
+SD	Watertown	Watertown BJJ SD	https://watertownbjjsd.com
+TN	Alcoa	Maryville Jiu-Jitsu	https://www.maryvillejiujitsu.com
+TN	Athens	Athens Brazilian Jiu-Jitsu	https://athensbrazilianjiujitsu.com
+TN	Chattanooga	Armory Jiu-Jitsu Academy Chattanooga	https://www.armoryjiujitsuacademy.com
+TN	Columbia	Columbia BJJ Tennessee	https://columbiabjjtn.com
+TN	Hendersonville	Profectus Jiu-Jitsu Hendersonville	https://profectusjiujitsu.com
+TN	Jackson	Jackson BJJ Tennessee	https://jacksonbjjtn.com
+TN	Johnson City	Tri-Cities BJJ	https://tricitiesbjj.com
+TN	Knoxville	Knoxville BJJ	https://knoxvillebjj.com
+TN	Lebanon	Lebanon BJJ Tennessee	https://lebanonbjjtn.com
+TN	Nashville	Alliance Jiu Jitsu Tennessee	https://alliancejiujitsutennessee.com
+TX	Abilene	Revolutionary Fitness & MMA	http://www.revfitmma.com/
+TX	Arlington	Aloisio Silva Brazilian Jiu-Jitsu Academy	https://www.aloisiosilvabjj.com/
+TX	Austin	Austin Fitness Martial Arts - Now is THE VOID MArtial Arts	http://www.austinfitnessmartialarts.com
+TX	Austin	Austin Fitness Martial Arts	https://www.afmatx.com/
+TX	Austin	Austin Martial Arts Academy	http://www.austinmartialarts.com/
+TX	Austin	Austin Mixed Martial Arts	https://www.austinmixedmartialarts.com/
+TX	Austin	Brazilian Fight Factory	http://www.brazilianfightfactory.com/
+TX	Austin	Fight Factory Austin	https://fightfactoryaustin.com/
+TX	Bedford	Carlos Machado Jiu-Jitsu Mid Cities	https://carlosmachadojiujitsumidcities.com/Home/Offer/
+TX	Bedford	Ironside Martial Arts	http://www.ironsidemartialarts.com/
+TX	Boerne	Grind House Training Facility	http://www.grindhousetraining.com/
+TX	Burleson	GB Burleson	https://www.gbburleson.com
+TX	Carrollton	Gracie Barra Carrollton	https://www.gbcarrollton.com
+TX	Carrollton	Trainers Elite	http://www.trainerselite.net/
+TX	Cedar Park	GKX Martial Arts	http://www.gkxtreme.com/
+TX	Conroe	EnergyFIT Mixed Martial Arts & Fitness	http://energyfitacademy.com/
+TX	Conroe	Gracie Humaita Conroe	https://www.gymconroe.com/
+TX	Corinth	Jiu Jitsu Tech Mix martial arts and fitness	https://jiujitsutechofcorinth.com
+TX	Corpus Christi	Renzo Gracie	http://www.renzogracietx.com/
+TX	Corpus Christi	Xtreme MMA	http://www.xtrememmabjj.com/
+TX	Deer Park	Atos Jiu-Jitsu Houston	http://www.atoshoustonbjj.com
+TX	Denton	Texas Elite MMA	http://www.teamgibson.net/
+TX	Edinburg	Amazonas MMA & Fitness Academy	https://amazonasmma.com/
+TX	El Paso	El Paso Jiujitsu / Jiu-Jitsu El Paso TX 79936	http://www.elpjiujitsu.com/
+TX	Fort Worth	Evolve BJJ	https://www.evolvebjj.com/
+TX	Fort Worth	Marcos Santos Academy	http://fwbjj.com/
+TX	Fort Worth	TX Black Belt Academy Ft Worth	http://www.txbba-fortworth.com/
+TX	Greenville	Chop Shop MMA	http://www.chopshopmma.com/
+TX	Harlingen	Harlingen Jiu-Jitsu Club	http://www.harlingenjjc.com/
+TX	Houston	Advantage BJJ Martial Arts & Fitness	https://advantagebjj.com/
+TX	Hurst	Collins Martial Arts	http://www.collinsmartialarts.com/
+TX	La Marque	ACS Mixed Martial Arts	http://acsmmatx.com/
+TX	Laredo	Sangue Novo FT / Gallos Prietos Jiu Jitsu	https://sanguenovojj.com/
+TX	Longview	Longview BJJ	https://longviewbjj.com
+TX	Longview	Pure Jiu-Jitsu Longview	https://pjlvtx.com/
+TX	Lubbock	Victory Combat Sports Academy	https://www.victorycombatsportsacademy.com/contact
+TX	McKinney	Combat Base TX / Shebaro Jiu Jitsu / We Defy HQ	https://shebarojiujitsu.com
+TX	Mesquite	KO Empire Fight Academy / BJJ Mesquite TX 75149	https://www.koempirefa.com/
+TX	Midland	Midland BJJ Texas	https://midlandbjjtx.com
+TX	Mission	Premier Martial Arts-Mission	http://www.missiontxmartialarts.com/
+TX	North Richland Hills	Peak Performance Brazilian Jiu-Jitsu	http://www.peakbjj.com/
+TX	Richardson	ASL JunSur Martial Arts	https://www.asljiujitsu.com/
+TX	Richardson	Gracie Gym Richardson / Brazilian Jiu-Jitsu	http://graciegymrichardson.com/
+TX	River Oaks	Genesis Jiu Jitsu	http://www.genesisjiujitsu.com
+TX	Rockwall	CAYA Martial Arts	http://www.cayamartialarts.com/
+TX	San Antonio	American Kickboxing Academy Texas	http://www.akatexas.com/
+TX	San Antonio	Martial Arts Academy Of San Antonio	http://www.martialartssa.com/
+TX	San Antonio	Semper Fortis	https://www.brazil021sanantonio.com
+TX	San Benito	Benavides Mixed Martial Arts	http://www.benavidesmma.com/
+TX	San Benito	South Texas Grappling Team	https://southtexasgrappling.com
+TX	Southlake	Lucky Jiu-Jitsu and Fitness Club	https://luckybjj.com
+TX	Spring	Katana Jiu-Jitsu Academy	http://katanajiu-jitsuacademy.com
+TX	Sulphur Springs	Ion Jiu Jitsu	http://www.ionjiujitsuandfitness.com/
+TX	Tomball	Defenders Martial Arts Academy	http://www.defendersmaa.com
+TX	Tomball	McCoy's Brazilian Jiu Jitsu & MMA - Tomball	http://mccoysmma.com/
+UT	Cedar City	Cedar City BJJ	https://cedarcitybjj.com
+UT	Layton	Layton BJJ	https://laytonbjj.com
+UT	Logan	Logan BJJ	https://loganbjj.com
+UT	Moab	Moab BJJ	https://moabbjj.com
+UT	Ogden	Ogden BJJ	https://ogdenbjj.com
+UT	Provo	Provo BJJ	https://provobjj.com
+UT	Salt Lake City	Alliance Jiu Jitsu Utah	https://alliancejiujitsuutah.com
+UT	Salt Lake City	SLC BJJ Academy	https://slcbjjacademy.com
+UT	Sandy	Sandy BJJ	https://sandybjj.com
+UT	St. George	Alliance Jiu Jitsu St. George	https://alliancejiujitsustgeorge.com
+UT	Vernal	Vernal BJJ	https://vernalbjj.com
+UT	West Jordan	West Jordan BJJ	https://westjordanbjj.com
+VT	Barre	Barre BJJ	https://barrebjj.com
+VT	Bennington	Bennington BJJ	https://benningtonbjj.com
+VT	Brattleboro	Brattleboro BJJ	https://brattleborobjj.com
+VT	Burlington	Green Mountain BJJ	https://greenmountainbjj.com
+VT	Montpelier	Montpelier BJJ	https://montpelierbjj.com
+VT	Rutland	Rutland BJJ	https://rutlandbjj.com
+VT	St. Johnsbury	Northeast Kingdom BJJ	https://nekbjj.com
+VT	White River Junction	White River BJJ	https://whiteriverbjj.com
+VA	Ashburn	Virginia Jiu-Jitsu Academy	http://www.virginiajiu-jitsuacademy.com
+VA	Ashland	RVA MMA Ashland	http://rvamma.com/
+VA	Chesapeake	Gustavo Machado Brazilian Jiu Jitsu Chesapeake	https://www.gmbjjchesapeake.com
+VA	Culpeper	Culpeper Brazilian Jiu-Jitsu	http://crossfitculpeper.com/
+VA	Fredericksburg	DCB MMA & Athletic Training	http://www.dcbmma.com/
+VA	Fredericksburg	GB Fredericksburg	https://graciejiujitsufredericksburg.com/
+VA	Fredericksburg	The Lab MMA	http://www.thelabbjj.com/
+VA	Hampton	Cheeseman Martial Arts Brazilian Jiu Jitsu	http://cheesemanmartialarts.net/
+VA	Leesburg	Tenth Round Boxing & MMA	https://www.pedroboxing.com/
+VA	Lynchburg	Feks MMA	http://www.mma4lynchburg.com/
+VA	Newport News	Breakaway Jiu Jitsu	http://www.breakawayjiujitsu.com
+VA	Norfolk	Gustavo Machado Norfolk	http://www.gustavomachadonorfolk.com
+VA	Portsmouth	Bushido MMA (Muay Thai and BJJ)	http://bushidomma.net/
+VA	Roanoke	Hybrid Martial Arts Center	http://www.hybridroanoke.com/
+VA	Stuarts Draft	Augusta Combat Sports	http://www.augustacombatsports.com/
+VA	Winchester	Winbjj Mixed Martial Arts	http://www.winbjj.com/
+VA	Woodbridge	Gold Medal Grappling	http://www.ameri-jitsu.com/
+VA	Yorktown	Modern American MMA	http://www.mammas-boys.com/
+WA	Tacoma	Brazilian Jiu-Jitsu Academy of Tacoma (Marcello C. Monteiro)	https://www.253bjj.com
+DC	Washington	Capital City BJJ	https://capitalcitybjj.com
+DC	Washington	Capitol Hill BJJ	https://capitolhillbjj.com
+DC	Washington	DC BJJ Academy	https://dcbjjacademy.com
+WV	Beckley	Beckley BJJ	https://beckleybjj.com
+WV	Fairmont	Fairmont BJJ	https://fairmontbjj.com
+WV	Huntington	Huntington BJJ	https://huntingtonbjj.com
+WV	Martinsburg	Martinsburg BJJ	https://martinsburgbjj.com
+WV	Wheeling	Wheeling BJJ	https://wheelingbjj.com
+WI	Baraboo	Filipe Barbosa Brazilian Jiu-Jitsu	https://bjjwisconsin.com
+WI	Milwaukee	Elevation Jiu-Jitsu	https://elevationjiujitsu.com
+WI	Saukville	Seamless Progression Academy	https://seamlessprogressionacademy.com
+WY	Casper	Casper BJJ	https://casperbjj.com
+WY	Cody	Cody BJJ	https://codybjj.com
+WY	Jackson	Wyoming Martial Arts	https://wyomingmartialarts.com
+WY	Laramie	Alliance Jiu Jitsu Wyoming	https://alliancejiujitsuwyoming.com
+WY	Riverton	Riverton BJJ	https://rivertonbjj.com
+WY	Rock Springs	Rock Springs BJJ	https://rockspringsbjj.com
+WY	Sheridan	Sheridan BJJ Wyoming	https://sheridanbjjwy.com

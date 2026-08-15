@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+2	CA	Alameda	Gracie Jiu-Jitsu Alameda		no w key
+12	CA	Chula Vista	GB Chula Vista		no w key
+22	CA	Hawthorne	Pedigo Submission Fighting Los Angeles		no w key
+32	CA	Los Angeles	Bang Bang Power Fit	http://bangbangpowerfit.com/	override blanks it
+42	CA	Paso Robles	GB Paso Robles	https://gbpasorobles.com/	override blanks it
+52	CA	Santa Clarita	Gracie Jiu-Jitsu Santa Clarita		no w key
+62	CA	Torrance	10th Planet Torrance	https://www.darkartsacademy.net	override blanks it
+72	CA	Whittier	Gracie Jiu-Jitsu Whittier		no w key
+82	TX	Austin	Austin Mixed Martial Arts	https://www.austinmixedmartialarts.com/	override blanks it
+92	TX	Carrollton	Gracie Barra Carrollton	https://www.gbcarrollton.com	override blanks it
+102	TX	Deer Park	Atos Jiu-Jitsu Houston	http://www.atoshoustonbjj.com	override blanks it
+112	TX	Highland Village	Gracie Jiu-Jitsu Highland Village		no w key
+122	TX	McKinney	Combat Base TX / Shebaro Jiu Jitsu / We Defy HQ	https://shebarojiujitsu.com	override blanks it
+132	TX	Rhome	Spartan Fit MMA		no w key
+142	TX	San Benito	South Texas Grappling Team	https://southtexasgrappling.com	override blanks it

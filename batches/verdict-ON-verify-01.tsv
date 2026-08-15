@@ -1,0 +1,25 @@
+# ON-verify-01 verdicts
+city	name_confirmed	url	address	verdict	note
+Toronto	Gracie Barra North York Toronto	graciebarra.com		EMPTY	page exists but returns no body after 5 tries
+Toronto	Gracie Barra Toronto East	graciebarra.com	68 Railside Rd Unit B, Toronto, ON M1A 1A3	CONFIRMED	real page is graciebarra.com/toronto-east-canada
+Etobicoke	Etobicoke BJJ	etobicoke-bjj.com	2918 Lake Shore Blvd W, Toronto, ON M8V 1J4	CONFIRMED	etobicoke is part of toronto
+Scarborough	Toronto Top Team Martial Arts and Fitness	torontommateam.com	161 Bartley Drive Unit 3 and 4, North York, ON M4A 1E6	CONFIRMED	actually in north york not scarborough
+Toronto	JT6 Academy	jt6.ca	28 Industrial Street Unit 218, Toronto, ON M4G 1Y9	CONFIRMED	leaside location, also has a markham site
+Markham	88 BJJ	eighteightbjj.com	Unit 17 - 50 Anderson Ave, Markham, ON L6E 1A6	CONFIRMED	-
+Richmond Hill	Richmond Hill Jiu-Jitsu	rh-bjj.com	132 King Rd, Richmond Hill, ON L4E 2T6	CONFIRMED	redirects to rhbjj.ca, also runs maple bjj location
+Richmond Hill	905 Brazilian Jiujitsu	905brazilianjiujitsu.com	10 Furbacher Ln Unit 2, Aurora, ON L4G 3V2	CONFIRMED	actual address is in aurora, not richmond hill
+Vaughan	King Jiu Jitsu Vaughan	kingjiujitsuvaughan.com	207 Edgeley Blvd #19, Concord, ON L4K 4B5	CONFIRMED	concord is part of vaughan
+Vaughan	Vaughan Jiu-Jitsu Academy	vaughanbjj.com	130 Racco Parkway Unit 5, Vaughan, ON L4J 8X9	CONFIRMED	-
+Mississauga	Core Jiu-Jitsu	bjjmississauga.com	966 Dundas Street East Unit 13, Mississauga, ON L4Y 4H5	CONFIRMED	site calls itself core jiu-jitsu, b9 is program brand
+Mississauga	Current Jiu Jitsu	currentbjj.com	6810 Kitimat Rd Units 8 & 9, Mississauga, ON L5N 5M2	CONFIRMED	-
+Mississauga	New Valor Brazilian Jiu-Jitsu Academy	newvalorbjj.com	3250 Ridgeway Dr Unit 7, Mississauga, ON L5L 5Y6	CONFIRMED	inside magnitude martial arts, near ne oakville
+Mississauga	Octa BJJ Mississauga	mississauga.octabjj.com	3065 Ridgeway Dr Unit 46 & 47, Mississauga, ON L5L 5M6	CONFIRMED	-
+Mississauga	Nova Uniao BJJ-MMAC	bjj-mmac.ca		EMPTY	resolves fine but blank body on root, www and contact
+Mississauga	AMA Dojo	amadojo.ca	Unit 8 - 6790 Kitimat Rd, Mississauga, ON L5N 5M1	CONFIRMED	multi-discipline academy, has dedicated bjj program
+Brampton	Brampton Brazilian Jiu Jitsu Academy	bramptonjiujitsu.com	1295 Williams Pky E, Brampton, ON L6S 3J8	CONFIRMED	also has georgetown and orangeville sister locations
+Oakville	Octa BJJ Oakville	octabjj.com	220 Wyecroft Road Unit 41, Oakville, ON L6K 3V1	CONFIRMED	this is the octa bjj hq location
+Burlington	Octa BJJ Burlington	burlington.octabjj.com	1176 Blair Road, Burlington, ON L7M 1K9	CONFIRMED	-
+Oakville	VS Brazilian Jiu-Jitsu	vsbjj.com	3114 Dundas St W, Oakville, ON	CONFIRMED	-
+Burlington	MN Brazilian Jiu Jitsu Academy	mnbjj.ca	5230 South Service Rd Unit 301, Burlington, ON L7L 5K2	CONFIRMED	-
+Oakville	Oakville Brazilian Jiu-Jitsu	oakvillejiujitsu.ca	2828 Kingsway Drive, Oakville, ON L6J 7M2	CONFIRMED	-
+Hamilton	Bora Jiu-Jitsu	borabjj.com	625 Greenhill Ave Unit 7, Hamilton, ON L8K 5N8	CONFIRMED	matches hamilton and stoney creek school

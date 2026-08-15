@@ -1,0 +1,16 @@
+id	region	city	name	stored_w	why_blank
+5	CA	Bakersfield	The Chute MMA, Jiu Jitsu and Wrestling	http://www.chutetraining.com	override blanks it
+15	CA	Dixon	Fabio Prado Brazilian Jiu-Jitsu Academy		no w key
+25	CA	Indio	Gracie Jiu-Jitsu Indio		no w key
+35	CA	Los Angeles	Uactp		no w key
+45	CA	Ridgecrest	Flawless Victory MMA	http://www.fvmma.com/	override blanks it
+55	CA	Solvang	GB Santa Ynez Valley		no w key
+65	CA	Vacaville	Rodrigo Cardoso Brazilian Jiu-Jitsu Academy	https://rodrigocardosoacademy.com/	override blanks it
+75	CA	Yucaipa	BloodSpillerBJJ & Caveirinha Jiu Jitsu Academy	http://www.cjjfsocal.com/	override blanks it
+85	TX	Austin	Brazilian Fight Factory	http://www.brazilianfightfactory.com/	override blanks it
+95	TX	Conroe	EnergyFIT Mixed Martial Arts & Fitness	http://energyfitacademy.com/	override blanks it
+105	TX	El Paso	El Paso Jiujitsu / Jiu-Jitsu El Paso TX 79936	http://www.elpjiujitsu.com/	override blanks it
+115	TX	Killeen	Terra Leon Brazilian Jiu Jitsu		no w key
+125	TX	Midland	Midland BJJ Texas	https://midlandbjjtx.com	override blanks it
+135	TX	Salado	Gracie Jiu-Jitsu Salado		no w key
+145	TX	Spring	Katana Jiu-Jitsu Academy	http://katanajiu-jitsuacademy.com	override blanks it

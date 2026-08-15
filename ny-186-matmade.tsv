@@ -1,0 +1,196 @@
+# NY MatMade candidates — 186 records, crawled 5 Aug 2026 (re-crawl of this run)
+# buildId Rd7MR1U4ddxhWYs6pVmUV, RE-DERIVED from __NEXT_DATA__ this run, not assumed.
+# Sitemap /sitemap/gym-sitemap.xml via /sitemap.xml: 7,311 URLs. Crawled 7,310 at
+# concurrency 12, 0 errors (skipped triton-fight-center, known permanent 404).
+# MEASURED: 186 records with state.title === "New York". city taken through rel().
+# websiteURL_raw is the RAW stored string per METHOD CORRECTION 3 — NOT URL.hostname,
+# NOT normalised, scheme preserved or absent as stored. Query strings intact.
+# Tab-separated. Two names legitimately contain "|" (a field separator per RULES §5)
+# and MUST be renamed before they can be written to a snippet at all.
+name	slug	city	postalCode	address1	address2	websiteURL_raw	phone	googleRating	googleReviewCount	affiliation
+Sitan Gym Li	sitan-gym-li	East Meadow	11554	2343 Hempstead Turnpike		http://www.sitangymli.com	(516) 520-0503	4.9	58	
+Fight Factory	fight-factory	Brooklyn	11235	2915 Ocean Parkway Service Rd		http://www.fightfactoryny.com/	+1 646-401-5657	4.5	70	
+Spirit Martial Arts	spirit-martial-arts	Queens	11416	103-11 101st Ave		https://spiritmma.com/	+1 718-849-8400	4.9	169	
+Tiger Schulmann's Martial Arts Chelsea (New York City) NY	tiger-schulmanns-martial-arts-chelsea-new-york-city-ny	New York	10010	688 Avenue of the Americas 2nd and 3rd Floor		https://tsk.com/locations/ny/chelsea/	+1 646-494-0994	4.9	151	
+East West MMA	east-west-mma	Seldon	11784	600 Middle County Road		http://www.circleofoneny.com/	n/a	5	59	
+Pegatessu Fitness	pegatessu-fitness	New York	10128	1425 Lexington Ave		http://www.pegatessu-fitness.com/	+1 212-722-1525	5	13	
+NY Ultimate Fitzone - Personal Training Bayside NY, MMA Personal Trainer, Muay Thai Gym Classes	ny-ultimate-fitzone-personal-training-bayside-ny-mma-personal-trainer-muay-thai-gym-classes	Queens	11364	215-11 Horace Harding Expy		http://nyultimatefitzoneny.com/	+1 347-378-3580	4.3	64	
+Krystek School of Judo, BJJ, Self Defense and Fitness	krystek-school-of-judo-bjj-self-defense-and-fitness	Queens	11417	96-25 Linden Blvd		http://places.singleplatform.com/krysteks-school-of-self-defense/menu?ref=google	+1 718-835-4330	4.9	41	
+Red Dawn Combat Club- Fresh Meadows	red-dawn-combat-club-fresh-meadows	Fresh Meadows	11366	188-18 Union Tpke		http://places.singleplatform.com/red-dawn-combat-club/menu?ref=google	+1 646-369-5062	4.9	43	
+Brooklyn BJJ	brooklyn-bjj	Brooklyn	11231	157 Columbia St		http://bkwingtsun.com	(347) 687-9072	4.8	82	
+Gracie Jiu-Jitsu New York	gracie-jiu-jitsu-new-york	Bronx	10465	3223 E Tremont Ave		https://gracieny.com	(646) 228-1945	4.9	73	
+USA Karate & BJJ	usa-karate-bjj	Pawling	12564	198 route 22		http://www.usakaratepawling.com/	n/a	5	300	
+Utica Combat Athletics	utica-combat-athletics	Utica	13501	800 Broad St		http://www.uticacombat.com/	+1 315-542-0525	5	7	
+Shōgun Jiu Jitsu Academy	shogun-mma	Webster	14580	60 Barrett Dr		http://www.shogunma.com/	+1 585-216-7883	5	105	
+Gracie Jiu-Jitsu Victor	gracie-jiu-jitsu-victor	victor	14564	160 School Street			(585) 924-7450	4.9	84	
+Kings Combat Fitness	kings-combat-fitness	Rego Park	11374	98-120 Queens Blvd		https://kingscombatfitness.com	+1 347-788-8787	4.6	51	
+Krav Maga Institute NYC	krav-maga-institute-nyc	New York	10023	48 W 68th St		http://www.kravmagainstitutenyc.com/	+1 917-720-3710	4	21	
+Tiger Schulmann's Martial Arts Fresh Meadows (Queens) NY	tiger-schulmanns-martial-arts-fresh-meadows-queens-ny	Queens	11366	162-16 Union Tpke		https://tsk.com/locations/ny/queens-fresh-meadows/	+1 718-691-1838	5	25	
+Serra Brazilian Jiu-Jitsu Academy - Levittown	serra-brazilian-jiu-jitsu-academy-levittown-levittown-new-york	Levittown				http://www.serrabjj.com/	(631) 385-2312	4.6	36	
+Kfm Martial Arts & Fitness Academy	kfm-martial-arts-fitness-academy	Lynbrook	11563	453 Sunrise Highway		http://www.kfmnewyork.com/	n/a	5	16	
+Iaido Kendo Club	iaido-kendo-club	New York	10011	110 W 14th St #2			+1 917-341-4515	4.8	5	
+Renzo Gracie Staten Island	renzo-gracie-staten-island	Staten Island	10312	4349 Hylan Boulevard		https://sinybjj.com/	(646) 353-7238	4.8	20	
+Evolution Muay Thai	evolution-muay-thai	New York	10001	213 W 35th St Ground Floor		http://evolutionmuaythai.com	(646) 649-3976	4.8	77	
+Tiger Schulmann's Martial Arts Rockville Centre NY	tiger-schulmanns-martial-arts-rockville-centre-ny	Rockville Centre	11570	274 Sunrise Hwy		https://tsk.com/locations/ny/rockville-centre/	+1 516-953-4334	5	210	
+Tiger Schulmann's Martial Arts Upper East Side (New York City) NY	tiger-schulmanns-martial-arts-upper-east-side-new-york-city-ny	New York	10075	1470 1st Avenue		https://tsk.com/locations/ny/upper-east-side/	+1 917-580-7884	5	53	
+Williamsburg MMA	williamsburg-mma	Brooklyn	11211	42A Dobbin St		https://www.williamsburgmma.com	+1 718-916-7492	4.9	30	
+Jkd NYC	jkd-nyc	New York	10036	W 46th ST 6th ave 2nd Floor		https://www.youtube.com/c/Jkdnyc	+1 347-746-5532	4.9	90	
+Gotham Jiu Jitsu	gotham-jiu-jitsu	New York	10010	210 5th Ave		http://www.gothamjiujitsu.com/	+1 646-284-1461	5	9	
+Workshop NYC	workshop-nyc	New York	10002	92 Delancey St		http://www.workshop-nyc.com	(917) 675-7282	4.9	139	
+Jungle Gym Martial Arts – New Rochelle	jungle-gym-martial-arts-new-rochelle	New Rochelle	10801	10 Cottage Pl		https://junglegymnewroc.com	+1 914-357-8454	4.9	167	
+Tiger Schulmann's Martial Arts Huntington NY	tiger-schulmanns-martial-arts-huntington-ny	Huntington	11743	1842 E Jericho Turnpike		https://tsk.com/locations/ny/huntington/	+1 631-609-4671	5	105	
+mma yonkers ny – mma training in yonkers ny	mma-yonkers-ny-mma-training-in-yonkers-ny	New Rochelle	10805	11 S Division St			+1 914-355-2618	4.7	165	
+Park Slope Academy of Brazilian Jiu-Jitsu	park-slope-academy-of-brazilian-jiu-jitsu	Brooklyn	11215	518 5th Ave		https://www.psabjj.com	+1 718-788-6990	4.9	188	
+Mayo Kickboxing & MMA Academy	mayo-kickboxing-mma-academy	Queens	11421	84-33 Jamaica Ave 2nd floor		http://mayomma.com/	+1 718-850-5500	4.8	222	
+Long Beach Jiu Jitsu	long-beach-jiu-jitsu	Long Beach	11561	162 W Park Ave Ste 200		https://lbnyjj.com	(516) 203-4214	4.9	55	
+Sas Jiu Jitsu Syracuse | BJJ Syracuse NY 13206	sas-jiu-jitsu-syracuse-bjj-syracuse-ny-13206	SYRACUSE	13206	3507B JAMES ST, (EASTWOOD PLAZA)		https://www.sasteamsyracuse.com/	(609) 224-9672	4.9	40	
+Curtis Tillman’S Mixed Martial Arts Academy	curtis-tillmans-mixed-martial-arts-academy	Cicero	13039	5885 E Circle Dr		http://tillman-mma.com/	n/a	4.9	103	
+Rockland Brazilian Jiu-Jitsu	rockland-brazilian-jiu-jitsu	Nanuet	10954	134 Middletown Rd.		http://www.rocklandbjj.com/	n/a	5	76	
+MCF Warpath Boxing and MMA Academy	mcf-warpath-boxing-and-mma-academy	The Bronx	10467	801 Bartholdi St		http://mcfmma.com/	+1 646-703-1054	4.5	64	
+Tiger Schulmann's Martial Arts Bayside (Queens) NY	tiger-schulmanns-martial-arts-bayside-queens-ny	Queens	11361	215-15 Northern Blvd		https://tsk.com/locations/ny/queens-bayside/	+1 718-569-7931	4.9	178	
+Serra Brazilian Jiu-Jitsu Academy - Huntington	serra-brazilian-jiu-jitsu-academy-huntington-huntington-new-york	Huntington				http://www.serrabjj.com/	(631) 385-2312	4.6	36	
+At Jiu-Jitsu NYC	at-jiu-jitsu-nyc	Queens	11372	80-22 Northern Blvd		http://www.atjiujitsunyc.com	(917) 745-1772	4.9	122	
+NY San Da	ny-san-da	Manhattan	10001	247 W 35th Street		https://www.nybestkickboxing.com	(212) 239-8619	4.5	18	
+Gracie Jiu-Jitsu Sayville	gracie-jiu-jitsu-sayville	sayville	11782	94 Main St.			(321) 236-2107	3	2	
+Ronin Athletics	ronin-athletics	New York	10016	265 Madison Ave Fl 5		https://roninathletics.com	(212) 564-4153	4.9	291	
+Lake Effect Martial Arts	lake-effect-martial-arts	Depew	14043	2106 George Urban Blvd			+1 716-901-1596	4.8	54	
+Modern Martial Arts Astoria	modern-martial-arts-astoria	Queens	11105	3508 Ditmars Blvd		https://www.mindbodyonline.com/explore/locations/modern-martial-arts-astoria?rwg_token=AOfrVq7BGGWgGxxv8WFT-8MCLqgZiuwKmHBy4B7tKQz2cywb4M5FRDqlqyH-g-OlEgljvG48kqLsB21sdpIGxIwWcRcTWJYSrA%3D%3D	+1 718-726-0101	4.7	19	
+Renzo Gracie Whitestone	renzo-gracie-whitestone	Whitestone	11357	150-33 14th Ave		http://renzogracie-whitestone.com/	+1 718-747-3330	4.9	19	
+Tiger Martial Arts	tiger-martial-arts	Levittown	11756	3058 Hempstead Turnpike		http://www.tigermartialarts.tv/	+1 516-579-3883	4.8	143	
+10th Planet Rochester	10th-planet-rochester	Rochester	14607	Rear Entrance Door H		http://www.10thplanetjiujitsurochester.com	(585) 943-1652	4.9	57	
+Tiger Schulmann's Martial Arts Nanuet NY	tiger-schulmanns-martial-arts-nanuet-ny	Nanuet	10954	419 Market St		https://tsk.com/locations/ny/nanuet/	+1 845-878-0134	5	127	
+LockDown BJJ	lockdown-bjj	Lake Ronkonkoma	11779	733 Hawkins Ave		https://lockdownbjj.com	(631) 276-1338	5	82	
+Krav Maga Academy	krav-maga-academy	New York	10001	122 W 27th St		https://kravmaga.fithit.com/	+1 212-213-3196	4.9	157	
+Brooklyn Motumbaxé Capoeira Jiu Jitsu--Mestre Lampréia	brooklyn-motumbax-capoeira-jiu-jitsu-mestre-lampria	Brooklyn	11217	76 Nevins St		https://lampreiamotumbaxe.com/membership/	+1 917-573-9517	5	39	
+Oneonta Jiu Jitsu Academy	oneonta-jiu-jitsu-academy	Oneonta	13820	5366 Main Street		https://oneontajiujitsuacademy.com	(607) 287-2550	5	78	
+Rocian Gracie Jr. Prof Marlon Colorado	rocian-gracie-jr-prof-marlon-colorado	Queens	11101	47-10 32nd Pl Ste 405		http://www.marloncoloradobjjnyc.com	(917) 225-8826	5	83	
+Brazilian Jiu Jitsu of Washington Heights	brazilian-jiu-jitsu-of-washington-heights	New York	10040	4450 Broadway 2nd floor		http://bjjofwashingtonheights.com/	+1 201-256-5481	5	15	
+American Top Team Watertown	american-top-team-watertown	Watertown	13601	1291 Faichney Dr		http://americantopteamwatertown.com/	+1 315-782-4255	5	94	
+Team Real USA	team-real-usa	Staten Island	10309	2298 Arthur Kill Rd		https://teamrealusa.com/wp	+1 347-979-4955	4.7	37	
+Buffalo United Martial Arts	buffalo-united-martial-arts	Buffalo	14203	359 Ganson Street		www.716bjj.com	(716) 563-0720	4.9	31	
+Alpha Omega MMA	alpha-omega-mma	Rockville Centre	11570	279 Sunrise Highway		http://www.alphaomegamma.com/	n/a	5	60	
+Upper West Side Brazilian Jiu-Jitsu	upper-west-side-brazilian-jiu-jitsu	New York	10025	928 Columbus Ave		http://www.uwskenshikai.com/bjj/	+1 212-222-1172	5	18	
+Kaizen Brazilian Jiu-Jitsu	kaizen-brazilian-jiu-jitsu	The Bronx	10462	1005B Morris Park Ave		http://www.kaizen-jiujitsu.com/	+1 718-822-2255	5	43	
+Tiger Schulmann's Martial Arts Garden City NY	tiger-schulmanns-martial-arts-garden-city-ny	Garden City	11530	650 Stewart Ave		https://tsk.com/locations/ny/garden-city/	+1 516-200-4376	4.8	87	
+Gracie Barra Long Island	gracie-barra-long-island	New Hyde Park	11040	24 Jericho Tpke		https://gblongisland.com	(516) 616-4662	4.8	72	
+Glory Mixed Martial Arts	glory-mixed-martial-arts	Woodside	11377	45-35 47th St		http://www.glorymma.com/	+1 718-433-0544	5	427	
+Marcelo Garcia Jiu Jitsu	marcelo-garcia-jiu-jitsu	New York	10001	250 W 26th St Fl 3		http://marcelogarciajj.com	(212) 414-0044	4.9	139	
+Progressive Martial Arts	progressive-martial-arts	Fresh Meadows	11365	175-25 Horace Expressway		http://www.progressivemartialarts.com/	n/a	4.6	151	
+Touro Fajardo Brazilian Jiu Jitsu	touro-fajardo-brazilian-jiu-jitsu	Queens	11372	8927 37th Ave		https://www.tourofajardobrazilianjiujitsu.com/	+1 347-430-3585	5	12	
+Behring Jiu Jitsu NY	behring-jiu-jitsu-ny	Evans Mills	13637	22519 NYS Route 342		https://behringjiujitsuny.com/	+1 302-897-0987	4.9	67	
+Bwarriormma.com	bwarriormmacom	New York	10022	226 E 54th St 3rd floor		http://bwarrior.com/	+1 917-501-5051	5	4	
+Jungle Gym Martial Arts	jungle-gym-martial-arts	The Bronx	10462	1526 Unionport Rd		http://junglegymbronx.com/	+1 718-684-5138	4	91	
+Gentle Art Studio – Lotus Club Brazilian Jiu Jitsu & Wellness Center	gentle-art-studio-lotus-club-brazilian-jiu-jitsu-wellness-center	New York	11106	23-17 Broadway		https://gentleartstudio.com	+1 718-406-9095	4.9	116	
+JAO Martial Arts Academy/Caio Terra Brazilian Jiu Jitsu NY	jao-martial-arts-academycaio-terra-brazilian-jiu-jitsu-ny	Brooklyn	11223	2651 Coney Island Ave		http://www.jao-maa.com/	+1 732-526-2551	4.6	82	
+Kim's TaeKwonDo	kims-taekwondo	Warren	12817	400 Court St		http://sites.google.com		5	18	
+Seven Tigers Martial Arts Academy	seven-tigers-martial-arts-academy	Cheektowaga	14225	3015 Genesee St		http://martialartsbuffalo.com/	+1 716-893-4942	4.7	223	
+Fabio Clemente StudioX BJJ	fabio-clemente-studiox-bjj	New York	10003	6 St Marks Pl 2nd Floor		https://www.studiox.nyc/	+1 646-980-9677	5	136	
+Gracie Jiu-Jitsu Poughkeepsie	gracie-jiu-jitsu-poughkeepsie	poughkeepsie	12601	473 violet ave.			(845) 483-7675	4.9	182	
+Nubreed Martial Arts Academy	nubreed-martial-arts-academy	Whitestone	11357	150-43 14th avenue;		http://www.nubreedmartialarts.com/NWebHP.htm	n/a	4.8	82	
+Radical MMA	radical-mma	New York	10001	235 W 29th St		https://radicalmmanyc.com	(646) 269-6597	4.8	172	
+Sheepshead Bay Roll	sheepshead-bay-roll	Brooklyn	11235	2565 E 17th St		http://sheepsheadbayroll.com/contact.html	+1 646-470-2272			
+Diamond Heart	diamond-heart	Brooklyn	11206	1 White St		http://www.physicalculturecollective.com	(347) 295-2755	5	260	
+Gregor Gracie Jiu-Jitsu	gregor-gracie-jiu-jitsu	New York	11201	153 Bridge Park Dr Ste H3		http://www.brooklynheightsbjj.com	(347) 457-6704	5	195	
+Kai Next Level Mixed Martial Arts & B.J.J. / Fitness	kai-next-level-mixed-martial-arts-bjj-fitness	Queens	11417	97-14 Liberty Ave		https://form.123formbuilder.com/5961575/form	+1 917-655-1504	4.2	105	
+Next Level Athletic Performance	next-level-athletic-performance	Marcy	13403	9225 River Rd.		http://www.nxtleveltraining.com/	n/a	4.9	119	
+Gracie Barra North Babylon	gracie-barra-north-babylon	North Babylon	11703	1486 Deer Pk Ave			+1 631-392-0096	5	213	
+Long Island MMA & Fitness Center	long-island-mma-fitness-center	Lindenhurst	11757	1 Gear Avenue		https://limixedmartialarts.com	n/a	4.9	288	
+Tiger Schulmann's Martial Arts New Dorp (Staten Island) NY	tiger-schulmanns-martial-arts-new-dorp-staten-island-ny	Staten Island	10306	363 New Dorp Ln		https://tsk.com/locations/ny/staten-island-new-dorp/	+1 929-273-2193	4.9	123	
+Victor CTC	victor-ctc-victor-new-york	Victoria				https://www.ctconline.com/	(585) 924-5900	3.2	52	
+Zero Gravity Jiu-Jitsu Academy	zero-g-brazilian-jiu-jitsu	Brooklyn	11231	319 Columbia Street		https://zerogbjj.com	16463537238	4.9	30	
+The Dojo NYC	the-dojo-nyc	Ridgewood	11385	10-82 Cypress Ave		https://www.thedojonyc.com	(917) 400-2814	4.7	64	
+Modern Martial Arts NYC Upper West Side	modern-martial-arts-nyc-upper-west-side	New York	10023	103 W 73rd St		https://www.mmanewyorkcity.com/brazilian-jiu-jitsu-east-side	+1 212-721-2240	4.8	36	
+Fighthouse Systema NYC	fighthouse-systema-nyc	Manhattan	10011	18 West 18th Street		http://www.fighthouse.com/	(212) 807-9202	5	387	
+Westchester Judo Club	westchester-judo-club	Mamaroneck	10543	517 Fayette Ave		http://westchestermartialartsclub.com	(914) 723-8006	4.7	9	
+Yojimbo BJJ	yojimbo-bjj	New York	10001	125 W 31st St		http://www.yojimbonyc.com/	+1 917-524-9255	5	1	
+Tiger Schulmann's Martial Arts Bellerose (Queens) NY	tiger-schulmanns-martial-arts-bellerose-queens-ny	Queens	11426	251-73 Jericho Turnpike		https://tsk.com/locations/ny/bellerose/	+1 718-683-3949	4.8	57	
+Unlimited Martial Arts	unlimited-martial-arts	Brooklyn	11211	505 Union Ave		https://unlimitedmartialartsacademy.com	(718) 218-7515	4.9	52	
+Tiger Schulmann's Martial Arts Rego Park (Queens) NY	tiger-schulmanns-martial-arts-rego-park-queens-ny	Queens	11374	97-27 Queens Blvd		https://tsk.com/locations/ny/queens-rego-park/	+1 347-407-8675	4.9	205	
+East Coast United Queens Academy of Brazilian Jiu Jitsu	east-coast-united-queens-academy-of-brazilian-jiu-jitsu	Whitestone	11357	12-40A Clintonville St		http://www.ecuqueensbjj.com	(646) 425-0960	4.8	51	
+UFC GYM Park Slope	ufc-gym-park-slope	Brooklyn	11215	340 4th Ave floor 2		http://www.ufcgym.com	+1 718-858-8578	3.2	36	
+American Academy Of Self Defense	american-academy-of-self-defense	Deer Park	11729	297 Bay Shore Rd		http://www.aaofsd.com	n/a	4.8	41	
+Kings Combat Williamsburg	kings-combat-williamsburg	New York	11211	219 South 3rd St			(347) 292-9307	4.8	36	
+Bedroc MMA & Fitness	bedroc-mma-fitness	Rochester	14626	1942 Ridge Road W.		https://www.bedrocmma.com	n/a	5	12	
+Kioto Brazilian Jiu-Jitsu	kioto-brazilian-jiu-jitsu	Sayville	11782	205 West Main Street		https://kiotobjj.com	n/a	5	41	
+Westchester Mixed Martial Arts & Fitness	westchester-mixed-martial-arts-fitness	Mount Kisco	10549	333 North Bedford Rd; Suite 228		http://www.westchestermmafit.com/	n/a	4.8	39	
+NY Muay-Thai Kick Boxing Association - Judo school	ny-muay-thai-kick-boxing-association-judo-school	Long Island City	11103	32-48 Steinway St		https://bigappleguide.wixsite.com:443/kick-boxingmuay-thai	+1 917-295-5239	5	70	
+NY Combat Club	ny-combat-club	New York	10007	107 Chambers St		http://www.nycombatclub.com	(917) 675-3313	5	52	
+Vamos MMA	vamos-mma	Holbrook	11741	1708 Church St		https://www.vamosmma.com	(516) 982-0912	4.9	286	
+UFC GYM Long Island	ufc-gym-long-island	New Hyde Park	11040	2020 Jericho Turnpike		https://www.ufcgym.com/locations/long-island/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=2766	+1 516-784-4072	3.6	472	
+Valor Mixed Martial Arts	valor-mixed-martial-arts	New York	10023	2067 Broadway		https://www.mindbodyonline.com/explore/locations/valor-mixed-martial-arts-lincoln-square?rwg_token=AOfrVq7-ujuhwZnnddWH1E0ryFcT16hcNbgxmLePVw4b5J4b3ne6h9nCJIDg8kQFzZ4pH4ubF0H2XwCvimbqqcWQu14jgiGQtRO3TyktEXA1lLfh-IikOv0%3D	+1 917-261-6678	4.5	42	
+Chop & Chops MMA	chop-chops-mma	Brooklyn	11221	862 DeKalb Ave		http://www.chopandchopsmma.com	+1 978-434-2229	5	56	
+Synthesis Brazilian JiuJitsu | BJJ Rochester NY 14610	synthesis-brazilian-jiujitsu-bjj-rochester-ny-14610	Rochester	14610	1225 Jefferson Rd, Rochester, NY 14623		https://synthesisbjj.com/	(585) 256-1548	4.9	107	
+IJC Martial Arts	ijc-martial-arts	Queens	11354	28-20 120th St 2nd Floor		https://sparkpages.io/scheduler5/?l=MX&cal=2Uj&c=&s=	+1 646-779-5836	4.9	176	
+Tiger Schulmann's Martial Arts Syosset NY	tiger-schulmanns-martial-arts-syosset-ny	Syosset	11791	354 Jericho Turnpike		https://tsk.com/locations/ny/syosset/	+1 516-259-1031	4.9	71	
+Big Apple BJJ Open	big-apple-bjj-open	New York	10023	122 Amsterdam Ave		http://bigapplebjjopen.com/	+1 844-244-9011	5	2	
+Modern Martial Arts Tribeca	modern-martial-arts-tribeca	New York	10007	78 Reade St		https://www.mindbodyonline.com/explore/locations/modern-martial-arts-tribeca-2?rwg_token=AOfrVq6CebDkwXe-1i3xXdykhBov4GB1JWyA651KBvfe_jowtqz0BjJgYX9wraQReo3iuoBkdlscTa4LQ26rXuheX_iVskphJQ%3D%3D	+1 212-587-1099	4.6	31	
+Tiger Schulmann's Martial Arts Yonkers NY	tiger-schulmanns-martial-arts-yonkers-ny	Yonkers	10710	2361B Central Park Ave		https://tsk.com/locations/ny/yonkers/	+1 914-977-4959	4.8	115	
+Peak Jiu-Jitsu	peak-jiu-jitsu	Patchogue	11772	176 W Main Street		www.peakjj.com	(214) 587-3852	5	70	
+Church Street Boxing Gym	church-street-boxing-gym	New York	10007	25 Park Pl		http://csboxinggym.com	+1 212-571-1333	4.9	249	
+Modern Martial Arts NYC	modern-martial-arts-nyc	Manhattan	10023	103 West 73th St		http://www.4blackbelt.com/	n/a	4.8	76	
+Tiger Schulmann's Martial Arts Jackson Heights (Queens) NY	tiger-schulmanns-martial-arts-jackson-heights-queens-ny	Queens	11372	8710 Northern Blvd Suite 210		https://tsk.com/locations/ny/queens-jackson-heights/	+1 718-839-6218	4.9	95	
+Lotus Jiu jitsu Flushing	lotus-jiu-jitsu-flushing	Queens	11354	150-15 Northern Blvd		http://www.flushingjiujitsu.com/	+1 917-939-5303	5	96	
+Eizan Ryu Jujitsu	eizan-ryu-jujitsu	New York	10029	161 East 106th St Ground Floor		https://www.eizanryujujitsu.org/	+1 347-640-4940	4.9	15	
+Victory BJJ	victory-bjj	Albany	12205	1095C Central Avenue		https://victoryjj.com	n/a	5	22	
+Jiu Jitsu Massage	jiu-jitsu-massage	Brooklyn	11201	53 Bridge St Ste 304		https://www.icsportsmassage.com	(347) 325-0751	5	57	
+Tiger Schulmann's Martial Arts New Windsor NY	tiger-schulmanns-martial-arts-new-windsor-ny	New Windsor	12553	317 Windsor Hwy		https://tsk.com/locations/ny/new-windsor/	+1 845-384-2834	4.9	53	
+A Force Brazilian Jiu Jitsu Academy	a-force-brazilian-jiu-jitsu-academy	Great Neck	11021	340 Great Neck Rd		https://app.squarespacescheduling.com/schedule.php?owner=22887279	+1 516-344-7812	5	202	
+Peloton Martial Arts Center	peloton-martial-arts-center	Spencerport	14559	2139 North Union St.; Ste.7		http://www.peloton-bjj.com/	n/a	4.4	290	
+Atlas Jiu Jitsu Glens Falls	atlas-jiu-jitsu-glens-falls	South Glens Falls	12803	10 Main St		https://www.atlasjiujitsu.com/glenns-falls	518-391-0891	5	123	
+Kioto Brazilian Jiu Jitsu / NEMMAA	kioto-brazilian-jiu-jitsu-nemmaa	New York	10029	1786 3rd Ave		https://nextevolutionmartialarts.com	+1 212-828-5678	4.6	85	
+Sei Shin Dojo	sei-shin-dojo	New York	10009	34 Ave A Fl 2		https://www.seishindojonyc.com	(929) 699-4743	4.9	15	
+Team Jucao Brazilian Jiu Jitsu	team-jucao-brazilian-jiu-jitsu	New York	10023	7 2067 Broadway		https://teamjucao.com/	+1 908-242-8551	4.9	41	
+Modern Martial Arts NYC Upper Eastside	modern-martial-arts-nyc-upper-eastside	New York	10028	220 E 86th St		https://www.mmanewyorkcity.com/locations/upper-eastside	+1 212-772-3700	4.8	50	
+Darfight Martial Arts	darfight-martial-arts	Brooklyn	11235	130 Brighton Beach Ave 2nd Floor		https://darfight.com	+1 347-756-9506	5	216	
+Dark Arts Muay Thai and Brazilian Jiu Jitsu	dark-arts-muay-thai-and-brazilian-jiu-jitsu	Webster 	14580	1217 Bay Rd		http://darkartsroc.com/	+1 (585) 330-1778	5	60	
+Buzz Martial Arts	buzz-martial-arts	New York	10128	173 E 91st St		https://buzzma.com	(212) 831-0250	4.6	5	
+Bronx Martial Arts Academy	bronx-martial-arts-academy	The Bronx	10469	1051 Allerton Ave		https://www.bronxmartialarts.com/	+1 718-325-2622	4.7	149	
+Butch's Boxing & MMA	butchs-boxing-mma	Queens	11361	203-18 35th Ave		http://www.ny-mma.com/	+1 646-421-9749	4.9	109	
+Kyokushin Karate NYC	kyokushin-karate-nyc	Manhattan	10016	265 Madison Ave at 39th St; 5th floor		http://kyokushinkarate.com/	(212) 947-3334	5	49	
+Red Tiger Jiu Jitsu Ryu	red-tiger-jiu-jitsu-ryu	Brooklyn	11216	1193 Dean St			+1 718-576-5545	4.9	8	
+WNY MMA & Fitness	wny-mma-fitness	Buffalo	14207	255 Great Arrow Ave #114		http://www.wnymma.com/	+1 716-898-8924	5	80	
+Five Points Academy	five-points-academy	New York	10013	148 Lafayette St Ground Fl		http://www.academyfivepoints.com	(212) 226-4474	4.8	82	
+Team Demolition MMA	team-demolition-mma	Brooklyn	11239	1540 Van Siclen Ave			+1 347-409-7031	5	7	
+Tiger Schulmann's Martial Arts Merrick NY	tiger-schulmanns-martial-arts-merrick-ny	Merrick	11566	2128 Merrick Ave		https://tsk.com/locations/ny/merrick/	+1 516-259-0166	4.9	75	
+Traditional Tribal Fitness	traditional-tribal-fitness	Williamsburg	11222	Mccarren Park		https://www.traditionaltribalfitness.com	(917) 450-7991	4.7	962	
+Tiger Schulmann's Martial Arts Smithtown NY	tiger-schulmanns-martial-arts-smithtown-ny	Smithtown	11787	10 Miller Pl		https://tsk.com/locations/ny/smithtown/	+1 631-503-1690	4.9	63	
+Tiger Schulmann's Martial Arts Glendale (Queens) NY	tiger-schulmanns-martial-arts-glendale-queens-ny	Queens	11385	The Shops at Atlas Park, 8000 Cooper Ave		https://tsk.com/locations/ny/queens-glendale/	+1 718-619-8995	4.9	262	
+Renzo Gracie Bayside	renzo-gracie-bayside	Bayside	11361	45-58 Bell Blvd		https://renzograciebayside.com	+1 718-962-7422	4.8	82	
+Blitz Dojo	blitz-dojo	Brooklyn	11218	412 Church Ave		https://www.blitzdojo.com	(718) 851-2425	5	42	
+Staten Island Judo & Jujitsu Academy	staten-island-judo-jujitsu-academy	Staten Island	10308	3902 Amboy Rd		https://sijjd.com	n/a	4.9	64	
+D’Arce Brazilian Jiu-Jitsu	darce-brazilian-jiu-jitsu	Patchogue	11772	208-12 East Main St		http://www.darcejiujitsu.com/	n/a	5	82	
+Bronx Martial Arts Academy	bronx-jiu-jitsu	The Bronx	10461	1621 Crosby Ave		http://bronxjiujitsu.com/	+1 347-810-7842	4.9	147	
+Longo and Weidman MMA	longo-and-weidman-mma	Garden City	11530	1 Commercial Ave		http://lawmma.com	(516) 279-4105	4.9	91	
+Hidden Fist Mixed Martial Arts Academy 41-25 bell boulevard bayside New York	hidden-fist-mixed-martial-arts-academy-41-25-bell-boulevard-bayside-new-york	Queens	11361	41-25 Bell Blvd		https://www.hiddenfistacademy.com	+1 718-864-1120	4.7	18	
+Tiger Schulmann's Martial Arts Greenpoint (Brooklyn) NY	tiger-schulmanns-martial-arts-greenpoint-brooklyn-ny	Brooklyn	11222	211 McGuinness Blvd		https://tsk.com/locations/ny/brooklyn-greenpoint/	+1 917-580-7834	4.5	90	
+Ultimate Sambo MMA Academy	ultimate-sambo-mma-academy	Florida	10921	133 North Main Street		http://www.ultimatesambo.com/	n/a	5	41	
+Tiger Schulmann's Martial Arts Astoria (Queens) NY	tiger-schulmanns-martial-arts-astoria-queens-ny	Astoria	11103	34 East 23rd Street 2nd and 3rd Floor		https://tsk.com/locations/ny/queens-astoria/	+1 347-201-3995	4.9	168	
+Renzo Gracie Jiu-Jitsu Upper West Side	renzo-gracie-jiu-jitsu-upper-west-side	New York	10023	Subcellar 246 Columbus Ave		https://www.renzogracieuws.com/	+1 212-787-3700	4.9	137	
+David Kaplan Martial Arts	david-kaplan-martial-arts	New York	10012	79 MacDougal St		https://www.davidkaplanmartialarts.com	+1 212-470-2531	5	2	
+Gracie Jiu-Jitsu Point Lookout	gracie-jiu-jitsu-point-lookout	point_lookout	11569	5 lido blvd.			(516) 439-1993	5	24	
+Yin Yang Jiu Jitsu	yin-yang-jiu-jitsu	Queens	11355	42-05 Parsons Blvd		https://www.instagram.com/yinyangbjj_?utm_medium=copy_link	+1 929-422-6421	4.9	10	
+LifeStyle Brazilian Jiu Jitsu Academy	lifestyle-brazilian-jiu-jitsu-academy	Astoria	11103	30-89 38th St		http://lifestyle-mma.com/	+1 332-249-7747	5	34	
+Buffalo Brazilian Jiu-Jitsu Academy	buffalo-brazilian-jiu-jitsu-academy	West Seneca	14224	22 French Lea Drive		http://www.buffalobjj.com/	n/a	4.5	34	
+Serra BJJ Academy	serra-bjj-academy	Levittown	11756	2949 Hempstead Turnpike		https://serrabjjacademy.com	+1 516-520-2052	4.6	36	
+JG Monster Jiujitsu Fitness	jg-monster-jiujitsu-fitness	Brooklyn	11215	117 14th St Ste B		http://www.jgmonsterjiujitsufitness.com	(929) 498-7321	5	16	
+Black Hole Jiu Jitsu	black-hole-jiu-jitsu	Wappingers Falls	12590	1285 US-9			+1 845-849-3670	4.9	116	
+Tiger Schulmann's Martial Arts Middle Village (Queens) NY	tiger-schulmanns-martial-arts-middle-village-queens-ny	Queens	11379	61-22 Fresh Pond Rd		https://tsk.com/locations/ny/queens-middle-village/	+1 347-407-8723	4.9	102	
+Brooklyn Mixed Martial Arts & Fitness	brooklyn-mixed-martial-arts-fitness	Brooklyn	11234	2418 Ralph Ave		https://www.brooklynmixedmartialarts.com	(718) 677-5979	4.6	111	
+East Side Brazilian Jiu Jitsu / ESBJJ / RENZO GRACIE AFFILIATE	east-side-brazilian-jiu-jitsu-esbjj-renzo-gracie-affiliate	New York	10022	139 East 57th Street 5th floor		http://www.facebook.com/eastsidebrazilianjiujitsu	+1 917-674-4377	5	61	
+Una Brazilian Jiujitsu	una-brazilian-jiujitsu	Forest Hills	11375	100-33 Metropolitan Ave		https://www.unabjj.com	(718) 268-0044	5	81	
+Training Zone NYC - Ozone Park	training-zone-nyc-ozone-park	Queens	11417	94-00 Liberty Ave		https://www.tznyc.com	+1 718-529-6999	4.9	78	
+Tiger Schulmann's Martial Arts Manhasset NY	tiger-schulmanns-martial-arts-manhasset-ny	Manhasset	11030	1205 Northern Blvd		https://tsk.com/locations/ny/manhasset/	+1 516-253-6725	4.9	78	
+Clockwork Jiu Jitsu	clockwork-jiu-jitsu	New York	10012	650 Broadway 2nd floor		http://clockworkbjj.com	+1 212-675-0300	5	332	
+Square Circle New York	square-circle-new-york	New York	10038	139 Fulton St #706		https://squarecirclenewyork.com	+1 212-964-9800	4.9	89	
+Tiger Schulmann's Martial Arts Tottenville (Staten Island) NY	tiger-schulmanns-martial-arts-tottenville-staten-island-ny	Staten Island	10309	2955 Veterans Rd W 2nd Floor		https://tsk.com/locations/ny/staten-island-tottenville/	+1 929-273-2194	4.9	147	
+Vamos BJJ & MMA	vamos-bjj-mma	Holbrook	11741	4713 VETERANS HIGHWAY		http://www.vamosjiujitsu.com/	n/a	5	64	
+The Grappling Club	the-grappling-club	Brooklyn	11211	370 S 4th St			+1 646-238-4666	5	44	
+Anderson's Martial Arts Academy	andersons-martial-arts-academy	New York	10003	12 E 14th St		http://andersonsmartialarts.com	(212) 766-6622	4.4	124	
+Igor Gracie Academy	igor-gracie-jiu-jitsu-academy	New Rochelle	10801	175 Main St		https://www.safebrowse.io/warn.html?url=http://www.igorgraciejiujitsu.com/&token=ee0d39ae	+1 914-235-2605	5	71	
+Renzo Gracie Bay Ridge	renzo-gracie-bay-ridge	Brooklyn	11209	7914 3rd Ave Fl 2		http://renzograciebayridge.com	(718) 812-4745	5	30	
+Renzo Gracie Fight Academy	renzo-gracie-fight-academy	Brooklyn	11222	100 Bayard St		https://renzograciebrooklynnyc.com	+1 718-704-0631	4.3	65	
+Brooklyn Wing Tsun	brooklyn-wing-tsun	Brooklyn	11215	808 Union St 7th Ave 2nd flr Buzzer 6		http://bkwingtsun.com	(347) 460-5204	4.6	163	
+Striking 101 Mixed Martial Arts - Forest Hills	striking-101-mixed-martial-arts-forest-hills	Queens	11375	96-21 69th Ave		https://s101hq.com	+1 718-559-9403	4.9	116	
+Crossfit 585 BJJ	crossfit-585-bjj	Rochester	14607	22 Winston Place		http://www.crossfit585bjj.com/home/	n/a	5	168	
+Codella Brazilian Jiu Jitsu Academy	codella-brazilian-jiu-jitsu-academy	Staten Island	10314	3755 Victory Blvd		http://codellaacademy.com/	+1 917-202-9671	4.9	131	
+Staten Island Brazilian Jiu-Jitsu/MMA	staten-island-brazilian-jiu-jitsumma	Staten Island	10310	1230 Castleton Ave	1230	http://sibjjmma.com/	+1 917-873-3503	5	122	
