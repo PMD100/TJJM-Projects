@@ -1,0 +1,9 @@
+region	name	verdict	removed_url	what_it_served
+PA	Brazilian Jiu-Jitsu United	DEAD	http://www.bjjunited.com	NXDOMAIN (DNS Status 3) on both apex and www
+OR	Kilian's Martial Arts Center	HIJACK	http://www.kmacoregon.com/	redirects to desatahunan.com Indonesian togel/prediksi SGP gambling site
+OR	Dynamic MMA	PARKED	http://www.dynamicjudo.com/	HugeDomains domain-for-sale lander
+OR	Mt. Hood Impact Jiu Jitsu	PARKED	http://www.impactmthood.com/	HugeDomains domain-for-sale lander
+OR	Resolution Jiu Jitsu	PARKED	http://www.resolutionjiujitsu.com/	HugeDomains domain-for-sale lander
+OR	EchoValor Striking & MMA Beaverton	WRONG_BUSINESS	http://www.echovalor.com	veteran storytelling podcast/music/Etsy brand, no gym
+OR	CrossFit Tigard - PAW	WRONG_BUSINESS	http://www.crossfittigardpaw.com	redirects to crossfittigard.com; CrossFit/fitness gym, no martial arts programs
+PA	Rosendo Diaz Brazilian Jiu-Jitsu	WRONG_BUSINESS	http://www.graciepa.com/	"Shopify apparel/merch store ""Gracie PA Merch"", no gym"
