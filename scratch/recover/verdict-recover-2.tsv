@@ -1,0 +1,61 @@
+verdict	region	city	name	new_url	evidence
+UNSURE	CA	La Crescenta	GB La Crescenta	https://www.facebook.com/gblacrescenta/	Facebook page named Gracie Barra La Crescenta; body not readable
+FOUND	CA	La Habra	Lucas Leite Brazilian Jiu-Jitsu	https://lucasleitebjj.com/	819 E La Habra Blvd, La Habra, CA 90631
+NOT_FOUND	CA	La Mirada	United Mixed Martial Arts		no current site found
+CLOSED	CA	Laguna Hills	Joker's MMA		Yelp: Joker's MMA, 23211 Del Lago Dr - CLOSED
+CLOSED	CA	Lake Forest	Oc Jiu-Jitsu & Mixed Martial Arts		Yelp: Orange County Jiu-Jitsu & MMA, 22661 Lambert - CLOSED
+NOT_FOUND	CA	Los Angeles	Bang Bang Power Fit		no current site found
+UNSURE	CA	Los Angeles	Independent Jiu-Jitsu	https://www.independentjiujitsu.co	Old .co domain still indexed live at 7901 Melrose Ave
+NOT_FOUND	CA	Los Angeles	Marcelo Garcia Academy LA		marcelogarciajj.com lists only NYC and Hawaii
+FOUND	CA	Madera	Madera Martial Arts	https://www.maderamartialarts.com/	325 S Pine St, Ste 109, Madera, CA 93637
+UNSURE	CA	Manteca	Jg Academy Manteca	https://byanymeansjiujitsu.com/	Renamed By Any Means Jiu-Jitsu; address not readable on page
+FOUND	CA	Milpitas	Unlimited MMA	https://smashsunnyvale.com/locations/milpitas/	1000 Jacklin Rd, Milpitas, CA 95035
+UNSURE	CA	Murrieta	Rise Jiu Jitsu Academy	https://www.instagram.com/risejiujitsu/	Instagram labelled Murrieta, CA; old domain also still indexed
+UNSURE	CA	North Hollywood	Hayastan MMA	https://www.gokor.com/	Old domain live; footer 7229 Atoll Ave, North Hollywood
+UNSURE	CA	Oakland	Catch MMA	https://catchmma.com/	Old domain live, cites Oakland trainers; Yelp lists closed
+CLOSED	CA	Oceanside	UFC Gym Oceanside		Yelp: UFC GYM OCEANSIDE, 2216 S El Camino Real - CLOSED
+UNSURE	CA	Orange	OC Carlson Gracie Jiu Jitsu	https://www.carlsongracieoc.com/	Old domain live: 3702 East Chapman Ave. Suite E, Orange
+CLOSED	CA	Orange	UFC GYM Orange		Yelp: UFC GYM ORANGE, 1605 E Collins St - CLOSED
+FOUND	CA	Pacifica	Thrive Jiu Jitsu	https://www.thrivejiujitsuschool.com/	215 Rockaway Beach Avenue, Pacifica, CA 94044
+UNSURE	CA	Paso Robles	GB Paso Robles	https://graciebarra.com/paso-robles-ca/	GB location page indexed: 2200 Golden Hill Road, Paso Robles
+FOUND	CA	Riverside	Riverside MMA	https://riversidemma.com/	6250 Brockton Ave, Riverside, CA 92506
+UNSURE	CA	Rocklin	SLL Grappling Academy - Brazilian Jiu-Jitsu (BJJ)	https://www.instagram.com/sll_grappling_academy_rocklin/	Instagram handle names Rocklin; old domain dead, body unreadable
+CLOSED	CA	Sacramento	UFC GYM Sacramento		Yelp: UFC GYM SACRAMENTO, 8241 Bruceville Rd - CLOSED
+CLOSED	CA	San Diego	Boxing Club		Yelp: THE BXNG CLUB, 8650 Genesee Ave - CLOSED
+UNSURE	CA	San Francisco	10th Planet Jiu Jitsu San Francisco	https://www.facebook.com/p/10th-Planet-Jiu-Jitsu-San-francisco-100066966320163/	Old domain hijacked by party-bus spam; Facebook page exists
+UNSURE	CA	San Francisco	Ralston Gracie Jiu Jitsu	https://www.facebook.com/ralstongracie	Old domain unreadable; Yelp still lists 1475 Polk St
+UNSURE	CA	San Jose	I M C Survival Center	https://www.instagram.com/imc.martialarts/	IMC Academy of Martial Arts, San Jose; moved off Bascom Ave
+CLOSED	CA	San Jose	Knoxx Martial Arts and Fitness		Yelp: KNOXX Martial Arts, 4424 Pearl Ave - CLOSED
+CLOSED	CA	San Jose	Tribull MMA Center		Yelp: TRIBULL MARTIAL ARTS CENTERS, San Jose - CLOSED
+UNSURE	CA	Santa Ana	Rocknroll Brazilian Jiu Jitsu & Fitness	http://www.rocknrollbjj.com/contact_rocknrollbjj.html	Old domain still indexed listing 10862 Coronel Rd, Santa Ana
+UNSURE	CA	Santa Clara	Ralph Gracie Jiu Jitsu - Santa Clara	https://www.instagram.com/_ralphgracie_santaclara_/	Instagram: Ralph Gracie BJJ - Santa Clara; old domain still live
+UNSURE	CA	Stockton	Andre de Freitas Brazilian Jiu-Jitsu / BJJ Stockton CA 95210	https://stocktonbjj.wordpress.com/	Own site, Stockton CA, but lists older Lower Sacramento Road address
+FOUND	CA	Stockton	Ares BJJ Stockton	https://buffaloblackbjj.com/	7475 Murray Dr Suite #6, Stockton, CA 95210
+UNSURE	CA	Stockton	Shingu Fighter	https://www.facebook.com/ShinguFighter/	Listings show ShinguFighter Stockton temporarily closed; page body unreadable
+FOUND	CA	Temecula	Dan Henderson's Athletic Fitness Center - Formerly Team Quest	https://dhathleticfitcenter.com/	Our Location: 27901 Jefferson Ave, Temecula, CA 92590
+CLOSED	CA	Valencia	Big John Mccarthy's Ultimate Training Gym		Yelp: BIG JOHN MCCARTHY'S ULTIMATE TRAINING ACADEMY - CLOSED
+UNSURE	CA	Ventura	Rock And Roll Fight Company	https://rocknrollfightcompany.com/	Old domain live: "#1 Mixed Martial Arts gym in Ventura County"
+FOUND	CA	Visalia	Kajupit MMA & Fitness	https://www.harperskajupit.com/	101 N Chinowth St, Visalia, CA 93291
+UNSURE	CA	Visalia	Outlaw MMA & Fitness	https://www.outlaw559gym.com/	Old domain indexed live: 6420 South Mooney Boulevard, Visalia
+UNSURE	CA	West Covina	Champions Fitness Brazilian Jiu-JItsu Muay-Thai & Boxing	https://www.facebook.com/Championsfightacademy/	Facebook: Champions Fight Academy, 616 N. Azusa Ave, West Covina
+NOT_FOUND	CA	Woodland Hills	ZR Brazilian Jiu-jitsu Thousand Oaks / BJJ Thousand Oaks CA 91362		no current site found
+NOT_FOUND	CA	Yucaipa	BloodSpillerBJJ & Caveirinha Jiu Jitsu Academy		no current site found
+NOT_FOUND	CO	Aurora	Alliance Jiu Jitsu Colorado		no current site found
+FOUND	CO	Avon	Hybrid Nation Martial Arts	https://hybridnationmma.wixsite.com/hybrid-nation-mma	150 East Beaver Creek Boulevard, Suite A105, Avon, Colorado 81620
+NOT_FOUND	CO	Boulder	Alliance Jiu Jitsu Boulder		no current site found
+UNSURE	CO	Brighton	Frontline Wrestling and Jiu-Jitsu Academy	https://www.facebook.com/frontlinejiujitsu/	Facebook: Frontline Wrestling And Jiu-Jitsu Academy, Brighton, Colorado
+NOT_FOUND	CO	Broomfield	Elemental Brazilian Jiu Jitsu		old domain now an unrelated Colombia BJJ camp
+NOT_FOUND	CO	Carbondale	Carbondale Training Center (Rising Crane)		no current site found
+UNSURE	CO	Centennial	Valor BJJ & Fitness	https://www.facebook.com/valorbjjandfitness/	Facebook: Valor BJJ & Fitness, Centennial, Colorado
+NOT_FOUND	CO	Colorado Springs	Altitude MMA		no current site found
+NOT_FOUND	CO	Colorado Springs	Cheyenne Mountain BJJ		no current site found
+UNSURE	CO	Colorado Springs	DC Fighters USA	https://www.facebook.com/dcfighters	Facebook: Chapel Hills Mall, 1710 Briargate Blvd, Colorado Springs
+UNSURE	CO	Colorado Springs	The HQ - Jiu Jitsu Headquarters	https://www.instagram.com/thehqjiujitsucoloradosprings/	Instagram for The HQ Colorado Springs; old domain dead
+FOUND	CO	Colorado Springs	Victory MMA	https://www.victorymmacolorado.com/	254 S Academy Blvd, Colorado Springs, CO 80910
+UNSURE	CO	Denver	Avenge Jiu Jitsu	https://www.instagram.com/avengejiujitsu/	Instagram Avenge Jiu Jitsu, Denver CO; domain parked at HugeDomains
+UNSURE	CO	Durango	Durango BJJ	https://durangomartialarts.com/	"Durango's only Brazilian Jiu Jitsu" academy; email durangojiujitsu@yahoo.com
+UNSURE	CO	Englewood	Guetho BJJ Denver	https://engelwoodbjj.com/	Alternate live domain titled "Guetho BJJ Denver"; address not readable
+CLOSED	CO	Fort Collins	Gracie Jiu-Jitsu Fort Collins		Yelp and MapQuest: Gracie Jiu-Jitsu Fort Collins - CLOSED
+UNSURE	CO	Fort Collins	Shugyo Training Center	http://www.shugyodojo.com/Shugyo_Dojo/Home.html	Old domain page: "Fort Collins first martial and healing arts cooperative"
+NOT_FOUND	CO	Fort Collins	The Dojo LLC		no current site found
+UNSURE	CO	Gunnison	Gunnison Jiu-Jitsu	https://www.gunnisonjiujitsu.com/contact/	Old domain live: 315 1/2 N. Main Street, Gunnison, Colorado
