@@ -1,0 +1,26 @@
+verdict	name	working_url	note
+CONFIRMED_DEAD	Indigo Brazilian Jiu Jitsu Sulphur		Both forms show Wix "domain isn't connected" page
+CONFIRMED_DEAD	Ion Jiu Jitsu		Both forms resolve but server refuses connection
+CONFIRMED_DEAD	JJ Machado Austin Jiujitsu		Both forms show Wix "domain isn't connected" page
+CONFIRMED_DEAD	Kingsport BJJ		Parking IP, blank page both forms
+CONFIRMED_DEAD	Krav Maga Salem		Empty shell page, no DOM content
+CONFIRMED_DEAD	Kurusan Jiu-Jitsu & Kickboxing		Blank page on both apex and www
+CONFIRMED_DEAD	Leadership Academy Martial Arts and Fitness		404 Page not found on both forms
+CONFIRMED_DEAD	Legends MMA		Flywheel "Unknown Domain" not-set-up page
+CONFIRMED_DEAD	Lucas Leite Brazilian Jiu-Jitsu		Squarespace "Website Expired" account page
+FALSE_POSITIVE	Martial Arts America Russellville	https://www.russellvilletkd.com/	Russellville, Arkansas River Valley
+CONFIRMED_DEAD	Mena Fitness Training & Brazilian Jiu Jitsu		"Under construction" placeholder on both forms
+CONFIRMED_DEAD	Miami Beach Brazilian Jiu-Jitsu		Blank page on both apex and www
+CONFIRMED_DEAD	Modern Combatives Mixed Martial Arts		Both forms show Wix "domain isn't connected" page
+FALSE_POSITIVE	New Britain Judo and Dynamic Arts	https://newbritainjudo.org/	83 West Main St, New Britain, CT
+WRONG_BUSINESS	Next Level Athletic Performance		Commercial lighting industry training company
+CONFIRMED_DEAD	Northeast Elite Wrestling Center		Cloudflare 522 origin timeout on both forms
+CONFIRMED_DEAD	Nova Uniao Las Vegas		Squarespace "Website Expired" account page
+FALSE_POSITIVE	Pennsylvania Combat Sports	https://pacombatsports.com/	Greensburg, Westmoreland County, Pennsylvania
+CONFIRMED_DEAD	Porrada Jiu Jitsu Academy		Blank page on both apex and www
+FALSE_POSITIVE	Port City Combat Sports	https://www.pckickboxing.com/	7335 Airport Blvd, Mobile, Alabama
+CONFIRMED_DEAD	Ralph Gracie Jiu Jitsu - Santa Clara		Both forms show Wix "domain isn't connected" page
+FALSE_POSITIVE	Relson Gracie Jiu-Jitsu Academy St. Augustine	http://mma4florida.com/	1605 Old Moultrie Rd, St Augustine, FL
+CONFIRMED_DEAD	Renzo Gracie Houston		Redirects to gbfortbend.com, Wix domain not connected
+FALSE_POSITIVE	Renzo Gracie Pennsylvania	https://renzograciepa.com/	Hatfield, Pennsylvania
+CONFIRMED_DEAD	Riverside MMA		Both forms show Wix "domain isn't connected" page

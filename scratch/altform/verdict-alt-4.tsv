@@ -1,0 +1,23 @@
+verdict	name	working_url	note
+WRONG_BUSINESS	Roninjitsu Martial Arts		Redirects to Smash Iron Fitness strength gym, Las Vegas
+CONFIRMED_DEAD	Ryuko Training Center		Both forms show Squarespace "Website Expired" page
+CONFIRMED_DEAD	Southwest MMA		Both forms resolve but server returns browser error page
+FALSE_POSITIVE	Station 6 Fitness and Martial Arts	https://www.station6fitness.com/	Tullahoma, Tennessee; BJJ, judo, kickboxing
+FALSE_POSITIVE	Syndicate Mixed Martial Arts	https://syndicatemmavegas.com/	6980 W Warm Springs Rd, Las Vegas
+CONFIRMED_DEAD	Team Kalista Martial Arts		Wodify "can't find the page"; www form errors
+CONFIRMED_DEAD	Team One Mixed Martial Arts		Wix "This domain isn't connected to a site"
+CONFIRMED_DEAD	The Base Vancouver		Wix domain-not-connected page on both apex and www
+CONFIRMED_DEAD	The Beast Academy		Both forms render an entirely blank white page
+CONFIRMED_DEAD	The Jupiter Jiu Jitsu Academy in Jupiter Fl		Both forms: "Page cannot be displayed" host error
+FALSE_POSITIVE	Thrive Jiu Jitsu	https://thrivemartialarts.com/	Pacifica, California; Brazilian jiu-jitsu academy
+CONFIRMED_DEAD	Toronto Jiu Jitsu Club		Wix domain-not-connected page on both apex and www
+CONFIRMED_DEAD	UFC GYM Arlington		Redirects to generic locations index; Arlington no longer listed
+WRONG_BUSINESS	UFC GYM Costa Mesa		Redirects to UFC GYM Huntington Beach, a different club
+CONFIRMED_DEAD	UFC GYM Lauderhill		Redirects to generic locations index; Lauderhill no longer listed
+CONFIRMED_DEAD	UFC GYM Norfolk		Redirects to generic locations index; Norfolk no longer listed
+CONFIRMED_DEAD	UFC GYM Southington		Redirects to generic locations index; Southington no longer listed
+FALSE_POSITIVE	UFC GYM Sunnyvale	https://www.ufcgym.com/locations/sunnyvale	733 S Wolfe Rd, Sunnyvale, California
+CONFIRMED_DEAD	UFC Gym Green Valley		"PAGE NOT FOUND" on both apex and www
+FALSE_POSITIVE	Underdog Brazilian Jiu-Jitsu	https://underdogbjj.com/	221 Newfield Ave, Hartford, Connecticut
+CONFIRMED_DEAD	Vegas Combat		Wix domain-not-connected page on both apex and www
+FALSE_POSITIVE	Yukon Martial Arts	https://www.yukonokmartialarts.com/	Yukon, Oklahoma; Brazilian jiu-jitsu gym

@@ -1,0 +1,35 @@
+name	url	hostname	original_note	source
+10th Planet Indianapolis at Circle City Martial Arts & Fitness	ccmaf.com	ccmaf.com	No A record, DNS NODATA	verdict-dirty-6.tsv
+Adas Jiu Jitsu Academy	bjjpeabody.com	bjjpeabody.com	No A record, DNS NODATA	verdict-dirty-6.tsv
+American Top Team D'Iberville	https://attdiberville.com	attdiberville.com	REFUSED, lame delegation	verdict-sweep-4.tsv
+Bay Jiu-Jitsu / BJJ Berkeley CA 94704	https://www.baycombat.com/	www.baycombat.com	NXDOMAIN	verdict-sweep-1.tsv
+Brazilian Jiu-Jitsu United	http://www.bjjunited.com	www.bjjunited.com	NXDOMAIN (DNS Status 3) on both apex and www	verdict-dirty-3.tsv
+Casa of Jiu Jitsu	http://www.casabjj.com/	www.casabjj.com	Cloudflare error 1001, DNS does not resolve	verdict-browser-198.tsv
+Catch MMA	https://catchmma.com/	catchmma.com	NXDOMAIN	verdict-sweep-2.tsv
+DCB MMA & Athletic Training	http://www.dcbmma.com/	www.dcbmma.com	Cloudflare error 1001, DNS does not resolve	verdict-browser-198.tsv
+Dallas Jiu-Jitsu	http://www.dallasjiujitsu.com/	www.dallasjiujitsu.com	DNS SERVFAIL, no A record for apex or www	verdict-dirty-4.tsv
+Elite Martial Arts Academy	https://elitemartialartsacademyks.com	elitemartialartsacademyks.com	SERVFAIL, does not resolve	verdict-sweep-3.tsv
+Fusion MMA	http://fusionfitnessandmma.com/	fusionfitnessandmma.com	Cloudflare error 1001, DNS does not resolve	verdict-browser-198.tsv
+G13 Jiu-Jitsu New Mexico	https://www.g13bjjnewmexico.com	www.g13bjjnewmexico.com	NXDOMAIN	verdict-sweep-4.tsv
+Gracie Jiu Jitsu Houston	http://www.graciejiujitsuwesthouston.com	www.graciejiujitsuwesthouston.com	DNS NXDOMAIN, domain no longer resolves	verdict-browser-198.tsv
+Gracie South Jiu-Jitsu of Pearl	https://graciesouthjiujitsupearl.com	graciesouthjiujitsupearl.com	REFUSED, lame delegation	verdict-sweep-4.tsv
+Highland Fight Systems	hfsmma.com	hfsmma.com	No A record, SOA only	verdict-dirty-8.tsv
+Jaguar BJJ	https://jaguarbjj.com/	jaguarbjj.com	NXDOMAIN	verdict-sweep-4.tsv
+Kingsnake Jiu-Jitsu	https://kingsnakebjj.com/	kingsnakebjj.com	NXDOMAIN	verdict-sweep-7.tsv
+Muscle Panda MMA	https://www.musclepandamma.ca	www.musclepandamma.ca	NXDOMAIN	verdict-sweep-1.tsv
+OC Carlson Gracie Jiu Jitsu	https://www.carlsongracieoc.com/	www.carlsongracieoc.com	SERVFAIL, nameservers not responding	verdict-sweep-2.tsv
+ONE HEART DOJO	https://www.eldoradomartialarts.com/	www.eldoradomartialarts.com	NXDOMAIN	verdict-sweep-1.tsv
+Pacific Top Team Abbotsford	https://pttabbotsford.com	pttabbotsford.com	NXDOMAIN	verdict-sweep-1.tsv
+Precision MMA Morden	https://www.precisionmma.ca	www.precisionmma.ca	NXDOMAIN	verdict-sweep-3.tsv
+Solis Martial Arts Academy	http://www.solismartialarts.com/	www.solismartialarts.com	Cloudflare error 1001, DNS does not resolve	verdict-browser-198.tsv
+The Fighting Arts Academy	fightingartsfitchburg.com	fightingartsfitchburg.com	NXDOMAIN, domain no longer resolves	verdict-dirty-6.tsv
+Tim Burrill Brazilian Jiu Jitsu	https://timburrill.com	timburrill.com	NXDOMAIN	verdict-sweep-6.tsv
+Tsunami Flow Jiu Jitsu	https://www.tsunamiflowjiujitsu.com	www.tsunamiflowjiujitsu.com	SERVFAIL, does not resolve	verdict-sweep-3.tsv
+USA Jiu-Jitsu Arkansas	https://usajjarkansas.com	usajjarkansas.com	NXDOMAIN	verdict-sweep-1.tsv
+Unity Jiu Jitsu New Jersey	http://unitybjjnj.com	unitybjjnj.com	Cloudflare error 1001, DNS does not resolve	verdict-browser-198.tsv
+Vital Force Muay Thai & MMA	http://www.vitalforcemma.com/	www.vitalforcemma.com	DNS NXDOMAIN, domain no longer resolves	verdict-browser-198.tsv
+WAMMA Niverville	https://wammaniverville.ca	wammaniverville.ca	NXDOMAIN	verdict-sweep-3.tsv
+WaveMan Combat Academy	https://wavemanjiujitsu.com	wavemanjiujitsu.com	NXDOMAIN	verdict-sweep-3.tsv
+Way Of BJJ Training Studio	https://wayofbjj.com	wayofbjj.com	REFUSED, lame delegation	verdict-sweep-1.tsv
+Wolf's Hammer Martial Arts Academy	https://hotspringsjiujitsu.com	hotspringsjiujitsu.com	NXDOMAIN	verdict-sweep-1.tsv
+Wolfpack Family Jiujitsu	https://www.wolfpackfamilybjj.com	www.wolfpackfamilybjj.com	NXDOMAIN	verdict-sweep-6.tsv

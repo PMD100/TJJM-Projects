@@ -1,0 +1,26 @@
+name	stored_url	stored_host	alt_host	original_reason
+10th Planet Downtown	http://10thplanetdtlv.com	10thplanetdtlv.com	www.10thplanetdtlv.com	Squarespace account expired placeholder
+360 Jiu Jitsu	https://360jiujitsu.com/	360jiujitsu.com	www.360jiujitsu.com	parking IP, no content at root
+American Top Team Valdosta	http://att229.com/	att229.com	www.att229.com	Netlify site not found, deployment gone
+Arebalo Jiu Jitsu	http://arebalojiujitsu.com/	arebalojiujitsu.com	www.arebalojiujitsu.com	Wix placeholder, domain not connected to site
+Atos Jiu Jitsu Las Vegas	http://www.atosjiujitsulv.com	www.atosjiujitsulv.com	atosjiujitsulv.com	redirect loop to myftpupload.com, too many redir
+Atos Orlando - Brazilian Jiu-Jitsu (BJJ) and Self-Defense School	http://www.atosorlando.com/	www.atosorlando.com	atosorlando.com	Wix placeholder, domain not connected to site
+Basulto Academy Of Defense	http://www.wncbjj.com/	www.wncbjj.com	wncbjj.com	does not load in browser, renderer hangs
+Bear Hug Jiu-Jitsu	http://www.bearhugmt.com	www.bearhugmt.com	bearhugmt.com	does not load in browser
+Behring Jiu Jitsu NY	https://behringjiujitsuny.com	behringjiujitsuny.com	www.behringjiujitsuny.com	redirects to 404 page, domain resolves
+Boxing Club	http://theboxingclub.net/	theboxingclub.net	www.theboxingclub.net	loads completely blank, no content or nav
+Brazilian Jiu Jitsu of Washington Heights	http://bjjofwashingtonheights.com	bjjofwashingtonheights.com	www.bjjofwashingtonheights.com	Wix placeholder, domain not connected to site
+Burien Brazilian Jiu Jitsu	www.burienbjj.com	www.burienbjj.com	burienbjj.com	404 page not found, no site
+Campuzano Martial Arts	http://www.campuzanomartialarts.com/	www.campuzanomartialarts.com	campuzanomartialarts.com	SSL protocol error, site cannot be loaded
+Cape Martial Arts	http://www.capemartialarts.com/	www.capemartialarts.com	capemartialarts.com	loads completely blank, no content
+Carlson Gracie Academy of Garden Grove	http://www.carlsongraciegardengrove.com/	www.carlsongraciegardengrove.com	carlsongraciegardengrove.com	Squarespace account expired placeholder
+Carlson Gracie Training Center - Cavalcanti Jiu Jitsu	http://www.rcjiujitsu.com	www.rcjiujitsu.com	rcjiujitsu.com	empty shell page, no content renders
+Champions Fitness Brazilian Jiu-JItsu Muay-Thai & Boxing	http://championsbjj.com/	championsbjj.com	www.championsbjj.com	Wix placeholder, domain not connected to site
+Champions Training Center	http://www.ctcsavannah.com	www.ctcsavannah.com	ctcsavannah.com	does not load in browser, renderer hangs
+Cheeseman Martial Arts Brazilian Jiu Jitsu	http://cheesemanmartialarts.net/	cheesemanmartialarts.net	www.cheesemanmartialarts.net	Error page cannot be displayed, host error
+Dave Strasser's Freestyle Academy of MMA	http://www.davestrasser.com/	www.davestrasser.com	davestrasser.com	does not load in browser, renderer hangs
+DeLand Brazilian Jiu-Jitsu	http://www.delandjiujitsu.com/	www.delandjiujitsu.com	delandjiujitsu.com	Wix placeholder, domain not connected to site
+DiBenedetto's Karate Jiu-Jitsu	http://www.dkjla.com/	www.dkjla.com	dkjla.com	server 404, file or directory not found
+Endurance Brazilian Jiu-Jitsu	endurancebjj.com	endurancebjj.com	www.endurancebjj.com	error establishing a database connection
+Evolution Fight Academy	http://www.evolutionfightacademy.com/	www.evolutionfightacademy.com	evolutionfightacademy.com	Wix placeholder, domain not connected to site
+Family Martial Arts Fitness Academy	http://clickheretobook.online/nfc	clickheretobook.online	www.clickheretobook.online	redirect target SSL cipher mismatch, cannot load

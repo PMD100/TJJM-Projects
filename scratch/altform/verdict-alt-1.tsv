@@ -1,0 +1,26 @@
+verdict	name	working_url	note
+CONFIRMED_DEAD	10th Planet Downtown		Both forms show Squarespace "Website Expired" page
+CONFIRMED_DEAD	360 Jiu Jitsu		Both forms load completely blank white page
+WRONG_BUSINESS	American Top Team Valdosta	https://www.att229.com/	Redirects to Port City Combat Sports, Mobile Alabama
+CONFIRMED_DEAD	Arebalo Jiu Jitsu		Both forms: Wix "domain isn't connected to a site"
+CONFIRMED_DEAD	Atos Jiu Jitsu Las Vegas		Both forms error out, GoDaddy redirect loop persists
+CONFIRMED_DEAD	Atos Orlando - Brazilian Jiu-Jitsu (BJJ) and Self-Defense School		Both forms: Wix "domain isn't connected to a site"
+CONFIRMED_DEAD	Basulto Academy Of Defense		Both forms hang, server never responds
+UNSURE	Bear Hug Jiu-Jitsu		Chrome SSL privacy error both forms, body unreadable
+CONFIRMED_DEAD	Behring Jiu Jitsu NY		Both forms redirect to shinobimmany.com 404 page
+CONFIRMED_DEAD	Boxing Club		Both forms load completely blank white page
+CONFIRMED_DEAD	Brazilian Jiu Jitsu of Washington Heights		Both forms: Wix "domain isn't connected to a site"
+CONFIRMED_DEAD	Burien Brazilian Jiu Jitsu		Both forms serve a bare 404 page
+FALSE_POSITIVE	Campuzano Martial Arts	https://campuzanomartialarts.com/	2626 Stonebrook Pkwy Unit 600, Frisco, TX
+CONFIRMED_DEAD	Cape Martial Arts		Apex Cloudways 403 placeholder; www blank page
+CONFIRMED_DEAD	Carlson Gracie Academy of Garden Grove		Both forms show Squarespace "Website Expired" page
+CONFIRMED_DEAD	Carlson Gracie Training Center - Cavalcanti Jiu Jitsu		Both forms render an empty shell, nothing visible
+CONFIRMED_DEAD	Champions Fitness Brazilian Jiu-JItsu Muay-Thai & Boxing		Both forms: Wix "domain isn't connected to a site"
+CONFIRMED_DEAD	Champions Training Center		Both forms time out, server never responds
+CONFIRMED_DEAD	Cheeseman Martial Arts Brazilian Jiu Jitsu		Both forms: "Error. Page cannot be displayed."
+HIJACK	Dave Strasser's Freestyle Academy of MMA		Apex redirects to Social Security scam survey; www to ad lander
+CONFIRMED_DEAD	DeLand Brazilian Jiu-Jitsu		Both forms: Wix "domain isn't connected to a site"
+CONFIRMED_DEAD	DiBenedetto's Karate Jiu-Jitsu		Both forms: IIS "404 - File or directory not found"
+CONFIRMED_DEAD	Endurance Brazilian Jiu-Jitsu		Both forms: "Error establishing a database connection"
+CONFIRMED_DEAD	Evolution Fight Academy		Both forms: Wix "domain isn't connected to a site"
+CONFIRMED_DEAD	Family Martial Arts Fitness Academy		Short-link placeholder; /nfc redirect target fails to load

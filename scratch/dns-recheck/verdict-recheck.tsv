@@ -1,0 +1,35 @@
+verdict	name	url	ips	note
+FALSE_POSITIVE	10th Planet Indianapolis at Circle City Martial Arts & Fitness	ccmaf.com	75.2.0.180, 99.83.169.22	Indianapolis, IN; 1202 N Illinois St
+UNSURE	Adas Jiu Jitsu Academy	bjjpeabody.com	44.215.0.10, 52.200.250.78, 34.194.248.51, 34.229.254.77, 35.168.157.66	www redirects to apex which has no A record
+CONFIRMED_DEAD	American Top Team D'Iberville	https://attdiberville.com		REFUSED lame delegation on apex and www
+FALSE_POSITIVE	Bay Jiu-Jitsu / BJJ Berkeley CA 94704	https://www.baycombat.com/	3.33.251.168, 15.197.225.128	San Francisco and Mill Valley; redirects to bayjiujitsu.com
+CONFIRMED_DEAD	Brazilian Jiu-Jitsu United	http://www.bjjunited.com		NXDOMAIN on both apex and www
+UNSURE	Casa of Jiu Jitsu	http://www.casabjj.com/	198.71.233.82	Resolves but every page fetch returned empty, unreadable
+CONFIRMED_DEAD	Catch MMA	https://catchmma.com/		NXDOMAIN on both apex and www
+UNSURE	DCB MMA & Athletic Training	http://www.dcbmma.com/	198.71.233.128, 160.153.0.38	Resolves but every page fetch returned empty, unreadable
+CONFIRMED_DEAD	Dallas Jiu-Jitsu	http://www.dallasjiujitsu.com/		SERVFAIL on both apex and www
+CONFIRMED_DEAD	Elite Martial Arts Academy	https://elitemartialartsacademyks.com		REFUSED lame delegation on apex and www
+FALSE_POSITIVE	Fusion MMA	http://fusionfitnessandmma.com/	199.34.228.59	Marietta, Georgia
+CONFIRMED_DEAD	G13 Jiu-Jitsu New Mexico	https://www.g13bjjnewmexico.com		NXDOMAIN on both apex and www
+FALSE_POSITIVE	Gracie Jiu Jitsu Houston	http://www.graciejiujitsuwesthouston.com	15.197.225.128, 3.33.251.168	14520 Memorial Dr Suite 92, Houston TX
+CONFIRMED_DEAD	Gracie South Jiu-Jitsu of Pearl	https://graciesouthjiujitsupearl.com		REFUSED lame delegation on apex and www
+FALSE_POSITIVE	Highland Fight Systems	hfsmma.com	172.67.181.165, 104.21.96.140	Live MMA and BJJ gym; no address shown
+CONFIRMED_DEAD	Jaguar BJJ	https://jaguarbjj.com/		NXDOMAIN on both apex and www
+CONFIRMED_DEAD	Kingsnake Jiu-Jitsu	https://kingsnakebjj.com/		NXDOMAIN on both apex and www
+CONFIRMED_DEAD	Muscle Panda MMA	https://www.musclepandamma.ca		NXDOMAIN on both apex and www
+FALSE_POSITIVE	OC Carlson Gracie Jiu Jitsu	https://www.carlsongracieoc.com/	207.7.95.135	3702 East Chapman Ave Suite E, Orange CA
+FALSE_POSITIVE	ONE HEART DOJO	https://www.eldoradomartialarts.com/	3.33.251.168, 15.197.225.128	828 West 14th Street, El Dorado, Arkansas
+CONFIRMED_DEAD	Pacific Top Team Abbotsford	https://pttabbotsford.com		NXDOMAIN on both apex and www
+CONFIRMED_DEAD	Precision MMA Morden	https://www.precisionmma.ca		NXDOMAIN on both apex and www
+UNSURE	Solis Martial Arts Academy	http://www.solismartialarts.com/	199.34.228.100, 3.33.251.168, 15.197.225.128	Resolves but every page fetch returned empty, unreadable
+CONFIRMED_DEAD	The Fighting Arts Academy	fightingartsfitchburg.com		NXDOMAIN on both apex and www
+CONFIRMED_DEAD	Tim Burrill Brazilian Jiu Jitsu	https://timburrill.com		NXDOMAIN on both apex and www
+CONFIRMED_DEAD	Tsunami Flow Jiu Jitsu	https://www.tsunamiflowjiujitsu.com		REFUSED lame delegation on apex and www
+CONFIRMED_DEAD	USA Jiu-Jitsu Arkansas	https://usajjarkansas.com		NXDOMAIN on both apex and www
+UNSURE	Unity Jiu Jitsu New Jersey	http://unitybjjnj.com	199.34.228.58	Resolves but every page fetch returned empty, unreadable
+FALSE_POSITIVE	Vital Force Muay Thai & MMA	http://www.vitalforcemma.com/	15.197.225.128, 3.33.251.168	14750 Central Ave, Chino CA; also Corona CA
+CONFIRMED_DEAD	WAMMA Niverville	https://wammaniverville.ca		NXDOMAIN on both apex and www
+CONFIRMED_DEAD	WaveMan Combat Academy	https://wavemanjiujitsu.com		NXDOMAIN on both apex and www
+PARKED	Way Of BJJ Training Studio	https://wayofbjj.com	13.223.25.84, 54.243.117.197	HugeDomains for-sale lander on www
+CONFIRMED_DEAD	Wolf's Hammer Martial Arts Academy	https://hotspringsjiujitsu.com		NXDOMAIN on both apex and www
+CONFIRMED_DEAD	Wolfpack Family Jiujitsu	https://www.wolfpackfamilybjj.com		NXDOMAIN on both apex and www

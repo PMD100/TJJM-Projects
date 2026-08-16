@@ -1,0 +1,23 @@
+name	stored_url	stored_host	alt_host	original_reason
+Roninjitsu Martial Arts	https://smashironfitness.com/roninjitsu-martial-arts	smashironfitness.com	www.smashironfitness.com	location page 404s, domain resolves
+Ryuko Training Center	http://www.ryukotrainingcenter.com	www.ryukotrainingcenter.com	ryukotrainingcenter.com	Squarespace account expired placeholder
+Southwest MMA	http://southwestmma.com/	southwestmma.com	www.southwestmma.com	does not load in browser
+Station 6 Fitness and Martial Arts	station6fitness.com	station6fitness.com	www.station6fitness.com	HTTP 522, origin server connection timed out
+Syndicate Mixed Martial Arts	http://www.syndicatemmavegas.com	www.syndicatemmavegas.com	syndicatemmavegas.com	loads completely blank, no content
+Team Kalista Martial Arts	http://teamkalistamartialarts.wodify.com/	teamkalistamartialarts.wodify.com	www.teamkalistamartialarts.wodify.com	Wodify page not found, account gone
+Team One Mixed Martial Arts	http://teamonept.wix.com/personaltrainig	teamonept.wix.com	www.teamonept.wix.com	blank on http and https; CNAME to generic userna
+The Base Vancouver	vancouverjiujitsu.com	vancouverjiujitsu.com	www.vancouverjiujitsu.com	Wix placeholder, domain not connected to site
+The Beast Academy	http://www.the-beast.com/	www.the-beast.com	the-beast.com	loads completely blank, no content
+The Jupiter Jiu Jitsu Academy in Jupiter Fl	http://www.jupiterjiujitsu.com/	www.jupiterjiujitsu.com	jupiterjiujitsu.com	Error page cannot be displayed, host error
+Thrive Jiu Jitsu	http://www.thrivemartialarts.com	www.thrivemartialarts.com	thrivemartialarts.com	loads completely blank, no content
+Toronto Jiu Jitsu Club	https://torontojiujitsuclub.com	torontojiujitsuclub.com	www.torontojiujitsuclub.com	Wix placeholder, domain not connected to site
+UFC GYM Arlington	https://www.ufcgym.com/locations/arlington/	www.ufcgym.com	ufcgym.com	location page 404s, domain resolves
+UFC GYM Costa Mesa	https://www.ufcgym.com/locations/costa-mesa/	www.ufcgym.com	ufcgym.com	location page 404s, domain resolves
+UFC GYM Lauderhill	https://www.ufcgym.com/locations/lauderhill/	www.ufcgym.com	ufcgym.com	location page 404s, domain resolves
+UFC GYM Norfolk	https://www.ufcgym.com/locations/norfolk/	www.ufcgym.com	ufcgym.com	location page 404s, domain resolves
+UFC GYM Southington	https://www.ufcgym.com/locations/southington/	www.ufcgym.com	ufcgym.com	location page 404s, domain resolves
+UFC GYM Sunnyvale	http://www.ufcgym.com/sunnyvale	www.ufcgym.com	ufcgym.com	UFC Gym 404, Sunnyvale location page gone
+UFC Gym Green Valley	http://ufcgym.com/greenvalley	ufcgym.com	www.ufcgym.com	UFC Gym 404, Green Valley location page gone
+Underdog Brazilian Jiu-Jitsu	http://www.underdogbjj.com/	www.underdogbjj.com	underdogbjj.com	does not load in browser, renderer hangs
+Vegas Combat	http://www.vegascombat.com	www.vegascombat.com	vegascombat.com	Wix placeholder, domain not connected to site
+Yukon Martial Arts	yukonokmartialarts.com	yukonokmartialarts.com	www.yukonokmartialarts.com	Squarespace account expired placeholder
