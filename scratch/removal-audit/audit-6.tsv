@@ -1,0 +1,68 @@
+name	stored_url	stored_host	alt_host	original_verdict	original_note
+ACS Mixed Martial Arts	http://acsmmatx.com/	acsmmatx.com	www.acsmmatx.com	HIJACKED	HOSTILE HIJACK, LIVE NOW. acsmmatx.com 301s to
+Advantage BJJ Martial Arts & Fitness	https://advantagebjj.com/	advantagebjj.com	www.advantagebjj.com	WRONG_ENTITY	Domain now serves an entirely different school
+Black Flag Submission Co.	https://www.blackflagsubco.com/	www.blackflagsubco.com	blackflagsubco.com	DEAD	DNS NXDOMAIN (Status 3) on both blackflagsubco
+Brandon Abdullah's Martial Arts and Fitness	https://www.albanybjj.com/	www.albanybjj.com	albanybjj.com	DEAD	DNS Status 3 NXDOMAIN on both albanybjj.com an
+Brazilian Jiu-Jitsu Academy of Tacoma (Marcello C. Monteiro)	www.253bjj.com	www.253bjj.com	253bjj.com	DEAD	DNS Status 3 NXDOMAIN on both 253bjj.com and w
+Bridge City Combat	http://aaeamerica.com/	aaeamerica.com	www.aaeamerica.com	WRONG_ENTITY	aaeamerica.com is Against All Enemies Armory, 
+Bristol BJJ	https://bristolbjj.com	bristolbjj.com	www.bristolbjj.com	DEAD	NXDOMAIN (Status 3) at the .com gTLD servers.
+Bwarrior MMA	http://bwarrior.com	bwarrior.com	www.bwarrior.com	DEAD	NXDOMAIN (Status 3). Zone is served by ns1.nam
+Cannon Brazilian Jiu-Jitsu	https://www.cannonbjj.net/	www.cannonbjj.net	cannonbjj.net	DEAD	NXDOMAIN (DNS Status 3) on both cannonbjj.net 
+Checkmat Phoenix	https://mkbjj.com/	mkbjj.com	www.mkbjj.com	DEAD	DNS Status 2 REFUSED at delegation for both mk
+Coastal Combatives	http://www.coastalcombatives.com/	www.coastalcombatives.com	coastalcombatives.com	PARKED	"Bluehost placeholder page: title ""Welcome coas"
+Courage Honor Strength Brazilian Jiu-Jitsu	http://www.chsbjj.com/	www.chsbjj.com	chsbjj.com	DEAD	NXDOMAIN (Status 3) on both chsbjj.com and www
+CrossFit Arsenal (and BJJ)	crossfitarsenal.com	crossfitarsenal.com	www.crossfitarsenal.com	PARKED	No A record. Apex returns Status 0 with an SOA
+Crossfit 585 BJJ	http://www.crossfit585bjj.com/home	www.crossfit585bjj.com	crossfit585bjj.com	DEAD	DNS Status 3 NXDOMAIN for crossfit585bjj.com (
+Curtis Tillman's Mixed Martial Arts Academy	http://tillman-mma.com	tillman-mma.com	www.tillman-mma.com	DEAD	DNS Status 3 NXDOMAIN for tillman-mma.com, ans
+East West MMA	http://www.circleofoneny.com	www.circleofoneny.com	circleofoneny.com	DEAD	NXDOMAIN (Status 3) at the .com gTLD servers.
+Ephrata Martial Arts	https://www.ephratamartialarts.com/	www.ephratamartialarts.com	ephratamartialarts.com	NOT_GRAPPLING	Site is live and is the right school (248 W. F
+Eric Nolan's Xtreme Training Center	http://www.ericnolan.com/	www.ericnolan.com	ericnolan.com	DEAD	DNS Status 2 REFUSED for both apex and www; al
+Fight-Sport Training Center	https://www.fightsporttrainingcenter.com/	www.fightsporttrainingcenter.com	fightsporttrainingcenter.com	DEAD	NXDOMAIN (DNS Status 3) on both apex and www
+GB Dana Point	https://graciebarra.com/dana-point-ca/	graciebarra.com	www.graciebarra.com	DEAD	Empty; subpaths redirect to generic brand page
+Gracie Barra North Babylon	https://gbnorthbabylon.com	gbnorthbabylon.com	www.gbnorthbabylon.com	DEAD	DNS Status 3 NXDOMAIN on both gbnorthbabylon.c
+Gracie Jiu-Jitsu Point Lookout	https://graciejiujitsuli.com	graciejiujitsuli.com	www.graciejiujitsuli.com	DEAD	NXDOMAIN (Status 3) on both graciejiujitsuli.c
+Guerrero BJJ & MMA	http://kneeonbelly.com/	kneeonbelly.com	www.kneeonbelly.com	WRONG_ENTITY	"Domain now redirects to njkick.com = ""No Limit"
+Hartford Dojo	http://gracieacademy.com/	gracieacademy.com	www.gracieacademy.com	WRONG_ENTITY	gracieacademy.com is the Gracie Academy / Grac
+Infinite Fighting Concepts MMA	ifcmma.com	ifcmma.com	www.ifcmma.com	PARKED	Redirects to www.ifcmma.com which serves a Nam
+JG Monster Jiujitsu Fitness	http://www.jgmonsterjiujitsufitness.com	www.jgmonsterjiujitsufitness.com	jgmonsterjiujitsufitness.com	DEAD	DNS Status 3 NXDOMAIN for jgmonsterjiujitsufit
+Jg Academy Manteca	https://www.jgacademy.net/manteca	www.jgacademy.net	jgacademy.net	DEAD	404; Manteca dropped from site locations menu
+Kfm Martial Arts & Fitness Academy	http://www.kfmnewyork.com	www.kfmnewyork.com	kfmnewyork.com	DEAD	DNS Status 3 NXDOMAIN for www.kfmnewyork.com, 
+Kifaru Jitsu Academy of Martial Arts	http://www.kifarujitsu.com	www.kifarujitsu.com	kifarujitsu.com	NOT_GRAPPLING	Domain is live and IS the correct organisation
+Kokopelli's Gym	http://www.kokogym.com/	www.kokogym.com	kokogym.com	DEAD	DNS Status 2 REFUSED at both kokogym.com and w
+Labrador City BJJ	https://www.novauniao.ca/lab-city	www.novauniao.ca	novauniao.ca	DEAD	NXDOMAIN (Status 3) on both novauniao.ca and w
+Longo and Weidman MMA	http://lawmma.com	lawmma.com	www.lawmma.com	PARKED	"Serves a NameBright registrar parking page: ""l"
+Madera Martial Arts	http://maderamma.com/	maderamma.com	www.maderamma.com	PARKED	Redirects to www.maderamma.com serving a Namec
+Marcelo Garcia Academy LA	https://marcelogarciaacademy.com/la	marcelogarciaacademy.com	www.marcelogarciaacademy.com	UNRESOLVED	Domain resolves (15.197.142.173 / 3.33.152.147
+Master Gauss Martial Arts Center	http://www.gaussmartialarts.com/	www.gaussmartialarts.com	gaussmartialarts.com	NOT_GRAPPLING	Site is live and is the correct entity (5950 H
+Michigan Sports Camps	https://www.ttsfitness.com/	www.ttsfitness.com	ttsfitness.com	WRONG_ENTITY	Domain belongs to a different business in a di
+Montpelier BJJ	https://montpelierbjj.com	montpelierbjj.com	www.montpelierbjj.com	DEAD	NXDOMAIN (Status 3) at the .com gTLD servers.
+New Wave Martial Arts Perry Hall	newwavema.com	newwavema.com	www.newwavema.com	DEAD	GoDaddy nameservers delegated but no A record 
+Nexus Martial Arts & Fitness	nexusma.com	nexusma.com	www.nexusma.com	DEAD	Status 0 but no A record (SOA-only response) f
+Northern Colorado Jiu Jitsu	http://www.nocojiujitsu.com	www.nocojiujitsu.com	nocojiujitsu.com	DEAD	DNS REFUSED (Status 2, lame delegation at noco
+Peloton Martial Arts Center	http://www.peloton-bjj.com	www.peloton-bjj.com	peloton-bjj.com	DEAD	NXDOMAIN (Status 3) at the .com gTLD servers.
+Presque Isle BJJ	https://presqueislebjj.com	presqueislebjj.com	www.presqueislebjj.com	DEAD	NXDOMAIN (Status 3) at the .com gTLD servers.
+REAL WORLD MMA & Fitness	http://independentmartialarts.us/	independentmartialarts.us	www.independentmartialarts.us	NOT_GRAPPLING	Site is Noonan Independent Martial Arts operat
+Refit Academy - Wynwood	http://www.refit-academy.com	www.refit-academy.com	refit-academy.com	DEAD	Apex refit-academy.com returns DNS Status 0 wi
+Relentless Martial Arts	relentlessmartialarts.com	relentlessmartialarts.com	www.relentlessmartialarts.com	NOT_GRAPPLING	Right entity (6202 S Sheridan Rd Tulsa, OK 741
+Ronin Jiu-Jitsu North Las Vegas	http://www.roninbjj.org	www.roninbjj.org	roninbjj.org	WRONG_ENTITY	"Site is live but is a different school: ""Ronin"
+Ronin Martial Arts - Westport	https://www.westportmma.com/	www.westportmma.com	westportmma.com	DEAD	Authoritative nameservers REFUSED (Status 2, l
+SLL Grappling Academy - Brazilian Jiu-Jitsu (BJJ)	http://sllgrapplingacademy.com/	sllgrapplingacademy.com	www.sllgrapplingacademy.com	DEAD	DNS Status 2: nameservers 192.185.65.17 and 19
+Samuel Puccio Brazilian Jiu-Jitsu	https://bhmbjj.com/	bhmbjj.com	www.bhmbjj.com	DEAD	NXDOMAIN (Status 3) for both bhmbjj.com and ww
+Souris Brazilian Jiu-Jitsu	https://sourisbjj.com	sourisbjj.com	www.sourisbjj.com	DEAD	DNS NXDOMAIN (Status 3)
+Spartan Team Brazilian Jiu-Jitsu	http://spartanboxinggym.com/	spartanboxinggym.com	www.spartanboxinggym.com	NOT_GRAPPLING	"Live site is ""Spartan Boxing Gym"", a non-profi"
+Stamford Judo	http://www.stamfordjudo.us/	www.stamfordjudo.us	stamfordjudo.us	PARKED	Trellian/Above.com domain parking: page title 
+Summerlin BJJ	https://summerlinbjj.com	summerlinbjj.com	www.summerlinbjj.com	PARKED	Bluehost hosting placeholder, not a school sit
+TeckHit Boxing, Kickboxing, & MMA Gym	https://teckhit.com/	teckhit.com	www.teckhit.com	DEAD	DNS dead: apex teckhit.com Status 0 with NO An
+The Desert Dojo	https://thedesertdojo.com/	thedesertdojo.com	www.thedesertdojo.com	DEAD	Cloudflare nameservers delegated but no A reco
+The Dojo LLC	http://www.thedojofc.com	www.thedojofc.com	thedojofc.com	HIJACKED	HIJACKED. thedojofc.com now serves a Chinese s
+Touro Fajardo Brazilian Jiu Jitsu	https://www.tourofajardobrazilianjiujitsu.com	www.tourofajardobrazilianjiujitsu.com	tourofajardobrazilianjiujitsu.com	DEAD	NXDOMAIN (DNS Status 3) on both apex and www
+UFC GYM East Rutherford	https://www.ufcgym.com/locations/east-rutherford/	www.ufcgym.com	ufcgym.com	DEAD	redirects to find-a-gym locations index
+UFC GYM Lancaster	https://www.ufcgym.com/locations/lancaster/	www.ufcgym.com	ufcgym.com	DEAD	404
+UFC GYM McAllen	https://www.ufcgym.com/locations/mcallen/	www.ufcgym.com	ufcgym.com	DEAD	404
+UFC GYM Orange	https://www.ufcgym.com/locations/orange/	www.ufcgym.com	ufcgym.com	DEAD	redirects to find-a-gym locations index
+UFC GYM Sacramento	https://www.ufcgym.com/locations/sacramento/	www.ufcgym.com	ufcgym.com	DEAD	404
+UFC GYM Winter Springs	https://www.ufcgym.com/locations/winter-springs/	www.ufcgym.com	ufcgym.com	DEAD	404
+UFC Gym Oceanside	https://www.ufcgym.com/locations/oceanside/	www.ufcgym.com	ufcgym.com	DEAD	redirects to find-a-gym locations index
+Utica Combat Athletics	http://www.uticacombat.com	www.uticacombat.com	uticacombat.com	DEAD	DNS Status 3 NXDOMAIN on both uticacombat.com 
+Westchester Mixed Martial Arts & Fitness	http://www.westchestermmafit.com	www.westchestermmafit.com	westchestermmafit.com	PARKED	"Redirects to HugeDomains: ""WestchesterMmAfIt.c"
+Yojimbo BJJ	http://www.yojimbonyc.com	www.yojimbonyc.com	yojimbonyc.com	DEAD	DNS Status 3 NXDOMAIN for yojimbonyc.com (no z

@@ -1,0 +1,121 @@
+verdict	name	region	city	url	note
+OK	Aylmer Jiu-Jitsu and Muay-Thai	QC	Gatineau	https://www.aylmerjiujitsu.com	BJJ and Muay Thai, Gatineau address matches
+WRONG_CITY	B Team Jiu Jitsu	NJ	Edison	https://www.bteamjiujitsu.com/	Redirects to Craig Jones B-Team, Austin Texas
+AGGREGATOR	B7 Jiu Jitsu	NB	Woodstock	https://www.facebook.com/B7JiuJitsu	Facebook page, not school's own website
+OK	BJJ Battalion	ON	Etobicoke	https://bjjbattalion.com	BJJ academy, 12 Drummond St Etobicoke
+SUSPECT	BJJ Revolution Park City (Malmberg Jiu-Jitsu)	UT	Park City	https://jiujitsurevolution.com	Empty body returned, no content at all
+AGGREGATOR	BJJ Revolution Team - Baton Rouge	LA	Zachary	https://www.bjjrevolutionteam.com/	Affiliation brand homepage, Williston VT office
+OK	BJJ at 11th Street Dojo by Nayo Fauntes (Clois Silva)	CA	San Francisco	https://www.11thstreetdojo.com/aikido-1	San Francisco dojo, BJJ program listed
+OK	BPi Fighting Systems	ID	Coeur d'Alene	https://www.bpifight.com	BJJ and MMA, Coeur d'Alene address matches
+OK	BUDō Jiu-Jitsu Team Vancouver	BC	Vancouver	https://budojiujitsuteam.com	BJJ school, Vancouver named throughout site
+OK	BVJJ	BC	Burnaby	https://bvjj.ca	BJJ gym, 3710 Canada Way Burnaby
+SUSPECT	Bad Company Jiu-Jitsu	PA	Wilkes-Barre	https://www.badcompanybjj.com/	Empty body returned, no page content
+SUSPECT	Bagwell Academy of Martial Arts	CT	Milford	https://bagwellacademy.com/	Karate/taekwondo focus, MMA class, no BJJ
+OK	Bairro Brazilian Jiu-Jitsu Academy	AB	Edmonton	https://bairro.ca	BJJ academy, 10542 106 St Edmonton
+OK	Bairro Martial Arts Academy South	AB	Edmonton	https://bairro.ca	Second location, 5222 86 St Edmonton
+SUSPECT	Baker's MMA & Fitness LLC	AZ	Surprise	http://www.bakersmmaandfitness.com/	Turkish gambling casino site, domain hijacked
+OK	Bakersfield Brazilian Jiu Jitsu / BJJ Bakersfield CA 93313	CA	Bakersfield	https://www.mattbakerbjj.com/	BJJ academy, 4308 Resnik Ct matches
+OK	Balance Jiu Jitsu	MB	Winnipeg	https://www.balancebjjwinnipeg.com	BJJ academy, 1308 Portage Ave Winnipeg
+OK	Bar Harbor Brazilian Jiu Jitsu	ME	Bar Harbor	https://barharborbjj.com	BJJ school, 12 Bethany Lane matches
+OK	BarnYard MMA	KY	Crittenden	https://barnyardmma.com/	BJJ and MMA, 700 Violet Rd
+OK	Barrie BJJ	ON	Barrie	https://705bjj.com/	BJJ academy, 571 Bayfield St Barrie
+OK	Base Camp Brazilian Jiu Jitsu	CA	Mt Shasta	https://www.basecampbjj.com/	BJJ gym, 612 S Mt Shasta Blvd
+WRONG_CITY	Bataille Jiu Jitsu Academy	NJ	Kinnelon	https://www.bataillejj.com/	Bloomingdale NJ, 47 Main St
+OK	BattleGround Jiu-Jitsu Academy	MA	West Springfield	https://battlegroundjiujitsu.com	BJJ academy, 2260 Westfield St West Springfield
+OK	Battles Jiu Jitsu	ID	Eagle	https://www.battlesjiujitsu.com	BJJ gym, 220 S Herons Flight Eagle
+OK	Bayou Jiu Jitsu & Self Defense Baton Rouge	LA	Baton Rouge	https://bayoujiujitsu.us/	BJJ and judo, 9681 Airline Hwy
+WRONG_CITY	Bayshore BJJ	NJ	Middletown	https://www.bayshorebjj.com/	Hazlet NJ, 1444 Route 36
+OK	Be Jiu Jitsu	LA	Lafayette	https://be-jj.com	BJJ gym, 113 Clinton St Lafayette
+OK	Bearclan Jiujitsu	ME	Oakland	https://bearclanjiujitsu.com	BJJ school, 826 Kennedy Memorial Oakland
+OK	Beaufort MMA	SC	Beaufort	https://www.beaufortmma.com	BJJ and MMA, 2127 Boundary St
+SUSPECT	Becerra Judo & Jiu-Jitsu Club / Jiu-Jitsu Garland TX 75041	TX	Garland	https://www.becerrajudo.com/	Empty body returned, no page content
+NO_CITY	Bedroc MMA & Fitness	NY	Rochester	https://www.bedrocmma.com	Real MMA/judo/BJJ school, no address anywhere
+OK	Believe Jiu Jitsu	SC	Moncks Corner	https://believejiujitsu.com	BJJ academy, 3514 S Live Oak matches
+SUSPECT	Believe MMA	NJ	North Plainfield	https://believemma.com/	Redirects to expired-domain sale listing page
+OK	Bellevue Academy of Brazilian Jiu Jitsu	NE	Bellevue	https://bellevuebjj.com	BJJ academy, 2851 Capehart Rd Bellevue
+OK	Bellingham BJJ	WA	Bellingham	https://bellinghambjj.com	BJJ school in downtown Bellingham, city matches
+SUSPECT	Bellmore Kickboxing Academy	NY	Bellmore	https://bellmorekickboxingmma.com/	Kickboxing gym, no grappling classes shown
+OK	Bellum Brazilian Jiu Jitsu	MN	St. Paul	https://bellumbrazilianjiujitsu.com	BJJ academy, 655 Fairview Ave St Paul
+OK	Bemidji BJJ	MN	Bemidji	https://www.bemidjibjj.com	BJJ club in Bemidji, city matches
+OK	Bergen County Brazilian Jiu-Jitsu	NJ	Ramsey	https://www.jiujitsutrainingnj.com/	BJJ academy, Ramsey NJ named onsite
+OK	Big Country - Orillia	ON	Orillia	https://bigcountryorillia.gymdesk.com	BJJ and judo, 27 West St Orillia
+NO_CITY	Bill Stevens Karate	NJ	Ramsey	https://www.stevenskarate.com/brazilian-jiu-jitsu/	Ribeiro BJJ program page, no address shown
+OK	Bindner Academy	ON	London	https://bindner.academy	BJJ academy, 19-1615 North Routledge London
+OK	Binghamton Brazilian Jiu Jitsu	NY	Binghamton	https://broomecountymartialarts.com/	BJJ gym, 589 Conklin Rd Binghamton
+OK	Birmingham Brazilian Jiu Jitsu Spartan Fitness	AL	Homewood	https://spartanfitnessmma.com/classes/Brazilian-Jiu-Jitsu	BJJ classes, 179 State Farm Pkwy Homewood
+OK	Bismarck MMA	ND	Bismarck	https://bismarckmma.com	BJJ, judo, wrestling, 1418 Airport Rd
+WRONG_CITY	Bitterroot Warrior Arts Corvallis	MT	Corvallis	https://www.bugoutmt.com/bitterrootwarriorarts	Body lists Hamilton and Stevensville, not Corvallis
+OK	Bitterroot Warrior Arts Stevensville	MT	Stevensville	https://www.bugoutmt.com/bitterrootwarriorarts	Judo and jujitsu, Stevensville 211 Main St
+OK	Bjj Québec	QC	Quebec City	https://bjjquebec.com	BJJ club, 2376 Rue Galvani Québec
+OK	Black Arrow Martial Arts	MN	Brainerd	https://www.blackarrowmartialarts.com	Jiu-jitsu, 217 Washington St Brainerd MN
+OK	Black Cat MMA	WV	Morgantown	https://morgantownmma.com/	BJJ and wrestling, 9500 Mall Rd Morgantown
+SUSPECT	Black Diamond Brazilian Jiu-Jitsu	NV	Reno	https://blackdiamondbjj.com/schedule	Empty body returned, no page content
+OK	Black Diamond Grappling Club	MO	Bevier	https://www.bevierjiujitsu.com/	BJJ club, 108 E Elvira St Bevier
+OK	Black Gold Jiu-Jitsu Academy	AB	Spruce Grove	https://www.blackgoldbjj.com	BJJ academy, 20 Westwind Dr Spruce Grove
+OK	Black Hills Brazilian Jiu-Jitsu	SD	Rapid City	https://www.bhbjj.com	BJJ academy, 3325 W Main Rapid City
+OK	Black Hole Jiu Jitsu	NY	Wappingers Falls	https://blackholejj.com	BJJ gym, 1285 US-9 Wappingers Falls
+OK	Black House Miami Beach	FL	Miami Beach	https://blackhousemiamibeach.com/	BJJ and MMA gym, Miami Beach branding
+OK	Black Label BJJ of Cheyenne	WY	Cheyenne	https://blacklabel307.com	BJJ school, 1121 Old Town Ln Cheyenne
+OK	Black Label Martial Arts	SC	Charleston	https://blacklabelmartialarts.com	BJJ and wrestling, 1850 Wallace School Rd
+OK	Black Lion Jiu Jitsu Academy	MI	Byron Center	https://www.blacklionjiujitsu.com/	BJJ academy, 701 68th St Byron Center
+OK	Black Sails Brazilian Jiu Jitsu	AB	Edmonton	https://www.blacksailsbjj.com	BJJ gym, 9746 54 Ave Edmonton
+WRONG_CITY	Black Tiger Martial Arts Academy	IL	Libertyville	https://www.blacktigerfightclub.com/	Grayslake IL, 1033 Progress Dr
+WRONG_CITY	BlackSmith Jiu Jitsu Florida	FL	Tallahassee	https://blacksmithjiujitsu.com/	Niceville FL, 1039 John Sims Parkway
+OK	Blackfoot Jiu Jitsu and Fitness	ID	Blackfoot	https://blackfootjiujitsu.com	BJJ gym, 1010 W Bridge St Blackfoot
+NO_CITY	Blackout Jiu Jitsu	OK	Moore	https://blackoutjiujitsu.com	Real BJJ gym, no address or city
+OK	Blackout Mixed Martial Arts	AZ	Sierra Vista	https://www.blackoutmmaandfitness.com/	BJJ and judo, 999 E Fry Sierra Vista
+AGGREGATOR	Blue Collar Grappling Academy	AR	Marion	https://www.facebook.com/bluecollargrapplingacademy870/	Facebook page, not school's own website
+OK	Blue Ridge Jiu Jitsu	NC	Mills River	https://blueridgejj.com/	BJJ academy, 6424 Boylston Hwy Mills River
+OK	Blue Wave Brazilian Jiu Jitsu	NH	Nashua	https://bluewavejiujitsu.com	BJJ academy, 1 Progress Ave Nashua
+SUSPECT	Boa Brazilian Jiu Jitsu	PA	Orwigsburg	https://boa-brazilian-jiu-jitsu-llc.business.site/	Empty body, Google business.site likely retired
+OK	Bobby Lawrence Karate Orem	UT	Orem	https://oremkarate.com	BJJ classes, 976 S State St Orem
+SUSPECT	Bobcat MMA	OH	The Plains	https://www.starbrickbjj.com/bobcat-mma	Empty body returned, no page content
+NO_CITY	Body Armor MMA	WV	Buckhannon	https://www.bodyarmorwv.com/	BJJ school, West Virginia only, no address
+OK	Bom Jitsu Brazilian Jiu Jitsu	CO	Castle Rock	https://bomjitsu.com	BJJ academy, 680 Atchison Way Castle Rock
+OK	Bora Jiu-Jitsu	ON	Hamilton	https://borabjj.com	BJJ academy, 625 Greenhill Ave Hamilton
+OK	Bossier Jiu-Jitsu: Louisiana Black Belt Academy	LA	Bossier City	https://bossierjiujitsu.com/	BJJ academy, 4345 Marlena St Bossier City
+OK	Boston Brazilian Jiu-Jitsu Woburn	MA	Woburn	https://bostonbjjwoburn.com	BJJ academy, 104 Main St Woburn
+OK	Boxer's Rebellion Martial Arts	AZ	Tucson	https://www.boxersrebellionmartialarts.com/	Jujitsu and grappling, 5933 E 22nd Tucson
+OK	Bozeman JuJitsu	MT	Belgrade	https://bozemanjujitsu.com	DanZan Ryu jujitsu, 20900 Frontage Rd Belgrade
+SUSPECT	Braga Jiu-Jitsu	CA	Upland	https://braga-jiu-jitsu.business.site/	Empty body, Google business.site likely retired
+OK	Bragiao BJJ MMA	HI	Kapaa	https://www.mmaonkauai.com	BJJ and MMA, 4-484 Kuhio Hwy Kapaa
+OK	Braman Jiu Jitsu	RI	Warwick	https://www.bramanjiujitsu.com	BJJ gym, 24 Quaker Lane Warwick
+OK	Brampton Brazilian Jiu Jitsu Academy	ON	Brampton	https://bramptonbjj.com	BJJ academy, 1295 Williams Pkwy Brampton
+OK	Brasa Comprido BJJ	IL	Bloomingdale	https://compridobjj.com/	BJJ academy, 201 E Army Trail Bloomingdale
+OK	Brasa Jiu-Jitsu Highwood	IL	Highwood	https://highwood.compridobjj.com/	BJJ academy, 432 Green Bay Rd Highwood
+OK	Brattleboro Jiu-Jitsu	VT	Brattleboro	https://www.brattleborojiujitsu.com	BJJ school, 55 Marlboro Rd Brattleboro
+OK	Bravado BJJ Rive-Sud	QC	Longueuil	https://www.bravadobjjrivesud.com	BJJ gym, 4180 Chemin de Chambly Longueuil
+OK	Brave BJJ Boise	ID	Boise	https://www.brave-bjj.com	BJJ gym, 8707 W State St Boise
+OK	Brave Martial Arts Institute	ON	Ottawa	https://bravemai.com	BJJ and MMA, 2161 Thurston Dr Ottawa
+OK	Bravé MMA and Fitness	AB	Edmonton	https://bravemmaandfitness.com	BJJ and wrestling, 10023 168 St Edmonton
+AGGREGATOR	Brazil 021 San Antonio	TX	San Antonio	https://brazil021.com/	Brand homepage; no San Antonio location listed
+OK	Brazil Academy USA	KS	Lenexa	https://www.brazilacademyusa.com	BJJ academy, 11441 Strang Line Lenexa
+OK	Brazil-021 Winnipeg	MB	Winnipeg	https://www.brazil021wpg.com	BJJ academy, 1000 Notre Dame Winnipeg
+OK	Brazilian Black Belt Buffalo Grove	IL	Buffalo Grove	https://brazilianblackbelt.com/buffalo-grove-brazilian-jiu-jitsu	BJJ academy, 790 S Buffalo Grove Rd
+OK	Brazilian Fight Factory	TX	Austin	https://fightfactoryjiujitsu.com/	BJJ academy, 9607 Research Blvd Austin
+OK	Brazilian Jiu Jitsu Academy Cape Coral	FL	Cape Coral	https://steve6139.wixsite.com/bjjacademy	BJJ academy, 1423 SE 10th St Cape Coral
+OK	Brazilian Top Team Back Bay	MA	Boston	https://bttbackbay.co	BJJ academy, 400 Commonwealth Ave Boston
+OK	Brazilian Top Team Londonderry	NH	Londonderry	https://bttlondonderry.com	BJJ academy, 73 Rockingham Rd Londonderry
+OK	Brazilian Top Team North Dallas	TX	Richardson	https://www.bttnorthdallas.com	BJJ academy, 670 N Coit Rd Richardson
+OK	Brazilian Top Team Texas	TX	San Antonio	https://bttsa.com	BJJ HQ, 5345 Glen Ridge Dr San Antonio
+OK	Breaking Point Jiu-Jitsu Bettendorf	IA	Bettendorf	https://breakingpointbjj.com	BJJ academy, 6990 Competition Ct Bettendorf
+OK	Breaking Point Jiu-Jitsu Davenport	IA	Davenport	https://breakingpointbjj.com	BJJ academy, 3840 W River Dr Davenport
+OK	Breakthrough BJJ	NS	Amherst	https://www.breakthroughbjj.ca	BJJ gym, 33 Prince Arthur St Amherst
+WRONG_CITY	Brian Beury Jiu Jitsu	NY	Albany	https://brianbeauryjiujitsu.com/	Watervliet NY, 1623 2nd Ave
+OK	Bronx Martial Arts Academy	NY	Bronx	https://www.bronxmartialarts.com	BJJ and grappling, 1051 Allerton Ave
+OK	Brooklyn Brazilian Jiu Jitsu	NY	Brooklyn	https://brooklynbjj.com	BJJ school, four Brooklyn locations listed
+OK	Brooklyn Mixed Martial Arts & Fitness	NY	Brooklyn	https://www.brooklynmixedmartialarts.com	BJJ and MMA, 2418 Ralph Ave Brooklyn
+NO_CITY	Brooklyn Motumbaxé Capoeira Jiu Jitsu--Mestre Lampréia	NY	Brooklyn	https://lampreiamotumbaxe.com/membership	Capoeira and BJJ membership page, no address
+OK	Brothers Jiu Jitsu	OK	Broken Arrow	https://brothersjiujitsu.wordpress.com/	No-gi BJJ academy in Broken Arrow Oklahoma
+OK	Brunswick Martial Arts Academy	ME	Topsham	https://brunswickmartialarts.com	BJJ and judo, 126 Main St Topsham
+SUSPECT	Buckhead Fight Club	GA	Brookhaven	https://www.buckheadfightclub.com/	Boxing-only gym, striking only, no grappling
+OK	Buckhead Jiu-Jitsu	GA	Atlanta	https://www.buckheadjj.com/	BJJ academy, 2144 Hills Ave Atlanta
+OK	Budo Mixed Martial Arts Burnaby	BC	Burnaby	https://budoburnaby.com	Burnaby BJJ and kickboxing academy, city matches
+AGGREGATOR	Buena Vida Jiu Jitsu Academy	CA	West Sacramento	https://www.facebook.com/BuenaVidaJiuJitsuAcademy/	Facebook page, not school's own website
+OK	Buffalo Brazilian Jiu Jitsu Academy	NY	Buffalo	https://www.buffalobjj.com/	BJJ academy, 22 French Lea Rd Buffalo
+OK	Buffalo United Martial Arts	NY	Buffalo	https://buffalounitedmartialarts.com	BJJ, judo, sambo, 359 Ganson St
+AGGREGATOR	Bulldog Martial Arts	NS	Lantz	https://www.facebook.com/groups/206127349417091	Facebook group, not school's own website
+OK	Bullpen Fight Club WV	WV	Wheeling	https://bullpenfightclub.com	BJJ gi/no-gi, Wheeling WV location listed
+OK	Burgess Academy of BJJ and MMA	NH	Manchester	https://burgessmma.com	BJJ and MMA, 9 Old Falls Manchester
+OK	Burlington BJJ	ON	Burlington	https://burlingtonbjj.ca	BJJ academy, 1167 Pettit Rd Burlington
+OK	Burns Martial Arts	KS	Wichita	https://www.burnsmartialarts.com	BJJ and wrestling, 1711 S Eisenhower Wichita

@@ -1,0 +1,20 @@
+OK	Athens BJJ	GA	Athens	https://athensbjj.com	SBG Athens BJJ, Athens Georgia named
+OK	Athens Fitness and MMA	GA	Athens	https://sbgathens.com/	BJJ MMA gym, address matches record
+OK	Athens Jiu Jitsu	AL	Athens	https://www.ajjathens.com	Jiu jitsu gym, Athens AL address
+WRONG_CITY	Atlanta Budokan	GA	Smyrna	https://gamasd.com/	Georgia Martial Arts, Acworth GA address
+SUSPECT	Atlanta Kick	GA	Atlanta	https://atlantakick.com/try-free-class	striking only, no grappling
+OK	Atlantic MMA	NC	Hickory	https://fightforitcompany.com/	MMA jiu-jitsu, Hickory NC address matches
+OK	Atlas Jiu Jitsu	ID	Meridian	https://atlas-jiujitsu.com	BJJ academy, Meridian ID address matches
+OK	Atlas Jiu Jitsu Glens Falls	NY	South Glens Falls	https://www.atlasjiujitsu.com/glenns-falls	BJJ page, South Glens Falls address
+OK	Atlas Jiu Jitsu Waltham	MA	Waltham	https://www.atlasjiujitsu.com/waltham-massachusetts	BJJ page, 520 Main St Waltham
+OK	Atmosphere Martial Arts Academy	KY	Paducah	https://www.atmospheremartialarts.com/	Gracie jiu-jitsu, Paducah address matches
+OK	Atos	CA	San Diego	https://atosjiujitsuhq.com	BJJ academy, 4810 Mercury St San Diego
+OK	Atos BJJ San Diego	CA	San Diego	https://atosjiujitsuhq.com/	BJJ academy, San Diego address matches
+OK	Auburn CA Jiu Jitsu Academy	CA	Auburn	https://auburnjiujitsuacademy.com/	BJJ academy, 244 Palm Ave Auburn
+OK	Auburn Jiu Jitsu	AL	Auburn	https://auburn-jiujitsu.com/	BJJ school, 758 E Glenn Auburn AL
+OK	Austin Fitness Martial Arts	TX	Austin	https://www.thevoidmartialarts.com/	Rebrand THE VOID, BJJ MMA East Austin
+OK	Austin Fitness Martial Arts - Now is THE VOID MArtial Arts	TX	Austin	https://www.thevoidmartialarts.com/	THE VOID rebrand, BJJ MMA in Austin
+OK	Austin Martial Arts Academy	TX	Austin	https://lifekido.com/	Life Ki-do BJJ, Bee Cave Rd Austin
+OK	Authentic Jiu Jitsu	AB	Calgary	https://authenticjiujitsu.com	BJJ school, 3616 52 Ave Calgary
+SUSPECT	Averitt Jiu Jitsu	AZ	Flagstaff	https://averittjiujitsu.com/	empty body, no content returned twice
+OK	Axe Capoeira Arizona	AZ	Scottsdale	https://www.axecapoeira-az.com/brazilian-jiujitsu	BJJ program, Scottsdale address matches record

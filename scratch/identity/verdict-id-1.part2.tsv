@@ -1,0 +1,19 @@
+OK	10th Planet Jiu Jitsu Santa Fe	NM	Santa Fe	https://10thplanetsantafe.com	Santa Fe named throughout site
+OK	10th Planet Jiu Jitsu Ventura / BJJ Ventura CA 93001	CA	Ventura	https://10thplanetventura.com/	Address 1540 E Main St matches
+OK	10th Planet Jiu-Jitsu Auburn	NE	Auburn	https://10thplanetauburn.com	Address 1916 O Street Auburn matches
+OK	10th Planet Jiu-Jitsu Omaha	NE	Bellevue	https://10thplanetomaha.com	Bellevue NE; site lists 722 Fort Crook
+OK	10th Planet Jiu-Jitsu SLC	UT	Salt Lake City	https://10thplanetslc.com	Address 215 S 1000 E matches
+WRONG_CITY	10th Planet Miami	FL	Miami	https://10thplanetmiami.com/	Site serves Miramar FL, not Miami
+NO_CITY	10th Planet Nazareth	PA	Nazareth	https://10pnazareth.com/	Real school; phone only, no address
+SUSPECT	10th Planet North Dallas	TX	Carrollton	https://10thplanetjjdallas.com	Domain now Indonesian gambling site
+OK	10th Planet Oceanside	CA	Oceanside	https://10thplanetoceanside.com	New location 1791 S Oceanside Blvd
+AGGREGATOR	10th Planet Palm Beach at AOP MMA (West Palm Beach)	FL	West Palm Beach	https://www.vagaro.com/aopmma	Vagaro booking page, no school content
+OK	10th Planet Palmdale	CA	Palmdale	https://10thplanetpalmdale.com/	40125 Tenth St W, Palmdale matches
+OK	10th Planet Pleasant Grove	UT	Pleasant Grove	https://10thplanetpleasantgrove.com	2416 W 700 S matches
+OK	10th Planet Poway Jiu Jitsu	CA	Poway	https://www.10thplanetpoway.com/	14009 Midland Rd, Poway matches
+OK	10th Planet Redland	CA	Redlands	https://10thplanetjiujitsuredlands.com/	821 West Colton Ave, Redlands matches
+OK	10th Planet Richmond	BC	Richmond	https://www.10thplanetrichmond.ca	11151 Horseshoe Way, Richmond BC matches
+OK	10th Planet Sacramento	CA	Sacramento	https://www.10psac.com	8345 Folsom Blvd, Sacramento matches
+OK	10th Planet San Antonio Huebner Oaks	TX	San Antonio	https://www.10psanantonio.com/	Huebner Oaks 11255 Huebner Rd listed
+OK	10th Planet San Diego	CA	San Diego	https://10thplanetsandiego.com	San Diego named; own school site
+OK	10th Planet Santa Barbara	CA	Santa Barbara	https://www.10thplanetsantabarbara.com/	1113 State St, Santa Barbara matches

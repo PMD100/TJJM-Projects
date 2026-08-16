@@ -1,0 +1,121 @@
+verdict	name	region	city	url	note
+OK	101 Academy	AB	Calgary	https://101academy.ca/	BJJ gym in Calgary, schedule and coaches
+OK	10th Planet BJJ Bloomsburg at Mid World Martial Arts	PA	Bloomsburg	https://www.midworldmartialarts.com/	10th Planet jiu jitsu, 32 E Ridge
+OK	10th Planet Birmingham	AL	Birmingham	https://mmabirmingham.com/	No-gi jiu jitsu, Birmingham Alabama address listed
+SUSPECT	10th Planet Boca Raton	FL	Boca Raton	https://10thplanetboca.com/	Empty body, only title tag rendered
+OK	10th Planet Chino Hills	CA	Chino Hills	https://www.10thplanetchinohills.com/	Address 4070 Chino Hills Parkway matches
+OK	10th Planet Corona	CA	Corona	https://10thplanetjjcor.com	12391 Sampson Ave Suite L Corona
+SUSPECT	10th Planet Corvallis	OR	Corvallis	https://www.facebook.com/10PCorvallis/	Facebook login wall, no content
+OK	10th Planet El Paso	TX	El Paso	https://10thplanetelpaso.com/contact/	El Paso TX; moved to Pelicano Dr
+OK	10th Planet Fredericksburg	VA	Fredericksburg	https://www.10thplanetfxbg.com/	Fredericksburg VA; now Princess Anne St
+OK	10th Planet Georgetown	TX	Georgetown	https://10pgtx.com/	1523 Northwest Blvd Georgetown TX
+OK	10th Planet Goodyear	AZ	Avondale	https://www.10thplanetgoodyear.com/	Site address 425 W Western Ave Avondale
+OK	10th Planet Jiu JItsu Murrieta	CA	Murrieta	https://www.10thplanetjjmurrieta.com	26305 Jefferson Ave Murrieta matches
+OK	10th Planet Jiu Jitsu Albuquerque	NM	Albuquerque	https://10pabq.com	237 Eubank Blvd NE Albuquerque matches
+OK	10th Planet Jiu Jitsu Allentown	PA	Allentown	https://www.10thplanetallentown.com/	349 S Cedar Crest Blvd Allentown matches
+OK	10th Planet Jiu Jitsu Beaumont	TX	Beaumont	https://www.10thplanetbeaumontjiujitsumma.com/	5925 Caswell Rd Beaumont TX matches
+OK	10th Planet Jiu Jitsu Chicago	IL	Chicago	https://www.10thplanetchicago.com/	Chicago IL; now 5711 N Milwaukee
+OK	10th Planet Jiu Jitsu Decatur	AL	Decatur	https://decaturbrazilianjiujitsu.com/	108 Lenwood Rd SE Decatur matches
+OK	10th Planet Jiu Jitsu Jacksonville	FL	Jacksonville	https://www.10pjax.com/	4849 Dawin Rd Jacksonville FL matches
+OK	10th Planet Jiu Jitsu Las Vegas	NV	Henderson	https://www.10thplanetlasvegas.com	Henderson 1225 W Warm Springs matches
+OK	10th Planet Jiu Jitsu Lombard	IL	Lombard	https://www.10plombard.com/	1060 N DuPage Ave Lombard matches
+OK	10th Planet Jiu Jitsu NYC	NY	New York	https://www.10thplanetjjnyc.com	35 W 43rd St New York
+OK	10th Planet Jiu Jitsu Newark (Heath OH)	OH	Heath	https://10thplanetnewark.com	409 S 22nd St Heath matches
+OK	10th Planet Jiu Jitsu Riverside CA	CA	Riverside	https://www.10thplanetjjriverside.com/	6065 Magnolia Ave Riverside matches
+OK	10th Planet Jiu Jitsu Santa Fe	NM	Santa Fe	https://10thplanetsantafe.com	Santa Fe named throughout site
+OK	10th Planet Jiu Jitsu Ventura / BJJ Ventura CA 93001	CA	Ventura	https://10thplanetventura.com/	Address 1540 E Main St matches
+OK	10th Planet Jiu-Jitsu Auburn	NE	Auburn	https://10thplanetauburn.com	Address 1916 O Street Auburn matches
+OK	10th Planet Jiu-Jitsu Omaha	NE	Bellevue	https://10thplanetomaha.com	Bellevue NE; site lists 722 Fort Crook
+OK	10th Planet Jiu-Jitsu SLC	UT	Salt Lake City	https://10thplanetslc.com	Address 215 S 1000 E matches
+WRONG_CITY	10th Planet Miami	FL	Miami	https://10thplanetmiami.com/	Site serves Miramar FL, not Miami
+NO_CITY	10th Planet Nazareth	PA	Nazareth	https://10pnazareth.com/	Real school; phone only, no address
+SUSPECT	10th Planet North Dallas	TX	Carrollton	https://10thplanetjjdallas.com	Domain now Indonesian gambling site
+OK	10th Planet Oceanside	CA	Oceanside	https://10thplanetoceanside.com	New location 1791 S Oceanside Blvd
+AGGREGATOR	10th Planet Palm Beach at AOP MMA (West Palm Beach)	FL	West Palm Beach	https://www.vagaro.com/aopmma	Vagaro booking page, no school content
+OK	10th Planet Palmdale	CA	Palmdale	https://10thplanetpalmdale.com/	40125 Tenth St W, Palmdale matches
+OK	10th Planet Pleasant Grove	UT	Pleasant Grove	https://10thplanetpleasantgrove.com	2416 W 700 S matches
+OK	10th Planet Poway Jiu Jitsu	CA	Poway	https://www.10thplanetpoway.com/	14009 Midland Rd, Poway matches
+OK	10th Planet Redland	CA	Redlands	https://10thplanetjiujitsuredlands.com/	821 West Colton Ave, Redlands matches
+OK	10th Planet Richmond	BC	Richmond	https://www.10thplanetrichmond.ca	11151 Horseshoe Way, Richmond BC matches
+OK	10th Planet Sacramento	CA	Sacramento	https://www.10psac.com	8345 Folsom Blvd, Sacramento matches
+OK	10th Planet San Antonio Huebner Oaks	TX	San Antonio	https://www.10psanantonio.com/	Huebner Oaks 11255 Huebner Rd listed
+OK	10th Planet San Diego	CA	San Diego	https://10thplanetsandiego.com	San Diego named; own school site
+OK	10th Planet Santa Barbara	CA	Santa Barbara	https://www.10thplanetsantabarbara.com/	1113 State St, Santa Barbara matches
+SUSPECT	10th Planet Sedalia MO	MO	Sedalia	https://www.facebook.com/p/10th-Planet-Jiu-Jitsu-Sedalia-100027128487044/	Facebook returned empty body, no content
+OK	10th Planet South Bay (Chula Vista CA)	CA	Chula Vista	https://10thplanetsouthbay.com/	Address 241 Third Ave, Chula Vista matches
+OK	10th Planet Thousand Oaks	CA	Thousand Oaks	https://www.10thplanetthousandoaks.com/	Names Thousand Oaks; no street address listed
+OK	10th Planet Torrance	CA	Torrance	https://10ptorrance.com/	Torrance CA; now 24433 Hawthorne Blvd
+OK	10th Planet Whittier	CA	Whittier	https://www.join10pwhittier.com/	Address 9150 Painter Ave, Whittier matches
+OK	12th Street Jiu-Jitsu	AZ	Phoenix	https://12stjiujitsu.com/	1107 E Bell Rd, Phoenix AZ
+SUSPECT	13 Jiu Jitsu	KY	Glasgow	https://www.facebook.com/13JiuJitsu	Facebook returned empty body, no content
+OK	144 Academy Jiu Jitsu/Self-Defense/Fitness	TX	Dallas	https://144academy.com/	Dallas TX; now 3406 Easy St
+NO_CITY	208 Jiu Jitsu Academy	ID	Nampa	https://www.208jiujitsuacademy.com	Real BJJ site, no address anywhere
+WRONG_CITY	303 Training Center	CO	Westminster	https://www.303trainingcenter.com	Located 5757 Olde Wadsworth Blvd, Arvada CO
+OK	360 BJJ	TX	Grand Prairie	https://360bjj.com/	830 Mayfield Rd, Grand Prairie matches
+OK	360 Defense Martial Arts (Macarra BJJ Affiliated Academy)	CT	Norwich	https://www.360defensemartialarts.com/	15 Wawecus St, Norwich CT matches
+SUSPECT	360 Defense Martial Arts Colchester CT	CT	Colchester	https://www.facebook.com/ABDColchesterCT/	Facebook returned empty body, no content
+OK	374 MMA	NS	Halifax	https://374mma.com	277 Lacewood Dr Halifax; SEO title says Windsor
+OK	4S Brazilian Jiu Jitsu / Jiu-Jitsu San Diego CA 92127	CA	San Diego	https://4sbjj.com/	Names San Diego CA; no street address
+OK	5 Elements Studio- Jiu-Jitsu & Fitness	TX	Dallas	https://5elementsstudio.com/	2613 N Carroll Ave, Dallas matches
+OK	501 BJJ & Kickboxing	AR	Conway	https://501bjj.com	2655 Donaghey Ave, Conway AR matches
+NO_CITY	609 Jiu Jitsu	NJ	Egg Harbor Township	https://609jiujitsu.com/	Real BJJ school page, no address shown
+OK	66 JIU-JITSU	AZ	Flagstaff	https://www.66jiu-jitsu.com/	2710 N Steves Blvd, Flagstaff AZ
+OK	662 JiuJitsu	MS	Oxford	https://www.jiujitsuoxford.com	Address matches, Oxford MS
+SUSPECT	719 Fight Team MMA	CO	Colorado Springs	https://www.facebook.com/719FightTeamMma/	Facebook login wall, no content
+OK	760 Jiu-Jitsu / BJJ Oceanside CA 92057	CA	Oceanside	https://760jiujitsu.com/	3320 Mission Ave, Oceanside CA
+OK	7th Generation Jiu Jitsu	CA	Clovis	https://www.7thgenerationbjj.com/	50 W Bullard Ave, Clovis CA
+OK	88 BJJ	ON	Markham	https://eighteightbjj.com	50 Anderson Ave, Markham ON
+OK	905 Brazilian Jiujitsu	ON	Aurora	https://905brazilianjiujitsu.com	10 Furbacher Ln, Aurora ON
+WRONG_CITY	925 Jiu Jitsu Club / BJJ Concord CA 94520	CA	Concord	https://www.925jiujitsu.com/	Site address is Martinez, CA
+OK	9th Isle BJJ Inc	NV	Las Vegas	https://www.9thislebjj.com	Site names Las Vegas
+OK	A-Force BJJ Academy	NY	Great Neck	https://www.aforcebjj.com	Great Neck location listed
+OK	AACE Martial Arts Academy	ON	Pickering	https://aacemartialartsacademy.com	633 Kingston Road, Pickering ON
+OK	ABUNAI MMA	AZ	Avondale	https://abunaimma.com/	300 N Central Ave, Avondale AZ
+OK	ADG Jiu-Jitsu	TN	Smyrna	https://adgjiujitsu.com	555 Almaville Rd, Smyrna TN
+WRONG_CITY	AE Brazilian Jiu Jitsu	NV	Las Vegas	https://aeujj.com/	Site address 115 S Water, Henderson
+OK	AK-49 Martial Arts	AK	Soldotna	https://www.ak49martialarts.com/	44332 Sterling Hwy, Soldotna AK
+WRONG_CITY	AKF Lexington Martial Arts	KY	Nicholasville	https://akflexington.com/	Site says Lexington KY; taekwondo focus
+OK	ALLIANCE JIU JITSU	AL	Huntsville	https://alliancehuntsville.com/	912 Winchester Rd NE, Huntsville AL
+OK	AM3R - Arts Martiaux Trois-Rivières	QC	Trois-Rivières	https://www.am3r.ca	BJJ and wrestling, Trois-Rivieres named
+OK	AMA Dojo	ON	Mississauga	https://amadojo.ca	Unit 8 6790 Kitimat, Mississauga
+OK	AMA Fight Club	NJ	Cedar Knolls	https://www.joinamafightclub.com/	Names Cedar Knolls NJ, BJJ offered
+OK	AMP BJJ Baton Rouge	LA	Baton Rouge	https://ampbjj.com/about-amp-bjj/amp-bjj-baton-rouge/	Baton Rouge location page, 7731 Perkins Rd
+OK	APEX MMA	ON	Windsor	https://apexmma.ca	HQ 1529 Highland Ave Windsor matches
+SUSPECT	ATA Martial Arts - Bentonville	AR	Bentonville	https://www.tryata.com/	Taekwondo only, no grappling taught
+SUSPECT	ATA Martial Arts Jonesboro	AR	Jonesboro	https://www.jonesboroata.com/	Taekwondo only, no grappling taught
+AGGREGATOR	ATL Fitness 24/7 Woodstock	GA	Woodstock	https://www.mindbodyonline.com/explore/locations/tapout-fitness-woodstock	Mindbody booking platform, no school content
+OK	Abhaya Martial Arts Academy	NS	Windsor	https://www.abhaya.ca/windsor	62 Fort Edward St, Windsor NS
+OK	Abhaya Mixed Martial Arts	NS	Greenwich	https://abhaya.ca	Brand root; Greenwich location page confirmed
+OK	Abmar Barbosa JJ Academy	VA	Vienna	https://www.abmarbjjacademy.com	8460 Tyco Rd, Vienna VA
+SUSPECT	Abrecea BJJ	NJ	Bergenfield	https://www.abreceabjj.com	Site in maintenance mode, no content
+OK	Absolute Fight Factory	MT	Kalispell	https://www.absolutefightfactory.com	465 Ash Rd, Kalispell MT
+OK	Absolute Jiu-Jitsu Academy Bristol	TN	Bristol	https://absolutejj.com	107 Cox St, Bristol TN
+OK	Absolute MMA	UT	West Jordan	https://absolutemma.com	1338 W 7800 S, West Jordan
+AGGREGATOR	Absolute Self Defense Academy	TX	Copperas Cove	https://absolute-self-defense-academy-school.business.site	Google business.site placeholder, empty body
+OK	Academy Jiu Jitsu	NM	Roswell	https://academyjiujitsu.net	4501 N Main St, Roswell NM
+OK	Academy Jiu-Jitsu and Kickboxing / Headquarters	CA	Downey	https://www.academyjj.com/	HQ 9220 Lakewood Blvd, Downey
+WRONG_CITY	Academy Of Striking & Grappling	CA	Riverside	https://www.asgmma.com/	Site lists Moreno Valley, CA address
+OK	Academy of Combat Arts	ND	Fargo	https://fmaca.com	3332 4th Ave S, Fargo
+OK	Acadia Brazilian Jiu-Jitsu	ME	Ellsworth	https://acadiabjj.com	385 High St, Ellsworth ME
+OK	Académie Athéna	QC	Sherbrooke	https://www.athenabjj.com	1381 Rue King E, Sherbrooke QC
+OK	Académie Connexion	QC	Saint-Amable	https://academieconnexion.com	510 rue Charbonneau Saint-Amable, BJJ listed
+OK	Académie Frontenac	QC	Montreal	https://www.academiefrontenac.com	Montreal BJJ and MMA classes
+OK	Académie Impak	QC	Beloeil	https://impakmma.com	Beloeil BJJ, lutte, MMA
+OK	Académie JiuManji	QC	Nicolet	https://academiejiumanji.com	2041 Bd Louis Fréchette Nicolet matches
+OK	Académie SGS	QC	Sherbrooke	https://academiesgs.com	297 Rue King O Sherbrooke matches
+OK	Aces Jiu Jitsu Club	TX	Pflugerville	https://www.acesjiujitsuclub.com/	Pflugerville HQ, BJJ
+OK	Action & Reaction MMA Pickering	ON	Pickering	https://actionreactionmma.com	Site lists 821 Brock Rd Pickering
+OK	Adamas Brazilian Jiu Jitsu Academy	OH	Toledo	https://adamasjiujitsutoledo.com/	5201 Monroe St Toledo matches
+OK	Adapt Jiu-Jitsu	UT	Herriman	https://adaptbjj.com	Herriman UT BJJ academy
+OK	Advanced Martial Arts	NJ	North Brunswick Township	https://advancedbjjnj.com/	North Brunswick BJJ; site shows 1846 US-1
+OK	Advantage Jiu Jitsu	BC	Richmond	https://www.advantagejiujitsu.ca	6231 London Rd Richmond BC matches
+OK	Adventure BJJ & Sambo	OH	Parma	https://adventuremma.com/bjj	5785 Ridge Rd Parma; BJJ grappling
+OK	Affinity Academy Nolan Hill	AB	Calgary	https://affinityacademy.ca	Site covers Nolanridge Cres Calgary location
+OK	Affinity Academy Varsity	AB	Calgary	https://affinityacademy.ca	Site covers Crowchild Trail Varsity location
+OK	Agema Jiu Jitsu and MMA	UT	Provo	https://agemagym.com	1200 Towne Centre Blvd Provo matches
+OK	Aiken Jiu-Jitsu	SC	Aiken	http://www.aikenjiu-jitsu.com	South Aiken Jiu-Jitsu, Aiken SC BJJ
+OK	Airdrie Martial Arts Centre	AB	Airdrie	https://airdriemartialartscentre.ca	28 Gateway Drive Airdrie matches; BJJ
+SUSPECT	Al Garza's Premier Martial Arts	TX	League City	https://algarza.com/	League City listed; no grappling shown
+OK	Alavanca	AB	Calgary	https://www.alavanca.ca	209 16 Ave NE Calgary matches
+OK	Alcateia Brazilian Jiu Jitsu	ON	Belleville	https://alcateiabjj.com	40 Hanna Court Belleville matches
+SUSPECT	Alex Daltro Jiu-Jitsu	GA	Dacula	https://www.facebook.com/Alexdaltrojiujitsu-104683961825611	Facebook returned empty body, no content

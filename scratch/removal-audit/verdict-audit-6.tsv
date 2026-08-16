@@ -1,0 +1,68 @@
+verdict	name	working_url	note
+CONFIRMED	ACS Mixed Martial Arts		Still 301s to Chinese corporate site, hijack live
+CONFIRMED	Advantage BJJ Martial Arts & Fitness		Domain now serves Lockhart Jiu Jitsu, a different school
+CONFIRMED_DEAD	Black Flag Submission Co.		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	Brandon Abdullah's Martial Arts and Fitness		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	Brazilian Jiu-Jitsu Academy of Tacoma (Marcello C. Monteiro)		NXDOMAIN (Status 3) both apex and www
+CONFIRMED	Bridge City Combat		aaeamerica.com is Against All Enemies Armory, firearms
+CONFIRMED_DEAD	Bristol BJJ		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	Bwarrior MMA		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	Cannon Brazilian Jiu-Jitsu		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	Checkmat Phoenix		SERVFAIL then NXDOMAIN in browser, no site
+CONFIRMED	Coastal Combatives		Bluehost placeholder parking page, no school content
+CONFIRMED_DEAD	Courage Honor Strength Brazilian Jiu-Jitsu		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	CrossFit Arsenal (and BJJ)		No A record, NXDOMAIN in browser
+CONFIRMED_DEAD	Crossfit 585 BJJ		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	Curtis Tillman's Mixed Martial Arts Academy		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	East West MMA		NXDOMAIN (Status 3) both apex and www
+CONFIRMED	Ephrata Martial Arts		Live but striking only: sanshou, kickboxing, boxing, muay thai
+CONFIRMED_DEAD	Eric Nolan's Xtreme Training Center		SERVFAIL then NXDOMAIN in browser, no site
+CONFIRMED_DEAD	Fight-Sport Training Center		NXDOMAIN (Status 3) both apex and www
+CONFIRMED	GB Dana Point		graciebarra.com/dana-point-ca returns Page not found
+CONFIRMED_DEAD	Gracie Barra North Babylon		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	Gracie Jiu-Jitsu Point Lookout		NXDOMAIN (Status 3) both apex and www
+CONFIRMED	Guerrero BJJ & MMA		Redirects to njkick.com, No Limit Martial Arts West Orange
+CHANGED	Hartford Dojo		gracieacademy.com now fails to load on http and https
+CONFIRMED	Infinite Fighting Concepts MMA		Namecheap just-registered parking page with domain auctions
+CONFIRMED_DEAD	JG Monster Jiujitsu Fitness		NXDOMAIN (Status 3) both apex and www
+CONFIRMED	Jg Academy Manteca		JG Academy live but /manteca 404s, only Brentwood CA remains
+CONFIRMED_DEAD	Kfm Martial Arts & Fitness Academy		NXDOMAIN (Status 3) both apex and www
+UNSURE	Kifaru Jitsu Academy of Martial Arts		Cloudflare error 1001, origin DNS broken, no content readable
+CONFIRMED_DEAD	Kokopelli's Gym		SERVFAIL then NXDOMAIN in browser, no site
+CONFIRMED_DEAD	Labrador City BJJ		NXDOMAIN (Status 3) both apex and www
+CONFIRMED	Longo and Weidman MMA		NameBright coming-soon parking page
+CONFIRMED	Madera Martial Arts		Namecheap just-registered parking page with auctions
+CHANGED	Marcelo Garcia Academy LA		Now redirects to marcelogarciajj.com, only NYC and Hawaii
+CONFIRMED	Master Gauss Martial Arts Center		Live Modern Arnis stick-fighting school, no grappling offered
+CHANGED	Michigan Sports Camps		ttsfitness.com now 404s and www unreachable, no site
+CONFIRMED_DEAD	Montpelier BJJ		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	New Wave Martial Arts Perry Hall		No A record, NXDOMAIN in browser
+CONFIRMED_DEAD	Nexus Martial Arts & Fitness		No A record, NXDOMAIN in browser
+CONFIRMED_DEAD	Northern Colorado Jiu Jitsu		SERVFAIL then NXDOMAIN in browser, no site
+CONFIRMED_DEAD	Peloton Martial Arts Center		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	Presque Isle BJJ		NXDOMAIN (Status 3) both apex and www
+UNSURE	REAL WORLD MMA & Fitness		Invalid TLS cert blocks page, content unreadable
+CONFIRMED_DEAD	Refit Academy - Wynwood		NXDOMAIN (Status 3) both apex and www
+UNSURE	Relentless Martial Arts		DNS resolves, apex will not render, www refuses connection
+CONFIRMED	Ronin Jiu-Jitsu North Las Vegas		roninbjj.org is Ronin Jiu-Jitsu Attleboro MA, different school
+CONFIRMED_DEAD	Ronin Martial Arts - Westport		SERVFAIL then NXDOMAIN in browser, no site
+CONFIRMED_DEAD	SLL Grappling Academy - Brazilian Jiu-Jitsu (BJJ)		SERVFAIL then NXDOMAIN in browser, no site
+CONFIRMED_DEAD	Samuel Puccio Brazilian Jiu-Jitsu		NXDOMAIN (Status 3) both apex and www
+CONFIRMED_DEAD	Souris Brazilian Jiu-Jitsu		NXDOMAIN (Status 3) both apex and www
+CONFIRMED	Spartan Team Brazilian Jiu-Jitsu		Spartan Boxing Gym Medford OR, boxing only, no grappling
+UNSURE	Stamford Judo		Resolves but error page on http and https, apex and www
+CONFIRMED	Summerlin BJJ		Bluehost placeholder page, not a school site
+CONFIRMED_DEAD	TeckHit Boxing, Kickboxing, & MMA Gym		No A record, NXDOMAIN in browser
+CONFIRMED_DEAD	The Desert Dojo		No A record, NXDOMAIN in browser
+CONFIRMED	The Dojo LLC		Still serves Chinese Kaiyun gambling/ICT site, hijack live
+CONFIRMED_DEAD	Touro Fajardo Brazilian Jiu Jitsu		NXDOMAIN (Status 3) both apex and www
+CONFIRMED	UFC GYM East Rutherford		Location page redirects to generic /locations index
+CONFIRMED	UFC GYM Lancaster		Location page returns PAGE NOT FOUND
+CONFIRMED	UFC GYM McAllen		Location page returns PAGE NOT FOUND
+CONFIRMED	UFC GYM Orange		Location page redirects to generic /locations index
+CONFIRMED	UFC GYM Sacramento		Location page returns PAGE NOT FOUND
+CONFIRMED	UFC GYM Winter Springs		Location page returns PAGE NOT FOUND
+CONFIRMED	UFC Gym Oceanside		Location page redirects to generic /locations index
+CONFIRMED_DEAD	Utica Combat Athletics		NXDOMAIN (Status 3) both apex and www
+CONFIRMED	Westchester Mixed Martial Arts & Fitness		Redirects to HugeDomains for-sale lander, $95
+CONFIRMED_DEAD	Yojimbo BJJ		NXDOMAIN (Status 3) both apex and www
