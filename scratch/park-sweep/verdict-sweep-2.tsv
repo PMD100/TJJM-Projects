@@ -1,0 +1,184 @@
+verdict	region	name	url	ips	note
+OK	CA	GB Dana Point	https://graciebarra.com/dana-point-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	GB Diamond Bar	https://graciebarra.com/diamond-bar-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Academy Jiu-Jitsu and Kickboxing / Headquarters	https://www.academyjj.com/	45.40.149.34	resolves, not parked
+OK	CA	GB Downey	https://graciebarra.com/downey-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Silva BJJ Cajon CA (Aloisio Silva Associated Academy)	https://silvabjjacademy.com/	173.205.125.177	resolves, not parked
+OK	CA	Trilogy Martial Arts	https://www.trilogymmagym.com/	64.202.185.40	resolves, not parked
+OK	CA	Charles Gracie Jiu-Jitsu Academy Elk Grove	https://gracieelkgrove.com/	100.24.208.97,35.172.94.1	resolves, not parked
+OK	CA	GB Encinitas	https://graciebarra.com/encinitas-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	GB Escondido	https://graciebarra.com/escondido-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Jobu Shin Kan	https://jobushinkan.weebly.com/instructor.html	74.115.51.9,74.115.51.8	resolves, not parked
+OK	CA	Raiz Brazilian Jiu-Jitsu	https://www.raizbjj.net/	34.149.87.45	resolves, not parked
+OK	CA	Gracie Brazilian Jiu Jitsu Fremont / Jiu-Jitsu Fremont CA 94538	https://www.graciefremont.com/	3.33.251.168,15.197.225.128	parking-range IP but real site
+OK	CA	Jean Jacques Machado Fresno	https://jjmachadofresno.com/	35.172.94.1,100.24.208.97	resolves, not parked
+OK	CA	Royce Gracie Jiu-Jitsu Of Fresno	https://www.graciefresno.com/	172.66.3.8,162.159.143.12	resolves, not parked
+OK	CA	CSW Training Center	https://www.erikpaulson.com	66.235.200.170	resolves, not parked
+OK	CA	GB Fullerton	https://graciebarra.com/fullerton-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	GB Garden Grove	https://www.gbgardengrove.com/	160.153.0.24	resolves, not parked
+OK	CA	Nam Phan MMA Academy	https://www.iamnam.com/	172.235.57.63	resolves, not parked
+OK	CA	Pedigo Submission Fighting Los Angeles	https://www.psflosangeles.com/	216.198.79.65,64.29.17.1	resolves, not parked
+OK	CA	Electric Jiu Jitsu	https://electricjiujitsu.com	185.230.63.186,185.230.63.107,185.230.63.171	resolves, not parked
+OK	CA	GB Huntington Beach	https://graciebarrahb.com/	72.62.223.96	resolves, not parked
+OK	CA	Gracie Jiu-Jitsu Huntington Beach	https://graciejiujitsuhuntingtonbeach.com/	216.150.1.1	resolves, not parked
+OK	CA	UFC GYM Huntington Beach	https://www.ufcgym.com/locations/huntington-beach/	76.76.21.98,66.33.60.67	resolves, not parked
+OK	CA	Flow Academy BJJ Indio	https://flowacademybjjindio.com/	76.76.21.21	resolves, not parked
+OK	CA	Gracie Jiu-Jitsu Indio	https://gjjindio.com/	172.67.172.109,104.21.55.193	resolves, not parked
+OK	CA	GB HQ - Irvine	https://graciebarra.com/irvine-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Team Oyama MMA & Fitness	https://teamoyama.com/	216.150.1.1	resolves, not parked
+OK	CA	GB La Canada Flintridge	https://graciebarra.com/la-canada-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	GB La Crescenta	https://graciebarra.com/la-canada-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Gracie Jiu-Jitsu La Palma	https://www.gracielapalma.com/	208.94.117.188	resolves, not parked
+OK	CA	Six Blades Jiu Jitsu La Quinta	https://laquintajiujitsu.com	15.197.225.128,3.33.251.168	parking-range IP but real site
+OK	CA	GB Lake Elsinore	https://graciebarra.com/lake-elsinore-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Lincoln Jiu Jitsu Academy	https://lincolnjiujitsuacademy.com/	192.0.78.203,192.0.78.135	resolves, not parked
+OK	CA	Arena Training Center	https://www.arenastrong.com	34.149.87.45	resolves, not parked
+OK	CA	Darcio Lira Brazilian Jiu Jitsu and Martial Arts	https://www.darciolirajiujitsu.com/	198.185.159.144,198.185.159.145,198.49.23.145,198.49.23.144	resolves, not parked
+OK	CA	Caique - Gracie Brazilian Jiu Jitsu Academy	https://cjjusa.com/	20.49.104.5	resolves, not parked
+OK	CA	10th Planet Long Beach CA	https://www.10thplanetjj.com/locations/long-beach-ca/	159.223.205.106	resolves, not parked
+OK	CA	GB Long Beach	https://www.gblongbeach.com	15.197.225.128,3.33.251.168	parking-range IP but real site
+OK	CA	Conde Koma Brazilian Jiu-Jitsu Academy	https://www.condekomabjj.com	198.185.159.144,198.49.23.144,198.185.159.145,198.49.23.145	resolves, not parked
+OK	CA	Alliance Jiu Jitsu Los Angeles	https://www.cobrinhabjj.com/	194.163.35.186	resolves, not parked
+OK	CA	GB Northridge	https://www.gbnorthridge.com/	67.222.151.28	resolves, not parked
+OK	CA	Renzo Gracie Los Angeles	https://renzogracielosangeles.com	172.67.154.178,104.21.88.249	resolves, not parked
+OK	CA	Rey Diogo Brazilian Jiu Jitsu	https://www.reydiogojiujitsu.com/	66.185.19.204	resolves, not parked
+OK	CA	Uactp	https://www.uactp.com/	198.185.159.144,198.49.23.144,198.185.159.145,198.49.23.145	resolves, not parked
+OK	CA	Xtreme Martial Arts and Fitness Center	https://www.xmagym.com/	34.149.87.45	resolves, not parked
+OK	CA	Jg Academy Manteca	https://www.jgacademy.net/manteca	198.185.159.144,198.49.23.144,198.49.23.145,198.185.159.145	resolves, not parked
+OK	CA	East Bay Academy Jiu Jitsu	https://www.ebajiujitsu.com/	34.149.87.45	resolves, not parked
+OK	CA	Charles Gracie Academy Brazilian Jiu Jitsu Modesto CA	https://graciemodesto.com/	74.220.207.205	resolves, not parked
+OK	CA	Gracie Jiu Jitsu Downtown Modesto	https://www.modestobjj.com/	206.189.171.38	resolves, not parked
+OK	CA	Gracie Jiu-Jitsu Monterey	https://graciemonterey.com/	45.79.19.164	resolves, not parked
+OK	CA	Tantō Jiujitsu	https://www.tantojiujitsu.com/	198.49.23.145,198.185.159.145,198.49.23.144,198.185.159.144	resolves, not parked
+OK	CA	United Brazilian Jiu-Jitsu / BJJ Moreno Valley CA 92557	https://www.unitedbjj.com/#/	34.149.87.45	resolves, not parked
+OK	CA	GB Morgan Hill	https://graciebarra.com/morgan-hill-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Mtn House Jiu-Jitsu Academy	https://www.graciemh.com/	192.0.78.232,192.0.78.136	resolves, not parked
+OK	CA	Base Camp Brazilian Jiu Jitsu	https://www.basecampbjj.com/	34.149.87.45	resolves, not parked
+OK	CA	10th Planet Jiu JItsu Murrieta	https://www.10thplanetjjmurrieta.com	18.208.88.157,98.84.224.111	resolves, not parked
+OK	CA	Carlson Gracie Murrieta Temecula Team	https://www.carlsongracietemecula.com	208.167.248.121,51.161.115.44	resolves, not parked
+OK	CA	Checkmat BJJ Murrieta	https://www.checkmatmurrieta.com/	35.215.113.148	resolves, not parked
+OK	CA	GB Newport Beach	https://graciebarra.com/newport-beach-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	North Bay Jiu Jitsu	https://www.northbayjiujitsu.com/	162.159.143.12,172.66.3.8	resolves, not parked
+DEAD	CA	Catch MMA	https://catchmma.com/		NXDOMAIN
+OK	CA	Growth Mindset Collective	https://growthmindsetcollective.com	35.172.94.1,100.24.208.97	resolves, not parked
+OK	CA	10th Planet Oceanside	https://10thplanetoceanside.com	35.215.82.81	resolves, not parked
+OK	CA	760 Jiu-Jitsu / BJJ Oceanside CA 92057	https://760jiujitsu.com/	141.193.213.10,141.193.213.11	resolves, not parked
+OK	CA	CSG 360 Jiu Jitsu	https://www.csg360jiujitsu.com	34.149.87.45	resolves, not parked
+OK	CA	GB Oceanside	https://graciebarra.com/oceanside-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	UFC Gym Oceanside	https://www.ufcgym.com/locations/oceanside/	76.76.21.98,66.33.60.67	resolves, not parked
+DEAD	CA	OC Carlson Gracie Jiu Jitsu	https://www.carlsongracieoc.com/		SERVFAIL, nameservers not responding
+OK	CA	UFC GYM Orange	https://www.ufcgym.com/locations/orange/	76.76.21.98,66.33.60.67	resolves, not parked
+OK	CA	Cultivate Power Fighting Arts	https://cultivatepower.net/	209.97.155.225	resolves, not parked
+OK	CA	GB Palm Desert	https://graciebarra.com/palm-desert-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	10th Planet Palmdale	https://10thplanetpalmdale.com/	18.238.49.26,18.238.49.105,18.238.49.101,18.238.49.40	resolves, not parked
+OK	CA	Combat Base Shasta/ Mendes Brazilian Jiu-Jitsu	https://www.reddingselfdefense.com/	198.49.23.144,198.185.159.145,198.49.23.145,198.185.159.144	resolves, not parked
+OK	CA	Gracie Barra Pasadena	https://graciebarra.com/pasadena-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Renzo Gracie Pasadena	https://www.renzograciepasadena.com/	198.185.159.144,198.49.23.144,198.49.23.145,198.185.159.145	resolves, not parked
+OK	CA	10th Planet Poway Jiu Jitsu	https://www.10thplanetpoway.com/	35.215.120.154	resolves, not parked
+OK	CA	Javier Vazquez Jiu Jitsu Rancho / BJJ Rancho Cucamonga CA 91730	https://www.jiujitsuranchocucamonga.com/	172.67.137.88,104.21.46.97	resolves, not parked
+OK	CA	Rice brothers Brazilian Jiu Jitsu	https://ricebrosacademy.com/?fbPAAaank9WRQJ0f5XUCD7nDCT9_YZ7N0FpkVqn-3QxgLos6phsskIp9UrbXTyc_aem_AcxKEC-ea23ShVOKT-p_9ivUHO3QEvIy3wh3A7nmMpplQlDh7ddgoeBgtEJrB7mEiho	151.101.2.159	resolves, not parked
+OK	CA	10th Planet Redland	https://10thplanetjiujitsuredlands.com/	98.84.224.111,18.208.88.157	resolves, not parked
+OK	CA	Redlands Jiu Jitsu	https://redlandsbjj.com	198.49.23.144,198.49.23.145,198.185.159.144,198.185.159.145	resolves, not parked
+OK	CA	Carlos Alberto's MMA & Fitness Center	https://www.carlosalbertosmma.com/	34.149.87.45	resolves, not parked
+OK	CA	Charles Gracie Jiu Jitsu Ripon	https://www.gracieripon.com/	192.0.78.240,192.0.78.172	resolves, not parked
+OK	CA	10th Planet Jiu Jitsu Riverside CA	https://www.10thplanetjjriverside.com/	104.21.2.232,172.67.129.202	resolves, not parked
+OK	CA	Academy Of Striking & Grappling	https://www.asgmma.com/	34.149.87.45	resolves, not parked
+OK	CA	Gracie Barra Riverside Brazilian Jiu-Jitsu Martial Arts	https://graciebarra.com/riverside-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Synergy Jiu-Jitsu Academy	https://bjj-rocklin.com/	192.145.238.18	resolves, not parked
+OK	CA	GB Rohnert Park	https://graciebarra.com/rohnert-park-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	10th Planet Sacramento	https://www.10psac.com	198.185.159.145,198.49.23.144,198.185.159.144,198.49.23.145	resolves, not parked
+OK	CA	Capitol Jiu Jitsu	https://www.capitoljiujitsu.com/	198.185.159.144,198.185.159.145,198.49.23.145,198.49.23.144	resolves, not parked
+OK	CA	Logic Jiu Jitsu	https://logicbjj.com	23.227.38.32	resolves, not parked
+OK	CA	UFC GYM Sacramento	https://www.ufcgym.com/locations/sacramento/	76.76.21.98,66.33.60.67	resolves, not parked
+OK	CA	Urijah Faber's Ultimate Fitness	https://ufultimatefitness.com/	161.47.102.211	resolves, not parked
+OK	CA	GB San Clemente	https://graciebarra.com/san-clemente-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	10th Planet San Diego	https://10thplanetsandiego.com	35.215.82.81	resolves, not parked
+OK	CA	4S Brazilian Jiu Jitsu / Jiu-Jitsu San Diego CA 92127	https://4sbjj.com/	142.93.117.142	resolves, not parked
+OK	CA	Alliance Jiu Jitsu San Diego	https://alliancesandiego.com/	172.67.153.48,104.21.32.177	resolves, not parked
+OK	CA	Alliance San Diego	https://alliancesandiego.com	172.67.153.48,104.21.32.177	resolves, not parked
+OK	CA	Atos	https://atosjiujitsuhq.com	141.193.213.10,141.193.213.11	resolves, not parked
+OK	CA	Atos BJJ San Diego	https://atosjiujitsuhq.com/	141.193.213.10,141.193.213.11	resolves, not parked
+OK	CA	GB San Diego	https://www.graciebarrasandiego.com/	129.121.64.151	resolves, not parked
+OK	CA	GB Sorrento Valley	https://gbsorrentovalleybjj.com/	5.78.156.59,195.201.128.179,5.161.47.86	resolves, not parked
+OK	CA	Legion AJJ	https://legionsandiego.com	72.251.7.23,72.251.7.22	resolves, not parked
+OK	CA	BJJ at 11th Street Dojo by Nayo Fauntes (Clois Silva)	https://www.11thstreetdojo.com/aikido-1	198.185.159.144,198.49.23.145,198.49.23.144,198.185.159.145	resolves, not parked
+OK	CA	Romulo Melo Brazilian Jiu-Jitsu	https://romulomelobjj.com/	198.185.159.145,198.185.159.144,198.49.23.144,198.49.23.145	resolves, not parked
+OK	CA	American Kickboxing Academy	https://www.americankickboxingacademy.com/	34.149.87.45	resolves, not parked
+OK	CA	Guerrilla Jiu-Jitsu Martial Arts Academy	https://www.guerrillajiujitsu.com/	67.20.76.214	resolves, not parked
+OK	CA	Charles Gracie San Mateo Academy	https://www.graciesm.com/	192.0.78.139,192.0.78.213	resolves, not parked
+OK	CA	GB San Ysidro	https://graciebarra.com/san-ysidro-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	GB Santa Ana	https://graciebarra.com/santa-ana-ca	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	10th Planet Santa Barbara	https://www.10thplanetsantabarbara.com/	198.185.159.144,198.49.23.145,198.185.159.145,198.49.23.144	resolves, not parked
+OK	CA	Paragon Academy Jiu Jitsu-Boxing-Kickboxing Gym	https://www.paragonbjj.com/	35.215.86.89	resolves, not parked
+OK	CA	GB Santa Clarita	https://gbvalencia.com/	145.14.146.97	resolves, not parked
+OK	CA	Gracie Jiu-Jitsu Santa Clarita	https://graciejiujitsuscv.com/	45.79.19.164	resolves, not parked
+OK	CA	Honor Roll Brazilian Jiu-Jitsu / BJJ Santa Clarita CA 91350	https://www.honorrollbjj.com/	34.68.234.4	resolves, not parked
+OK	CA	Gracie Jiu-Jitsu Santa Cruz	https://www.graciesantacruz.com/	45.79.19.164	resolves, not parked
+OK	CA	New Breed Mixed Martial Arts & Fitness	https://newbreedacademy.com/	216.150.1.1	resolves, not parked
+OK	CA	Santa Maria Brazilian Jiu JITSU	https://www.smbjj.com	108.167.161.91	resolves, not parked
+OK	CA	GB Santa Rosa	https://graciebarra.com/santa-rosa-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	NorCal Fighting Alliance	https://www.norcalfighting.com	74.208.236.5	resolves, not parked
+OK	CA	Ringtime Fitness	https://ringtimefitness.com/	20.49.104.5	resolves, not parked
+OK	CA	Valley Martial Arts Center	https://www.valleymac.com/	162.159.143.12,172.66.3.8	resolves, not parked
+OK	CA	Checkmat	https://checkmatjiujitsusignalhill.com/	172.67.212.213,104.21.53.125	resolves, not parked
+OK	CA	GB Simi Valley	https://graciebarra.com/simi-valley-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Watts Brazilian Jiu-Jitsu & Muay Thai Academy	https://www.paragonsimivalley.com/	75.2.0.180,99.83.169.22	resolves, not parked
+OK	CA	Connect Brazilian Jiu Jitsu	https://www.connectbjj.com/	198.202.211.1	resolves, not parked
+OK	CA	Stanford BJJ	https://stanfordclubsports.com/sports/brazilian-jiu-jitsu	74.205.81.130	resolves, not parked
+OK	CA	Stockton Jiu-Jitsu Academy	https://stocktonjiujitsuvalleyfit.com/	15.197.225.128,3.33.251.168	parking-range IP but real site
+OK	CA	Gracie Barra Studio City	https://gbstudiocity.com	162.0.232.116	resolves, not parked
+OK	CA	Train 4 Life	https://www.train4life.info	35.215.119.247	resolves, not parked
+OK	CA	Lohaki Jiu Jitsu	https://www.lokahijiujitsu.com/	151.101.194.159	resolves, not parked
+OK	CA	10th Planet Thousand Oaks	https://www.10thplanetthousandoaks.com/	172.67.166.7,104.21.11.124	resolves, not parked
+OK	CA	GB Thousand Oaks	https://graciebarra.com/newbury-park-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	10th Planet Torrance	https://10ptorrance.com/	162.159.140.166	resolves, not parked
+OK	CA	GB Redondo Beach	https://www.gbredondobeach.com/	186.202.153.55	resolves, not parked
+OK	CA	Golden State BJJ	https://www.goldenstatebjj.com	34.149.87.45	resolves, not parked
+OK	CA	Gracie Jiu-Jitsu Academy	https://gracie-torrance.com/	208.109.56.252	resolves, not parked
+OK	CA	UFC GYM Torrance	https://www.ufcgym.com/locations/torrance/	76.76.21.98,66.33.60.67	resolves, not parked
+OK	CA	JG Academy - Jiu Jitsu & Fitness	https://www.jgacademy.net/tracy	198.185.159.144,198.49.23.144,198.49.23.145,198.185.159.145	resolves, not parked
+OK	CA	Elevated Academy of Martial Arts	https://www.elevatedbjj.com/	75.2.0.180,99.83.169.22	resolves, not parked
+OK	CA	Total MMA Studios	https://www.totalmmastudios.com/	76.76.21.164,66.33.60.34	resolves, not parked
+OK	CA	Mendo Training Center	https://www.mendomma.com/mendommacom	198.49.23.145,198.49.23.144,198.185.159.145,198.185.159.144	resolves, not parked
+OK	CA	GB Upland	https://www.gbupland.com	104.18.35.90,172.64.152.166	resolves, not parked
+OK	CA	Rodrigo Cardoso Brazilian Jiu-Jitsu Academy	https://atlasbjj.com/	162.159.140.166	resolves, not parked
+OK	CA	Julio Juarez Brazilian Jiu-Jitsu	https://www.jjbjjsc.com/	34.149.87.45	resolves, not parked
+OK	CA	10th Planet Jiu Jitsu Ventura / BJJ Ventura CA 93001	https://10thplanetventura.com/	172.67.219.87,104.21.51.25	resolves, not parked
+OK	CA	GB Ventura	https://www.graciebarraventura.com/	198.185.159.144,198.49.23.145,198.49.23.144,198.185.159.145	resolves, not parked
+OK	CA	Morumbi Jiu Jitsu & Fitness Academy - Ventura	https://www.morumbijiujitsuacademy.com/	198.49.23.145,198.185.159.144,198.185.159.145,198.49.23.144	resolves, not parked
+OK	CA	Paragon BJJ	https://www.paragonbjjventura.com	35.215.67.153	resolves, not parked
+OK	CA	Trifecta MMA/BJJ	https://trifecta-mmabjj.maonrails.com/	45.79.19.164	resolves, not parked
+OK	CA	North Coast Jiu Jitsu / Jiu Jitsu Vista CA 92084	https://northcoastjj.com/	192.53.126.242	resolves, not parked
+OK	CA	GB West Covina	https://graciebarra.com/west-covina-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Untamed Jiu-Jitsu	https://www.untamedbjj.com/	216.24.57.15,216.24.57.7	resolves, not parked
+OK	CA	GB West Lancaster	https://graciebarra.com/lancaster-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	Osvaldvo Alves Jiu-Jitsu Academy	https://www.osvaldoalvesbjjsocal.com/	198.49.23.144,198.49.23.145,198.185.159.144,198.185.159.145	resolves, not parked
+OK	CA	10th Planet Whittier	https://www.join10pwhittier.com/	216.150.16.1,216.150.1.1	resolves, not parked
+OK	CA	GB Whittier	https://www.gbwhittier.com	172.64.152.44,104.18.35.212	resolves, not parked
+OK	CA	GIT Right Sports Performance & MMA (Ralph Gracie Whittier)	https://gitrightspf.com/wcs3_class/mma/	198.54.116.162	resolves, not parked
+OK	CA	Gracie Jiu-Jitsu Whittier	https://graciejiu-jitsuwhittier.com/	13.248.243.5,76.223.105.230	resolves, not parked
+OK	CA	Carlson Gracie Inland Valley	https://jiujitsuwildomar.com/	15.197.225.128,3.33.251.168	parking-range IP but real site
+OK	CA	Gracie Jiu-Jitsu Woodland Hills	https://www.gracieuniversity.com/Pages/Public/AffiliateDetail?enc=qLoBB8zQLaHlpiOPxVswyw%3D%3D	104.26.9.153,172.67.69.158,104.26.8.153	resolves, not parked
+OK	CA	Jean Jacques Machado Brazilian Jiu Jitsu Academy	https://www.jeanjacquesmachado.com	3.33.251.168,15.197.225.128	parking-range IP but real site
+OK	CA	GB Yorba Linda	https://gbyorbalinda.com/	198.49.23.144,198.185.159.144,198.185.159.145,198.49.23.145	resolves, not parked
+OK	CA	GB Yuba City	https://graciebarra.com/yuba-city-ca/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CA	NorCal Fitness Co-op	https://norcalfitness.net/	104.21.80.97,172.67.177.40	resolves, not parked
+OK	CO	Genesis Training Academy	https://genesis-fight.com/	151.101.194.159	resolves, not parked
+OK	CO	Gracie Jiu-Jitsu Aurora	https://www.graciebjjcolorado.com/	192.252.154.23	resolves, not parked
+OK	CO	Portela Brazilian Jiu-Jitsu	https://www.portelabjjaurora.com	199.180.140.12,199.180.140.11	resolves, not parked
+OK	CO	Easton Training Center - Boulder	https://eastonbjj.com/boulder/	141.193.213.11,141.193.213.10	resolves, not parked
+OK	CO	Vibrant Jiu Jitsu	https://vibrantjj.com	15.197.225.128,3.33.251.168	parking-range IP but real site
+OK	CO	Gracie Jiu-Jitsu Canon City	https://www.gjj-canoncity.com	198.49.23.145,198.49.23.144,198.185.159.145,198.185.159.144	resolves, not parked
+OK	CO	Bom Jitsu Brazilian Jiu Jitsu	https://bomjitsu.com	20.49.104.5	resolves, not parked
+OK	CO	Carlson Gracie Jiujitsu Team Castle Rock	https://therockjiujitsuteam.com/	104.21.92.73,172.67.188.160	resolves, not parked
+OK	CO	GB Castle Rock	https://www.gbcastlerock.com	172.64.152.166,104.18.35.90	resolves, not parked
+OK	CO	Matrix Martial Arts	https://www.matrixcastlerock.com	34.68.234.4	resolves, not parked
+OK	CO	Busy Brazilian Jiu-Jitsu & Fitness	https://www.busybjj.com	34.149.87.45	resolves, not parked
+OK	CO	Easton Training Center Centennial	https://eastonbjj.com/centennial	141.193.213.11,141.193.213.10	resolves, not parked
+OK	CO	GB Centennial	https://gbcentennial.com	35.212.50.126	resolves, not parked
+OK	CO	Colorado Springs Brazilian Jiu Jitsu	https://csbjj.com	98.84.224.111,18.208.88.157	resolves, not parked
+OK	CO	GB Colorado Springs	https://graciebarra.com/colorado-springs-co/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	CO	Iron Roots Brazilian Jiu Jitsu	https://ironrootsbjj.com	151.101.194.159	resolves, not parked
+OK	CO	Kraken Brazilian Jiu-Jitsu & Fitness	https://bjjkraken.com	151.101.66.159	resolves, not parked
+OK	CO	Warrior Fitness Center	https://www.cowarrior.com	67.205.43.126	resolves, not parked
+OK	CO	Conifer Jiu Jitsu & Fitness	https://www.conifermartialarts.com/	104.21.19.35,172.67.184.241	resolves, not parked

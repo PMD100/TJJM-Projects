@@ -1,0 +1,71 @@
+verdict	region	name	url	ips	note
+OK	NV	Altruist Mixed Martial Arts	https://www.altruistmixedmartialarts.com	104.21.78.186,172.67.168.87	resolves, not parked
+OK	NV	American Top Team Nevada	https://attnevada.com/	162.144.3.207	resolves, not parked
+OK	NV	Chris Engle Brazilian Jiu Jitsu	https://www.cebjj.net	34.149.87.45	resolves, not parked
+OK	NV	Core Fitness & Martial Arts	https://www.mystudio.academy/cs	3.226.163.143,52.20.164.216,44.205.129.117,98.82.241.38,34.224.198.207,3.215.57.230	resolves, not parked
+OK	NV	Gracie Barra Henderson	https://graciebarrahenderson.com/	2.57.91.55,84.32.84.116	resolves, not parked
+OK	NV	9th Isle BJJ Inc	https://www.9thislebjj.com	76.223.105.230,13.248.243.5	resolves, not parked
+OK	NV	AE Brazilian Jiu Jitsu	https://aeujj.com/	104.21.43.211,172.67.185.133	resolves, not parked
+OK	NV	Cascao Jiu Jitsu	https://cascaojiujitsu.org/	35.208.226.115	resolves, not parked
+OK	NV	Freestyle MMA & Jiu Jitsu	https://freestylemmalv.com	35.199.161.130	resolves, not parked
+DEAD	NV	GB Las Vegas	https://graciebarra.com/las-vegas-nv	172.67.71.239,104.26.9.3,104.26.8.3	location page 404s, domain resolves
+OK	NV	Gracie Jiu - Jitsu Summerlin	https://graciejiujitsusummerlin.com/	172.67.216.251,104.21.61.238	resolves, not parked
+OK	NV	Gracie Las Vegas	https://gracielasvegas.com	160.153.0.93	resolves, not parked
+OK	NV	Hard Knocks Muay Thai & Judo	https://hardknocksmuaythaijudo.com/	172.67.166.111,104.21.82.251	resolves, not parked
+OK	NV	Hybrid Jiujitsu	https://hybridjiujitsulv.com	151.101.2.159	resolves, not parked
+OK	NV	Jiu-Jitsu Methods	https://jiujitsumethodslv.com/	75.119.193.6	resolves, not parked
+OK	NV	Lagasca Brazilian Jiu Jitsu	https://www.lagascabjj.com	91.195.240.94	parking-range IP but real site
+OK	NV	Odin's Halls Brazilian Jiu Jitsu	https://www.bjjvegas.com	20.49.104.5	resolves, not parked
+OK	NV	Power Martial Arts & Fitness	https://www.powermartialarts.vegas	192.185.84.147	resolves, not parked
+OK	NV	Results Martial Arts	https://martialartslv.net	104.21.25.40,172.67.222.170	resolves, not parked
+OK	NV	Ribeiro Jiu-Jitsu - Las Vegas	https://www.ribeirojiujitsulv.com/	34.149.87.45	resolves, not parked
+OK	NV	Ronin Jiu-Jitsu Las Vegas	https://www.roninjiujitsu.com	34.149.87.45	resolves, not parked
+DEAD	NV	Roninjitsu Martial Arts	https://smashironfitness.com/roninjitsu-martial-arts	34.68.234.4	location page 404s, domain resolves
+OK	NV	The Academy of Brazilian Jiu Jitsu	https://www.tabjj.com/	198.49.23.145,198.185.159.145,198.49.23.144,198.185.159.144	resolves, not parked
+OK	NV	Tribe Fitness and Martial Arts	https://www.tribevegas.com	199.16.172.180,199.16.173.55	resolves, not parked
+OK	NV	Xtreme Couture MMA	https://xtremecouture.tv	104.21.2.84,172.67.128.237	resolves, not parked
+OK	NV	Zangief Jiu Jitsu	https://www.zangiefjiujitsu.com	160.153.0.25	resolves, not parked
+OK	NV	K Jutsu Do Fights System	https://k-jutsu-do-fights-system.negocio.site	172.253.115.100,172.253.115.139,172.253.115.113	resolves, not parked
+OK	NV	Orient Jiu Jitsu	https://orient-jiu-jitsu-llc.gymdesk.com/book	172.67.75.111,104.26.8.190,104.26.9.190	resolves, not parked
+OK	NV	Alexandre Garcia Brazilian Jiu-Jitsu	https://www.agjiujitsu.com	104.236.177.32	resolves, not parked
+OK	NV	Black Diamond Brazilian Jiu-Jitsu	https://blackdiamondbjj.com/schedule	104.21.92.93,172.67.190.225	resolves, not parked
+OK	NV	Gary Grate Brazilian Jiu-Jitsu Academy of Reno NV	https://www.bjjreno.com	50.87.86.57	resolves, not parked
+OK	NV	Momentum Martial Arts	https://mmarenonv.com/	162.215.171.210	resolves, not parked
+DEAD	NV	Team Reno	https://www.momentumreno.com/brazilian-jiu-jitsu	3.33.152.147,15.197.142.173	blank page at root, domain resolves
+OK	NV	UFC GYM Reno	https://www.ufcgym.com/locations/reno	76.76.21.98,66.33.60.67	resolves, not parked
+OK	NV	Gracie Humaitá Jiu-Jitsu of Sparks NV	https://agjiujitsu.com	104.236.177.32	resolves, not parked
+OK	NY	Brian Beury Jiu Jitsu	https://brianbeauryjiujitsu.com/	162.241.217.21	resolves, not parked
+OK	NY	Gentle Art Studio Lotus Club	https://www.gentleartstudio.com/	209.182.196.189	resolves, not parked
+OK	NY	Queens Jiu-Jitsu	https://www.queensjiujitsu.com/	66.29.132.105	resolves, not parked
+OK	NY	Tiger Schulmann's Martial Arts Astoria (Queens) NY	https://tsk.com/locations/ny/queens-astoria	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NY	Renzo Gracie Bayside	https://renzograciebayside.com	198.49.23.145,198.185.159.145,198.49.23.144	resolves, not parked
+OK	NY	Bellmore Kickboxing Academy	https://bellmorekickboxingmma.com/	185.230.63.186,185.230.63.107,185.230.63.171	resolves, not parked
+OK	NY	Binghamton Brazilian Jiu Jitsu	https://broomecountymartialarts.com/	185.230.63.171,185.230.63.107,185.230.63.186	resolves, not parked
+OK	NY	Bronx Martial Arts Academy	https://www.bronxmartialarts.com	160.153.0.62	resolves, not parked
+OK	NY	Gracie Jiu-Jitsu New York	https://gracieny.com	104.21.56.116,172.67.184.226	resolves, not parked
+OK	NY	Brooklyn Brazilian Jiu Jitsu	https://brooklynbjj.com	130.211.200.90	resolves, not parked
+OK	NY	Brooklyn Mixed Martial Arts & Fitness	https://www.brooklynmixedmartialarts.com	198.202.211.1	resolves, not parked
+OK	NY	Brooklyn Motumbaxé Capoeira Jiu Jitsu--Mestre Lampréia	https://lampreiamotumbaxe.com/membership	104.21.29.245,172.67.150.4	resolves, not parked
+OK	NY	Darfight Martial Arts	https://darfight.com	72.52.145.122	resolves, not parked
+OK	NY	Gregor Gracie Academy Brooklyn	https://www.gregorgracie.com/	162.159.143.12,172.66.3.8	resolves, not parked
+OK	NY	Kings Combat	https://kingscombatwillyb.com/	172.67.161.84,104.21.9.212	resolves, not parked
+OK	NY	Park Slope Academy of Brazilian Jiu-Jitsu	https://www.psabjj.com	198.49.23.144,198.185.159.144,198.185.159.145	resolves, not parked
+OK	NY	TD Athletics	https://tdathletics.net	13.248.243.5,76.223.105.230	resolves, not parked
+OK	NY	Team Diamond Heart	https://teamdiamondheart.com	216.198.79.1	resolves, not parked
+OK	NY	The Dojo NYC	https://thedojonyc.com/	198.185.159.144,198.49.23.144,198.185.159.145	resolves, not parked
+OK	NY	The Grappling Club	https://thegrapplingclubnyc.com	185.230.63.186,185.230.63.107,185.230.63.171	resolves, not parked
+OK	NY	Unlimited Martial Arts	https://unlimitedmartialartsacademy.com	162.217.86.164	resolves, not parked
+OK	NY	Williamsburg MMA	https://www.williamsburgmma.com	34.149.87.45	resolves, not parked
+OK	NY	Zero Gravity Jiu-Jitsu Academy	https://zerogbjj.com	50.87.248.23	resolves, not parked
+OK	NY	Buffalo Brazilian Jiu Jitsu Academy	https://www.buffalobjj.com/	54.187.28.78	resolves, not parked
+OK	NY	Buffalo United Martial Arts	https://buffalounitedmartialarts.com	162.159.140.166	resolves, not parked
+OK	NY	Clobber Jiu Jitsu Academy	https://clobberjiujitsu.com/	185.230.63.186,185.230.63.171,185.230.63.107	resolves, not parked
+OK	NY	Lake Effect Martial Arts	https://lakeeffectbjj.com	172.67.218.62,104.21.83.86	resolves, not parked
+DEAD	NY	Behring Jiu Jitsu NY	https://behringjiujitsuny.com	3.33.251.168,15.197.225.128	redirects to 404 page, domain resolves
+OK	NY	Una Brazilian Jiujitsu	https://www.unabjj.com	104.21.54.19,172.67.222.130	resolves, not parked
+OK	NY	Red Dawn Combat Club- Fresh Meadows	https://reddawnbjj.com	35.212.19.204	resolves, not parked
+OK	NY	Tiger Schulmann's Martial Arts Garden City NY	https://tsk.com/locations/ny/garden-city	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NY	A-Force BJJ Academy	https://www.aforcebjj.com	198.202.211.1	resolves, not parked
+OK	NY	Sub Zero Brazilian Jiu Jitsu	https://subzerobjj.com	162.159.134.42	resolves, not parked
+OK	NY	Vamos MMA	https://www.vamosmma.com	108.61.87.61	resolves, not parked
+OK	NY	Maxum BJJ Long Island	https://www.maxumbjj.com	172.67.201.175,104.21.22.7	resolves, not parked

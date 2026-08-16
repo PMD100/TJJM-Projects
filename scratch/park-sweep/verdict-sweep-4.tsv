@@ -1,0 +1,382 @@
+verdict	region	name	url	ips	note
+OK	MI	Shojin Judo	https://www.shojinjudo.com/	160.153.0.126	resolves, not parked
+OK	MI	Detroit Academy of Martial Arts	https://martialartstroy.com/	35.215.100.149	resolves, not parked
+OK	MI	Japanese Martial Arts Academy	https://samuraidetroit.com/free-lesson	216.177.141.187	resolves, not parked
+OK	MI	NWC Martial Arts Academy	https://www.nwcmartialartsacademy.com/	13.248.243.5,76.223.105.230	resolves, not parked
+OK	MI	Stars and Strikes MMA	https://starsandstrikesmma.com/	160.153.0.174	resolves, not parked
+OK	MN	Freestyle Martial Arts	https://www.minnesotafighting.com	34.149.87.45	resolves, not parked
+OK	MN	Rio Jitsu	https://riojitsu.com	45.79.19.164	resolves, not parked
+OK	MN	Bemidji BJJ	https://www.bemidjibjj.com	172.253.122.121	resolves, not parked
+OK	MN	Prodigy Martial Arts	https://www.prodigymartialartsmn.com	160.153.0.132	resolves, not parked
+OK	MN	Black Arrow Martial Arts	https://www.blackarrowmartialarts.com	198.202.211.1	resolves, not parked
+OK	MN	The Academy MN	https://theacademymn.com	143.95.237.57	resolves, not parked
+OK	MN	Burnsville Martial Arts Academy	https://www.burnsvillemartialartsacademy.com	198.49.23.144,198.185.159.145,198.185.159.144,198.49.23.145	resolves, not parked
+OK	MN	Tracks Brazilian Jiu-Jitsu	https://tracksbjj.com	172.67.217.9,104.21.45.173	resolves, not parked
+OK	MN	Drengr Jiu-Jitsu	https://drengrjiujitsu.com	15.197.225.128,3.33.251.168	parking-range IP but real site
+OK	MN	Minnesota Top Team	https://minnesotatopteam.com	199.250.195.40	resolves, not parked
+OK	MN	Gorilla Combat	https://gorillacombat.com	149.28.212.77	resolves, not parked
+OK	MN	World Jiu Jitsu Academy	https://wjja4u.com	104.21.14.154,172.67.203.202	resolves, not parked
+OK	MN	Alliance Jiu Jitsu MPLS	https://alliancebjjmn.com	34.174.38.117	resolves, not parked
+OK	MN	The Academy Eden Prairie	https://www.academyedenprairie.com	75.2.0.180,99.83.169.22	resolves, not parked
+OK	MN	The Academy Elk River	https://academyelkriver.com	143.95.239.44	resolves, not parked
+OK	MN	Hamel Jiu Jitsu Club	https://www.hameljiujitsu.com	34.149.87.45	resolves, not parked
+OK	MN	Iron Academy Martial Arts	https://ironacademymartialarts.com	198.185.159.144,198.185.159.145,198.49.23.144,198.49.23.145	resolves, not parked
+OK	MN	Isanti Grappling Club	https://isantigrapplingclub.com	84.32.84.197,88.222.222.116	resolves, not parked
+OK	MN	Resilience Martial Arts	https://www.resilience-ma.com	34.149.87.45	resolves, not parked
+OK	MN	Warrior's Cove Martial Arts and Fitness Little Canada	https://warriorscove.com/st-paul-martial-arts/	108.163.225.126	location page live, not parked
+OK	MN	Kato Jiujitsu	https://katojiujitsu.com	18.208.88.157,98.84.224.111	resolves, not parked
+OK	MN	Mark44 Martial Arts Academy	https://www.mark44mma.com	34.149.87.45	resolves, not parked
+OK	MN	United Jiu Jitsu	https://www.ujjmn.com	34.149.87.45	resolves, not parked
+OK	MN	MKG Martial Arts Minneapolis	https://www.mnkali.com	192.254.233.204	resolves, not parked
+OK	MN	Migration BJJ	https://migrationbjj.com	45.79.19.164	resolves, not parked
+OK	MN	Motion City	https://motioncitybjj.com	151.101.130.159	resolves, not parked
+OK	MN	Spartan Martial Arts	https://spartanmartialartsgym.com	162.241.253.60	resolves, not parked
+OK	MN	The Flow Lab Owatonna	https://theflowlabowatonna.com	98.84.224.111,18.208.88.157	resolves, not parked
+OK	MN	The Academy Plymouth	https://academyplymouth.com	199.16.172.20,199.16.173.132	resolves, not parked
+OK	MN	American MMA	https://american-mma.com	64.207.188.48	resolves, not parked
+OK	MN	UnderGround Boxing & Brazilian Jiu-Jitsu	https://www.ugroundboxing.com	198.202.211.1	resolves, not parked
+OK	MN	Tensei Jiu-Jitsu	https://tenseibjj.com	198.185.159.144,198.49.23.144,198.49.23.145,198.185.159.145	resolves, not parked
+OK	MN	Imperial Training Center	https://imperialtrainingcenter.com	104.21.6.11,172.67.134.36	resolves, not parked
+OK	MN	Stock Martial Arts	https://www.stockmartialarts.com	198.202.211.1	resolves, not parked
+OK	MN	The Cellar Gym	https://thecellargym.com	147.79.127.231	resolves, not parked
+OK	MN	Royce Gracie Jiu Jitsu Academy Shakopee	https://rgjjmn.com	151.101.130.159	resolves, not parked
+OK	MN	Start BJJ Minnesota	https://startbjjminnesota.squarespace.com	198.185.159.177,198.49.23.177,198.185.159.176,198.49.23.176	resolves, not parked
+OK	MN	M-Theory Martial Arts	https://mtheorymartialarts.com	172.67.183.105,104.21.18.221	resolves, not parked
+OK	MN	Warrior's Cove Martial Arts and Fitness	https://warriorscove.com	108.163.225.126	resolves, not parked
+OK	MN	Bellum Brazilian Jiu Jitsu	https://bellumbrazilianjiujitsu.com	66.235.200.146	resolves, not parked
+OK	MN	Grappler Station	https://www.grapplerstation.com	198.202.211.1	resolves, not parked
+OK	MN	St. Paul Brazilian Jiu Jitsu Academy	https://bjjacademymn.com	143.95.253.196	resolves, not parked
+OK	MN	Flow Jiu-Jitsu Winona	https://winonabjj.com	160.153.0.121	resolves, not parked
+OK	MN	Winona BJJ	https://winonabjj.com	160.153.0.121	resolves, not parked
+OK	MN	Next Level Combat	https://www.nextlevelcombat.com	34.149.87.45	resolves, not parked
+OK	MO	GB West County	https://gbwestcounty.com/	69.16.226.164	resolves, not parked
+OK	MO	Black Diamond Grappling Club	https://www.bevierjiujitsu.com/	45.79.19.164	resolves, not parked
+OK	MO	Lake Area Gracie Jiu-jitsu	https://www.lakeareabjj.com/	162.241.24.95	resolves, not parked
+OK	MO	Carpe Momentum School of Jiu-Jitsu LLC	https://cmsojj.com/	198.202.211.1	resolves, not parked
+OK	MO	GB Chesterfield	https://gbchesterfield.com/	141.193.213.21,141.193.213.20	resolves, not parked
+OK	MO	GB Columbia	https://graciebarra.com/columbia-mo/	104.26.8.3,104.26.9.3,172.67.71.239	location page live, not parked
+OK	MO	Gracie Humaita Columbia	https://graciehumaitacolumbia.com	162.241.24.95	resolves, not parked
+OK	MO	GB O'Fallon	https://gbofallon.com/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	MO	USA Martial Arts Academy	https://www.usamartialartsacademy.com/	34.149.87.45	resolves, not parked
+OK	MO	GB Hannibal	https://graciebarra.com/hannibal-mo/	104.26.8.3,104.26.9.3,172.67.71.239	location page live, not parked
+OK	MO	Gracie Jiu Jitsu of Southeast Missouri	https://graciesemo.com	151.101.66.159	resolves, not parked
+OK	MO	GB Jefferson City	https://graciebarra.com/jefferson-city-mo/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	MO	Jefferson City Judo Club & Jujitsu	https://jeffersoncityjudoclub.com/	13.248.243.5,76.223.105.230	resolves, not parked
+OK	MO	Joplin BJJ	https://joplinbjj.com	5.161.65.147	resolves, not parked
+OK	MO	The Forge	https://www.warriorsciences.net/	34.149.87.45	resolves, not parked
+OK	MO	Grappling Concepts Nixa	https://grapplingconceptsnixa.com/	35.172.94.1,100.24.208.97	resolves, not parked
+OK	MO	Forged Jiu Jitsu	https://forged-bjj.com	198.185.159.145,198.49.23.144,198.185.159.144,198.49.23.145	resolves, not parked
+OK	MO	Honey Badger Training Facility	https://honeybadgertrainingfacility.com	185.230.63.107,185.230.63.186,185.230.63.171	resolves, not parked
+OK	MO	Revive BJJ	https://www.revivebjj.com/	34.149.87.45	resolves, not parked
+OK	MO	Next Level STL	https://nextlevelstl.com	199.36.158.100	resolves, not parked
+OK	MO	GB St. Peters, USA	https://graciebarrastpeters.com/schedule/	172.67.214.97,104.21.86.28	resolves, not parked
+OK	MO	Center of Defensive Arts	https://www.centerofdefensivearts.com/	34.149.87.45	resolves, not parked
+OK	MO	GB Washington	https://gbwashington.com/	69.16.226.164	resolves, not parked
+OK	MO	Gracie Humaitá St Louis	https://www.graciestlouis.com	3.33.251.168,15.197.225.128	parking-range IP but real site
+OK	MO	Gracie Humaita Wentzville	https://www.graciehumaitawentzville.com/	35.206.121.94	resolves, not parked
+OK	MS	Gracie United Hancock	https://www.hancockbjj.com	198.202.211.1	resolves, not parked
+OK	MS	Gracie Gulf Coast Brazilian Jiu-Jitsu	https://graciegc.com	72.167.65.42	resolves, not parked
+OK	MS	Gulf Coast Jiu Jitsu	https://www.gulfcoastjiujitsu.net	99.83.169.22,75.2.0.180	resolves, not parked
+OK	MS	Leonardo Delgado Jiu-Jitsu Academy	https://selfdefensedibervillems.com	151.101.130.159	resolves, not parked
+OK	MS	Grapple Jiu Jitsu	https://www.grapplejiujitsu.com	216.150.16.129,216.150.1.129	resolves, not parked
+OK	MS	Rankin Jiu-Jitsu Academy	https://rankinjiujitsu.com	151.101.130.159	resolves, not parked
+OK	MS	Pursuit Jiu Jitsu	https://www.pursuitjj.com	34.149.87.45	resolves, not parked
+OK	MS	Relentless Mixed Martial Arts	https://relentless-mma.com	20.49.104.5	resolves, not parked
+DEAD	MS	American Top Team D'Iberville	https://attdiberville.com		REFUSED, lame delegation
+OK	MS	Gracie United - Team Jucao Hancock County in Diamondhead	https://www.hancockbjj.com/locations/diamondhead	198.202.211.1	resolves, not parked
+OK	MS	No Limit Combatives	https://nolimitflowood.com	20.49.104.5	resolves, not parked
+OK	MS	Precision Martial Arts Academy Flowood	https://www.mississippijiujitsu.com	198.185.159.145,198.49.23.144,198.185.159.144,198.49.23.145	resolves, not parked
+OK	MS	Gracie United Hattiesburg	https://www.championfactory.com/gyms/hattiesburg	132.148.180.49	resolves, not parked
+OK	MS	Team Hopkins Hattiesburg	https://teamhopkinsjiujitsu.com	20.49.104.5	resolves, not parked
+OK	MS	KC Jones Martial Arts	https://www.kcjonesmartialarts.com	172.66.3.8,162.159.143.12	resolves, not parked
+OK	MS	Anthony Mitchell Jiu Jitsu Studio	https://bigantbjj.com	13.248.243.5,76.223.105.230	resolves, not parked
+OK	MS	Gracie Jiu-Jitsu Ocean Springs	https://gracieoceansprings.com	208.68.38.94	resolves, not parked
+OK	MS	Shackelford's MMA Center	https://shackelfordsmma.com	162.159.140.166	resolves, not parked
+OK	MS	662 JiuJitsu	https://www.jiujitsuoxford.com	172.66.44.150,172.66.47.106	resolves, not parked
+DEAD	MS	Gracie South Jiu-Jitsu of Pearl	https://graciesouthjiujitsupearl.com		REFUSED, lame delegation
+OK	MS	Graham MMA	https://grahammma.com	20.49.104.5	resolves, not parked
+OK	MS	Summit Fitness Kickboxing and Jiu Jitsu	https://starkvillefitnesskickboxing.com	162.241.224.173	resolves, not parked
+OK	MS	Tupelo Jiu Jitsu Academy	https://tupelojiujitsuacademy.com	162.159.140.166	resolves, not parked
+OK	MS	Gracie United Wiggins	https://www.championfactory.com/gyms/wiggins	132.148.180.49	resolves, not parked
+OK	MT	Bozeman JuJitsu	https://bozemanjujitsu.com	76.223.105.230,13.248.243.5	resolves, not parked
+OK	MT	CEMA BJJ at BASE Big Sky	https://www.cemartialarts.com/big-sky	34.149.87.45	resolves, not parked
+OK	MT	Straight Blast Gym Bigfork	https://sbgmontana.com/gym-locations/bigfork-gym	149.28.193.78	resolves, not parked
+OK	MT	Function Jiu Jitsu	https://functionjiujitsu.com	76.223.105.230,13.248.243.5	resolves, not parked
+OK	MT	Straight Blast Gym Bozeman	https://sbgbozeman.com	144.202.99.225	resolves, not parked
+OK	MT	Bitterroot Warrior Arts Corvallis	https://www.bugoutmt.com/bitterrootwarriorarts	34.149.87.45	resolves, not parked
+OK	MT	GB Great Falls	https://www.dragonfirebrazilianjiujitsu.com	107.180.114.129	resolves, not parked
+OK	MT	Deliberate Jiu Jitsu at Valley Speedway Athletics	https://www.valleyspeedwayathletics.com/deliberate-jiu-jitsu	34.149.87.45	resolves, not parked
+OK	MT	Absolute Fight Factory	https://www.absolutefightfactory.com	34.149.87.45	resolves, not parked
+OK	MT	Straight Blast Gym Kalispell	https://sbgkalispell.com/bjj	149.28.195.124	resolves, not parked
+OK	MT	Dojo USA South BJJ Missoula	https://dojousa.co	162.159.140.166	resolves, not parked
+OK	MT	Sakura Warrior Arts	https://sakurawarriorarts.com	160.153.0.34	resolves, not parked
+OK	MT	Straight Blast Gym Missoula	https://sbgmissoula.com	149.28.193.90	resolves, not parked
+OK	MT	Traphouse Jiu Jitsu	https://www.traphousesociety.com	198.49.23.144,198.185.159.144,198.49.23.145,198.185.159.145	resolves, not parked
+OK	MT	Red Lodge Grindhouse Jiu Jitsu	https://redlodgegrindhouse.com	3.170.3.103,3.170.3.24,3.170.3.19,3.170.3.125	resolves, not parked
+OK	MT	Bitterroot Warrior Arts Stevensville	https://www.bugoutmt.com/bitterrootwarriorarts	34.149.87.45	resolves, not parked
+OK	MT	Whitefish BJJ	https://whitefishbjj.com	185.230.63.186,185.230.63.171,185.230.63.107	resolves, not parked
+OK	NB	Restigouche Dojo	https://restigouchedojo.com	185.199.109.153,185.199.111.153,185.199.110.153,185.199.108.153	resolves, not parked
+OK	NB	Victory Jiu Jitsu Dieppe	https://victoryjiujitsuacademy.ca	104.21.16.225,172.67.216.69	resolves, not parked
+OK	NB	Evolution Training Centre	https://www.evolutiontrainingcenter.ca	107.180.3.241	resolves, not parked
+OK	NB	Fredericton BJJ	https://frederictonbjj.com	35.209.150.45	resolves, not parked
+OK	NB	Synergy BJJ Fredericton	https://www.bjjfredericton.com	34.149.87.45	resolves, not parked
+OK	NB	MXT BJJ Miramichi	https://mxt-bjj-miramichi.gymdesk.com	104.26.9.190,172.67.75.111,104.26.8.190	resolves, not parked
+OK	NB	Icon Combat	https://iconcombat.com	45.79.19.164	resolves, not parked
+OK	NB	Knots Jiu Jitsu	https://knotsjj.ca	66.71.220.1,66.71.220.2	resolves, not parked
+OK	NB	Quantum Jiu Jitsu	https://www.quantumjj.com	66.235.200.145	resolves, not parked
+OK	NB	Victory Jiu Jitsu	https://victorykv.gymdesk.com	104.26.8.190,104.26.9.190,172.67.75.111	resolves, not parked
+OK	NB	Junglefowl Brazilian Jiu Jitsu	https://junglefowlbjj.ca	98.84.224.111,18.208.88.157	resolves, not parked
+OK	NB	MXT BJJ	https://www.mxtbjj.com	45.79.19.164	resolves, not parked
+OK	NC	Open Guard BJJ	https://openguardbjj.com/	205.174.25.95	resolves, not parked
+OK	NC	Spangler Brazilian Jiu Jitsu Academy	https://www.carybjj.com	52.85.193.116,52.85.193.48,52.85.193.76,52.85.193.79	resolves, not parked
+PARKED	NC	Asheville BJJ	https://ashevillebjj.com	3.33.130.190,15.197.148.33	GoDaddy/Afternic for-sale lander
+OK	NC	GB Asheville	https://graciebarra.com/asheville-nc/	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	NC	Cary Brazilian Jiu-Jitsu	https://caryjiujitsu.com/	63.250.43.5,63.250.43.6	resolves, not parked
+OK	NC	Royce Gracie Jiu Jitsu Cary	https://roycegraciecary.com/	64.177.83.238	resolves, not parked
+OK	NC	TFTC Academy Cary	https://carymma.com/	205.174.25.96	resolves, not parked
+OK	NC	Team Casarez Jiu-Jitsu	https://casarezbjj.com/	208.109.56.252	resolves, not parked
+OK	NC	Chapel Hill Gracie Jiu Jitsu	https://www.chapelhilljiujitsu.com/	75.2.0.180,99.83.169.22	resolves, not parked
+OK	NC	Checkmat Charlotte	https://checkmat.com/charlotte	104.247.81.99	resolves, not parked
+OK	NC	Fight Sports Charlotte	https://fightsportscharlotte.com	198.49.23.144,198.49.23.145,198.185.159.145,198.185.159.144	resolves, not parked
+OK	NC	Revolution Modern Martial Arts	https://revolutionselfdefense.com/	104.21.9.114,172.67.159.197	resolves, not parked
+OK	NC	GB Lake Norman	https://gblakenorman.com/	172.236.116.153	resolves, not parked
+OK	NC	DualForces 001 Brazilian Jiu-Jitsu	https://dualforces.com/	198.49.23.144,198.185.159.144,198.49.23.145,198.185.159.145	resolves, not parked
+PARKED	NC	Fayetteville BJJ	https://fayettevillebjj.com	15.197.148.33,3.33.130.190	GoDaddy/Afternic for-sale lander
+OK	NC	Martial Arts of NC	https://martialartsofnc.com/	45.79.19.164	resolves, not parked
+OK	NC	Schell Shock BJJ Martial Arts	https://www.schellshockbjj.com/	151.101.194.159	resolves, not parked
+OK	NC	FTF Fitness and Self Defense	https://www.ftfgastonia.com	3.33.251.168,15.197.225.128	parking-range IP but real site
+OK	NC	McGinnis Academy of Martial Arts	https://www.mcginnisacademyofmartialarts.com/	198.185.159.145,198.49.23.145,198.185.159.144,198.49.23.144	resolves, not parked
+OK	NC	Crest Brazilian Jiu Jitsu	https://bjjhampstead.com/	34.174.76.150	resolves, not parked
+OK	NC	Atlantic MMA	https://fightforitcompany.com/	151.101.194.159	resolves, not parked
+OK	NC	Ecos BJJ	https://ecosgroups.com/jiu-jitsu	3.33.251.168,15.197.225.128	parking-range IP but real site
+OK	NC	Carolina Combat Sports and Fitness	https://www.carolinacombatsports.com/	76.223.105.230,13.248.243.5	resolves, not parked
+OK	NC	GB Knightdale	https://gbknightdale.com/	15.197.225.128,3.33.251.168	parking-range IP but real site
+OK	NC	Blue Ridge Jiu Jitsu	https://blueridgejj.com/	151.101.130.159	resolves, not parked
+OK	NC	Moreno BJJ	https://morenobjj.com/	45.79.19.164	resolves, not parked
+OK	NC	Gracie Raleigh	https://gracieraleigh.com	132.148.178.239	resolves, not parked
+OK	NC	Irongrip Jiu Jitsu	https://irongripjiujitsu.com/	149.28.37.145	resolves, not parked
+OK	NC	Royce Gracie Jiu Jitsu Academy of Raleigh	https://roycegracienc.com/	64.177.83.238	resolves, not parked
+OK	NC	Rocky Mount BJJ	https://rockymountbjj.com	185.230.63.186,185.230.63.171,185.230.63.107	resolves, not parked
+OK	NC	Embrace Jiu Jitsu	https://embracemartialarts.com	104.21.32.214,172.67.136.22	resolves, not parked
+OK	NC	Ethos BJJ	https://ethosjitsu.com/	160.153.0.222	resolves, not parked
+OK	NC	Martial Arts and More of Wilmington (Team JBM BJJ)	https://martialartswilmingtonnc.com/	185.230.63.107	resolves, not parked
+OK	NC	SaltyDog Jiu Jitsu	https://portcitymmafitness.com/	104.21.33.245,172.67.151.251	resolves, not parked
+OK	NC	The Jiu Jitsu Institute	https://www.thejji.com/	151.101.130.159	resolves, not parked
+OK	ND	Bismarck MMA	https://bismarckmma.com	64.207.188.48	resolves, not parked
+OK	ND	Ice Dragon Academy	https://icedragonacademy.com	2.57.91.124,84.32.84.230	resolves, not parked
+OK	ND	Carlos Machado Jiu Jitsu Dickinson	https://carlosmachadojiujitsudickinson.com	162.159.140.166	resolves, not parked
+OK	ND	Elite BJJ	https://elitebjj.org	192.0.78.135,192.0.78.239	resolves, not parked
+OK	ND	Academy of Combat Arts	https://fmaca.com	173.236.243.126	resolves, not parked
+OK	ND	Fargo BJJ	https://fargobjj.com	74.220.207.96	resolves, not parked
+OK	ND	Grand Forks Brazilian Jiu-jitsu Academy	https://grandforksbjj.com	74.220.207.96	resolves, not parked
+OK	ND	Progressive Martial Arts Grand Forks	https://progressivemartialartsgf.com	198.49.23.144,198.49.23.145,198.185.159.144,198.185.159.145	resolves, not parked
+OK	ND	SBG Williston	https://sbgwilliston.com	185.230.63.186,185.230.63.107,185.230.63.171	resolves, not parked
+OK	NE	10th Planet Jiu-Jitsu Auburn	https://10thplanetauburn.com	76.223.105.230,13.248.243.5	resolves, not parked
+OK	NE	10th Planet Jiu-Jitsu Omaha	https://10thplanetomaha.com	76.223.105.230,13.248.243.5	resolves, not parked
+OK	NE	Bellevue Academy of Brazilian Jiu Jitsu	https://bellevuebjj.com	45.79.19.164	resolves, not parked
+OK	NE	Kassebaum's Martial Arts	https://nebraskakma.com	77.37.60.243	resolves, not parked
+OK	NE	Elkhorn BJJ	https://www.elkhornbjj.com	35.168.157.66,44.215.0.10,52.200.250.78,100.57.148.229,34.194.248.51,34.229.254.77	resolves, not parked
+OK	NE	Kearney Combat Sports and Fitness	https://kearneycombatsports.com	172.67.136.26,104.21.86.190	resolves, not parked
+OK	NE	Lincoln Brazilian Jiu-Jitsu Center - College View	https://lincolnbjj.com	45.79.19.164	resolves, not parked
+OK	NE	Lincoln Brazilian Jiu-Jitsu Center - Havelock	https://lincolnbjjnorth.com	45.79.19.164	resolves, not parked
+OK	NE	West O Dojo	https://westodojo.com	74.208.236.165	resolves, not parked
+OK	NE	Ares Brazilian Jiu-Jitsu Omaha	https://nebraskabjj.com	100.24.208.97,35.172.94.1	resolves, not parked
+OK	NE	Carlson Gracie Omaha Coyote BJJ Team	https://carlsongracieomaha.com	198.49.23.144,198.49.23.145,198.185.159.144,198.185.159.145	resolves, not parked
+OK	NE	Gracie Jiu-Jitsu Omaha	https://gracieomaha.com	45.79.19.164	resolves, not parked
+OK	NE	Lokahi Jiu-Jitsu Collective	https://www.lokahiomaha.com	198.185.159.144,198.49.23.144,198.185.159.145,198.49.23.145	resolves, not parked
+OK	NE	Mid America Martial Arts	https://midamericamartialarts.com	160.153.0.16	resolves, not parked
+OK	NE	Narrow Path Martial Arts	https://npmaomaha.com	20.49.104.5	resolves, not parked
+OK	NE	Omaha's Academy of Brazilian Jiu Jitsu	https://www.oabjj.com	34.149.87.45	resolves, not parked
+OK	NE	Premier Combat Center	https://premiercombatcenter.com	192.249.112.56	resolves, not parked
+OK	NE	Gracie Humaita Omaha	https://www.graciehumaitaomaha.com	100.25.195.121,18.235.215.12	resolves, not parked
+OK	NH	National Institute of Modern Martial Arts	https://nimmadojo.com	162.159.140.166	resolves, not parked
+OK	NH	Leverage BJJ NH	https://www.leveragebjjnh.com	198.185.159.144,198.49.23.145,198.49.23.144,198.185.159.145	resolves, not parked
+OK	NH	New England BJJ Academy	https://www.nebjj.com	198.185.159.145,198.185.159.144,198.49.23.144,198.49.23.145	resolves, not parked
+OK	NH	Primal Jiu Jitsu and Mixed Martial Arts	https://www.primaljiujitsuacademy.com	34.149.87.45	resolves, not parked
+OK	NH	Professional Martial Arts Academy Derry	https://pmaderry.com	172.67.163.149,104.21.15.176	resolves, not parked
+OK	NH	Kevin Watson Brazilian Jiu-Jitsu	https://www.kwbjj.com	199.34.228.159	resolves, not parked
+OK	NH	Limitless Pride Martial Arts and Fitness Center	https://www.limitlesspridemartialarts.com	34.149.87.45	resolves, not parked
+OK	NH	Upper Valley Brazilian Jiu Jitsu	https://www.uppervalleybjj.com	198.49.23.145,198.185.159.145,198.49.23.144,198.185.159.144	resolves, not parked
+OK	NH	Hero Jiu Jitsu	https://herojiujitsu.com	34.149.36.179,34.120.190.48,35.227.194.51,35.190.31.54	resolves, not parked
+OK	NH	Renzo Gracie NH Exeter	https://renzogracienh.org	104.21.25.116,172.67.134.50	resolves, not parked
+OK	NH	Elements MMA	https://www.elements-mma.com	198.185.159.145,198.49.23.144,198.49.23.145,198.185.159.144	resolves, not parked
+OK	NH	Infinity Gracie Brazilian Jiu Jitsu	https://www.gracieuppervalley.com	64.177.83.238	resolves, not parked
+OK	NH	Brazilian Top Team Londonderry	https://bttlondonderry.com	35.212.35.192	resolves, not parked
+OK	NH	Valle Brazilian Jiu Jitsu	https://vallebjj.com	104.21.75.67,172.67.215.254	resolves, not parked
+OK	NH	Burgess Academy of BJJ and MMA	https://burgessmma.com	13.248.243.5,76.223.105.230	resolves, not parked
+OK	NH	Full Circle Martial Arts and Fitness Center	https://fullcirclemafc.com	104.21.79.189,172.67.147.28	resolves, not parked
+PARKED	NH	NH BJJ	https://nhbjj.com	3.33.130.190,15.197.148.33	GoDaddy/Afternic for-sale lander
+OK	NH	Renzo Gracie NH Manchester	https://renzogracienh.org	104.21.25.116,172.67.134.50	resolves, not parked
+OK	NH	The Martial Arts Zone	https://themartialartszone.com	172.67.210.76,104.21.45.53	resolves, not parked
+OK	NH	Blue Wave Brazilian Jiu Jitsu	https://bluewavejiujitsu.com	104.21.76.145,172.67.196.31	resolves, not parked
+OK	NH	Triumph Brazilian Jiu-Jitsu	https://teamtriumphbjj.com	162.159.140.166	resolves, not parked
+OK	NH	Granite State BJJ	https://granitestatebjj.com	13.248.243.5,76.223.105.230	resolves, not parked
+OK	NH	Heavy Mettle Jiu Jitsu	https://www.heavymettlejj.com	198.185.159.145,198.185.159.144,198.49.23.144,198.49.23.145	resolves, not parked
+OK	NH	Professional Martial Arts Academy Plaistow	https://pmaplaistow.com	172.67.157.242,104.21.74.117	resolves, not parked
+OK	NH	Sanders Jiu Jitsu	https://www.sandersbjjacademy.com	172.66.3.8,162.159.143.12	resolves, not parked
+OK	NH	New England Top Team	https://www.newenglandtopteam.com	172.66.3.8,162.159.143.12	resolves, not parked
+OK	NH	Off Your Back BJJ Academy	https://offyourbackbjj.com	23.227.38.32	resolves, not parked
+OK	NH	Nostos MMA	https://www.nostos-mma.com	34.149.87.45	resolves, not parked
+OK	NH	Renzo Gracie NH Windham	https://renzogracienh.org	104.21.25.116,172.67.134.50	resolves, not parked
+OK	NJ	Montgomery Brazilian Jiu-Jitsu	https://www.montgomerybjj.com/	75.2.0.180,99.83.169.22	resolves, not parked
+OK	NJ	Abrecea BJJ	https://www.abreceabjj.com	66.96.147.117	resolves, not parked
+OK	NJ	Team Curuma Brazilian Jiu-Jitsu Academy	https://teamcuruma.com	13.248.243.5,76.223.105.230	resolves, not parked
+OK	NJ	Rare Breed Mixed Martial Arts	https://www.rarebreedmma.com/	66.235.200.3	resolves, not parked
+OK	NJ	Nick Catone MMA & Fitness	https://www.mindbodyonline.com/explore/locations/nick-catone-s-mixed-martial-arts	104.18.37.240,172.64.150.16	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Brick NJ	https://tsk.com/locations/nj/brick/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	AMA Fight Club	https://www.joinamafightclub.com/	162.159.143.12,172.66.3.8	resolves, not parked
+OK	NJ	Kombat Brazilian Jiu-Jitsu	https://kombatjits.com/	88.222.222.24,2.57.91.216	resolves, not parked
+OK	NJ	Power Half Wrestling and Mixed Martial Arts	https://powerhalfwrestling.com/	76.223.105.230,13.248.243.5	resolves, not parked
+OK	NJ	Real World Martial Arts Team Renzo Gracie	https://renzograciedenville.com	104.21.70.176,172.67.138.11	resolves, not parked
+OK	NJ	Renzo Gracie Denville	https://renzograciedenville.com	104.21.70.176,172.67.138.11	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts East Brunswick NJ	https://tsk.com/locations/nj/east-brunswick/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	UFC GYM East Rutherford	https://www.ufcgym.com/locations/east-rutherford/	76.76.21.98,66.33.60.67	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Eatontown NJ	https://tsk.com/locations/nj/eatontown/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	B Team Jiu Jitsu	https://www.bteamjiujitsu.com/	151.101.130.159	resolves, not parked
+DEAD	NJ	Jaguar BJJ	https://jaguarbjj.com/		NXDOMAIN
+OK	NJ	609 Jiu Jitsu	https://609jiujitsu.com/	104.218.55.227	resolves, not parked
+OK	NJ	Harbor Jiu-Jitsu	https://www.harborjiujitsu.com/	198.185.159.145,198.49.23.144,198.185.159.144,198.49.23.145	resolves, not parked
+OK	NJ	Team Jucão Elizabeth Brazilian Jiu Jitsu BJJ	https://www.teamjucaoacademy.com/locations	34.149.87.45	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Elmwood Park NJ	https://tsk.com/locations/nj/elmwood-park/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Englewood NJ	https://tsk.com/locations/nj/englewood/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	Performance Jiu-Jitsu Academy	https://armlock.com	104.21.11.170,172.67.166.175	resolves, not parked
+OK	NJ	Matakas Jiu Jitsu	https://www.matakasbjj.com	34.68.234.4	resolves, not parked
+OK	NJ	Renzo Gracie Fort Lee / TEO BJJ	https://teobjj.com	134.122.8.112	resolves, not parked
+OK	NJ	Dante Rivera Brazilian Jiu-Jitsu Academy	https://danteriverabjj.com/	13.248.243.5,76.223.105.230	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Freehold NJ	https://tsk.com/locations/nj/freehold/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	Gracie Jiu-Jitsu Galloway	https://taphousebjj.com/	45.79.19.164	resolves, not parked
+OK	NJ	Snake Pit U.S.A. MMA	https://snakepitusamma.com	192.254.181.46	resolves, not parked
+OK	NJ	Trasso Jiu Jitsu & Wrestling	https://trassojjw.com/	216.198.79.1	resolves, not parked
+OK	NJ	Ricardo Almeida BJJ Academy	https://ricardoalmeida.com	23.227.38.65	resolves, not parked
+OK	NJ	CE Jiu Jitsu, MMA, boxing, kickboxing Harrison	https://chokelabacademy.com/	35.212.111.121	resolves, not parked
+OK	NJ	Renzo Gracie Harrison	https://www.renzograciecrowncollection.com	198.185.159.144,198.185.159.145,198.49.23.145,198.49.23.144	resolves, not parked
+OK	NJ	Sidekick Martial Arts & Fitness	https://sidekick-ma.maonrails.com/	45.79.19.164	resolves, not parked
+OK	NJ	David Branch Jiu Jitsu	https://dbjjhoboken.com/	198.49.23.145,198.49.23.144,198.185.159.145,198.185.159.144	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Hoboken NJ	https://tsk.com/locations/nj/hoboken/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	CULTR BJJ	https://www.cultrfightclub.com/	198.185.159.144,198.185.159.145,198.49.23.144,198.49.23.145	resolves, not parked
+OK	NJ	Cultr Fight Club	https://www.cultrfightclub.com/brazilianjiujitsu	198.185.159.144,198.185.159.145,198.49.23.144,198.49.23.145	resolves, not parked
+OK	NJ	Procel Brazilian Jiu-Jitsu	https://procelbjj.com	172.67.206.198,104.21.66.186	resolves, not parked
+OK	NJ	Savarese BJJ Academy - Jersey City	https://njbjj.com/	160.153.0.74	resolves, not parked
+PARKED	NJ	Studio 1908 (Miyao Brothers)	https://www.studio1908bjj.com/	15.197.148.33,3.33.130.190	GoDaddy/Afternic for-sale lander
+OK	NJ	Tiger Schulmann's Martial Arts Jersey City NJ	https://tsk.com/locations/nj/jersey-city/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	Unity Jiu Jitsu Jersey City	https://unityjiujitsujc.com	185.230.63.171,185.230.63.186,185.230.63.107	resolves, not parked
+OK	NJ	Bataille Jiu Jitsu Academy	https://www.bataillejj.com/	18.208.88.157,98.84.224.111	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Princeton	https://tsk.com/locations/nj/princeton/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	Gracie Barra Princeton	https://gbprinceton.com	160.153.0.58	resolves, not parked
+OK	NJ	Gracie New Jersey Academy	https://gracienewjersey.com	104.21.14.186,172.67.160.38	resolves, not parked
+OK	NJ	Anaconda Brazilian Jiu Jitsu & MMA Academy	https://anacondabjjnjny.com/	76.223.105.230,13.248.243.5	resolves, not parked
+OK	NJ	Gorilla Martial Arts	https://www.gorillabjjacademy.com/	34.149.87.45	resolves, not parked
+OK	NJ	Renzo Gracie Ramapo Valley	https://ramapovalleyjiujitsu.com/	192.124.249.156	resolves, not parked
+OK	NJ	Art of Movement: MMA, BJJ & Fitness	https://aommma.com/	172.67.213.122,104.21.59.41	resolves, not parked
+OK	NJ	All In BJJ	https://www.allinbjj.com/contact	3.33.251.168,15.197.225.128	parking-range IP but real site
+OK	NJ	Zealous Nation MMA	https://zealousnationmma.com/	108.62.99.148	resolves, not parked
+OK	NJ	Bayshore BJJ	https://www.bayshorebjj.com/	172.67.205.118,104.21.52.238	resolves, not parked
+OK	NJ	Straight Blast Gym New Jersey	https://www.sbgnj.com/	76.223.105.230,13.248.243.5	resolves, not parked
+OK	NJ	Asbury Park Jiu Jitsu	https://www.mindbodyonline.com/explore/locations/asbury-park-jiu-jitsu	104.18.37.240,172.64.150.16	resolves, not parked
+OK	NJ	American Jiu Jitsu	https://www.americanjiujitsu.com/	66.96.149.1	resolves, not parked
+OK	NJ	Renzo Gracie Newark	https://www.renzogracienj.com	34.149.87.45	resolves, not parked
+OK	NJ	Martial Way MMA	https://martialwaymma.com/	208.94.107.65	resolves, not parked
+OK	NJ	Anaconda Brazilian Jiu-Jitsu North Bergen	https://anacondabjjnjny.com/	76.223.105.230,13.248.243.5	resolves, not parked
+OK	NJ	Advanced Martial Arts	https://advancedbjjnj.com/	35.212.33.139	resolves, not parked
+OK	NJ	Garry Tonon Jiu Jitsu	https://www.garrytononjiujitsu.com/	34.149.87.45	resolves, not parked
+OK	NJ	UFC GYM North Brunswick	https://www.ufcgym.com/locations/north-brunswick-township/	76.76.21.98,66.33.60.67	resolves, not parked
+OK	NJ	Hibiscus Brazilian Jiu-Jitsu	https://www.hibiscusbjj.com/	64.90.40.107	resolves, not parked
+OK	NJ	Believe MMA	https://believemma.com/	195.201.128.179,5.161.47.86,5.78.156.59	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts North Plainfield NJ	https://tsk.com/locations/nj/north-plainfield/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	Renzo Gracie Northern Valley	https://nvbjj.com	104.21.62.15,172.67.217.228	resolves, not parked
+OK	NJ	Spartan Mixed Martial Arts	https://oceantownshipmartialarts.com/	141.193.213.10,141.193.213.11	resolves, not parked
+OK	NJ	Rolles Gracie Academy	https://rollesgracieacademy.com/	172.67.187.62,104.21.4.244	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Paramus NJ	https://tsk.com/locations/nj/paramus/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	UFC GYM Paramus	https://www.ufcgym.com/locations/paramus	76.76.21.98,66.33.60.67	resolves, not parked
+OK	NJ	Gracie Barra North Princeton Brazilian Jiu Jitsu and Self Defense	https://www.gb-northprinceton.com/north-princeton-classes	34.68.234.4	resolves, not parked
+OK	NJ	Princeton Brazilian Jiu Jitsu	https://www.princetonbjj.com	45.33.83.237	resolves, not parked
+OK	NJ	Bergen County Brazilian Jiu-Jitsu	https://www.jiujitsutrainingnj.com/	34.149.87.45	resolves, not parked
+OK	NJ	Bill Stevens Karate	https://www.stevenskarate.com/brazilian-jiu-jitsu/	192.190.220.196	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Ramsey NJ	https://tsk.com/locations/nj/ramsey/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Randolph NJ	https://tsk.com/locations/nj/randolph/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	Garden State Brazilian Jiu-Jitsu Academy	https://gardenstatebjj.com/	104.21.35.216,172.67.179.231	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Red Bank NJ	https://tsk.com/locations/nj/red-bank/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	Rising Sun Brazilian Jiu Jitsu Academy	https://www.risingsunacademy.com	34.149.87.45	resolves, not parked
+OK	NJ	Cape May Brazilian Jiu Jitsu	https://capemaybjj.com/	18.208.88.157,98.84.224.111	resolves, not parked
+OK	NJ	Ricardo Almeida Brazilian Jiu-Jitsu	https://rabjjacademy.as.me/	44.253.114.154,32.188.83.175	resolves, not parked
+OK	NJ	Gael Force Jiu Jitsu	https://www.gaelforcejiujitsu.com/	107.180.27.177	resolves, not parked
+OK	NJ	Yeti MMA	https://www.shaolinbjj.com/	67.225.176.117	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Short Hills NJ	https://tsk.com/locations/nj/short-hills/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	New Journey MMA Somerset NJ	https://www.newjourneymma.com/	104.18.35.90,172.64.152.166	resolves, not parked
+OK	NJ	Method BJJ	https://www.methodbjj.com/	192.0.78.25,192.0.78.24	resolves, not parked
+OK	NJ	Zen Jiu Jitsu	https://www.zenjiujitsu.com/	15.197.225.128,3.33.251.168	parking-range IP but real site
+OK	NJ	Ocean County BJJ	https://www.oceancountybjj.com/	98.84.224.111,18.208.88.157	resolves, not parked
+OK	NJ	Sheridan Brazillian Jiu Jitsu	https://www.sheridanbjj.com/home-adult-jiu-jitsu	54.243.86.28,18.211.166.153,34.202.203.47	resolves, not parked
+OK	NJ	Rival Jiu-Jitsu	https://www.rivalbjj.com/	185.158.133.1	resolves, not parked
+OK	NJ	Kurt Pellegrino MMA	https://www.pellegrinomma.com/	34.149.87.45	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts Wayne NJ	https://tsk.com/locations/nj/wayne/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	Up Top Martial Arts Academy	https://www.uptopmartialarts.com/	104.21.86.173,172.67.222.198	resolves, not parked
+OK	NJ	Rolles Gracie Academy - Long Branch Jiu Jitsu & Muay Thai	https://rrmartialarts.com/	45.132.157.76	resolves, not parked
+OK	NJ	Tiger Schulmann's Martial Arts West Orange NJ	https://tsk.com/locations/nj/westorange/	141.193.213.20,141.193.213.21	resolves, not parked
+OK	NJ	Gym-Jitsu Mobile Martial Arts	https://square.site/book/ENGYJXSXQZP1Y/gym-jitsu-mobile-martial-arts-whippany-nj	74.115.51.4,74.115.51.5	resolves, not parked
+OK	NJ	Camal Judo	https://camalandcruz.com/	104.21.8.191,172.67.130.154	resolves, not parked
+OK	NL	Velocity Martial Arts Academy	https://www.velocitynl.com	13.248.243.5,76.223.105.230	resolves, not parked
+OK	NL	Jason Foley Martial Arts	https://www.jasonfoleyma.com	34.149.87.45	resolves, not parked
+OK	NL	Anchor Combat Academy	https://www.anchorcombatacademy.com	198.49.23.144,198.185.159.145,198.49.23.145,198.185.159.144	resolves, not parked
+OK	NL	Golden Rule Jiu Jitsu	https://golden-rule-jiu-jitsu-ltd.gymdesk.com	104.26.8.190,104.26.9.190,172.67.75.111	resolves, not parked
+OK	NL	New Found TAO BJJ	https://www.newfoundtaobjj.ca	198.185.159.144,198.185.159.145,198.49.23.144,198.49.23.145	resolves, not parked
+OK	NL	Foley's Martial Arts	https://foleysmartialarts.com	66.102.133.110	resolves, not parked
+OK	NL	Evolution Martial Arts NL	https://evolutionmartialartsnl.com	185.199.111.153,185.199.110.153,185.199.109.153,185.199.108.153	resolves, not parked
+OK	NL	Michael Foley's Academy of Martial Arts	https://michaelfoley.ca	45.79.19.164	resolves, not parked
+OK	NL	Republic BJJ	https://www.republicbjj.com	45.79.19.164	resolves, not parked
+OK	NL	St. John's BJJ	https://stjohnsbjj.ca	199.34.228.144	resolves, not parked
+OK	NL	Tera BJJ	https://www.terabjj.com	45.79.19.164	resolves, not parked
+OK	NM	Desert Dynasty MMA	https://www.desertdynastymma.com	34.149.87.45	resolves, not parked
+OK	NM	Otero Combat Sports	https://oterocombatsports.com	75.98.162.175	resolves, not parked
+OK	NM	10th Planet Jiu Jitsu Albuquerque	https://10pabq.com	198.49.23.144	resolves, not parked
+OK	NM	Coyote Brazilian Jiu Jitsu Academy	https://coyotebjj.com	151.101.194.159	resolves, not parked
+OK	NM	Gracie Barra Albuquerque	https://gbalbuquerque.com	72.62.223.96	resolves, not parked
+OK	NM	Gracie Barra New Mexico	https://gbnewmexico.com	72.62.223.96	resolves, not parked
+OK	NM	Gracie Barra Westside	https://gbwestside.com	72.62.223.96	resolves, not parked
+OK	NM	Impact Jiu Jitsu Albuquerque	https://impactjjabq.com	151.101.2.159	resolves, not parked
+OK	NM	Invictus Brazilian Jiu Jitsu and Muay Thai Academy	https://www.invictusmartialarts.com	198.185.159.145,198.49.23.144,198.185.159.144,198.49.23.145	resolves, not parked
+OK	NM	New Mexico Jiujitsu Academy	https://nmjiujitsu.com	104.21.6.122,172.67.134.214	resolves, not parked
+OK	NM	Sindalu Brazilian Jiu-Jitsu Albuquerque	https://www.sindalubjj.com	198.185.159.145,198.185.159.144,198.49.23.144,198.49.23.145	resolves, not parked
+OK	NM	SmartJits Brazilian Jiu Jitsu Academy	https://smartjits.life	156.67.70.57	resolves, not parked
+OK	NM	Round 2 Martial Arts	https://round2martialarts.com	151.101.66.159	resolves, not parked
+OK	NM	San Juan Brazilian Jiu Jitsu	https://www.sanjuanbjj.com	198.185.159.145,198.49.23.145,198.49.23.144,198.185.159.144	resolves, not parked
+OK	NM	Kingdom Jiu Jitsu Academy	https://kingdombjj.com	66.96.147.117	resolves, not parked
+OK	NM	Silverback Jiu Jitsu	https://www.silverbacksoulbjj.com	34.149.87.45	resolves, not parked
+OK	NM	Apex Grappling Academy	https://ufdeming.com/apex	162.159.140.166	resolves, not parked
+OK	NM	Gracie Barra Espanola	https://graciebarra.com/espanola-nm	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	NM	Farmington Jiu Jitsu Academy	https://farmingtonjiujitsu.com	198.185.159.144,198.185.159.145,198.49.23.144,198.49.23.145	resolves, not parked
+OK	NM	Megaton Gallup Jiu-Jitsu	https://gallupjiujitsu.com	35.215.111.180	resolves, not parked
+OK	NM	Kings Jiu Jitsu	https://www.kingsjiujitsucruces.com	198.185.159.144,198.49.23.145,198.49.23.144,198.185.159.145	resolves, not parked
+OK	NM	Zia Martial Arts	https://ziamartialarts.com	151.101.194.159	resolves, not parked
+OK	NM	Sindalu Brazilian Jiu-Jitsu Portales	https://www.sindalubjj.com	198.185.159.145,198.185.159.144,198.49.23.144,198.49.23.145	resolves, not parked
+OK	NM	Gracie Barra Rio Rancho	https://gbriorancho.com	72.62.223.96	resolves, not parked
+OK	NM	Next Move Jiu Jitsu	https://www.nmjj.com	151.101.194.159	resolves, not parked
+OK	NM	Academy Jiu Jitsu	https://academyjiujitsu.net	151.101.2.159	resolves, not parked
+OK	NM	Gracie Barra Roswell	https://graciebarra.com/roswell-nm	104.26.8.3,104.26.9.3,172.67.71.239	resolves, not parked
+OK	NM	10th Planet Jiu Jitsu Santa Fe	https://10thplanetsantafe.com	192.0.78.138,192.0.78.247	resolves, not parked
+OK	NM	Gracie Barra Santa Fe	https://santafebjj.com	3.137.108.170,3.136.232.26	resolves, not parked
+OK	NM	Jesse Jacquez Brazilian Jiu-Jitsu Santa Fe	https://jessejacquezbjj.com	67.20.112.200	resolves, not parked
+OK	NM	Jesse Jacquez Brazilian Jiu-Jitsu Taos	https://jessejacquezbjj.com	67.20.112.200	resolves, not parked
+DEAD	NM	G13 Jiu-Jitsu New Mexico	https://www.g13bjjnewmexico.com		NXDOMAIN
+OK	NS	Breakthrough BJJ	https://www.breakthroughbjj.ca	45.79.19.164	resolves, not parked
+OK	NS	Cheticamp Martial Arts	https://www.cheticampmartialarts.com	75.2.0.180,99.83.169.22	resolves, not parked
+OK	NS	Fit Plus MMA	https://fitplusmma.com	93.127.192.219	resolves, not parked
+OK	NS	Grant's Martial Arts	https://www.grantsmartialarts.ca	34.149.87.45	resolves, not parked
+OK	NS	Tower 1 Combat Sports	https://www.tower1combatsports.com	162.159.143.12,172.66.3.8	resolves, not parked
+OK	NS	Abhaya Mixed Martial Arts	https://abhaya.ca	198.185.159.144,198.49.23.145,198.185.159.145,198.49.23.144	resolves, not parked
+OK	NS	374 MMA	https://374mma.com	69.62.123.101	resolves, not parked
+OK	NS	Halifax BJJ Society	https://www.halifaxbjj.ca	198.185.159.144,198.185.159.145,198.49.23.144,198.49.23.145	resolves, not parked
+OK	NS	Jake MacKenzie School of Jiu Jitsu	https://jakemackenziebjj.com	67.205.30.53	resolves, not parked
+OK	NS	Maritime Jiu-Jitsu	https://www.maritimejiujitsu.ca	45.79.19.164	resolves, not parked
+OK	NS	Titan's Martial Arts and Fitness	https://titansmaaf.ca	158.69.37.116	resolves, not parked
+OK	NS	Clinch Training Centre	https://clinchtrainingcenter.ca	104.21.62.153,172.67.136.185	resolves, not parked
+OK	NS	Pictou County Jiu Jitsu	https://www.tapology.com/gyms/8759-pictou-county-jiu-jitsu	104.26.10.79,172.67.75.116,104.26.11.79	resolves, not parked
+OK	NS	Workhorse Mixed Martial Arts	https://workhorse-mma.gymdesk.com	104.26.8.190,104.26.9.190,172.67.75.111	resolves, not parked
+OK	NS	Integrity Martial Arts	https://www.integritymartialarts.ca	172.66.3.8,162.159.143.12	resolves, not parked
+OK	NS	Zombie Proof BJJ	https://www.zombieproofbjj.com	34.202.203.47,18.211.166.153,54.243.86.28	resolves, not parked
+OK	NS	Truro BJJ	https://trurojiujitsu.com	35.208.143.49	resolves, not parked
+OK	NS	Abhaya Martial Arts Academy	https://www.abhaya.ca/windsor	198.49.23.144,198.49.23.145,198.185.159.144,198.185.159.145	resolves, not parked
+OK	NS	Yarmouth BJJ	https://www.yarmouthbjj.ca	45.79.19.164	resolves, not parked
+OK	NV	JREAM Academy	https://www.jreamacademy.com	52.223.13.41	resolves, not parked
+OK	NV	Wild West Training Center	https://calendly.com/d/dkt-s43-wm4	172.64.146.81,104.18.41.175	resolves, not parked
+OK	NV	10th Planet Jiu Jitsu Las Vegas	https://www.10thplanetlasvegas.com	104.21.51.31,172.67.220.8	resolves, not parked
