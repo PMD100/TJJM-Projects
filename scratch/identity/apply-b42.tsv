@@ -1,0 +1,33 @@
+name	verdict	note	current_file
+10th Planet Miami	WRONG_CITY	site serves Miramar FL, record Miami	NO OVERRIDE
+10th Planet Palm Beach at AOP MMA (West Palm Beach)	AGGREGATOR	Vagaro booking page, no school content	NO OVERRIDE
+ATA Martial Arts - Bentonville	STRIKING_ONLY	ATA taekwondo, Little Rock and Bentonville, no grappling	NO OVERRIDE
+ATA Martial Arts Jonesboro	STRIKING_ONLY	ATA taekwondo, Jonesboro AR, no grappling programs	NO OVERRIDE
+ATL Fitness 24/7 Woodstock	AGGREGATOR	Mindbody booking platform, no school content	NO OVERRIDE
+Abrecea BJJ	DEAD	WordPress maintenance mode page, no content	NO OVERRIDE
+Absolute Self Defense Academy	AGGREGATOR	Google business.site placeholder, empty body	NO OVERRIDE
+Al Garza's Premier Martial Arts	STRIKING_ONLY	League City one-pager, no grappling anywhere on site	NO OVERRIDE
+All-American MMA Academy	DEAD	Google 404, business.site page retired	NO OVERRIDE
+American Grappling	WRONG_BUSINESS	Now American Grappling Championship tournament, Raleigh NC	NO OVERRIDE
+American Jiu Jitsu	DEAD	Redirects to nyjiujitsu.com, connection times out	NO OVERRIDE
+American Top Team Davie	DEAD	404 on live ATT site, Davie page removed	NO OVERRIDE
+American Top Team West Palm Beach	DEAD	"Squarespace ""No Such Website"", account gone"	NO OVERRIDE
+Anta's Fitness & Self Defense	AGGREGATOR	Mindbody booking platform page, no content	NO OVERRIDE
+Asbury Park Jiu Jitsu	AGGREGATOR	Mindbody booking platform page	NO OVERRIDE
+Ascend Jiu-Jitsu	AGGREGATOR	MyStudio booking platform, empty page	NO OVERRIDE
+Atlanta Budokan	WRONG_CITY	site is Georgia Martial Arts, Acworth GA, record Smyrna	tjjm-gym-websites-3.liquid
+Atlanta Kick	STRIKING_ONLY	Karate, kickboxing, CrossFit only, no grappling	NO OVERRIDE
+B Team Jiu Jitsu	WRONG_CITY	redirects to Craig Jones B-Team, Austin TX	NO OVERRIDE
+BJJ Revolution Park City (Malmberg Jiu-Jitsu)	DEAD	WordPress site set to private, no public content	NO OVERRIDE
+BJJ Revolution Team - Baton Rouge	AGGREGATOR	Affiliation brand homepage, Williston VT office	NO OVERRIDE
+Bagwell Academy of Martial Arts	STRIKING_ONLY	Milford CT karate/kempo; schedule shows karate only	NO OVERRIDE
+Becerra Judo & Jiu-Jitsu Club / Jiu-Jitsu Garland TX 75041	DEAD	"Wix ""domain isn't connected to a site"""	NO OVERRIDE
+Believe MMA	PARKED	Expired-domain sale lander, Afternic/GoDaddy checkout	NO OVERRIDE
+Bellmore Kickboxing Academy	STRIKING_ONLY	Bellmore NY boxing/kickboxing gym, no grappling listed	tjjm-gym-websites.liquid
+Bitterroot Warrior Arts Corvallis	WRONG_CITY	site lists Hamilton and Stevensville, not Corvallis	NO OVERRIDE
+BlackSmith Jiu Jitsu Florida	WRONG_CITY	site is Niceville FL, record Tallahassee, ~150mi	NO OVERRIDE
+Boa Brazilian Jiu Jitsu	DEAD	Google 404, business.site page retired	NO OVERRIDE
+Bobcat MMA	DEAD	"Wix ""domain isn't connected to a site"""	NO OVERRIDE
+Braga Jiu-Jitsu	DEAD	Google 404, business.site page retired	NO OVERRIDE
+Brazil 021 San Antonio	AGGREGATOR	Brand homepage; no San Antonio location listed	NO OVERRIDE
+Buckhead Fight Club	STRIKING_ONLY	Brookhaven GA boxing gym, boxing classes only	NO OVERRIDE

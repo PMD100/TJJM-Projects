@@ -1,0 +1,34 @@
+verdict	name	region	url	note
+OK	10th Planet Boca Raton	FL	https://10thplanetboca.com/	Brazilian Jiu-Jitsu Boca Raton, live site
+OK	10th Planet Corvallis	OR	https://www.facebook.com/10PCorvallis/	195 SE Crystal Lake Dr, Corvallis OR
+HIJACK	10th Planet North Dallas	TX	https://10thplanetjjdallas.com	Redirects to Indonesian slot gambling site
+OK	13 Jiu Jitsu	KY	https://www.facebook.com/13JiuJitsu	105 Samson St, Glasgow KY
+OK	360 Defense Martial Arts Colchester CT	CT	https://www.facebook.com/ABDColchesterCT/	52 Mill St, Colchester CT; BJJ taught
+OK	719 Fight Team MMA	CO	https://www.facebook.com/719FightTeamMma/	2551 Airport Rd, Colorado Springs; MMA, BJJ, Greco
+STRIKING_ONLY	ATA Martial Arts - Bentonville	AR	https://www.tryata.com/	ATA taekwondo, Little Rock and Bentonville, no grappling
+STRIKING_ONLY	ATA Martial Arts Jonesboro	AR	https://www.jonesboroata.com/	ATA taekwondo, Jonesboro AR, no grappling programs
+DEAD	Abrecea BJJ	NJ	https://www.abreceabjj.com	WordPress maintenance mode page, no content
+STRIKING_ONLY	Al Garza's Premier Martial Arts	TX	https://algarza.com/	League City one-pager, no grappling anywhere on site
+OK	10th Planet Sedalia MO	MO	https://www.facebook.com/p/10th-Planet-Jiu-Jitsu-Sedalia-100027128487044/	510 S Ohio Ave, Sedalia MO 65301
+OK	Alex Daltro Jiu-Jitsu	GA	https://www.facebook.com/Alexdaltrojiujitsu-104683961825611	1342 Auburn Rd, Dacula GA 30019
+DEAD	All-American MMA Academy	PA	https://all-american-mma-academy.business.site/	Google 404, business.site page retired
+WRONG_BUSINESS	American Grappling	KY	https://americangrappling.org/	Now American Grappling Championship tournament, Raleigh NC
+DEAD	American Jiu Jitsu	NJ	https://www.americanjiujitsu.com/	Redirects to nyjiujitsu.com, connection times out
+DEAD	American Top Team Davie	FL	https://www.americantopteam.com/davie/	404 on live ATT site, Davie page removed
+OK	American Top Team Happy Valley	PA	https://atthappyvalleypa.com/	Pleasant Gap PA MMA gym, BJJ coaching staff
+DEAD	American Top Team West Palm Beach	FL	https://attwpb.squarespace.com/	Squarespace "No Such Website", account gone
+HIJACK	Applied MMA Austin	TX	https://appliedmma.com/	Chinese movie/TV piracy streaming portal
+STRIKING_ONLY	Atlanta Kick	GA	https://atlantakick.com/try-free-class	Karate, kickboxing, CrossFit only, no grappling
+OK	Averitt Jiu Jitsu	AZ	https://averittjiujitsu.com/	1510 S Riordan Ranch St, Flagstaff AZ
+DEAD	BJJ Revolution Park City (Malmberg Jiu-Jitsu)	UT	https://jiujitsurevolution.com	WordPress site set to private, no public content
+OK	Bad Company Jiu-Jitsu	PA	https://www.badcompanybjj.com/	24 Forrest Street, Wilkes-Barre PA
+STRIKING_ONLY	Bagwell Academy of Martial Arts	CT	https://bagwellacademy.com/	Milford CT karate/kempo; schedule shows karate only
+HIJACK	Baker's MMA & Fitness LLC	AZ	http://www.bakersmmaandfitness.com/	Turkish online casino, Fixbet gambling site
+DEAD	Becerra Judo & Jiu-Jitsu Club / Jiu-Jitsu Garland TX 75041	TX	https://www.becerrajudo.com/	Wix "domain isn't connected to a site"
+PARKED	Believe MMA	NJ	https://believemma.com/	Expired-domain sale lander, Afternic/GoDaddy checkout
+STRIKING_ONLY	Bellmore Kickboxing Academy	NY	https://bellmorekickboxingmma.com/	Bellmore NY boxing/kickboxing gym, no grappling listed
+OK	Black Diamond Brazilian Jiu-Jitsu	NV	https://blackdiamondbjj.com/schedule	Live Reno NV BJJ site; /schedule subpage 404s
+DEAD	Boa Brazilian Jiu Jitsu	PA	https://boa-brazilian-jiu-jitsu-llc.business.site/	Google 404, business.site page retired
+DEAD	Bobcat MMA	OH	https://www.starbrickbjj.com/bobcat-mma	Wix "domain isn't connected to a site"
+DEAD	Braga Jiu-Jitsu	CA	https://braga-jiu-jitsu.business.site/	Google 404, business.site page retired
+STRIKING_ONLY	Buckhead Fight Club	GA	https://www.buckheadfightclub.com/	Brookhaven GA boxing gym, boxing classes only
