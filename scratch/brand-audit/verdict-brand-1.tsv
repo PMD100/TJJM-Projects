@@ -1,0 +1,66 @@
+verdict	region	name	url	note
+OK	WA	Gracie Barra Edmonds	graciebarra.com/edmonds-wa	Edmonds WA address and phone shown
+REPLACE	WA	GB Renton	graciebarra.com/renton-wa	https://graciebarratacoma.com/locations/renton/
+OK	WA	Gracie Barra Seattle	graciebarra.com/seattle-wa	Seattle WA address and timetable shown
+REPLACE	WA	GB Tacoma	graciebarra.com/tacoma-wa	https://graciebarratacoma.com/
+DEAD	NV	UFC Gym Green Valley	http://ufcgym.com/greenvalley	Empty page; absent from UFC Gym location list
+OK	CA	UFC GYM Concord	http://www.ufcgym.com/concord	Concord CA address shown
+REPLACE	CA	UFC GYM Sunnyvale	http://www.ufcgym.com/sunnyvale	https://www.ufcgym.com/locations/sunnyvale
+REPLACE	CO	10th Planet Denver	https://10thplanetjiujitsu.com/denver	https://10thplanetdenver.com
+OK	AB	Arashi-Do Martial Arts Calgary NE Deerfoot McCall Lake	https://arashido.com/location/calgary-deerfoot-north/	Calgary NE Deerfoot McCall Lake page live
+OK	AB	Arashi-Do Martial Arts Calgary SE Deerfoot Douglasdale	https://arashido.com/location/calgary-deerfoot-south-douglasdale/	11488 24th Street SE, Calgary AB
+OK	AB	Arashi-Do Martial Arts Calgary South Acadia	https://arashido.com/location/calgary-south-acadia/	8318 Fairmount Drive SE, Calgary AB
+OK	AB	Arashi-Do Martial Arts Calgary SW Rutland Park	https://arashido.com/location/calgary-south-rutland-park/	3130 40 Avenue SW, Calgary AB
+OK	AB	Arashi-Do Martial Arts Calgary West Springbank	https://arashido.com/location/calgary-west-springbank/	250021 Mountain View Trail, Calgary AB
+OK	AB	Arashi-Do Martial Arts Cochrane	https://arashido.com/location/cochrane/	101 Sunset Dr, Cochrane AB
+OK	AB	Arashi-Do Martial Arts Edmonton East	https://arashido.com/location/edmonton-east/	Edmonton AB address shown
+OK	AB	Arashi-Do Martial Arts Edmonton North	https://arashido.com/location/edmonton-north/	12730 St Albert Trail NW, Edmonton
+OK	AB	Arashi-Do Martial Arts Edmonton South	https://arashido.com/location/edmonton-south/	1803 91 St SW, Edmonton
+OK	AB	Arashi-Do Martial Arts Edmonton West Mayfield	https://arashido.com/location/edmonton-west-mayfield/	Edmonton AB address shown
+OK	AB	Arashi-Do Martial Arts Edson	https://arashido.com/location/edson/	5023 4 Ave, Edson AB
+OK	AB	Arashi-Do Martial Arts Hinton	https://arashido.com/location/hinton/	127 Athabasca Ave, Hinton AB
+OK	AB	Arashi-Do Martial Arts Leduc	https://arashido.com/location/leduc/	6051B 47 St, Leduc AB
+OK	AB	Arashi-Do Martial Arts Olds	https://arashido.com/location/olds/	4806 50 Ave, Olds AB
+OK	AB	Arashi-Do Martial Arts Penhold	https://arashido.com/location/penhold/	9 Hawkridge Blvd, Penhold AB
+OK	AB	Arashi-Do Martial Arts Red Deer	https://arashido.com/location/red-deer/	179 Clearview Drive, Red Deer AB
+OK	AB	Arashi-Do Martial Arts Sherwood Park	https://arashido.com/location/sherwood-park/	38 Sioux Rd, Sherwood Park AB
+OK	AB	Arashi-Do Martial Arts Sylvan Lake	https://arashido.com/location/sylvan-lake/	14 Thevanaz Industrial Trail, Sylvan Lake
+REPLACE	NC	Checkmat Charlotte	https://checkmat.com/charlotte	https://realamericangrappling.com/
+OK	CO	Easton BJJ Arvada	https://eastonbjj.com/arvada	12421 W 49th Ave, Wheat Ridge CO
+OK	CO	Easton Training Center - Boulder	https://eastonbjj.com/boulder/	2005 32nd St, Boulder CO
+OK	CO	Easton Training Center Centennial	https://eastonbjj.com/centennial	5170 E Arapahoe Rd, Centennial CO
+OK	CO	Easton Training Center	https://eastonbjj.com/denver/	1304 S Santa Fe Dr, Denver CO
+OK	CO	Easton Training Center Littleton	https://eastonbjj.com/littleton/	Littleton page, 5066 S Wadsworth Blvd
+OK	CO	Easton BJJ Longmont	https://eastonbjj.com/longmont	2415 Wedgewood Ave, Longmont CO
+OK	CO	Easton BJJ Lowry	https://eastonbjj.com/lowry	9660 E Alameda Ave, Denver CO
+OK	CO	Easton Brazilian Jiu Jitsu Thornton	https://eastonbjj.com/thornton/	13762 Colorado Blvd, Thornton CO
+OK	TX	GB Alamo Ranch	https://graciebarra.com/alamo-ranch-tx/	10919 Culebra Rd, San Antonio TX
+OK	NC	GB Asheville	https://graciebarra.com/asheville-nc/	347 New Leicester Hwy, Asheville NC
+OK	AZ	Gracie Barra Avondale	https://graciebarra.com/avondale-az/	3145 N Dysart Rd, Avondale AZ
+OK	PA	GB Beaver County	https://graciebarra.com/beaver-pa/	500 Dutch Ridge Rd, Beaver PA
+DEAD	GA	Gracie Barra Blue Ridge	https://graciebarra.com/blue-ridge-ga/	Empty page; no replacement site found
+OK	TX	GB Boerne	https://graciebarra.com/boerne-tx/	30875 Frontage Rd, Boerne TX
+OK	AZ	Gracie Barra Buckeye	https://graciebarra.com/buckeye-az/	860 S Watson Rd, Buckeye AZ
+OK	BC	Gracie Barra Central Richmond	https://graciebarra.com/central-richmond-bc-canada	12200 Vulcan Way, Richmond BC
+OK	VA	GB Chantilly	https://graciebarra.com/chantilly-va/	4200 Lafayette Center Dr, Chantilly VA
+DEAD	FL	GB Clermont	https://graciebarra.com/clermont-fl/	Empty page; no replacement site found
+DEAD	CO	Gracie Barra Pueblo	https://graciebarra.com/co-pueblo	Empty page; no replacement site found
+OK	IL	GB Collinsville	https://graciebarra.com/collinsville-il/	2539 Vandalia St, Collinsville IL
+OK	CO	GB Colorado Springs	https://graciebarra.com/colorado-springs-co/	1360 N Academy Blvd, Colorado Springs
+OK	MO	GB Columbia	https://graciebarra.com/columbia-mo/	128 E Nifong Suite E, Columbia
+OK	CA	GB Corona	https://graciebarra.com/corona-ca/	280 Teller St #100, Corona CA
+OK	FL	GB Crestview	https://graciebarra.com/crestview-fl/	751 N Ferdon Blvd, Crestview FL
+OK	GA	GB South Forsyth	https://graciebarra.com/cumming-ga/	4415 Front 9 Dr, Cumming GA
+DEAD	CA	GB Dana Point	https://graciebarra.com/dana-point-ca/	Empty; subpaths redirect to generic brand pages
+OK	IL	GB Deerfield	https://graciebarra.com/deerfield-il/	Deerfield subsite live
+OK	CA	GB Diamond Bar	https://graciebarra.com/diamond-bar-ca/	Diamond Bar subsite live
+OK	CA	GB Downey	https://graciebarra.com/downey-ca/	Downey subsite live
+OK	OH	GB Columbus	https://graciebarra.com/dublin-oh/	Columbus OH subsite live
+OK	TX	GB East El Paso	https://graciebarra.com/east-el-paso-tx/	East El Paso subsite live
+OK	AB	Gracie Barra Edmonton	https://graciebarra.com/edmonton-alberta-canada/	11500 170 St NW, Edmonton AB
+OK	TX	GB El Paso	https://graciebarra.com/el-paso-tx/	El Paso subsite live
+REPLACE	CA	GB Encinitas	https://graciebarra.com/encinitas-ca/	https://gbencinitas.com/
+OK	CA	GB Escondido	https://graciebarra.com/escondido-ca/	Escondido subsite live
+OK	NM	Gracie Barra Espanola	https://graciebarra.com/espanola-nm	1227 N Railroad Ave, Espanola NM
+OK	IL	GB Evanston	https://graciebarra.com/evanston-il/	Evanston subsite live
+OK	AZ	Gracie Barra Flagstaff Jiu Jitsu and Self Defense	https://graciebarra.com/flagstaff-az/	Flagstaff subsite live

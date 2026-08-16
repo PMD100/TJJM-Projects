@@ -1,0 +1,66 @@
+verdict	region	name	url	note
+REPLACE	FL	GB Fleming Island	https://graciebarra.com/fleming-island-fl/	https://gbflemingisland.com/
+OK	FL	Gracie Barra Fort Lauderdale	https://graciebarra.com/fort-lauderdale-fl/	5439 N Federal Hwy, Fort Lauderdale FL
+REPLACE	CA	GB Fullerton	https://graciebarra.com/fullerton-ca/	https://www.graciebarrafullerton.com/
+REPLACE	TX	GB Fulshear	https://graciebarra.com/fulshear-tx/	https://gbfulshear.com/
+OK	GA	Gracie Barra Gainesville	https://graciebarra.com/gainesville-ga/	2197 Dawsonville Hwy, Gainesville GA
+OK	MO	GB Hannibal	https://graciebarra.com/hannibal-mo/	210 Huck Finn Shopping Center, Hannibal MO
+OK	HI	Gracie Barra Aloha Stadium	https://graciebarra.com/honolulu-hi	4510 Salt Lake Blvd, Honolulu HI
+OK	ID	Gracie Barra Caldwell	https://graciebarra.com/id-caldwell	708 Main St, Caldwell ID
+REPLACE	CA	GB HQ - Irvine	https://graciebarra.com/irvine-ca/	https://gbirvine.com/
+OK	MO	GB Jefferson City	https://graciebarra.com/jefferson-city-mo/	512 Ellis Blvd, Jefferson City MO
+OK	FL	GB Jupiter	https://graciebarra.com/jupiter-fl/	400 Toney Penna Dr, Jupiter FL
+OK	HI	Gracie Barra Kapolei	https://graciebarra.com/kapolei-hi	1019 Lauia St, Kapolei HI
+OK	CA	GB La Canada Flintridge	https://graciebarra.com/la-canada-ca/	645 Foothill Blvd, La Canada Flintridge CA
+MOVED	CA	GB La Crescenta	https://graciebarra.com/la-canada-ca/	page serves La Canada Flintridge, not La Crescenta
+OK	CA	GB Lake Elsinore	https://graciebarra.com/lake-elsinore-ca/	109 S Main St, Lake Elsinore CA
+OK	CA	GB West Lancaster	https://graciebarra.com/lancaster-ca/	42458 60th St W, Lancaster CA
+OK	GA	GB Lawrenceville	https://graciebarra.com/lawrenceville-ga/	2100 Riverside Pkwy, Lawrenceville GA
+OK	FL	GB Seminole	https://graciebarra.com/longwood-fl/	1060 W SR 434, Longwood FL
+OK	FL	GB Melbourne	https://graciebarra.com/melbourne-fl/	1131 S Wickham Rd, West Melbourne FL
+OK	CA	GB Morgan Hill	https://graciebarra.com/morgan-hill-ca/	16145 Monterey Rd, Morgan Hill CA
+REPLACE	CA	GB Thousand Oaks	https://graciebarra.com/newbury-park-ca/	https://gbthousandoaks.com/
+REPLACE	CA	GB Newport Beach	https://graciebarra.com/newport-beach-ca/	https://www.graciebarranewportbeach.com/
+REPLACE	CA	GB Oceanside	https://graciebarra.com/oceanside-ca/	https://www.graciebarraoceanside.com/
+OK	FL	GB Palm Coast	https://graciebarra.com/palm-coast-fl/	Palm Coast FL page; row city column says Orlando
+OK	CA	GB Palm Desert	https://graciebarra.com/palm-desert-ca/	39615 Washington St, Palm Desert CA
+REPLACE	FL	GB Palmetto Bay	https://graciebarra.com/palmetto-bay-fl/	https://gbpalmettobay.com/
+OK	CA	Gracie Barra Pasadena	https://graciebarra.com/pasadena-ca/	titled Pasadena; address 8953 Duarte Rd, San Gabriel
+OK	CA	Gracie Barra Riverside Brazilian Jiu-Jitsu Martial Arts	https://graciebarra.com/riverside-ca/	2050 E La Cadena Dr, Riverside CA
+OK	FL	GB Rockledge	https://graciebarra.com/rockledge-fl/	2208 S Fiske Blvd, Rockledge FL
+OK	CA	GB Rohnert Park	https://graciebarra.com/rohnert-park-ca/	7271 Snyder Ln, Rohnert Park CA
+OK	NM	Gracie Barra Roswell	https://graciebarra.com/roswell-nm	2801 N Main, Roswell NM
+OK	FL	GB Saint Augustine	https://graciebarra.com/saint-augustine-fl/	3501 N Ponce De Leon Blvd, St. Augustine
+OK	CA	GB San Clemente	https://graciebarra.com/san-clemente-ca/	225 Calle Pintoresco, San Clemente CA
+OK	CA	GB San Ysidro	https://graciebarra.com/san-ysidro-ca/	1665 Precision Park Ln, San Ysidro CA
+OK	UT	Gracie Barra Sandy	https://graciebarra.com/sandy-ut	8912 S 700 E, Sandy UT
+REPLACE	CA	GB Santa Ana	https://graciebarra.com/santa-ana-ca	https://gbsantaana.com/
+OK	CA	GB Santa Rosa	https://graciebarra.com/santa-rosa-ca/	3535 Industrial Dr, Santa Rosa CA
+OK	CA	GB Simi Valley	https://graciebarra.com/simi-valley-ca/	131 Cochran St E, Simi Valley CA
+OK	TX	GB Spring Branch	https://graciebarra.com/spring-branch-tx/	19750 TX-46, Spring Branch TX
+OK	IL	GB Springfield	https://graciebarra.com/springfield-il/	1665 Wabash Ave, Springfield IL
+OK	FL	GB Stuart	https://graciebarra.com/stuart-fl/	2250 SE Federal Hwy, Stuart FL
+OK	OR	Gracie Barra Sw Portland	https://graciebarra.com/sw-portland-or/	9975 SW Frewing St, Tigard OR
+OK	CA	GB West Covina	https://graciebarra.com/west-covina-ca/	310 S Glendora Ave, West Covina CA
+REPLACE	FL	GB Windermere	https://graciebarra.com/windermere-fl/	https://www.gbwindermere.com/
+OK	CA	GB Yuba City	https://graciebarra.com/yuba-city-ca/	1151 Bridge St, Yuba City CA
+OK	PA	Tiger Schulmann's Mixed Martial Arts Allentown	https://tsk.com/jiu-jitsu-classes/allentown-jiu-jitsu/	4654 Broadway, Allentown PA
+OK	CT	Tiger Schulmann's Martial Arts Stamford CT	https://tsk.com/locations/ct/stamford/	2770 Summer St, Stamford CT
+OK	NJ	Tiger Schulmann's Martial Arts Brick NJ	https://tsk.com/locations/nj/brick/	905 NJ-70, Brick Township NJ
+OK	NJ	Tiger Schulmann's Martial Arts East Brunswick NJ	https://tsk.com/locations/nj/east-brunswick/	510 Route 18 N, East Brunswick NJ
+OK	NJ	Tiger Schulmann's Martial Arts Eatontown NJ	https://tsk.com/locations/nj/eatontown/	246 NJ-35, Eatontown NJ
+OK	NJ	Tiger Schulmann's Martial Arts Elmwood Park NJ	https://tsk.com/locations/nj/elmwood-park/	485 Mola Blvd, Elmwood Park NJ
+OK	NJ	Tiger Schulmann's Martial Arts Englewood NJ	https://tsk.com/locations/nj/englewood/	38 S Dean St, Englewood NJ
+OK	NJ	Tiger Schulmann's Martial Arts Freehold NJ	https://tsk.com/locations/nj/freehold/	4345 Rte 9, Freehold NJ
+OK	NJ	Tiger Schulmann's Martial Arts Hoboken NJ	https://tsk.com/locations/nj/hoboken/	84 Washington St, Hoboken NJ
+OK	NJ	Tiger Schulmann's Martial Arts Jersey City NJ	https://tsk.com/locations/nj/jersey-city/	170 Erie St, Jersey City NJ
+OK	NJ	Tiger Schulmann's Martial Arts North Plainfield NJ	https://tsk.com/locations/nj/north-plainfield/	579 Rt 22 W, North Plainfield NJ
+OK	NJ	Tiger Schulmann's Martial Arts Paramus NJ	https://tsk.com/locations/nj/paramus/	176A N NJ-17, Paramus NJ
+OK	NJ	Tiger Schulmann's Martial Arts Princeton	https://tsk.com/locations/nj/princeton/	3371 US Hwy 1, Lawrenceville NJ
+OK	NJ	Tiger Schulmann's Martial Arts Ramsey NJ	https://tsk.com/locations/nj/ramsey/	885 NJ-17, Ramsey NJ
+OK	NJ	Tiger Schulmann's Martial Arts Randolph NJ	https://tsk.com/locations/nj/randolph/	140 NJ-10, Randolph NJ
+OK	NJ	Tiger Schulmann's Martial Arts Red Bank NJ	https://tsk.com/locations/nj/red-bank/	500 NJ-35, Red Bank NJ
+OK	NJ	Tiger Schulmann's Martial Arts Short Hills NJ	https://tsk.com/locations/nj/short-hills/	531 Millburn Ave, Short Hills NJ
+OK	NJ	Tiger Schulmann's Martial Arts Wayne NJ	https://tsk.com/locations/nj/wayne/	1605 NJ-23 S, Wayne NJ
+OK	NJ	Tiger Schulmann's Martial Arts West Orange NJ	https://tsk.com/locations/nj/westorange/	495 Prospect Ave, West Orange NJ
+OK	NY	Tiger Schulmann's Martial Arts Bellerose (Queens) NY	https://tsk.com/locations/ny/bellerose	251-73 Jericho Tpke, Queens NY
