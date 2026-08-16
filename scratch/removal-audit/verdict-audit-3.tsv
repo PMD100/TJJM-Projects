@@ -1,0 +1,44 @@
+verdict	name	working_url	note
+CONFIRMED	Gracie Jiu-Jitsu Brazil		empty shell, no text or links, both hosts
+CONFIRMED	Grappling Zone Pearland		both hosts redirect to empty /lander parking page
+CONFIRMED	Grassroots Jiu-Jitsu		/lander parking iframe on both hosts
+CONFIRMED	Grit Training Center		redirects to GoDaddy for-sale lander
+CONFIRMED	Ground Up Brazilian Jiu-Jitsu		Miracle Performance strength/conditioning studio, Beachwood OH
+CONFIRMED	Hahn Mixed Martial Arts & Fight Promotions		Chinese spam injection, iframe to adult-spam domain
+CONFIRMED	Hard Knocks Muay Thai & Mma		Muay Thai and fitness only, no grappling
+CONFIRMED	Hardstyle KBJJ		kettlebell strength course site, no grappling
+FALSE_POSITIVE	Hayastan MMA	https://www.gokor.com/	North Hollywood CA; judo, jiu-jitsu, sambo classes
+CONFIRMED	Henry Matamoros Brazilian Jiu-Jitsu		GoDaddy Auctions lander, both hosts
+CONFIRMED	Hero MMA Academy		Bluehost WordPress "Coming Soon" placeholder, both hosts
+CONFIRMED	High Voltage Gym		redirects to PEDRO4D Indonesian gambling site
+CONFIRMED	Hyannis Mixed Martial Arts of Cape Cod		boxing, TRX, yoga, pilates; no grappling
+CONFIRMED	Hybrid Nation Martial Arts		redirects to POKERLEGENDA Indonesian slot site
+CONFIRMED	Iceman's Martial Arts Academy		GoDaddy Auctions for-sale lander
+CONFIRMED	Impact School Of Martial Arts		BrandBucket domain marketplace listing page, both hosts
+CONFIRMED	Imperial Martial Arts		GoDaddy for-sale lander
+CONFIRMED	Indiana Combat Grappling		Ryukyu Kempo karate school Mooresville, no grappling
+CONFIRMED	Infinite Jiu-Jitsu Academy		redirects to demoslotjackpot.com Indonesian slot site
+CONFIRMED	Invictus Defense Academy		redirects to kineticharbor.com content-farm article
+CONFIRMED	JAO Martial Arts Academy/Caio Terra Brazilian Jiu Jitsu NY		Chinese "AG" gambling SEO injection, spam iframe
+CONFIRMED	John's Gym Mixed Martial Arts & Fitness		empty /lander parking page on both hosts
+CONFIRMED	Kajupit MMA & Fitness		Webs.com retired; redirects to VistaPrint shutdown notice
+CHANGED	Kang's Mixed Martial Arts		now a generic domain for-sale lander
+CONFIRMED	Kilian's Martial Arts Center		redirects to desatahunan.com Indonesian togel site
+CONFIRMED	Knights BJJ		SpinBetter Latvian online casino, both hosts
+CONFIRMED	Knockout Fitness		BrandBucket for-sale lander, both hosts
+CHANGED	Knuckle Up Fitness		now Cloudflare 526 invalid SSL error, unreachable
+CHANGED	KnuckleUp Fitness Alpharetta		now Cloudflare 526 invalid SSL error, unreachable
+CHANGED	KnuckleUp MMA & Fitness		now Cloudflare 526 invalid SSL error, unreachable
+CONFIRMED	Komainu Gym		Komainu martial arts apparel/rashguard retailer, not gym
+CONFIRMED	Komainu/Yemaso Brazilian Jiujitsu/MMA Academy		expired-domain lander with related search ads
+CONFIRMED	LCCT Brazilian Jiu Jitsu Barrington		ExpiredDomains.com for-sale listing, $195
+CONFIRMED	Legacy Fitness Factory		empty /lander domain parking page
+CONFIRMED	Lentz Mixed Martial Arts and Boxing		HugeDomains for-sale lander, $2,995
+CONFIRMED	LifeStyle Brazilian Jiu Jitsu Academy		redirects to DAX69 Indonesian slot-gambling site
+CONFIRMED	Loyalty BJJ		GoDaddy Auctions lander, both hosts
+CONFIRMED	MCF Warpath Boxing and MMA Academy		rotating scam affiliate/sweepstakes redirect chain
+CONFIRMED	Maguilla's BJJ Academy		GoDaddy for-sale lander, $8,995, both hosts
+CONFIRMED	Mass Best Martial Arts Center		bare Facebook homepage, not a school page
+CONFIRMED	Maxx Training Center Martial Arts		GACOAN88 Indonesian slot gambling site, both hosts
+CONFIRMED	Mcallen BJJ		empty /lander parking page, both hosts
+CONFIRMED	Metro Detroit Kudo		GKA Dojo, Barry Wales UK; different business
