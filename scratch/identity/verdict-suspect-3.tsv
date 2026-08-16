@@ -1,0 +1,17 @@
+verdict	name	region	url	note
+DEAD	Gracie Barra Orem	UT	https://gborem-utah.com	SSL error; no host form loads
+HIJACK	Gracie Barra Trinity - Brazilian Jiu-Jitsu & Self Defense	FL	https://www.tampabaymma.com/	Real BJJ site, injected hidden betting and adult links
+DEAD	Gracie United Team Jucao Plaquemine	LA	https://www.facebook.com/guplaquemine/	Facebook page unavailable or deleted
+OK	Grady's Family Mixed Martial Arts	FL	https://www.facebook.com/gradysmma/	Clearwater FL 33764; submission grappling listed
+WRONG_BUSINESS	Groundwork BJJ	CO	https://groundworkbjj.com	BJJ mobile training app product site, no school
+WRONG_BUSINESS	Guelph BJJ	ON	https://guelphbjj.com	Redirects to Kohbukan Judo, 10 Speedvale Ave E
+OK	Gulf Coast Jujutsu	AL	https://www.facebook.com/Gulf-Coast-Jujutsu-184652755613880/	7369 Alamo Circle, Gulf Shores AL 36542
+WRONG_BUSINESS	Hamilton Brazilian Jiu-Jitsu	ON	https://hamiltonbjj.com	Redirects to Bora BJJ, 625 Greenhill Ave Hamilton
+OK	Helix Brazilian Jiu-Jitsu	GA	https://www.facebook.com/helixbjj/	2073 Westside Ct Ste A, Snellville GA 30078
+HIJACK	Hess' Oriental Martial Arts	OH	https://hessma.com/	Confirmed: Chinese gambling/pharma site, no martial arts
+DEAD	Honey Badger Training Facility	MO	https://honeybadgertrainingfacility.com	Wix domain not connected, both host forms
+STRIKING_ONLY	IMB Academy CT	CT	https://jessymiele.wixsite.com/imbct/	Kickboxing only; 1669 Thomaston Ave, Waterbury CT
+OK	Ilimitadas Brazilian Jiu-Jitsu	OH	https://www.facebook.com/limitlessbjjmma/	500 E Main St, Trotwood OH (Dayton metro)
+OK	Impact Jiu Jitsu Keizer	OR	https://salemimpactjj.com/	Redirects to Courthouse Impact Jiu Jitsu; Keizer listed
+OK	Impact Jiu Jitsu Salem	OR	https://salemimpactjj.com/	Redirects to Courthouse Impact Jiu Jitsu; West Salem listed
+OK	Impact Jiu Jitsu at Crossfit Wilsonville	OR	https://www.crossfitwilsonville.com/jiu-jitsu-at-cfw	Given path 404s; live at /impact-jiu-jitsu, Wilsonville

@@ -1,0 +1,17 @@
+name	region	city	url	fetch_note
+Gracie Barra Orem	UT	Orem	https://gborem-utah.com	dead in browser, error page confirmed
+Gracie Barra Trinity - Brazilian Jiu-Jitsu & Self Defense	FL	New Port Richey	https://www.tampabaymma.com/	hijacked, injected gambling and adult links
+Gracie United Team Jucao Plaquemine	LA	Plaquemine	https://www.facebook.com/guplaquemine/	Facebook body blank, needs browser check
+Grady's Family Mixed Martial Arts	FL	Clearwater	https://www.facebook.com/gradysmma/	Facebook body blank, needs browser check
+Groundwork BJJ	CO	Fort Collins	https://groundworkbjj.com	Empty JS page, BJJ training app
+Guelph BJJ	ON	Guelph	https://guelphbjj.com	Redirects to Kohbukan Judo, different club
+Gulf Coast Jujutsu	AL	Gulf Shores	https://www.facebook.com/Gulf-Coast-Jujutsu-184652755613880/	Facebook returned blank body, needs browser
+Hamilton Brazilian Jiu-Jitsu	ON	Hamilton	https://hamiltonbjj.com	Blank empty body on repeated fetches
+Helix Brazilian Jiu-Jitsu	GA	Snellville	https://www.facebook.com/helixbjj/	Facebook returned blank body, needs browser
+Hess' Oriental Martial Arts	OH	Fremont	https://hessma.com/	Domain hijacked, Chinese gambling pharma site
+Honey Badger Training Facility	MO	Rolla	https://honeybadgertrainingfacility.com	Blank body on all fetches
+IMB Academy CT	CT	Waterbury	https://jessymiele.wixsite.com/imbct/	Kickboxing only, near-empty Wix site
+Ilimitadas Brazilian Jiu-Jitsu	OH	Dayton	https://www.facebook.com/limitlessbjjmma/	Facebook returned blank body, needs browser
+Impact Jiu Jitsu Keizer	OR	Keizer	https://salemimpactjj.com/	Near-empty stub, points to Courthouse site
+Impact Jiu Jitsu Salem	OR	Salem	https://salemimpactjj.com/	Near-empty stub, points to Courthouse site
+Impact Jiu Jitsu at Crossfit Wilsonville	OR	Wilsonville	https://www.crossfitwilsonville.com/jiu-jitsu-at-cfw	Blank page, live path differs
