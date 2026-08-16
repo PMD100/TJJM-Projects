@@ -1,0 +1,121 @@
+verdict	name	region	city	url	note
+OK	Gracie Barra Lethbridge	AB	Lethbridge	https://gblethbridge.com	address matches, own site
+AGGREGATOR	Gracie Barra London	ON	London	https://graciebarra.com	brand national homepage, no London page
+OK	Gracie Barra Long Island	NY	New Hyde Park	https://gblongisland.com	address and city match
+OK	Gracie Barra Maple Ridge	BC	Maple Ridge	https://gbmapleridge.com	address matches, own site
+OK	Gracie Barra Meridian	ID	Meridian	https://graciebarrameridian.com	address matches exactly
+OK	Gracie Barra Montreal	QC	Montreal	https://gbmontreal.ca	address matches, own site
+OK	Gracie Barra Montreal-Ouest	QC	Montreal	https://gbmontrealouest.ca	address matches, serves Montreal West
+OK	Gracie Barra New Mexico	NM	Albuquerque	https://gbnewmexico.com	address matches, own site
+OK	Gracie Barra New Westminster	BC	New Westminster	https://gbnewwest.com	address matches, own site
+OK	Gracie Barra North Austin	TX	Austin	https://www.gbnorthaustin.com	address matches, own site
+OK	Gracie Barra North Burnaby	BC	Burnaby	https://www.gbnorthburnaby.com	address matches exactly
+OK	Gracie Barra North Orlando	FL	Orlando	https://www.northorlandobjj.com/	Orlando address on page
+OK	Gracie Barra North Princeton Brazilian Jiu Jitsu and Self Defense	NJ	Princeton	https://www.gb-northprinceton.com/north-princeton-classes	address matches, own site
+OK	Gracie Barra North Salt Lake	UT	North Salt Lake	https://gbnorthsaltlake.com	address matches, own site
+OK	Gracie Barra Novi	MI	Novi	https://graciebarradetroit.com/	page titled Novi, address matches
+SUSPECT	Gracie Barra Orem	UT	Orem	https://gborem-utah.com	dead in browser, error page confirmed
+OK	Gracie Barra Ottawa	ON	Ottawa	https://gb-ottawa.com	address matches, own site
+OK	Gracie Barra Overland Park	KS	Overland Park	https://gboverlandpark.com	address matches, own site
+OK	Gracie Barra Park City	UT	Park City	https://gbparkcity.com	address matches, own site
+OK	Gracie Barra Peabody	MA	Peabody	https://graciebarrapeabody.com	Peabody address shown on page
+OK	Gracie Barra Peoria	AZ	Peoria	https://graciebarrapeoria.com/	address matches, Peoria AZ
+OK	Gracie Barra Princeton	NJ	Lawrenceville	https://gbprinceton.com	Princeton school at Lawrenceville address
+OK	Gracie Barra Rio Rancho	NM	Rio Rancho	https://gbriorancho.com	address matches exactly
+OK	Gracie Barra Riverton	UT	Riverton	https://gbriverton.com	address matches exactly
+OK	Gracie Barra Saint-Laurent	QC	Montreal	https://gbsaintlaurent.ca	Ville Saint-Laurent Montreal address matches
+OK	Gracie Barra Salt Lake City	UT	Salt Lake City	https://gbslc.com	Salt Lake City address confirmed
+OK	Gracie Barra Santa Fe	NM	Santa Fe	https://santafebjj.com	address matches, Santa Fe
+OK	Gracie Barra South Boise	ID	Boise	https://gbsouthboise.com	address matches, Boise
+OK	Gracie Barra South Portland	ME	South Portland	https://graciebarrasouthportland.com	address matches, South Portland
+OK	Gracie Barra Southeast Boise	ID	Boise	https://gbsoutheastboise.com	address matches, Boise
+OK	Gracie Barra Studio City	CA	Studio City	https://gbstudiocity.com	address matches, Studio City
+OK	Gracie Barra Summerville	SC	Summerville	https://gbsummerville.com	address matches, Summerville SC
+OK	Gracie Barra Texas	TX	Webster	https://graciebarratx.com	GB Texas HQ Webster, address matches
+AGGREGATOR	Gracie Barra Toronto East	ON	Toronto	https://graciebarra.com	brand national homepage, no Toronto page
+SUSPECT	Gracie Barra Trinity - Brazilian Jiu-Jitsu & Self Defense	FL	New Port Richey	https://www.tampabaymma.com/	hijacked, injected gambling and adult links
+OK	Gracie Barra Tucson Jiu-Jitsu	AZ	Tucson	https://gbtucson.com/	address matches, Tucson
+OK	Gracie Barra Tyler Brazilian Jiu-Jitsu & Self Defense	TX	Tyler	https://gbtyler.com/	address matches, Tyler TX
+OK	Gracie Barra Vancouver	BC	Vancouver	https://www.gbvancouver.com	address matches, Vancouver BC
+OK	Gracie Barra West Ashley	SC	Charleston	https://www.gbwestashley.com	address matches, West Ashley Charleston
+OK	Gracie Barra West Jordan	UT	West Jordan	https://gbwestjordan.com	address matches, West Jordan
+OK	Gracie Barra West Vancouver	BC	West Vancouver	https://gbwestvancouver.com	address matches exactly, own site
+OK	Gracie Barra Westside	NM	Albuquerque	https://gbwestside.com	address matches, Albuquerque confirmed
+OK	Gracie Brandon Martial Arts BJJ/MMA	FL	Riverview	https://graciebrandon.com/	address matches exactly, Riverview
+OK	Gracie Charlottesville Jiu-Jitsu and Self Defense Academy	VA	Charlottesville	https://graciecharlottesville.com/	Charlottesville confirmed, different street now
+OK	Gracie Gulf Coast Brazilian Jiu-Jitsu	MS	Biloxi	https://graciegc.com	page says heart of Biloxi
+OK	Gracie Gym Richardson / Brazilian Jiu-Jitsu	TX	Richardson	https://graciegymrichardson.com/	Richardson Arapaho Rd address confirmed
+OK	Gracie Humaita Columbia	MO	Columbia	https://graciehumaitacolumbia.com	Columbia confirmed, different street now
+OK	Gracie Humaita Conroe	TX	Conroe	https://www.facebook.com/yountbjj/	own Facebook page, Conroe TX address
+OK	Gracie Humaita Omaha	NE	Papillion	https://www.graciehumaitaomaha.com	address matches exactly, Papillion
+OK	Gracie Humaita Wentzville	MO	Wentzville	https://www.graciehumaitawentzville.com/	address matches exactly, Wentzville
+OK	Gracie Humaitá Jiu-Jitsu of Sparks NV	NV	Sparks	https://agjiujitsu.com	Sparks address matches exactly
+OK	Gracie Jiu - Jitsu Summerlin	NV	Las Vegas	https://graciejiujitsusummerlin.com/	address matches, Summerlin Las Vegas
+OK	Gracie Jiu Jitsu Downtown Modesto	CA	Modesto	https://www.modestobjj.com/	address matches exactly, Modesto
+OK	Gracie Jiu Jitsu Kailua	HI	Kailua	https://graciejiujitsukailua.com	Kailua named, no street address
+OK	Gracie Jiu Jitsu Vermont	VT	Essex Junction	https://www.gracievermont.com	address matches exactly, Essex Junction
+OK	Gracie Jiu Jitsu West Mesa	AZ	Mesa	https://www.graciemesa.com/	Mesa confirmed, different street now
+OK	Gracie Jiu Jitsu of Southeast Missouri	MO	Jackson	https://graciesemo.com	address matches exactly, Jackson
+OK	Gracie Jiu-Jitsu Academy	CA	Torrance	https://gracie-torrance.com/	Torrance confirmed, different street now
+OK	Gracie Jiu-Jitsu Alameda	CA	Alameda	https://www.graciealameda.com/	Alameda named, no street address
+OK	Gracie Jiu-Jitsu Aurora	CO	Aurora	https://www.graciebjjcolorado.com/	Aurora confirmed, different street now
+OK	Gracie Jiu-Jitsu Barstow	CA	Barstow	https://graciebarstow.com/	own site, Barstow address confirmed
+OK	Gracie Jiu-Jitsu Beverly Hills	CA	Beverly Hills	https://www.graciejiujitsubeverlyhills.com/	own site, Beverly Hills named repeatedly
+OK	Gracie Jiu-Jitsu Boca Raton	FL	Boca Raton	https://graciejiujitsubocaraton.com/	own site, Boca Raton address matches
+OK	Gracie Jiu-Jitsu Canon City	CO	Canon City	https://www.gjj-canoncity.com	location page, Canon City address confirmed
+OK	Gracie Jiu-Jitsu Clovis	CA	Clovis	https://www.bjjclovis.com/	own site, Clovis address confirmed
+OK	Gracie Jiu-Jitsu Council Bluffs	IA	Council Bluffs	https://graciecb.com	own site, Council Bluffs address confirmed
+OK	Gracie Jiu-Jitsu Foothills	TN	Seymour	https://www.graciefoothills.com	Maryville TN, roughly ten miles away
+OK	Gracie Jiu-Jitsu Fort Smith	AR	Fort Smith	https://graciefortsmith.com	own site, Fort Smith address confirmed
+OK	Gracie Jiu-Jitsu Galloway	NJ	Galloway	https://taphousebjj.com/	Tap House rebrand, Galloway address confirmed
+OK	Gracie Jiu-Jitsu Geneva	IL	Geneva	https://genevamartialarts.com/	own site, Geneva IL confirmed
+OK	Gracie Jiu-Jitsu Highland Village	TX	Highland Village	https://graciebarrahighlandvillage.com/	Gracie Barra rebrand, Highland Village confirmed
+OK	Gracie Jiu-Jitsu Huntington Beach	CA	Huntington Beach	https://graciejiujitsuhuntingtonbeach.com/	own site, Huntington Beach address confirmed
+OK	Gracie Jiu-Jitsu Indio	CA	Indio	https://gjjindio.com/	own site, Indio address confirmed
+OK	Gracie Jiu-Jitsu Jonesboro	AR	Jonesboro	https://graciejonesboro.com	own site, Jonesboro address confirmed
+OK	Gracie Jiu-Jitsu La Palma	CA	La Palma	https://www.gracielapalma.com/	own site, La Palma confirmed
+OK	Gracie Jiu-Jitsu Largo	FL	Largo	https://gracielargowest.com/	Largo West rebrand, Largo confirmed
+OK	Gracie Jiu-Jitsu Lexington Carter's Academy	SC	Lexington	https://www.gracielexington.com	own site, Lexington SC address confirmed
+OK	Gracie Jiu-Jitsu Monterey	CA	Monterey	https://graciemonterey.com/	own site, Monterey confirmed
+OK	Gracie Jiu-Jitsu New Braunfels	TX	New Braunfels	https://gjjnb.com/	own site, New Braunfels confirmed
+OK	Gracie Jiu-Jitsu New York	NY	Bronx	https://gracieny.com	own site, Bronx address confirmed
+OK	Gracie Jiu-Jitsu Newnan	GA	Newnan	https://www.gracienewnan.com/	page confirms Newnan GA location
+OK	Gracie Jiu-Jitsu Ocean Springs	MS	Ocean Springs	https://gracieoceansprings.com	footer address matches exactly
+OK	Gracie Jiu-Jitsu Omaha	NE	Omaha	https://gracieomaha.com	footer address matches exactly
+OK	Gracie Jiu-Jitsu Orlando	FL	Orlando	https://gjjorlando.com/	address matches, East Orlando location
+OK	Gracie Jiu-Jitsu Phoenix	AZ	Phoenix	https://graciejiujitsuphoenix.com/	Tatum Blvd address matches exactly
+OK	Gracie Jiu-Jitsu Portland	OR	Portland	https://www.graciepdx.com/	Portland confirmed, moved to SE Madison
+OK	Gracie Jiu-Jitsu Post Falls	ID	Post Falls	https://graciepostfalls.com	footer address matches exactly
+OK	Gracie Jiu-Jitsu Poughkeepsie	NY	Poughkeepsie	https://nationalmartialartsandfitness.com	teaches Gracie BJJ, address matches exactly
+OK	Gracie Jiu-Jitsu Salado	TX	Salado	https://saladoma.com/	footer address matches exactly
+OK	Gracie Jiu-Jitsu Sandpoint	ID	Kootenai	https://graciesandpoint.com	address matches, Kootenai near Sandpoint
+OK	Gracie Jiu-Jitsu Santa Clarita	CA	Santa Clarita	https://graciejiujitsuscv.com/	Santa Clarita confirmed, moved to Diamond Pl
+OK	Gracie Jiu-Jitsu Santa Cruz	CA	Santa Cruz	https://www.graciesantacruz.com/	Capitola, four miles from Santa Cruz
+OK	Gracie Jiu-Jitsu Sault Ste. Marie	ON	Sault Ste. Marie	https://graciejiujitsusaultstemarie.com	redirects to location page, address confirmed
+OK	Gracie Jiu-Jitsu Savannah	GA	Savannah	https://www.gjjsav.com	exact address and Savannah confirmed
+OK	Gracie Jiu-Jitsu Seguin	TX	Seguin	https://graciejiujitsuseguin.com/	footer address matches exactly
+OK	Gracie Jiu-Jitsu Shreveport / Bossier City	LA	Bossier City	https://graciesbc.com	footer address confirms Bossier City
+OK	Gracie Jiu-Jitsu Sioux Falls	SD	Sioux Falls	https://www.gjjsiouxfalls.com	address matches exactly, Sioux Falls
+OK	Gracie Jiu-Jitsu St-Nicolas	QC	Lévis	https://www.graciejiujitsustnicolas.com	address matches, St-Nicolas borough of Lévis
+OK	Gracie Jiu-Jitsu St. George	UT	St. George	https://graciestgeorge.com	footer address matches exactly
+OK	Gracie Jiu-Jitsu Victor	NY	Victor	https://gracievictor.com	footer address matches exactly
+OK	Gracie Jiu-Jitsu Virginia Beach	VA	Virginia Beach	https://graciejiujitsuvb.com/	address matches exactly, Virginia Beach
+OK	Gracie Jiu-Jitsu Warwick	RI	Warwick	https://www.graciejiujitsuwarwick.com	address matches exactly, Warwick RI
+OK	Gracie Jiu-Jitsu Whittier	CA	Whittier	https://graciejiu-jitsuwhittier.com/	Whittier named repeatedly, no street address
+OK	Gracie Jiu-Jitsu of Kentucky - Louisville	KY	Louisville	https://graciekentucky.com/location/louisville-ky/	Louisville location page confirmed
+OK	Gracie Jiu-jitsu Minot	ND	Minot	https://sites.google.com/view/minotgjj	address matches exactly, Minot ND
+OK	Gracie Las Vegas	NV	Las Vegas	https://gracielasvegas.com	W Charleston Blvd, Las Vegas confirmed
+OK	Gracie NOVA at The Fighters Garage	VA	Falls Church	https://thefightersgarage.com/	healthy in browser, teaches Gracie Jiu-Jitsu
+AGGREGATOR	Gracie Nevada	NV	Las Vegas	https://gracie-nevada.business.site	Google business.site page, not own site
+WRONG_CITY	Gracie New Jersey Academy	NJ	Lawrenceville	https://gracienewjersey.com	Lebanon / Clinton Township NJ
+OK	Gracie Owensboro	KY	Owensboro	https://gracieowensboro.com/	address matches exactly, Owensboro
+AGGREGATOR	Gracie PAC MMA	FL	Tampa	https://msgsndr.com/widget/booking/8L4G6Ygx38eviQU1Xb3E	LeadConnector booking widget, not a site
+OK	Gracie Raleigh	NC	Raleigh	https://gracieraleigh.com	Old Louisburg Rd, Raleigh confirmed
+OK	Gracie Sports Brazilian Jiu-Jitsu Fairfield	CT	Fairfield	https://graciesportsusa.com/	Fairfield address 220 Carter Henry listed
+OK	Gracie Stonewall Jiu Jitsu Academy	LA	Stonewall	https://www.facebook.com/Gatorpitbjj/	own Facebook page, address matches exactly
+OK	Gracie Tampa	FL	Tampa	https://gracietampa.com/	Hyde Park Tampa academy location listed
+OK	Gracie United - Team Jucao Hancock County in Diamondhead	MS	Diamondhead	https://www.hancockbjj.com/locations/diamondhead	address matches exactly, Diamondhead location page
+AGGREGATOR	Gracie United - Team Jucāo Chalmette	LA	Chalmette	http://www.gubjj.com/	redirects to Champion Factory brand homepage
+OK	Gracie United Baton Rouge - Tiger Bend	LA	Baton Rouge	https://batonrougejiujitsu.com	Tiger Bend Rd, Baton Rouge listed
+OK	Gracie United Covington	LA	Covington	https://trainbjjnow.com/	address matches exactly, Covington location
+OK	Gracie United Hammond	LA	Hammond	https://trainbjjnow.com/	address matches exactly, Hammond location

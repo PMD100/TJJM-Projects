@@ -1,0 +1,121 @@
+verdict	name	region	city	url	note
+OK	El Niño Training Center	CA	San Francisco	http://www.elninomma.com	South San Francisco address, BJJ and wrestling
+SUSPECT	El Paso Jiujitsu / Jiu-Jitsu El Paso TX 79936	TX	El Paso	https://www.facebook.com/elpaso.jiujitsu/	Empty body returned; needs browser check
+OK	Electric Jiu Jitsu	CA	Huntington Beach	https://electricjiujitsu.com	BJJ school, Warner Ave Huntington Beach
+OK	Elemental Jiu Jitsu	ON	Ajax	https://elementaljiujitsu.com	Ajax Westney Road address matches exactly
+OK	Elements MMA	NH	Keene	https://www.elements-mma.com	Keene NH, BJJ wrestling judo grappling
+NO_CITY	Elevate Dojo	RI	Exeter	https://www.elevatedojo.com	Judo and BJJ, no address anywhere
+OK	Elevated Academy of Martial Arts	CA	Truckee	https://www.elevatedbjj.com/	Truckee CA jiu-jitsu academy, address shown
+OK	Elite Academy of Martial Arts	GA	Stone Mountain	https://eliteacademyofmartialarts.com/	Stone Mountain address matches, teaches BJJ
+OK	Elite Academy of Martial Arts Junction City	KS	Junction City	https://eliteacademyma.com	Junction City address matches, BJJ offered
+OK	Elite BJJ	ND	Dickinson	https://elitebjj.org	Dickinson ND, 71 12th St SE
+OK	Elite Combat Sports Center	KS	Hutchinson	https://elitecombatsportscenter.com	13 S Main Hutchinson, jiu-jitsu grappling
+WRONG_CITY	Elite Jiu-Jitsu Academy	ID	Boise	https://elitejiujitsu.com	Newark, Delaware
+OK	Elite Martial Arts Calgary	AB	Calgary	https://calgarymartialarts.com	Calgary BJJ and Muay Thai academy
+SUSPECT	Elite Martial Arts Center	PA	Waynesboro	https://www.facebook.com/EliteFamilyMA/	Empty body returned; needs browser check
+OK	Elite Martial Arts and MMA	WV	Martinsburg	https://www.elitemartialartsandmma.com	295 Monroe Street Martinsburg, BJJ MMA
+OK	Elite Mixed Martial Arts - Atascocita	TX	Humble	https://www.elite-mma.com/claim-free-session	Humble FM 1960 location listed, BJJ
+OK	Elite Performance Gym (Jeremy Horn's)	UT	Sandy	https://eliteperformancegym.com	Sandy UT, MMA and Brazilian jiu-jitsu
+OK	Elite Taekwondo and Brazilian Jiu Jitsu	AB	Edmonton	https://eliteedmonton.ca	Edmonton 9831 45 Ave, BJJ programs
+SUSPECT	Elkhorn BJJ	NE	Elkhorn	https://www.elkhornbjj.com	Empty body returned; needs browser check
+OK	Embrace Jiu Jitsu	NC	Wake Forest	https://embracemartialarts.com	Wake Forest NC BJJ, address moved
+AGGREGATOR	Emerald Coast Jiu Jitsu (Beach Jiu Jitsu)	FL	Panama City Beach	https://emeraldcoastjiujitsullc.sites.zenplanner.com/calendar.cfm	Zen Planner booking platform calendar page
+OK	Empire Brazilian Jiu Jitsu	ME	Freeport	https://empirebjjmaine.com	15 Depot St Freeport ME, BJJ judo
+NO_CITY	Emporia BJJ	KS	Emporia	https://emporiabjj.com	Bare GoDaddy page, no address anywhere
+SUSPECT	Endure Cross- Training	TX	Conroe	https://www.facebook.com/pages/category/Martial-Arts-School/Endure-Cross-Training-102074864972461/	Facebook page not readable by fetcher
+OK	Eris Martial Arts Academy	ON	Peterborough	https://erismartialarts.com	306 George St N Peterborough, BJJ
+OK	Eternal BJJ	BC	Surrey	https://eternalbjj.ca	South Surrey BJJ academy, White Rock
+OK	Eternal Warrior Brazilian Jiu-Jitsu	AR	Bentonville	https://eternalwarriorbjj.com/	1114 N Walton Blvd Bentonville, BJJ
+OK	Ethos BJJ	NC	Wilmington	https://ethosjitsu.com/	5424 Oleander Dr Wilmington, matches address
+OK	Ethos BJJ Wichita	KS	Wichita	https://ethosjj.com	1310 West Douglas Wichita, matches address
+OK	Ethos Jiu Jitsu and Martial Arts	TX	Tyler	https://www.ethosjiujitsutyler.com	4703 DC Dr Tyler, BJJ judo
+SUSPECT	Ethos Martial Arts	AZ	Queen Creek	https://ethosmartialartsaz.com/about-us/	Empty body returned; needs browser check
+OK	Etobicoke BJJ	ON	Etobicoke	https://etobicoke-bjj.com	2918 Lake Shore Blvd W, matches
+OK	Evolution Athletix	ME	Saco	https://evolutionathletix.com	4 Cascade Rd Saco, BJJ wrestling
+SUSPECT	Evolution Jiu Jitsu	AK	Juneau	https://evojj.com/	Empty body returned; needs browser check
+SUSPECT	Evolution Jiu Jitsu Burlington	WI	Burlington	https://facebook.com/EvolutionBJJ.Burlington	Facebook page not readable by fetcher
+OK	Evolution Martial Arts NL	NL	St. John's	https://evolutionmartialartsnl.com	210 Kenmount Rd St. John's, BJJ
+OK	Evolution Training Centre	NB	Fredericton	https://www.evolutiontrainingcenter.ca	Fredericton NB, BJJ and MMA offered
+SUSPECT	Evolution X Martial Arts and Fitness	GA	Atlanta	https://evolutionxma.com/try-a-drop-in-class/	Page renders logo only, no content
+OK	Evolve MMA & Fitness	ON	St. Catharines	https://evolvemma.ca	325 Welland Ave St Catharines, BJJ
+OK	EvolveAll - Martial Arts and Training Studio	VA	Arlington	https://evolveall.com/	Arlington VA studio, Brazilian jiu-jitsu programs
+OK	Excellence School of Jiu Jitsu	AZ	Prescott	https://www.esjjprescott.com/	3400 Gateway Blvd Prescott, BJJ academy
+OK	Exodus Jiu-Jitsu	AZ	Phoenix	https://exodusjjphx.com/	North Phoenix BJJ and judo school
+OK	Exodus Martial Arts Academy	HI	Kailua-Kona	https://exodusmaahawaii.squarespace.com	74-5599 Luhia St Kailua-Kona, matches
+OK	Expedition Brazilian Jiu-Jitsu	SK	Regina	https://expeditionbjj.ca	1535-B McAra St Regina, matches address
+OK	Extreme Mix Martial Arts	LA	Houma	https://extremefitnessmma.com	Houma LA, Lafayette St address listed
+SUSPECT	F-5 Grappling	OK	Mustang	https://www.facebook.com/f5grappling/	Facebook page not readable by fetcher
+OK	FLORENCE BRAZILIAN JIU-JITSU ACADEMY	AL	Florence	https://www.florencebjj.com/	602 Veterans Drive Florence AL, BJJ
+OK	FORCA MMA	AR	Russellville	https://forcamma.com	301 Reasoner Ln Russellville, matches address
+OK	Fabin Rosa BJJ Altamonte Springs	FL	Altamonte Springs	https://bjjorlando.com/altamonte	Altamonte Springs location page, BJJ academy
+OK	Fabin Rosa Brazilian Jiu Jitsu Academy	FL	Orlando	https://bjjorlando.com/orlando	4085 L B McLeod Rd Orlando, matches
+OK	Fabio Novaes Brazilian Jiu-jitsu Lakeland	FL	Lakeland	https://fabionovaesbjj.com/	845 Creative Dr Lakeland, matches address
+OK	Faction Combat Mixed Martial Arts Gym	AZ	Mesa	https://www.factioncombat.com/	1529 S Clearview Ave Mesa, BJJ MMA
+OK	Factory Fresh Jiu Jitsu	BC	Langley	https://factoryfreshbjj.com	Unit 5-6322 202 St Langley, matches
+OK	Faiferlick Martial Arts	IA	Fort Dodge	https://fortdodgemartialarts.com	326 S 25th St Fort Dodge, jiu-jitsu
+OK	Fairfax Jiu Jitsu Academy	VA	Chantilly	https://www.fairfaxjj.com/	4315-B Walney Road Chantilly, matches address
+OK	Family Martial Arts and Gracie Jiu-Jitsu Beckley	WV	Beckley	https://fmawv.com	Beckley WV, Gracie jiu-jitsu programs
+OK	Fargo BJJ	ND	Fargo	https://fargobjj.com	Fargo ND Brazilian jiu-jitsu academy
+OK	Farmington Jiu Jitsu Academy	NM	Farmington	https://farmingtonjiujitsu.com	2501 E 20th St Farmington, matches address
+OK	Fayetteville Brazilian Jiu-Jitsu	AR	Fayetteville	https://fayetteville-jiujitsu.com/	1200 Garland Ave Fayetteville AR, BJJ
+OK	Ferox Jiu-Jitsu	VA	Virginia Beach	https://feroxjiujitsu.com	2424 Castleton Commerce Way, matches address exactly
+OK	Fight Club Fitness, LLC	AL	Birmingham	https://mmabirmingham.com/Contact	Now 10th Planet Birmingham, same city
+OK	Fight Factory Austin	TX	Austin	https://fightfactoryjiujitsu.com/	9607 Research Blvd Austin, BJJ academy
+OK	Fight Factory Louisville	KY	Louisville	https://www.fightfactoryky.com	3622 Frankfort Ave Louisville, BJJ MMA
+SUSPECT	Fight Fitness Center (FFC)	FL	Pinellas Park	https://www.fightfitnesscenter.net/	Striking only, no grappling classes listed
+OK	Fight Mechanix Kickboxing & MMA	MI	Flint	https://www.fightmechanix.com/	Flint MI, jiu-jitsu via partner academy
+SUSPECT	Fight Sports Charlotte	NC	Charlotte	https://fightsportscharlotte.com	Empty body returned; needs browser check
+OK	Fight Sports Daytona	FL	Port Orange	https://www.cutlerbjj.com/	Todd Cutler BJJ, South Daytona nearby
+SUSPECT	Fight Sports Miami	FL	Miami	https://fightsportsmiami.com/	Empty body returned; needs browser check
+OK	Fight to Win Lafayette Jiu -Jitsu	LA	Broussard	https://www.roycegraciebroussard.com/	817 Albertson Pkwy Broussard, Gracie jiu-jitsu
+OK	FightWorks Academy	SC	Greenville	https://fightworksacademy.com	1200 Woodruff Rd Greenville, matches address
+OK	Fighting Arts Academy	MA	Springfield	https://www.fightingartsacademy.com/	Springfield MA, jiu-jitsu and wrestling
+OK	Final Round Mixed Martial Arts and Fitness	MI	Ann Arbor	https://www.finalroundtrainingcenter.com/	3770 Plaza Dr Ann Arbor, jiu-jitsu
+SUSPECT	Finishers Jiu Jitsu	OH	Masury	https://business.facebook.com/10thplanetmasury/	Facebook page not readable by fetcher
+OK	First BJJ	UT	Millcreek	https://firstbjj.com	5508 Van Winkle address matches exactly
+OK	Fit Plus MMA	NS	Dartmouth	https://fitplusmma.com	135 Main Street Dartmouth, BJJ classes
+OK	Fitness Fight Factory	TX	Watauga	https://fitnessfightfactory.com/watauga-schedule/	North Richland Hills, adjacent to Watauga
+OK	Fitness Fight Factory Haslet	TX	Fort Worth	https://fitnessfightfactoryhaslet.com/	12519 Bus Hwy 287 Fort Worth, BJJ
+SUSPECT	Flawless Victory MMA	CA	Ridgecrest	https://www.facebook.com/FlawlessVictoryMma/	Facebook page not readable by fetcher
+SUSPECT	Flood City JiuJitsu	PA	Johnstown	https://www.facebook.com/Flood-City-Jiu-Jitsu-102267197991568/	Facebook page not readable by fetcher
+OK	Florian Martial Arts Center	MA	Brookline	https://www.florianmartialartscenter.com	62 Harvard St Brookline MA, BJJ
+OK	Flow Academy BJJ Indio	CA	Indio	https://flowacademybjjindio.com/	42425 Jackson St Indio, matches address
+OK	Flow Brazilian Jiu Jitsu	ME	Rockland	https://flowbrazilianjiujitsu.com	4 Cedar St Rockland ME, matches address
+OK	Flow Jiu-Jitsu Winona	MN	Winona	https://winonabjj.com	Winona MN BJJ school, second location
+OK	Flow Martial Arts	BC	Vancouver	https://www.flowmartialarts.ca	1355 Kingsway Vancouver, jiu-jitsu classes
+SUSPECT	Foley's Martial Arts	NL	Paradise	https://foleysmartialarts.com	Empty body returned; needs browser check
+SUSPECT	Forever Driven Martial Arts	LA	New Orleans	https://foreverdrivennola.com/	Taekwondo only, no grappling programs
+OK	Forge Training Centre	ON	Sarnia	https://forgetrainingcentre.com	1880 London Line Sarnia, BJJ black belt
+OK	Forged Jiu Jitsu	MO	Ozark	https://forged-bjj.com	773 N 20th St Ozark, matches address
+OK	Fort Smith Martial Arts Center	AR	Fort Smith	https://fortsmithmartialartscenter.wordpress.com	2118 Rogers Ave Fort Smith, BJJ program
+AGGREGATOR	Fortress Fitness and MMA	AZ	Nogales	https://fortress-fitness-and-mma.business.site/	Google business.site placeholder page
+OK	Foundation BJJ	HI	Kailua-Kona	https://www.foundationbjj.net	73-5563 Olowalu St Kailua-Kona, matches
+OK	Four-Eleven Brazilian Jiu Jitsu	ON	Whitby	https://fourelevenbjj.ca/	277 Michael Blvd Whitby, BJJ academy
+OK	Fox Fitness BJJ	KS	Wichita	https://www.foxfitnessbjj.com	2923 N Tyler Rd Wichita, matches address
+SUSPECT	Frankfort Martial Arts	KY	Frankfort	https://martialartsky.com/	Only kickboxing listed, no grappling classes
+OK	Fredericton BJJ	NB	Fredericton	https://frederictonbjj.com	Absolute BJJ, 80 Bishop Dr Fredericton
+OK	Freestyle MMA & Jiu Jitsu	NV	Las Vegas	https://freestylemmalv.com	5230 S Valley View Blvd, matches address
+OK	Freestyle Martial Arts	MN	Albert Lea	https://www.minnesotafighting.com	115 N Newton Ave Albert Lea, grappling
+OK	Frontline Academy Canada	AB	Sherwood Park	https://frontlinebjj.com	214 Sioux Road Sherwood Park, BJJ
+OK	Frostbite Vale-tudo	AK	Fairbanks	https://frostbitevaletudo.com/	Fairbanks Alaska MMA gym, BJJ classes
+OK	Full Circle Martial Arts and Fitness Center	NH	Manchester	https://fullcirclemafc.com	880 Page St Manchester, judo BJJ
+OK	Full Throttle Fitness	GA	Flowery Branch	https://fullthrottlemma.com/contact/	Gainesville GA, near Flowery Branch, BJJ
+AGGREGATOR	FullTilt Performance Center	MO	Hannibal	https://fulltilt-performance-center.business.site/	Google business.site placeholder page
+OK	Function Jiu Jitsu	MT	Billings	https://functionjiujitsu.com	1313 Grand Ave Billings, matches address
+AGGREGATOR	FusBoxe Sambo 1 Martial Arts	CO	Westminster	https://fusboxesambo1.business.site	Google business.site placeholder page
+OK	Fusion Academy	UT	Salt Lake City	https://fusionbjj.com	Salt Lake City Brazilian jiu-jitsu academy
+OK	Fusion Academy of Martial Arts	IL	Elgin	https://fusionacademyofmartialarts.com/	782 S McLean Blvd Elgin, Gracie jiu-jitsu
+OK	Fusion Combat Training Center	CO	Denver	https://www.selfdefensedenver.com	5058 S Syracuse St Denver, jiu-jitsu
+OK	Fusion MMA and Jiu Jitsu	UT	St. George	https://teamfusionmma.com	Pineview 2746 E 850 N St. George
+OK	Fusion MMA and Jiu Jitsu Sunset	UT	St. George	https://teamfusionmma.com	Sunset school 1469 W Sunset Blvd listed
+OK	Future MMA	MB	Steinbach	https://futuremma.ca	375 North Front Dr Steinbach, BJJ wrestling
+OK	G1 Martial Arts, Krav Maga, & Brazilian Jiu Jitsu	GA	Dalton	https://www.g1martialarts.com/	2962 Cleveland Hwy Dalton, BJJ classes
+OK	GB Agoura	CA	Agoura Hills	https://gbagoura.com/	5883 Kanan Rd Agoura Hills, matches
+OK	GB Anniston	AL	Anniston	https://getevolutionfit.com	905 Noble St Anniston, matches address
+OK	GB Birmingham	AL	Birmingham	https://gbbhamusa.com	4401 4th Ave S Birmingham, matches address
+OK	GB Boca Raton	FL	Boca Raton	https://gbbocaraton.com/	Boca Raton BJJ, address moved nearby
+SUSPECT	GB Boynton Beach	FL	Boynton Beach	https://sbgboyntonbeach.com/	SBG Boynton Beach, a different school
+OK	GB Brandon	FL	Brandon	https://www.graciebarrabrandon.com/	1076 E Brandon Blvd, matches address exactly
+OK	GB Burleson	TX	Burleson	https://www.graciebarraburleson.com/	201 NE Wilshire Blvd Burleson, matches address
+OK	GB Castle Rock	CO	Castle Rock	https://www.gbcastlerock.com	Castle Rock CO Gracie Barra academy
+SUSPECT	GB Cedar Hill	TX	Cedar Hill	https://www.gbcedarhill.com	Empty body returned; needs browser check

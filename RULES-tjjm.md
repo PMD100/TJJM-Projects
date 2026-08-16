@@ -1,11 +1,27 @@
 # RULES — TJJM BJJ Directory
 
 Durable decision rules for the Shopify BJJ school directory (thejiujitsumindset.com).
-Last verified **5 Aug 2026** against live theme XX (`154653950124`), 4,519 records / 61 regions.
+Sections 1–10 were last verified **5 Aug 2026** against live theme XX (`154653950124`),
+4,519 records / 61 regions. Sections 11–16 were rewritten **16 Aug 2026** from the batch 30–42
+findings. The theme ID, record count and defect counts in the earlier sections are the 5 Aug
+state and have since moved — treat them as method, not as current numbers.
+
+**CURRENT STATE, 16 Aug 2026, live theme UUU (`154980188332`):**
+**5,215 records across 61 regions · 4,205 with a link · 1,010 deliberately link-free ·
+1,170 override rows, all distinct names.** The corpus grew from 4,519 to 5,215 because the
+region pages render 45 data snippets, not the 38 the earlier sections assume. Re-measure before
+quoting any number in this file.
 
 This file holds *rules and their evidence*. Running state lives in `HANDOFF-next-states.md`;
-the collision investigation lives in `collision-audit-2026-08-05.md`. Where they disagree with
-this file, this file is newer — but check the evidence rather than trusting the claim.
+the collision investigation lives in `collision-audit-2026-08-05.md`; the batch 30–42 evidence
+behind §11–§16 lives in `CRITICAL-false-positive-removals.md`,
+`CRITICAL-second-directory-surface.md` and `AUDIT-COVERAGE-where-we-actually-are.md`.
+Where they disagree with this file, this file is newer — but check the evidence rather than
+trusting the claim.
+
+**If you read only one section, read §11.** It supersedes the DNS-first screening method that
+governed batches 20–36. Acting on the old method costs working links: 10.8% of the removals we
+have gone back and re-tested were wrong.
 
 ---
 
@@ -94,7 +110,7 @@ tests the curators, not the rule.
 
 ## 3. Verification method
 
-Four corrections, each of which previously produced a clean-looking false result.
+Six corrections, each of which previously produced a clean-looking false result.
 
 1. **`?preview_theme_id=` sets a cookie.** Any *unparameterised* fetch afterwards renders the last
    previewed theme, so a sweep comparing "live, no param" against "preview, with param" compares
@@ -124,6 +140,13 @@ Four corrections, each of which previously produced a clean-looking false result
    **Gate that catches this class:** a sweep in which *every* region differs, or in which *no*
    region differs, is reporting a defect in the sweep, not a result. So is a total that does not
    move when the build removed records. Assert the expected total explicitly.
+
+6. **A corpus-wide claim must name its rendering surface.** Every sweep through batch 28 targeted
+   the 61 region pages, so every "no dead links remain" report in that period was silently scoped
+   to one of the site's **two** front doors — while the other served ~4,150 unvetted links,
+   including ones we had already blanked. See **§14**.
+   → **Enumerate the rendering surfaces before believing any corpus-wide statement**, and say
+   which surfaces a sweep covered when reporting it.
 
 ### The validation gate that does not work
 
@@ -175,10 +198,15 @@ so they are post-override, not raw.
 
 **Never trust:**
 
+- **A fetched page body, on its own.** Added 16 Aug 2026 and it outranks everything else in this
+  list: the fetcher caches, and it has served full live-looking school content for domains that
+  were dead, and spam for a domain that was a placeholder. A fetch may mark a row SUSPECT; it may
+  not remove a link. **See §11.1 and §11.2 before acting on any fetch result.**
 - **`<title>` tags, meta descriptions, and directory aggregators.** `evolutionlowell.com`'s title
   still reads "Gym in Lowell and Tewksbury" and three separate directories still list a Lowell
   address with its own phone number. The rendered page body mentions Lowell zero times and carries
-  one address in Tewksbury. **Open the page and read the body — it reversed a verdict.**
+  one address in Tewksbury. **Open the page in a browser and read the body — it reversed a
+  verdict.** ("Open the page" originally meant a fetch. It no longer does.)
 - **Link resolution as evidence of correctness.** `Unconventional Performance & Training` carried
   `rodrigopinheirobjj.com`, a different business's site. It resolves perfectly. `gyms.jiujitsu.com`
   carries the identical error, so it is upstream. Only reading the page catches this class.
@@ -196,18 +224,26 @@ so they are post-override, not raw.
   `snippets/tjjm-gym-addresses` (`~Name|Address~`) fills a blank `a` only.
   **Only add an entry that changes something** — restating a value pins it as a second source of
   truth that survives later correction of the record.
+  The website override is a **family of six files**, `tjjm-gym-websites` … `-6`, each under its own
+  rewrite ceiling. Fill order, headroom and the gates that govern them are in **§15.5**.
 - `snippets/tjjm-removed-index` holds suppressed names, one row per region code. Suppression is a
   render-time filter; the record stays in the blob. Suppressed records are visible **only** via
   the audit dump.
 - Newfoundland records are miscoded `NE` in source and re-filed by city list in the section. Any
   dump that skips the split double-counts NE and NL as 27 each.
 - Section is 12,485 B against a ~24 KB Admin API rewrite ceiling.
+- **There are two sections that render this data, not one** — the region pages and the flat
+  "Schools Near You" page. Both must read the same snippets. **§14.**
 
 ---
 
 ## 6. Defect classes — current counts
 
 Measured 5 Aug 2026 from **raw stored `w`** in the post-XX `tjjm-gyms.json`, not parsed hostnames.
+
+⚠️ **These counts predate batches 30–42** and every removal, restoration and recovery in them. The
+*method* below is still correct — measure from raw stored `w`, never from parsed hostnames — but do
+not quote the numbers. Re-measure. For the current state of the corpus see **§16**.
 
 | class | count | note |
 |---|---|---|
@@ -266,9 +302,18 @@ case four times, and it produced a clean-looking false result every time:
 | Oregon `oregonbjj.com` | "legacy wrong 10/10" | 8 verified, Oregon double-counted |
 | CA `reddingselfdefense.com` | "same-location → keep legacy" | 20 counterexamples in the same data |
 | `URL.hostname` scan | "0 mixed-case hosts" | 3 |
+| batches 1–28 region sweeps | "no dead links remain" | a second surface served ~4,150 unvetted links (§14) |
+| fetch-based dead-link screens | "N links removed, all confirmed dead" | 10.8% of re-tested removals were live schools (§11.4) |
 
 When a check passes on one sample, run it on all of them before writing down the conclusion. In
 this corpus that is almost always affordable — 61 regions is one fetch loop.
+
+**A removal count is not a quality metric.** For twenty batches this programme reported "links
+removed" as if it were a measure of progress. It is a measure of *activity*. The measure of
+progress is the **false-positive rate** — how many of those removals were wrong — and nobody asked
+for it until batch 37. When somebody finally did, re-testing 343 removals found **37 working links
+that we had cut ourselves.** Any batch that changes links must report both numbers, or it is
+reporting half a result. See §11.4.
 
 **Brand coverage figures are unreliable in both directions.** The FL Fabin Rosa cluster was
 recorded as "4 locations, 2 in directory" with 2 net-new leads. There is a third record already
@@ -285,10 +330,14 @@ records to be judged inconsistently across batches 9–15 and one to be wrongly 
 production.**
 
 **A record belongs if the school teaches a grappling art** — Brazilian jiu jitsu, **judo**,
-wrestling, submission grappling or no-gi. Striking-only schools do not qualify: karate, taekwondo,
-kickboxing, Muay Thai.
+wrestling, submission grappling, no-gi or **sambo**. Striking-only schools do not qualify: boxing,
+kickboxing, Muay Thai, karate, taekwondo.
 
-- **MMA schools usually teach grappling — verify rather than assume, in either direction.**
+Re-confirmed unchanged by the owner at batch 42, with `sambo` and MMA made explicit. It keeps being
+re-litigated inside batches; it is settled.
+
+- **MMA gyms that teach grappling are in scope. MMA schools usually do teach it — verify rather
+  than assume, in either direction.**
 - The evidence is a **named class on the school's own page**. A meta description is not evidence:
   two schools carried "Brazilian Jiu-Jitsu" in `<meta>` while their actual class grids contained no
   grappling at all.
@@ -318,29 +367,125 @@ the data and is always right. The nav list is a different file and can be stale.
 **When suppressing, re-derive the city counts too** — three cities dropped to zero records in one
 five-record suppression batch, so "across N cities" moved as well as the gym number.
 
-## 11. A rendering page is not evidence of a live business
+## 11. Evidence standards — what a page proves, and what it does not
 
-Supersedes §4's implicit assumption **in both directions**. Established over ~450 URL checks in
-Aug 2026, during which **essentially 100% of stored URLs proved dead**.
+**Rewritten 16 Aug 2026. This section supersedes the DNS-first screening method that governed
+batches 20–36.** That method was right that DNS is *necessary*. It was wrong that DNS plus a
+fetched body is *sufficient*, and it was wrong in the expensive direction: it removed working
+links.
 
-**Always resolve DNS before believing any page:**
+⚠️ **Two sentences from the previous version of this section are now known to be wrong and are
+corrected below:** *"essentially 100% of stored URLs proved dead"* (§11.0) and *"an empty body is
+NOT evidence of death"* (§11.6).
+
+### 11.0 The retracted headline
+
+The old text said the method was *"established over ~450 URL checks in Aug 2026, during which
+essentially 100% of stored URLs proved dead."* That was a **hand-picked sample of already-suspect
+URLs** — domains pulled precisely because something looked wrong with them. Read as a statement
+about the corpus it is badly wrong, and it was the licence under which whole batches removed links
+on thin evidence, on the assumption that almost anything flagged was dead anyway.
+
+**Never quote a hit rate measured on a targeted sample as a corpus rate.** The corpus position is
+§16.
+
+### 11.1 A fetched page body is weak evidence — the fetcher caches
+
+We already knew `web_fetch` serves cached copies of **NXDOMAIN** domains; that is why every screen
+does a DNS check first. The batch 37 audit found something worse: **it also serves stale bodies for
+pages whose content has changed.**
+
+Checked against a real Chrome load, the fetcher returned full, live-looking school content for
+**six domains the browser showed were dead** — `atosorlando.com`, `davestrasser.com`, `dkjla.com`,
+`endurancebjj.com`, `theboxingclub.net`, `capemartialarts.com` — and returned **Japanese pharma
+spam** for `evolutionfightacademy.com`, which the browser showed as a Wix placeholder.
+
+So a fetch-based verdict can be wrong in **both directions**:
+
+- a dead site reads as alive → we keep a broken link
+- a hijacked site reads as clean, or a clean site reads as hijacked → we blank or keep the wrong thing
+
+**A cache-buster does not fix this.** `?v=1` defeats within-session dedupe (§11.10); it does
+nothing about a stale body served for a live hostname.
+
+### 11.2 A fetch may not remove a link. Only a browser may.
+
+**This is the operative rule of the whole section.**
+
+In batch 42, 33 links that a fetch pass had flagged bad were re-loaded in Chrome. **Eleven were
+perfectly healthy** — a third of them. Acting on that fetch pass would have cut 11 working links
+out of the directory in a single batch.
+
+- A **fetch-based pass may not blank a row.** It marks the row **SUSPECT** and defers it to a
+  browser pass. That is the whole of its authority.
+- A **browser load may blank a row.**
+- Where a fetch is the only evidence available, **the note must say so**, so the row can be
+  re-tested later rather than being mistaken for a settled verdict.
+
+This costs throughput. It is cheaper than restoring links one at a time after an owner complains.
+
+### 11.3 Test BOTH host forms
+
+**A domain is dead only if `apex` AND `www.` both fail.** One form failing proves nothing.
+
+**Four of the first eight confirmed false positives were domains that were NXDOMAIN on `www.`
+while the apex served the school perfectly.** Half the early damage came from this one shortcut.
+
+### 11.4 Measure the false-positive rate, not just the removal count
+
+Across the programme, **37 of 343 re-tested removals were wrong — 10.8%.**
+
+**Every screening batch must re-test a sample of its own removals and publish the rate next to the
+removal count.** A batch that reports only "N links removed" has not reported a result. See §8.
+
+### 11.5 DNS is necessary, not sufficient — and four failure modes it cannot see
+
+Still resolve DNS first; it is cheap and it is the only conclusive *negative* we have:
 
     web_fetch  https://dns.google/resolve?name=<hostname>&type=A
 
 `Status: 3` = NXDOMAIN = conclusively dead. `Status: 0` **with an `Answer` array carrying A
-records** = alive. `Status: 0` with no Answer = dead. Nameservers returning REFUSED (lame
+records** = resolves. `Status: 0` with no Answer = dead. Nameservers returning REFUSED (lame
 delegation) = dead. Registered on live nameservers but publishing no A/AAAA at apex or www = dead.
+Test both host forms (§11.3).
 
-**An empty body is NOT evidence of death** — live JS-rendered sites return empty.
-**A full, convincing body is NOT evidence of life** — `web_fetch` serves cached copies and search
-indexes serve stale titles. Eight domains returned complete pages with correct branding, addresses
-and named black belts while being NXDOMAIN. Publishing one would also have meant transcribing a
-named instructor's credentials from a defunct site.
+But **a clean resolve is not a working link.** These four all resolve perfectly, and no DNS or
+parking check will ever surface them:
 
-### Five ways a live-looking page is still not the school's site
+1. **RESOLVES-BUT-404** — the domain resolves cleanly, the root returns a bare 404. We found this
+   class only because an owner reported it.
+2. **LOCATION-PAGE 404** — a shared brand domain is perfectly healthy while the individual
+   school's subpage is gone: `graciebarra.com/<slug>`, `ufcgym.com/locations/<city>`. Any check
+   that tests the registrable domain rather than the stored URL passes it. **Test the stored `w`,
+   the whole path** — this is §3's "never judge a link from a normalised domain" arriving from a
+   second direction.
+3. **REDIRECT-TO-INDEX** — the school's page silently redirects to the brand's generic
+   find-a-school index and returns **HTTP 200 with a real-looking martial arts page.** A status
+   check passes it. An "is this a martial arts site?" check passes it. **Only reading the page and
+   matching the city catches it.**
+4. **EMPTY IS NOT NEUTRAL** — §11.6.
+
+### 11.6 EMPTY IS NOT NEUTRAL — correcting the old rule
+
+The previous version of this section said: *"An empty body is NOT evidence of death — live
+JS-rendered sites return empty."* That sentence was used as grounds to **leave empty-body rows
+alone**, and as guidance it is wrong.
+
+**A page a fetch cannot read is SUSPECT, not unknown.**
+
+When 198 such links were opened in a browser, **137 were broken — 69%.** They were Wix "domain not
+connected" placeholders, expired Squarespace accounts, Flywheel and cPanel defaults, Cloudflare
+1001/520/522 errors, and GoDaddy `/lander` redirects. **Every one of those returns an empty body to
+a fetcher**, which is exactly why "empty" looked neutral and is not.
+
+The narrow true part survives: an empty body is not *proof* of death, so it still does not license
+a removal by itself (§11.2). It is a **queue for the browser pass**, not a pass.
+
+### 11.7 Five ways a live-looking page is still not the school's site
 1. **Parked lander** — GoDaddy "parked free"/"Launching Soon", HugeDomains, Bluehost, one.com
    defaults. **Fifteen found on exact-name domains.** Indistinguishable from a JS site without a
-   browser.
+   browser. Calibrated A-record fingerprints now narrow the search cheaply — **§12** — but the IP
+   is a filter, never a verdict.
 2. **Resurrected archive** — a re-registered domain replaying a scrape of the dead original.
    **Search the page for "Wayback Machine Downloader" and "free demo result".**
 3. **Hostile hijack** — one serves a Chinese streaming site, one redirects to an Indonesian
@@ -350,7 +495,7 @@ named instructor's credentials from a defunct site.
 5. **Agency spec-build** — a free `*.vercel.app` deploy with a real address but placeholder
    trainer names.
 
-### Identity, not name
+### 11.8 Identity, not name
 **Same-name-different-school is the single most common false positive — 24+ cases**, including a
 Hong Kong academy matching a Texas record and a domain 301ing to a school in another state.
 **Match the street address or the phone, never the name alone.**
@@ -362,11 +507,12 @@ only thing that resolved these.
 
 **Brand-vs-location is normal and is not a defect.** Schools brand for the nearest metro and operate
 in a suburb — `10th Planet Denver` in Wheat Ridge, `GB Tacoma` in Fircrest. Do not flag these.
-See `gazetteer-scan-findings.md`.
+See `gazetteer-scan-findings.md`. This is also the commonest source of bogus **wrong-city**
+verdicts — §13.1, where 10 of 15 flagged rows turned out to be adjacent suburbs.
 
 **A dormant social page is not a live school.** Check the most recent post and whether a successor
 occupies the address. Two closed schools were found only this way — no DNS or HTTP check reveals
-them.
+them. A *live* social page, by contrast, is an acceptable directory link — §13.2.
 
 **Aggregators invent attributes, not just schools.** The sentence *"passionate about Brazilian
 Jiu-Jitsu… strong fundamentals, technical precision, and a supportive training culture"* appeared
@@ -376,14 +522,238 @@ template is worthless.
 **Search summaries asserted 45+ dead domains as live**, several with invented programme lists and
 trial offers. Two summaries agreeing means nothing — neither checked.
 
-### Tooling
+### 11.9 A hijack verdict is a snapshot, not a permanent property
+
+**Two schools removed for carrying injected pharma spam had cleaned their sites up by the time
+they were re-tested.** A compromise is a state a site passes through, not an attribute of the
+business. "Hijacked once" is not a permanent disqualification: re-test hijack removals on the same
+schedule as every other removal (§11.4).
+
+The converse holds too — a site clean today can be compromised next month. Neither verdict is
+durable, which is an argument for dating every verdict, not for skipping them.
+
+### 11.10 Tooling
 - **`web_fetch` cannot render Facebook or Instagram at all.** Those need a browser, and they are
   where much of the remaining value is: 26 of 36 links recovered by browser passes were social
   pages, invisible to every fetch-based attempt.
 - **`web_fetch` dedupes within a session** — bust it with `?v=1`, or you silently reuse another
-  agent's fetch.
+  agent's fetch. ⚠️ **This is the lesser of the two caching problems and the cache-buster only
+  fixes this one.** The stale-body problem in §11.1 survives it.
 - **⚠️ `get_page_text` frequently returns the PREVIOUS page's content.** Its output carries a
   `URL:` line — **always check it matches the page you navigated to.** Never batch `navigate` and
   `get_page_text` for the same page. It silently produces a confident verdict about the wrong site.
 - **Agents can be cut off before writing their output**, losing all their work irrecoverably.
   **Instruct every research agent to write its output file incrementally, every few rows.**
+
+## 12. Parking and lander fingerprints
+
+Calibrated across batches 30–42, **each fingerprint verified against a known lander**. Matching A
+records is what made a complete DNS pass over the corpus affordable at all — it is a cheap filter
+over thousands of hostnames.
+
+**Parking / for-sale — flag the row and look at the page:**
+
+| A records | operator |
+|---|---|
+| `15.197.148.33` + `3.33.130.190` | Afternic / GoDaddy for-sale |
+| `76.223.54.146` + `13.248.169.48` | GoDaddy for-sale |
+| `13.223.25.84` + `54.243.117.197` | HugeDomains |
+| `208.91.197.27` | Confluence / Sedo — serves nothing |
+
+**NOT parking — do NOT flag. Both of these front real, live schools:**
+
+| A records | what it actually is |
+|---|---|
+| `15.197.225.128` + `3.33.251.168` | GoDaddy **web forwarding** |
+| `76.223.105.230` + `13.248.243.5` | GoDaddy **Website Builder** hosting |
+
+Note how close those are to the for-sale pairs above them — same providers, adjacent ranges.
+**Match the exact pair. Matching "a GoDaddy IP" blanks live schools.**
+
+**The IP is a filter, never a verdict.** It says *look at this page*. It never says *remove this
+link* — that still requires a browser load under §11.2. Batch 32 made the opposite trade
+deliberately, fetching a page only when the IPs looked like a lander because "if the IPs match
+nothing → OK, do not fetch the page. That keeps this sweep fast." It bought a complete DNS pass
+cheaply and found 51 dead or parked domains. It is also why **47% of the corpus has still never
+had its page read** (§16). The trade was defensible once; do not make it again silently.
+
+## 13. Editorial policy — what to blank and what to keep
+
+Set by the owner. These are **rulings, not inferences.** Do not re-derive them from first
+principles inside a batch.
+
+### 13.1 Wrong city → blank the link, keep the record
+
+The record stays; the link goes. But first — **distinguish a genuine wrong-entity link from an
+adjacent suburb.**
+
+In batch 42 the classifier returned 15 wrong-city rows and **only 5 were genuine.** The other ten
+were **4–8 miles apart**, and in two of them — `AKF Lexington` and `Brian Beury Jiu Jitsu` — **the
+record's stored city was the error, not the link.** Blanking on the classifier's word would have
+cut ten good links and left two records still wrong.
+
+**Before blanking, check the site's city against BOTH the record's stored city AND its stored
+street address.** If the address agrees with the site and only the city string disagrees, **fix the
+record**; do not touch the link. This is §11.8's brand-vs-location rule seen from the other side:
+schools brand for the metro and sit in the suburb, and the directory's own city field is not
+above suspicion.
+
+### 13.2 Aggregators — keep the school's own presence, blank the intermediary
+
+**Acceptable as a directory link:**
+
+- A school's own **Facebook** or **Instagram** page. For many small gyms **it is their only web
+  presence**, and a live social page serves the reader better than a blank. (A *dormant* one does
+  not — §11.8.)
+
+**Blank:**
+
+- **Booking platforms** — Mindbody, Vagaro, MyStudio, Zen Planner, Wodify
+- **Google `business.site`** pages
+- A **brand's national homepage** standing in for a location
+- **Third-party directories** — Yelp, Google Maps, matmade, "best gyms in X" listicles
+
+The line is authorship: **does the school control what that page says.** A booking widget and a
+listicle both fail that test. The gym's own Instagram passes it.
+
+Note this is a *policy* distinction, not the *matching* distinction in §2 blind spot 3 —
+multi-tenant hosts are excluded from collision matching regardless of whether they are acceptable
+as links.
+
+### 13.3 Scope is unchanged
+
+See **§9**. Any grappling art qualifies — BJJ, judo, wrestling, no-gi, sambo, and MMA gyms that
+teach grappling. Striking-only is out. Restated here because it is the ruling most often
+re-argued mid-batch.
+
+## 14. Directory architecture — there are TWO rendering surfaces
+
+| section | what it renders |
+|---|---|
+| `sections/tjjm-state-directory.liquid` | the **61 region pages** |
+| `sections/tjjm-gym-directory.liquid` | the flat, searchable **"Schools Near You"** page |
+
+**Both must read the same snippets.**
+
+Until batch 29 the second one did not. It fetched a **Shopify Files upload** — `tjjm-gyms.json`,
+sitting outside the theme, outside version control, outside the theme-duplication workflow and
+**outside every override layer we had built**. It served **~4,150 unvetted links**, including dead
+and hijacked domains already blanked on the region pages, and records already suppressed there.
+Publishing a theme did not touch it. Rolling back a theme did not touch it. **Twenty-eight batches
+of work were invisible to it**, and every "no dead links remain" report in that period was true
+only of the region pages — a fact discovered only because the owner was looking at the other page
+and was told his screenshots must be a local DNS problem.
+
+Three rules follow, all mandatory:
+
+1. **Never reintroduce a second data source.** Everything the directory renders comes from
+   `tjjm-gyms-data*`, filtered by `tjjm-removed-index`, overridden by `tjjm-gym-websites*`. A data
+   file that lives outside the theme cannot be gated, diffed, or rolled back.
+2. **If a change touches one section's merge rules, it must touch both.** A new override file is
+   not wired in until it renders from **both** sections (§15.5).
+3. **A corpus-wide claim must name its surface** (§3.6).
+
+## 15. Writing to the theme — process rules
+
+### 15.1 NEVER hand-edit a file during transmission
+
+**Build the file. Verify its MD5 locally. Send exactly those bytes.** Do not retype, reflow,
+truncate, or "just fix one thing" between the verified local copy and the write.
+
+**This discipline broke three times in batches 37–39, and each time the theme diverged from the
+repo.** That is the specific harm: the local artifact stops describing what the site is serving,
+which is the one guarantee the repo exists to provide. Every subsequent diff is then measuring the
+wrong thing, and you do not find out until something else fails strangely.
+
+**If a file is too large to send comfortably, that is a reason to split the batch, not to
+improvise.**
+
+### 15.2 Delegate large-file edits to a sub-agent
+
+The pattern that works, and the one to reach for by default:
+
+> a sub-agent **reads the file from the theme**, edits it **with a script**, writes it back, and
+> **checksums both ends.**
+
+**Batches 40–42 did this with zero drift.**
+
+"With a script" is load-bearing, not incidental. A script that produces the wrong bytes produces
+them reproducibly, and the end-to-end checksum catches it. A hand-edit produces a *plausible* file
+that no gate can distinguish from the intended one.
+
+### 15.3 Gate C3 — a gym name may appear in only ONE override file
+
+**Absolute. No exceptions.**
+
+It has caught real bugs repeatedly. A duplicate name across two override files lets a record
+**silently fall back to a stale value**: the render picks one, you assume it picked the other,
+nothing errors, and the wrong URL publishes.
+
+### 15.4 Gate C11 — every override name must match exactly one published record
+
+Two silent failures were caught this way. Both would have written rows that matched **nothing** and
+**reported success**:
+
+- a **curly apostrophe** (U+2019) in `Chris Lisciandro's`
+- a **truncated name** — `Dan Henderson's Athletic Fitness Center` is really
+  `… - Formerly Team Quest`
+
+Match against the published record list exactly, byte for byte. **Do not normalise the comparison
+to make the gate pass** — normalising away apostrophes and suffixes hides precisely the defect the
+gate exists to find. If a name will not match, the name is wrong; fix the name.
+
+### 15.5 The override files
+
+Six files: `tjjm-gym-websites` through `tjjm-gym-websites-6`, each under its own ~24,576 B Admin
+API rewrite ceiling (which is why there are six of them — see §5).
+
+**Fill order is 1 → 6.** Later files win on precedence, **but that must never be relied on.**
+Gate C3 means no name should exist in two files, so precedence should never be deciding anything;
+if it ever does, C3 has already been violated.
+
+Current headroom against the ceiling:
+
+| file | headroom |
+|---|---|
+| 1 | **339 B** |
+| 2 | ~2,639 B |
+| 3 | **838 B** |
+| 4 | ~1,632 B |
+| 5 | ~22 KB |
+| 6 | ~18 KB |
+
+**Put new work in file 6.** Files 1 and 3 are effectively full — a handful of rows will overrun
+them, and an overrun is a failed rewrite, not a truncation you can spot in a diff.
+
+**When file 6 fills, add file 7** and wire one `{%- render -%}` into **each** of
+`sections/tjjm-state-directory.liquid` **and** `sections/tjjm-gym-directory.liquid` (§14.2). A file
+rendered from only one section produces overrides that apply on one surface and not the other —
+the exact defect §14 exists to prevent.
+
+## 16. Audit coverage — the honest position
+
+State this plainly; do not soften it in reporting. Measured 16 Aug 2026; full working in
+`AUDIT-COVERAGE-where-we-actually-are.md`.
+
+Of the **live** links:
+
+| evidence behind the link | share |
+|---|---|
+| **browser-verified** — a real Chrome load, page read | **~6%** |
+| page body read by the **cache-prone fetcher** (§11.1) | **~41%** |
+| **never had its page opened at all** — DNS and parking check only | **~47%** |
+
+The **identity pass** is working through that 47%. **The first 360 found 21% had a problem** — the
+largest classes being **9% suspect, 5% aggregator, 4% wrong-city.** That rate is the best current
+estimate of what is hiding in the rest of the unread population.
+
+The directory is:
+
+- **Safe.** The actively harmful links — casinos, gambling farms, pharma spam, for-sale landers,
+  dead registrations — are gone. That was the original harm and it is addressed.
+- **Comprehensive.** Coverage is not the problem.
+- **Not yet accurate.** Roughly half the links have never been looked at by anything that reads a
+  page.
+
+**"Every link has been checked" is true only of DNS.** Any report that implies more than that is
+overstating the position, and §11.5 is the list of what DNS cannot see.

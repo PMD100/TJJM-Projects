@@ -1,0 +1,121 @@
+verdict	name	region	city	url	note
+OK	Gracie United Hancock	MS	Bay St. Louis	https://www.hancockbjj.com	Own site, Bay St Louis address matches
+SUSPECT	Gracie United Team Jucao Plaquemine	LA	Plaquemine	https://www.facebook.com/guplaquemine/	Facebook body blank, needs browser check
+AGGREGATOR	Gracie United Team Jucao-Leesville	LA	Leesville	https://gracie-united-team-jucao-leesville.business.site/	Google business.site page, body blank
+OK	Gracie Wesley Chapel	FL	Lutz	https://www.graciewesleychapel.com	BJJ school, Wesley Chapel adjacent to Lutz
+OK	GracieOne Academy	TX	Dallas	https://www.gracieone.com	11661 Preston Rd Dallas matches record
+OK	Graciefighter Jiu Jitsu	ME	Caribou	https://graciefightercaribou.com	118 Bennett Drive Caribou address matches
+SUSPECT	Grady's Family Mixed Martial Arts	FL	Clearwater	https://www.facebook.com/gradysmma/	Facebook body blank, needs browser check
+OK	Graham MMA	MS	Petal	https://grahammma.com	300 McInnis Street Petal address matches
+OK	Grand Forks Brazilian Jiu-jitsu Academy	ND	Grand Forks	https://grandforksbjj.com	2750 Gateway Dr Grand Forks matches
+OK	Grand River BJJ	ON	Cambridge	https://grandriverbjj.ca	Downtown Cambridge ON, moved to Dickson Street
+OK	Grand Valley Brazilian Jiu Jitsu	CO	Grand Junction	https://grandvalleybjj.com	573 S Commercial Dr Grand Junction matches
+OK	Grandmaster Han's Martial Arts & Gracie Jiu-Jitsu	AR	Conway	https://gmhgjj.com	812 North Creek Drive Conway matches
+OK	Granite City MMA	VT	Graniteville	https://www.granitecitymmavt.com	223 Church Hill Rd Graniteville matches
+OK	Granite State BJJ	NH	North Hampton	https://granitestatebjj.com	10 Lafayette Rd North Hampton matches
+OK	Grant's Martial Arts	NS	Dartmouth	https://www.grantsmartialarts.ca	BJJ Muay Thai, 900 Windmill Road Dartmouth
+OK	Grapple House BJJ	MI	Edwardsburg	https://grapplehousebjj.com/	Edwardsburg MI address on page
+OK	Grapple Jiu Jitsu	MS	Brandon	https://www.grapplejiujitsu.com	Brandon address in footer, Flowood adjacent
+OK	Grappler Station	MN	St. Paul	https://www.grapplerstation.com	2015 Ford Pkwy St Paul
+OK	Grappling Concepts Nixa	MO	Nixa	https://grapplingconceptsnixa.com/	Nixa MO address matches
+OK	Gravity Brazilian Jiu-Jitsu	BC	Surrey	https://gravitybjj.ca	Surrey BC address matches
+OK	Gray Beard Forge	AR	Conway	https://graybeardforge.org	Conway AR, BJJ and MMA
+OK	Great Grappling Brazilian Jiu Jitsu	SC	Fort Mill	https://greatgrappling.com	Fort Mill SC address matches
+OK	Green Dojo	SK	North Battleford	https://greendojo.ca	North Battleford, site lists different street
+OK	Greenville Alliance Jiu Jitsu	SC	Greenville	https://alliancegreenville.com	117 Haywood Rd Greenville
+OK	Greenwood Jiu-Jitsu	ON	Toronto	https://brazilianjiujitsutoronto.com	Greenwood BJJ, Leaside Toronto
+OK	Gregor Gracie Academy Brooklyn	NY	Brooklyn	https://www.gregorgracie.com/	Brooklyn academy, 153 Bridge Park Dr
+OK	Greubel's Mixed Martial Arts	GA	Augusta	https://www.greubelsmma.com/	Martinez GA, Augusta metro
+OK	Grey Wolf Brazilian Jiu-Jitsu - Martial Arts	OR	Eugene	https://www.greywolfbjj.com/	1199 Fairfield Ave Eugene
+OK	Grind BJJ	VT	Burlington	https://grindbjjvt.com	Burlington VT address matches
+OK	Ground Control Academy	AB	Ardrossan	https://groundcontrolacademy.ca	Ardrossan AB address matches
+OK	Ground Strike Grappling	AL	Columbiana	https://groundstrikegrappling.com/	Columbiana AL address on page
+OK	Ground Theory Jiu Jitsu	KS	Lawrence	https://www.groundtheoryjiujitsu.com	Lawrence KS address matches
+OK	Ground X Jiu Jitsu Ottawa	ON	Ottawa	https://groundxjiujitsu.com	Barrhaven, Ottawa ON
+OK	Ground Zero Fighting Systems	WV	Morgantown	https://teamgzfs.com	Morgantown WV address in footer
+OK	Ground Zero Fighting Systems Huntington	WV	Huntington	https://gzfshuntington.wordpress.com/	Huntington WV address, BJJ and judo
+AGGREGATOR	Ground Zero Roaring Fork Valley BJJ	CO	New Castle	https://ground-zero-roaring-fork.square.site/	square.site booking page, branded Glenwood Springs
+OK	Grounded Studios	ON	North Bay	https://grounded.ca	North Bay ON address matches
+SUSPECT	Groundwork BJJ	CO	Fort Collins	https://groundworkbjj.com	Empty JS page, BJJ training app
+OK	Groupe Butactik	QC	Notre-Dame-du-Mont-Carmel	https://butactik.com	Quebec group, Notre-Dame-du-Mont-Carmel BJJ listed
+OK	Grove City Brazilian Jiu-Jitsu Academy	OH	Grove City	https://www.grovecityjiujitsu.com/	Grove City OH, Hoover Rd
+OK	Growth Mindset Collective	CA	Oakley	https://growthmindsetcollective.com	Oakley CA address matches
+OK	Guara BJJ	QC	Brossard	https://www.guarabjj.com	Brossard QC school site
+OK	Guardhouse BJJ	ON	Kitchener	https://guardhousebjj.ca	Kitchener Ardelt Place address matches
+OK	Guardian Jiujitsu & Judo	IA	Ottumwa	https://www.guardianjj.com	Ottumwa IA address matches
+WRONG_CITY	Guardian Tactics	MI	Plymouth	https://www.guardianjiujitsu.com/	Holland MI, not Plymouth
+SUSPECT	Guelph BJJ	ON	Guelph	https://guelphbjj.com	Redirects to Kohbukan Judo, different club
+OK	Guerrilla Jiu-Jitsu Martial Arts Academy	CA	San Jose	https://www.guerrillajiujitsu.com/	San Jose jiu-jitsu academy site
+OK	Gulf Breeze Jiu Jitsu	FL	Gulf Breeze	https://gulfbreezebjj.com/	Checkmat rebrand, Gulf Breeze FL address
+OK	Gulf Coast Jiu Jitsu	MS	Biloxi	https://www.gulfcoastjiujitsu.net	Biloxi MS address matches
+OK	Gulf Coast Jiu-jitsu	AL	Mobile	https://gcjiujitsu.com/	Mobile AL, Hillcrest Rd
+SUSPECT	Gulf Coast Jujutsu	AL	Gulf Shores	https://www.facebook.com/Gulf-Coast-Jujutsu-184652755613880/	Facebook returned blank body, needs browser
+OK	Gustavo Dantas Brazilian Jiu-Jitsu Academy	AZ	Tempe	https://gdjiujitsu.com/	Tempe AZ address on page
+OK	Gustavo Machado Brazilian Jiu Jitsu Chesapeake	VA	Chesapeake	https://bjjchesapeake.com/	South Chesapeake VA academy, own site
+OK	Gustavo Machdo Brazilian Jiu-Jitsu - Texas (GMBJJTX)	TX	Bulverde	https://www.gmbjjtx.com	Host studio BJJ page, Bulverde community
+OK	Guto Campos BJJ	FL	Orlando	https://gutocamposbjj.com	Orlando FL address, own site
+OK	Gwinnett Training Academy	GA	Lawrenceville	https://attofgwinnett.com/	Lawrenceville GA, Sugarloaf Pkwy address
+AGGREGATOR	Gym-Jitsu Mobile Martial Arts	NJ	Whippany	https://square.site/book/ENGYJXSXQZP1Y/gym-jitsu-mobile-martial-arts-whippany-nj	Square booking page, Whippany address
+OK	HEROES MARTIAL ARTS ACADEMY	AL	Birmingham	https://www.heroesmma.com/	Two Birmingham AL locations listed
+OK	HNL Jiu Jitsu Academy	HI	Honolulu	https://www.hnljiujitsuacademy.com	Honolulu Kalanianaole Hwy address matches
+NO_CITY	Halifax BJJ Society	NS	Halifax	https://www.halifaxbjj.ca	No address anywhere, only brand name
+OK	Hamby Freestyle Jiu Jitsu	GA	Albany	https://lavianobjj.com/	Rebranded Laviano Jiu Jitsu, Albany GA
+OK	Hamel Jiu Jitsu Club	MN	Hamel	https://www.hameljiujitsu.com	770 Tower Dr Hamel MN
+OK	Hamilton BJJ	ON	Stoney Creek	https://hamilton-bjj.com	Green Mountain Rd, Stoney Creek Hamilton
+SUSPECT	Hamilton Brazilian Jiu-Jitsu	ON	Hamilton	https://hamiltonbjj.com	Blank empty body on repeated fetches
+OK	Hamilton School of Martial Arts	ON	Hamilton	https://hsma1.com	Hamilton Ontario, jiu-jitsu judo grappling
+OK	Hanto Jiu-Jitsu Academy	GA	Statesboro	https://www.hantobjj.com/	409 Clairborne Ave Statesboro GA
+OK	Harbor Jiu-Jitsu	NJ	Egg Harbor Township	https://www.harborjiujitsu.com/	Egg Harbor Township NJ named throughout
+OK	Hard Drive Performance Center	IA	Cedar Rapids	https://harddriveperformance.com	712 3rd Ave SE Cedar Rapids
+OK	Hard Knocks Muay Thai & Judo	NV	Las Vegas	https://hardknocksmuaythaijudo.com/	Judo grappling, Las Vegas address matches
+OK	Harmony Martial Arts Center	FL	Jupiter	https://harmonymartialarts.com/	Jupiter FL address, Royce Gracie jiu-jitsu
+OK	Haven Jiu Jitsu	NY	Syracuse	https://cnyjiujitsu.com	Baldwinsville plus Haven on the Hill Syracuse
+OK	Hawaii Jiu Jitsu Lab	HI	Kaneohe	https://hawaiijiujitsulab.com	Kaneohe address matches exactly
+OK	Hayabusa Training Centre	AB	St. Albert	https://hayabusatrainingcentre.com/	St. Albert AB address matches
+OK	Heavy Mettle Jiu Jitsu	NH	North Hampton	https://www.heavymettlejj.com	North Hampton NH address matches
+OK	Heiho Dojo	AB	Grande Prairie	https://www.heihodojo.ca	Grande Prairie AB, BJJ and Muay Thai
+OK	Helio Soneca/ 8ight Limbs Academy	TX	Harlingen	https://www.the8ightlimbsacademy.com/	Harlingen TX, moved to Van Buren
+SUSPECT	Helix Brazilian Jiu-Jitsu	GA	Snellville	https://www.facebook.com/helixbjj/	Facebook returned blank body, needs browser
+OK	Hellman's Mixed Martial Arts	FL	Tampa	https://hellmansmma.com/	Tampa FL, Race Track Rd matches
+OK	Heritage Jiu-Jitsu	SC	Moncks Corner	https://heritagebjj.com	Moncks Corner SC address matches
+OK	Hero Academy	BC	North Vancouver	https://hero-academy.ca	North Vancouver BC address matches
+WRONG_CITY	Hero Fitness Academy	LA	Calhoun	https://herofitnessacademy.com/	West Monroe, only location listed
+OK	Hero Jiu Jitsu	NH	Exeter	https://herojiujitsu.com	Exeter NH, Holland Way matches
+SUSPECT	Hess' Oriental Martial Arts	OH	Fremont	https://hessma.com/	Domain hijacked, Chinese gambling pharma site
+NO_CITY	Hibiscus Brazilian Jiu-Jitsu	NJ	North Haledon	https://www.hibiscusbjj.com/	Body nearly empty, no address rendered
+OK	Hicsmma	KY	Bowling Green	https://www.hicsmma.com/	Bowling Green KY, Dishman Ln matches
+OK	Hidden Fist Mixed Martial Arts Academy	NY	Queens	https://www.hiddenfistacademy.com	Bayside Queens, now 42nd Ave
+OK	Hidden Samurai Martial Arts	KY	Owensboro	https://hsmaa7.wixsite.com/hiddensamurai	Owensboro KY, now Scherm Rd
+OK	Highstyle Jiu-Jitsu	DC	Washington	https://highstylejiujitsu.com	907 N St NW, Washington DC
+OK	Hillcrest Academy of Goshin	OH	Cleveland	https://www.hillcrestjujitsu.com/	4431 Mayfield Rd, Cleveland OH
+OK	Hiscoe Jiu-Jitsu	BC	Chilliwack	https://www.hiscoejiujitsu.com	Chilliwack BC address matches
+SUSPECT	Honey Badger Training Facility	MO	Rolla	https://honeybadgertrainingfacility.com	Blank body on all fetches
+OK	Honor Roll Brazilian Jiu-Jitsu / BJJ Santa Clarita CA 91350	CA	Santa Clarita	https://www.honorrollbjj.com/	26541 Golden Valley Rd, Santa Clarita
+OK	Hood Rich Jiu Jitsu	BC	Victoria	https://www.hoodrichjj.com	1510 Fort St, Victoria BC
+OK	Hooked Martial Arts + Fitness	AL	Opelika	https://www.hookedmartialarts.com/	Opelika AL, jiu-jitsu and judo
+AGGREGATOR	Hooligans Boxing & MMA	OH	North Ridgeville	https://hooligans.business.site/	Google business.site page, North Ridgeville
+OK	Hopkinsville Martial Arts	KY	Hopkinsville	https://hoptownmartialarts.com/	1005 Skyline Dr, Hopkinsville KY
+OK	House of Alameda Jiu Jitsu	HI	Keaau	https://alamedajj.com	Keaau HI address matches
+OK	Houzn Jiu Jitsu Academy	SC	Mount Pleasant	https://www.houznjiujitsu.academy	Mount Pleasant SC address matches
+OK	Huard's Ju-Jitsu & Karate	ME	Winslow	https://huardsmartialarts.com	234 Clinton Ave, Winslow ME
+AGGREGATOR	Hub City MMA & BJJ	SD	Aberdeen	https://hubcitymma.gymdesk.com	Gymdesk booking platform, Aberdeen SD
+OK	Humboldt Jiu Jitsu	CA	Arcata	https://humboldtjiujitsu.com/	1041 F St, Arcata CA
+OK	Hybrid Jiujitsu	NV	Las Vegas	https://hybridjiujitsulv.com	7925 W Sahara Ave, Las Vegas
+OK	IJC Martial Arts	NY	Queens	https://ijcnyc.com	College Point, Flushing, Queens NY
+SUSPECT	IMB Academy CT	CT	Waterbury	https://jessymiele.wixsite.com/imbct/	Kickboxing only, near-empty Wix site
+OK	Ice Dragon Academy	ND	Bismarck	https://icedragonacademy.com	3007 Morrison Ave, Bismarck ND
+OK	Icon Combat	NB	Moncton	https://iconcombat.com	Moncton NB, BJJ wrestling plus striking
+OK	Idahome Jiu-Jitsu	ID	Caldwell	https://idahomejiujitsu.com	Caldwell ID address matches exactly
+OK	Igor Gracie Jiu Jitsu Academy	NY	New Rochelle	https://igorgraciejiujitsu.com	175 E Main St, New Rochelle
+SUSPECT	Ilimitadas Brazilian Jiu-Jitsu	OH	Dayton	https://www.facebook.com/limitlessbjjmma/	Facebook returned blank body, needs browser
+OK	Immortal MMA	KS	Wichita	https://www.immortalmmawichita.com	1050 S Oliver Ave, Wichita
+OK	Impact Jiu Jitsu Albuquerque	NM	Albuquerque	https://impactjjabq.com	6509 Lomas Blvd NE, Albuquerque
+OK	Impact Jiu Jitsu Clackamas	OR	Clackamas	https://www.impactjj.com/	Homepage lists Clackamas 16116 SE 82nd
+OK	Impact Jiu Jitsu HQ Beaverton	OR	Beaverton	https://www.impactjj.com/	Beaverton HQ address matches homepage
+OK	Impact Jiu Jitsu Hillsboro	OR	Hillsboro	https://impacthillsboro.com/	Hillsboro address matches in footer
+OK	Impact Jiu Jitsu Hood River	OR	Hood River	https://www.impacthoodriver.com/	1531 Osprey Dr, Hood River
+SUSPECT	Impact Jiu Jitsu Keizer	OR	Keizer	https://salemimpactjj.com/	Near-empty stub, points to Courthouse site
+OK	Impact Jiu Jitsu Newberg	OR	Newberg	https://www.impactnewberg.com/	2751 E 9th St, Newberg
+SUSPECT	Impact Jiu Jitsu Salem	OR	Salem	https://salemimpactjj.com/	Near-empty stub, points to Courthouse site
+OK	Impact Jiu Jitsu Salem (Lancaster)	OR	Salem	https://courthousefit.com/impact-jiu-jitsu/	Courthouse Club page, Salem Keizer locations
+SUSPECT	Impact Jiu Jitsu at Crossfit Wilsonville	OR	Wilsonville	https://www.crossfitwilsonville.com/jiu-jitsu-at-cfw	Blank page, live path differs

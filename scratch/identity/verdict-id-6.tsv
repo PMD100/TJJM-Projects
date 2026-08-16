@@ -1,0 +1,121 @@
+verdict	name	region	city	url	note
+OK	GB Celebration	FL	Celebration	https://www.gbcelebration.com	Celebration Blvd address, BJJ and MMA
+OK	GB Centennial	CO	Centennial	https://gbcentennial.com	4181 E County Line Rd, Centennial
+NO_CITY	GB Champaign	IL	Urbana	https://gbchampaign.com/	Real GB BJJ site, no address
+OK	GB Chesterfield	MO	Chesterfield	https://gbchesterfield.com/	13379 Olive Blvd Chesterfield MO matches
+OK	GB Chicago West Loop	IL	Chicago	https://graciebarrachicago.com/	630 W Lake St Chicago matches
+OK	GB Chula Vista	CA	Chula Vista	https://graciebarrachulavista.com/	2015 Birch Rd Chula Vista matches
+OK	GB Cincinnati	OH	West Chester	https://cincymma.com/	4845 Premier Way West Chester matches
+OK	GB Citrus Park	FL	Tampa	https://gbcitrusparktampa.com/	6176 Gunn Hwy Tampa matches
+OK	GB College Station	TX	College Station	https://gbcollegestation.com	1702 George Bush Dr E matches
+AGGREGATOR	GB Coral Springs	FL	Margate	https://www.graciebarra.com	Gracie Barra national brand homepage, not location
+OK	GB Costa Mesa	CA	Costa Mesa	https://www.gbcostamesa.com/	1304 Logan Ave Suite J listed
+OK	GB Cypress	TX	Cypress	https://www.gb-cypress.com	15103 Mason Rd, Cypress TX listed
+OK	GB Davenport	FL	Davenport	https://gbdavenport.com/	6250 Grandview Pkwy Davenport listed
+OK	GB Davie	FL	Davie	https://gbdavie.com/	5167 S University Dr Davie listed
+OK	GB Deerfield Beach	FL	Deerfield Beach	https://rogergraciedeerfieldbeach.com/	Roger Gracie rebrand, 426 W Hillsboro Blvd
+OK	GB Downers Grove	IL	Downers Grove	https://gbdownersgrove.com	152 Ogden Ave Downers Grove listed
+OK	GB Dripping Springs	TX	Austin	https://www.gbdrip.com/	Now 261 Frog Pond Ln, Dripping Springs
+OK	GB East Naperville	IL	Lisle	https://gbeastnaperville.com/	Now 1512 N Naper Blvd, Naperville
+SUSPECT	GB Fort Bend	TX	Sugar Land	https://gbfortbend.com/	Empty body on all fetch variants
+OK	GB Garden Grove	CA	Garden Grove	https://www.gbgardengrove.com/	12062 Valley View St Garden Grove listed
+OK	GB Great Falls	MT	Great Falls	https://www.dragonfirebrazilianjiujitsu.com	Dragon Fire BJJ rebrand, same address
+OK	GB Heights Houston	TX	Houston	https://www.gbheights.com	Houston Heights; www variant returned empty
+OK	GB Hialeah	FL	Hialeah	https://graciebarrahialeah.com/	1001 W 49th St Suite 6 listed
+OK	GB Huntington Beach	CA	Huntington Beach	https://graciebarrahb.com/	Now 6423 Edinger Ave, Huntington Beach
+OK	GB Huntsville	AL	Huntsville	https://www.graciebarrahuntsville.com	2101 W Ferry Way, Huntsville AL listed
+OK	GB Jasper	AL	Jasper	https://gbjasper.com/	764 Highway 78 W, Jasper AL
+SUSPECT	GB Lake Charles	LA	Lake Charles	https://gblakecharles.com/	Empty body on five fetch attempts
+OK	GB Lake Norman	NC	Cornelius	https://gblakenorman.com/	11020 Bailey Rd, Cornelius NC listed
+OK	GB Lake Park	FL	West Palm Beach	https://gblakepark.com/	804 Federal Hwy, West Palm Beach
+OK	GB Lutz	FL	Lutz	https://gblutz.com/	1908 Oak Grove Blvd, Lutz FL
+OK	GB McKinney	TX	McKinney	https://gbmckinney.com/	7901 Eldorado Pkwy, McKinney TX
+SUSPECT	GB Northridge	CA	Los Angeles	https://www.gbnorthridge.com/	Empty body on four fetch attempts
+OK	GB O'Fallon	MO	Dardenne Prairie	https://gbofallon.com/	Site shows Lake St Louis, adjacent
+OK	GB Parker	CO	Parker	https://www.parkergb.com	18425 Pony Express Dr, Parker CO
+OK	GB Pearland	TX	Pearland	https://gbpearland.com/	3229 E Broadway St, Pearland TX
+OK	GB Redondo Beach	CA	Torrance	https://www.gbredondobeach.com/	No street address; Yelp says Torrance
+OK	GB Round Rock	TX	Round Rock	https://gbroundrock.com	Round Rock, Texas named throughout
+OK	GB Royal Palm Beach	FL	Royal Palm Beach	https://www.gbroyalpalmbeach.com	10225 Southern Blvd, Royal Palm Beach
+OK	GB San Diego	CA	San Diego	https://www.graciebarrasandiego.com/	Site lists 4809 Clairemont Dr, San Diego
+OK	GB Santa Clarita	CA	Santa Clarita	https://gbvalencia.com/	Address 25067 Peachland Ave, Santa Clarita
+SUSPECT	GB Sorrento Valley	CA	San Diego	https://gbsorrentovalleybjj.com/	Parked domain-for-sale listing, no school
+OK	GB St. Johns	FL	St. Augustine	https://www.gbstjohns.com/	10440 US-1, St Augustine confirmed
+OK	GB St. Peters, USA	MO	St. Peters	https://graciebarrastpeters.com/schedule/	Rebranded Onyx Grappling, same Jungermann address
+OK	GB St. Petersburg	FL	St. Petersburg	https://gbstpetersburg.com/	5825 66th St N, St. Petersburg
+OK	GB Upland	CA	Upland	https://www.gbupland.com	1131 W 9th St, Upland confirmed
+OK	GB Ventura	CA	Ventura	https://www.graciebarraventura.com/	3503 Arundell Circle, Ventura CA
+OK	GB Washington	MO	Washington	https://gbwashington.com/	1629 Aroy Dr, Washington MO
+OK	GB West Anaheim	CA	Anaheim	https://www.gbwestanaheim.com	910 S Euclid St, Anaheim confirmed
+OK	GB West County	MO	Ballwin	https://gbwestcounty.com/	15425 Manchester Road, Ballwin MO
+OK	GB West Palm Beach	FL	West Palm Beach	https://graciebarrawestpalm.com/	721 Village Blvd, West Palm Beach
+OK	GB Westlake	TX	Austin	https://gbwestlakehills.com/	Westlake named; map at Austin coordinates
+OK	GB Weston	FL	Weston	https://www.graciebarraweston.com	1306 SW 160th Ave, Weston FL
+SUSPECT	GB Whittier	CA	Whittier	https://www.gbwhittier.com	ClickFunnels account paused banner on page
+OK	GB Yorba Linda	CA	Yorba Linda	https://gbyorbalinda.com/	18551 Yorba Linda Blvd listed, matches
+OK	GFTeam Canada	BC	Burnaby	https://www.gfteamcanada.ca	5528 Kingsway Burnaby listed, BJJ school
+NO_CITY	GIT Right Sports Performance & MMA (Ralph Gracie Whittier)	CA	Whittier	https://gitrightspf.com/wcs3_class/mma/	BJJ/MMA classes listed, no address anywhere
+OK	GRACIE BARRA OCOTILLO SOUTH GILBERT	AZ	Gilbert	https://gilbertjiujitsu.com/	Gracie Barra Ocotillo, South Gilbert AZ
+OK	GRACIE JIU-JITSU	AL	Madison	https://www.graciejiujitsumadisonal.com/	Certified Gracie CTC serving Madison AL
+OK	GT Brazilian Jiu-Jitsu	OH	Akron	https://www.gtbjjohio.com/	Now 51 Southeast Ave, Tallmadge; adjacent
+OK	Gabrieles Martial Arts - Groton, CT	CT	Groton	https://gabrielesmartialarts.com/	Waterford CT address, Gracie jujutsu, adjacent
+OK	Gael Force Jiu Jitsu	NJ	Roxbury Township	https://www.gaelforcejiujitsu.com/	3 Goldmine Road, Roxbury Township listed
+OK	Galbraith Jiu Jitsu	BC	Prince George	https://galbraithjiujitsu.ca	1791 Nicholson St, Prince George listed
+OK	Gamblers Jiu-Jitsu & Kickboxing Club	FL	Palm Beach Gardens	http://gamblersjiujitsuclub.com/	10415 Riverside Dr address matches exactly
+OK	Garden State Brazilian Jiu-Jitsu Academy	NJ	Red Bank	https://gardenstatebjj.com/	336 State Hwy 35, Red Bank
+OK	Garry Tonon Jiu Jitsu	NJ	North Brunswick Township	https://www.garrytononjiujitsu.com/	Now 11 Harts Lane, East Brunswick
+OK	Gary Grate Brazilian Jiu-Jitsu Academy of Reno NV	NV	Reno	https://www.bjjreno.com	1335 Airmotive Way Reno matches exactly
+OK	Gator Family Brazilian Jiu Jitsu	FL	DeLand	https://gatorfamilybjj.com	DeLand FL BJJ, Robson Moura affiliate
+OK	Gem State Jiu Jitsu	ID	Kuna	https://gemstatejiujitsu.com	BJJ academy Kuna Idaho, gi/no-gi
+OK	Gendai Budo Jiu Jitsu-MMA-Fitness	AR	Mountain Home	https://arkansastraveller.wixsite.com/gendaibudoacademy	514 Coley Drive, Mountain Home AR
+OK	Genesis Training Academy	CO	Arvada	https://genesis-fight.com/	Now 4300 Kipling, Wheat Ridge; adjacent
+OK	Gentle Art Studio Lotus Club	NY	Astoria	https://www.gentleartstudio.com/	28-02 Astoria Blvd, Astoria NY
+SUSPECT	Gladiator Martial Arts	NC	Statesville	https://www.facebook.com/Gladiator.MartialArt/	Facebook fetch blocked, needs browser
+SUSPECT	Gladiator Sports Fitness MMA	FL	Hialeah	https://www.facebook.com/gladiatorsportsfitnessmma/	Facebook fetch blocked, needs browser
+OK	Gladiator Training Center	OH	Xenia	https://www.gladiatortrained.com/	59 E 2nd St Xenia, wrestling
+OK	Gladiators Academy of Breaux Bridge	LA	Breaux Bridge	https://gladiatorsbb.com/	Names Breaux Bridge, BJJ; http works
+OK	Gladiators Academy of Crowley	LA	Crowley	https://www.gladiatorsacademyofcrowley.com/	209 East Park Street, Crowley LA
+OK	Global Brazilian Jiu-Jitsu Naples	FL	Naples	https://global1bjj.com	4584 Enterprise Ave, Naples FL
+OK	Global Fighting Legion / Jiu-Jitsu Chula Vista CA 91914	CA	Chula Vista	https://theinstituteofhealthandfitness.com/Home	871 Harold Pl, Chula Vista; BJJ/MMA
+SUSPECT	Glory Martial Arts and Fitness	NC	Sylva	https://www.facebook.com/spencerthekingfisher/	Facebook fetch blocked, needs browser
+SUSPECT	Go Hard MMA & Fitness	OR	Portland	https://www.facebook.com/Gohardmmafitness/	Facebook fetch blocked, needs browser
+OK	Goblins Martial Arts	BC	Courtenay	https://goblinsmartialarts.com	BJJ/wrestling, 204 Island Hwy N Courtenay
+OK	Gold Bar Training Center	SD	Rapid City	https://goldbartrainingcenter.com	Jiu jitsu, 2090 Deadwood Ave Rapid City
+OK	Gold Country Jiu Jitsu	CA	Auburn	https://www.goldcountryjiujitsu.com/	BJJ serving Auburn and Grass Valley
+SUSPECT	Golden Eagle Judo & Jiu-Jitsu	NJ	Elizabeth	https://www.facebook.com/Goldeneaglejudo/	Facebook fetch blocked, needs browser
+OK	Golden Glory Fitness and Martial Arts Academy	BC	Surrey	https://www.goldenglory.ca	Wrestling/BJJ, 2-2336 King George Blvd Surrey
+OK	Golden Rule Jiu Jitsu	NL	Flat Bay	https://golden-rule-jiu-jitsu-ltd.gymdesk.com	School's own site, Flat Bay NL
+OK	Golden State BJJ	CA	Torrance	https://www.goldenstatebjj.com	19019 Hawthorne Blvd Ste 200A Torrance
+OK	Good Vibes Brazilian Jiu Jitsu	PA	Morrisville	https://goodvibesjiujitsu.com/	375 W Trenton Ave Morrisville PA
+OK	Gorilla Combat	MN	Eden Prairie	https://gorillacombat.com	BJJ/MMA, 7887 Fuller Rd Eden Prairie
+OK	Gorilla Martial Arts	NJ	Mahwah	https://www.gorillabjjacademy.com/	BJJ, 31 Industrial Ave Mahwah NJ
+OK	Gracie Allegiance Honolulu	HI	Honolulu	https://honolulubjj.com	BJJ in Ala Moana area, Honolulu
+AGGREGATOR	Gracie Allegiance Jiu Jitsu/ APrx Fitness	TX	Corpus Christi	https://gracieallegiancetexas.zenplanner.com/zenplanner/portal/scheduler.cfm	Zen Planner portal, empty body returned
+OK	Gracie Arizona Gilbert Jiu Jitsu Academy	AZ	Gilbert	https://graciearizonagilbert.com/	BJJ, 1525 S Higley Rd Gilbert
+OK	Gracie Barra Albuquerque	NM	Albuquerque	https://gbalbuquerque.com	12251 Academy Rd NE #103 Albuquerque
+OK	Gracie Barra Ashburn, Brazilian Jiu-Jitsu and Self-Defense	VA	Ashburn	https://www.gbashburn.com/	22556 Amendola Terrace, Ashburn VA matches
+OK	Gracie Barra Boucherville	QC	Boucherville	https://www.gbbou.ca	540 Rue D'Avaugour Boucherville matches
+OK	Gracie Barra Brazilian Jiu-Jitsu Boca Raton	FL	Boca Raton	https://gbbocaraton.com/	Address matches; stray Boynton Beach text
+OK	Gracie Barra Brossard	QC	Brossard	https://gbbrossard.ca	7565 Taschereau Blvd Brossard listed
+OK	Gracie Barra Buda	TX	Buda	https://gbbuda.com/	2610 Main Street Buda TX confirmed
+OK	Gracie Barra Burnaby	BC	Burnaby	https://gbburnaby.com	4277 Kingsway m24 Burnaby confirmed
+SUSPECT	Gracie Barra Calgary	AB	Calgary	https://graciebarracalgary.ca	Empty body on repeated fetches, no content
+OK	Gracie Barra Chilliwack	BC	Chilliwack	https://gbchilliwack.com	45945 Wellington Ave Chilliwack confirmed
+OK	Gracie Barra Clearwater	FL	Clearwater	https://gbclearwater.com/	Names Clearwater throughout, no street address
+OK	Gracie Barra Cloverdale	BC	Surrey	https://gb-cloverdale.com	17720 65a Ave Unit 4 Surrey
+OK	Gracie Barra Delta	BC	Delta	https://www.gbdelta.com	5000 Bridge St #101 Delta confirmed
+OK	Gracie Barra Denver Jiu-Jitsu	CO	Denver	https://gbdenver.com	4495 Washington St Denver confirmed
+OK	Gracie Barra Frisco	TX	Frisco	https://gbfriscotexas.com	360 Stonebrook Pkwy Frisco TX confirmed
+OK	Gracie Barra Guildford	BC	Surrey	https://gbguildford.com	Own site, Surrey BC address matches
+OK	Gracie Barra Hayden	ID	Hayden	https://www.gbhayden.com	Own site, 978 W Hayden Ave
+OK	Gracie Barra Heber City	UT	Heber City	https://graciebarraheber.com	Own site, Heber City address matches
+OK	Gracie Barra Henderson	NV	Henderson	https://graciebarrahenderson.com/	Own site, 55 S Gibson Rd
+OK	Gracie Barra Herriman	UT	Herriman	https://gbherriman.com	Own site, Herriman UT address matches
+OK	Gracie Barra Kelowna	BC	Kelowna	https://gbkelowna.ca	Own site, 2333 Hunter Rd Kelowna
+OK	Gracie Barra Kirkland	QC	Montreal	https://gbkirkland.ca	Kirkland QC, West Island of Montreal
+OK	Gracie Barra Kitsilano	BC	Vancouver	https://gbkitsilano.com	Own site, 3611 W Broadway Vancouver
+OK	Gracie Barra Knoxville	TN	Knoxville	https://www.jiujitsuknoxvilletn.com	Samuel Braga BJJ rebrand, Knoxville TN
+OK	Gracie Barra Lake Country	BC	Lake Country	https://gblakecountry.com	Own site, names Lake Country throughout
+OK	Gracie Barra Langley	BC	Langley	https://gblangley.com	Own site, 20241 Fraser Hwy Langley
+OK	Gracie Barra Laval	QC	Laval	https://gblaval.com	Own site, Bd Curé-Labelle Laval
+OK	Gracie Barra Layton	UT	Layton	https://gblayton.com	Own site, 70 S Fairfield Layton
