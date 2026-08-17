@@ -1,0 +1,71 @@
+classification	name	region	record_city	new_city	region_change	stored_address	site_address	evidence	source
+ADDRESS_ONLY	10th Planet El Paso	TX	El Paso			1491 N Lee Trevino Dr Ste. J	10854 Pelicano Dr, El Paso, TX 79935	Contact page and footer both El Paso; street move only	site
+ADDRESS_ONLY	10th Planet Fredericksburg	VA	Fredericksburg			19 Baron Park Rd #101	1623A Princess Anne St, Fredericksburg, VA 22401	Page title and contact block say Fredericksburg VA; same-town move	site
+ADJACENT_OK	10th Planet Jiu Jitsu Albuquerque	NM	Albuquerque			237 Eubank Blvd NE, Albuquerque, NM 87123		Stored address is in Albuquerque; note cited a same-city street	record; not re-fetched
+CORRECT_CITY	10th Planet Miami	FL	Miami	Miramar		(none stored)	6315 Miramar Parkway, Miramar, FL 33023	Title, meta description and footer all Miramar FL; no Miami address on site	site
+ADDRESS_ONLY	10th Planet Oceanside	CA	Oceanside			1006 Missions Ave Suite E	1791 S Oceanside Blvd, Oceanside, CA 92054	Homepage banner: New Location 1791 S Oceanside Blvd, Oceanside	site
+CORRECT_CITY	303 Training Center	CO	Westminster	Arvada		(none stored)	5757 Olde Wadsworth Blvd, Arvada, CO 80002	Contact block and Google Places link Arvada; text says Olde Town Arvada location	site
+CORRECT_CITY	AKF Lexington Martial Arts	KY	Nicholasville	Lexington		125 Cynthia Dr	4383 Old Harrodsburg Rd, Lexington, KY 40513	Footer contact is Lexington 40513; stale map embed still shows 125 Cynthia Dr	site
+ADJACENT_OK	ALLIANCE JIU JITSU	AL	Huntsville			(none stored)	912 Winchester Rd NE, Huntsville, AL	Note's own address is in Huntsville; no competing town	record; not re-fetched
+CORRECT_CITY	Kioto Brazilian Jiu Jitsu	NY	New York	Oakdale		(none stored)	96 Biltmore Ave, Oakdale, NY 11769	Header, footer and Google listing all Oakdale NY; ~50mi from New York City	site
+ADJACENT_OK	Kurt Pellegrino MMA	NJ	Wall Township			2400 Belmar Blvd		Stored 2400 Belmar Blvd is in Wall Township; Manasquan is a ~4mi neighbour	record; not re-fetched
+ADJACENT_OK	Kuzushi Fight Club	QC	Saint-Jerome			1085 rue Melancon, Saint-Jerome, QC		Stored address is in Saint-Jerome; note cited that city's own street	record; not re-fetched
+CORRECT_CITY	Long Island MMA	NY	Lake Grove	West Babylon		(none stored)	669 Sunrise Highway, West Babylon, NY 11704	Footer HQ West Babylon; second site Long Island City; no Lake Grove location	site
+ADJACENT_OK	Marcellini's Martial Arts Academy	CA	Moreno Valley			24471 Sunnymead Boulevard		Stored Sunnymead Blvd is in Moreno Valley; Riverside is the adjacent metro city	record; not re-fetched
+ADJACENT_OK	Megalodon MMA	GA	Watkinsville			1071 Jamestown Blvd, Unit E-7		Stored Jamestown Blvd is in Watkinsville; Bogart is ~10mi neighbour	record; not re-fetched
+CORRECT_CITY	Method BJJ	NJ	South Plainfield	Edmonton	AB	(none stored)	Edmonton, Alberta (no street address published)	Site tagged bjj edmonton throughout; Nov 2025 post: Method BJJ has closed its doors	site
+CORRECT_CITY	Michigan Top Team	MI	Detroit	Southfield		(none stored)	22222 Telegraph Road, Southfield, MI 48033	Homepage contact block gives only Southfield, between 8 and 9 Mile Rd	site
+RELOCATED	New Way Martial Arts Academy	MI	Shelby Charter Township	Clinton Township		48075 Van Dyke Ave	Clinton Twp, MI (no street number published)	Site: we moved from Shelby Twp into our new facility in Clinton Twp	site
+ADJACENT_OK	Octo Alliance Combat Sports	MI	Grand Rapids			2035 28th St SE E		Stored 28th St SE is in Grand Rapids; Caledonia is a metro neighbour	record; not re-fetched
+ADJACENT_OK	Ohana Martial Arts	IL	Waukegan			(none stored)	Grayslake, IL (per identity pass)	Grayslake ~9mi from Waukegan, same Lake County cluster; not re-fetched	note; not re-fetched
+ADJACENT_OK	Ranieri Paiva Jiu-Jitsu Academy	GA	Atlanta			2997 Cumberland Blvd SE		Stored Cumberland Blvd SE carries an Atlanta 30339 address; Marietta is the metro name	record; not re-fetched
+ADJACENT_OK	Revive BJJ	MO	St Charles			4135 N Peters Pkwy		St Peters adjoins St Charles; stored address is in the St Charles cluster	record; not re-fetched
+ADJACENT_OK	Ricardo Almeida BJJ Academy	NJ	Hamilton			(none stored)	Robbinsville, NJ (per identity pass)	Robbinsville adjoins Hamilton Township, ~6mi; no change warranted	note; not re-fetched
+ADJACENT_OK	Rolling Panda Brazilian Jiu Jitsu	GA	Hiram			10 Sparks Dr		Stored 10 Sparks Dr is in Hiram; Dallas GA is the adjacent town	record; not re-fetched
+CORRECT_CITY	Serra BJJ Academy	NY	Levittown	Huntington		(none stored)	365 West Jericho Turnpike, Huntington, NY 11743	Only location listed on site is Huntington; no Levittown academy anywhere	site
+ADJACENT_OK	Sindalu Brazilian Jiu-Jitsu Albuquerque	NM	Albuquerque			3614 High St NE, Albuquerque, NM 87107		Stored address is in Albuquerque; note cited the same city's street	record; not re-fetched
+AMBIGUOUS	Skinner's Martial Arts	KY	Grand Rivers			(none stored)	unresolved	Reported rebrand to Transform Academy in Calvert City ~10mi; not verified. Fetch site to settle	note; not re-fetched
+ADJACENT_OK	SmartJits Brazilian Jiu Jitsu Academy	NM	Albuquerque			8520 Pan American Fwy NE, Albuquerque, NM 87113		Stored address is in Albuquerque; no competing town	record; not re-fetched
+CORRECT_CITY	Snake Pit U.S.A. MMA	NJ	Galloway	Hammonton		(none stored)	900 12th St. Suite 4, Hammonton, NJ 08037	Footer Direct Contact block gives Hammonton; ~18mi from Galloway	site
+ADJACENT_OK	South Boston BJJ	MA	Boston			(none stored)	Leather District, Boston, MA	Leather District is a Boston neighbourhood, not a separate town	note; not re-fetched
+ADJACENT_OK	Straight Blast Gym Atlanta BJJ	GA	Atlanta			1799 Briarcliff Rd NE Suite V		Stored Briarcliff Rd NE is an Atlanta address; Druid Hills is the neighbourhood	record; not re-fetched
+CORRECT_CITY	Supreme Academy ATX	TX	Austin	Kyle		(none stored)	161 Weldon Johnson Way Suite A, Kyle, TX 78640	Footer address block is Kyle TX 78640; Austin appears only as marketing copy	site
+CORRECT_CITY	Team Curuma Brazilian Jiu-Jitsu Academy	NJ	Bergenfield	North Bergen		9025 Old River Rd North	9019 Old River Road, 2nd Floor, North Bergen, NJ	Site footer North Bergen; stored Old River Rd address is the same North Bergen block	site+record
+ADJACENT_OK	Teknica MMA	FL	Miami			(none stored)	Pinecrest, FL (per identity pass)	Pinecrest is an incorporated village inside Miami-Dade, contiguous with Miami	note; not re-fetched
+ADDRESS_ONLY	The Chute MMA, Jiu Jitsu and Wrestling	CA	Bakersfield			4621 District Ave	6801 White Ln, Bakersfield, CA (per identity pass)	Both old and new addresses are in Bakersfield; no city change	note; not re-fetched
+ADDRESS_ONLY	The Sword BJJ	AK	Eagle River			(none stored)	10950 Mausel St, Eagle River, AK	New address is in Eagle River itself; street move only	note; not re-fetched
+AMBIGUOUS	Tutaj Brazilian Jiu Jitsu	IL	Forest Park			1525 Circle Ave	unresolved	Reported move Forest Park to North Riverside (~2mi); not verified. Fetch site to settle	note; not re-fetched
+CORRECT_CITY	Vagner Rocha Martial Arts	FL	Miami	Hollywood		(none stored)	6592 Taft St, Hollywood, FL 33024	Title, meta and footer all Hollywood FL; no Miami address; ~17mi from Miami	site
+ADJACENT_OK	Vermont BJJ	VT	Burlington			(none stored)	Williston, VT (per identity pass)	Williston is a Burlington metro neighbour ~8mi; no change warranted	note; not re-fetched
+RELOCATED	Whitefish BJJ	MT	Whitefish	Columbia Falls		(none stored)	262 1st Ave W N, Columbia Falls, MT 59912	Site banner: as of Sept 1 2023 all classes at Columbia Falls as Glacier Grappling & MMA	site
+AMBIGUOUS	American Grappling	KY	Tompkinsville		NC?	1101 N Main St	Raleigh, NC (event organisation, no venue address)	Domain is now a Raleigh NC tournament org, not the Tompkinsville gym; recommend delist not city fix	site
+ADJACENT_OK	Apex Martial Arts Academy	KY	Shepherdsville			211 Arnold Dr Ste B	Hillview, KY (per identity pass)	Stored Arnold Dr is in Shepherdsville; Hillview adjoins it ~5mi	record; not re-fetched
+AMBIGUOUS	Atlanta Budokan	GA	Smyrna			2508 Cobb Pkwy SE	3485 Acworth Due West Rd 100, Acworth, GA 30101	Shortlist URL gamasd.com is Georgia Martial Arts & Self Defense Acworth; record's own site is atlantabudokan.com with a Smyrna address. Identity mismatch	site+record
+AMBIGUOUS	BJJ Revolution Team - Baton Rouge	LA	Zachary			(none stored)	affiliation brand homepage, Williston VT office	URL is the association's national homepage, not this school; URL problem, not a city problem	note; not re-fetched
+RELOCATED	Bataille Jiu Jitsu Academy	NJ	Kinnelon	Bloomingdale		10 Park Pl; Building 6b; Ste 213 (Butler NJ)	47 Main St #9, Bloomingdale, NJ 07403	Site title and footer Bloomingdale; Yelp slug still butler; stored address is not Kinnelon	site
+CORRECT_CITY	Bayshore BJJ	NJ	Middletown	Hazlet		(none stored)	1444 NJ-36, Hazlet, NJ 07730	Title, meta keywords and footer are all Hazlet; no Middletown location listed	site
+RELOCATED	Black Tiger Martial Arts Academy	IL	Libertyville	Grayslake		410 Peterson Rd (Libertyville)	1033 Progress Dr, Grayslake, IL 60030	Every class listing gives 1033 Progress Dr Grayslake, inside CrossFit Kilter	site
+CORRECT_CITY	BlackSmith Jiu Jitsu Florida	FL	Tallahassee	Niceville		(none stored)	1039 John Sims Parkway, Niceville, FL 32578	Footer Get In Touch is Niceville; testimonials and Instagram handle both say Niceville	site
+CORRECT_CITY	Brian Beury Jiu Jitsu	NY	Albany	Watervliet		(none stored)	1623 2nd Ave, Watervliet, NY 12189	Header and contact block both Watervliet NY; note actual spelling is Beaury	site
+ADJACENT_OK	Combat Club Lake Worth	FL	Lake Worth			(none stored)	Lantana, FL (per identity pass)	Lantana adjoins Lake Worth ~3mi; no change warranted	note; not re-fetched
+ADJACENT_OK	Dante Rivera Brazilian Jiu-Jitsu Academy	NJ	Freehold Township			3333 US-9		Stored 3333 US-9 is in Freehold Township; Howell Township adjoins it	record; not re-fetched
+ADDRESS_ONLY	Embrace Jiu Jitsu	NC	Wake Forest			1608 Heritage Commerce Ct #100	Wake Forest, NC	Address change within Wake Forest; no competing town named	note; not re-fetched
+ADJACENT_OK	Full Throttle Fitness	GA	Flowery Branch			3616 Atlanta Hwy Suite 900	Gainesville, GA (per identity pass)	Stored Atlanta Hwy address sits in the Flowery Branch/Oakwood corridor; Gainesville ~8mi	record; not re-fetched
+ADDRESS_ONLY	GB Boca Raton	FL	Boca Raton			450 NE 20th St #109-110	Boca Raton, FL	Move is within Boca Raton; no competing town named	note; not re-fetched
+ADJACENT_OK	Gabrieles Martial Arts - Groton, CT	CT	Groton			1028 Poquonnock Rd	Waterford, CT (per identity pass)	Stored Poquonnock Rd is in Groton; Waterford is ~8mi across the river	record; not re-fetched
+ADJACENT_OK	Gracie Barra Albuquerque	NM	Albuquerque			12251 Academy Rd NE #103, Albuquerque, NM 87120		Stored address is in Albuquerque; no competing town	record; not re-fetched
+ADJACENT_OK	Gracie Barra Kirkland	QC	Montreal			16751 Boul Hymus, Kirkland, QC H9H 3L4		Kirkland is a West Island municipality inside the Montreal agglomeration	record; not re-fetched
+ADJACENT_OK	Gracie Jiu-Jitsu Foothills	TN	Seymour			(none stored)	Maryville, TN (per identity pass)	Maryville ~10mi from Seymour, same Blount/Sevier cluster; no change warranted	note; not re-fetched
+ADDRESS_ONLY	Gracie Jiu-Jitsu Portland	OR	Portland			124 SW Yamhill St	SE Madison St, Portland, OR	Move is within Portland; city confirmed by identity pass	note; not re-fetched
+ADDRESS_ONLY	Gracie Jiu-Jitsu Santa Clarita	CA	Santa Clarita			27737 Bouquet Canyon Rd.	Diamond Pl, Santa Clarita, CA	Move is within Santa Clarita; city confirmed by identity pass	note; not re-fetched
+CORRECT_CITY	Gracie New Jersey Academy	NJ	Lawrenceville	Lebanon		(none stored)	56 Payne Rd, Lebanon (Clinton Twp), NJ 08833	Footer address and body text both say Clinton Township / Lebanon 08833; ~30mi from Lawrenceville	site
+ADDRESS_ONLY	Grand River BJJ	ON	Cambridge			26-1 Main Street	Dickson Street, Cambridge, ON	Move is within downtown Cambridge; no competing town	note; not re-fetched
+ADJACENT_OK	Greubel's Mixed Martial Arts	GA	Augusta			2917 Riverwest Dr. Suite 105	Martinez, GA (per identity pass)	Stored Riverwest Dr carries an Augusta address; Martinez is the metro neighbour	record; not re-fetched
+CORRECT_CITY	Guardian Tactics	MI	Plymouth	Holland		770 Davis St	12330 James St., A40, Holland, MI 49424	Title, meta and Our Location block all Holland MI, in Holland Town Center; sole location	site
+ADDRESS_ONLY	Helio Soneca/ 8ight Limbs Academy	TX	Harlingen			109 South Expressway 77	Van Buren, Harlingen, TX	Move is within Harlingen; no competing town	note; not re-fetched
+ADDRESS_ONLY	Hidden Samurai Martial Arts	KY	Owensboro			1221 Moseley Street	Scherm Rd, Owensboro, KY	Move is within Owensboro; no competing town	note; not re-fetched
+ADJACENT_OK	Impact Jiu Jitsu Albuquerque	NM	Albuquerque			6509 Lomas Blvd NE, Albuquerque, NM 87110		Stored address is in Albuquerque; no competing town	record; not re-fetched
+RELOCATED	James Shook Brazilian Jiu-Jitsu	GA	Acworth	Dallas		1720 Mars Hill Rd (Acworth)	10175 Dallas Acworth Hwy, Suite 109, Dallas, GA 30132	Rebranded Tier 1 Jiu-Jitsu; site says Est. Dallas GA, single address on Dallas Acworth Hwy	site
+ADJACENT_OK	Jiu Livre NYC	NY	New York			(none stored)	383 5th Ave, Manhattan, NY	Manhattan is a New York City borough, not a separate town	note; not re-fetched
+ADJACENT_OK	Jon Calestine BJJ	NY	New York			(none stored)	315 Meserole St, Brooklyn, NY	Brooklyn is a New York City borough, not a separate town	note; not re-fetched
+ADJACENT_OK	Hero Fitness Academy	LA	Calhoun			985 US-80	West Monroe, LA (per seed note)	Stored 985 US-80 is in Calhoun; West Monroe ~10mi east on US-80. Seed row, low confidence, no change	record; not re-fetched

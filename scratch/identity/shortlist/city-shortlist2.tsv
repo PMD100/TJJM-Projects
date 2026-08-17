@@ -1,0 +1,70 @@
+verdict	name	region	record_city	other_towns	note	url	src
+OK	10th Planet El Paso	TX	El Paso		El Paso TX; moved to Pelicano Dr	https://10thplanetelpaso.com/contact/	verdict-id-1.part1.tsv
+OK	10th Planet Fredericksburg	VA	Fredericksburg	Princess Anne St	Fredericksburg VA; now Princess Anne St	https://www.10thplanetfxbg.com/	verdict-id-1.part1.tsv
+OK	10th Planet Jiu Jitsu Albuquerque	NM	Albuquerque	Eubank Blvd	237 Eubank Blvd NE Albuquerque matches	https://10pabq.com	verdict-id-1.part1.tsv
+WRONG_CITY	10th Planet Miami	FL	Miami	Miramar; Miramar FL	Site serves Miramar FL, not Miami	https://10thplanetmiami.com/	verdict-id-1.part2.tsv
+OK	10th Planet Oceanside	CA	Oceanside		New location 1791 S Oceanside Blvd	https://10thplanetoceanside.com	verdict-id-1.part2.tsv
+WRONG_CITY	303 Training Center	CO	Westminster	Arvada	Located 5757 Olde Wadsworth Blvd, Arvada CO	https://www.303trainingcenter.com	verdict-id-1.part3.tsv
+WRONG_CITY	AKF Lexington Martial Arts	KY	Nicholasville	Lexington	Site says Lexington KY; taekwondo focus	https://akflexington.com/	verdict-id-1.part4.tsv
+OK	ALLIANCE JIU JITSU	AL	Huntsville	Winchester Rd	912 Winchester Rd NE, Huntsville AL	https://alliancehuntsville.com/	verdict-id-1.part4.tsv
+WRONG_CITY	Kioto Brazilian Jiu Jitsu	NY	New York	Long Island	Oakdale, Long Island NY	https://www.kiotobjj.com/	verdict-id-10.tsv
+OK	Kurt Pellegrino MMA	NJ	Wall Township	Manasquan	Manasquan NJ address, four miles from Wall	https://www.pellegrinomma.com/	verdict-id-10.tsv
+OK	Kuzushi Fight Club	QC	Saint-Jérôme	Melancon Saint-Jerome	BJJ club, rue Melancon Saint-Jerome QC	https://www.saintjeromebjj.com	verdict-id-10.tsv
+WRONG_CITY	Long Island MMA	NY	Lake Grove	Long Island City	West Babylon and Long Island City NY	https://limixedmartialarts.com/	verdict-id-10.tsv
+OK	Marcellini’s Martial Arts Academy	CA	Moreno Valley	Now Riverside	Now Riverside CA, adjacent to Moreno Valley	http://www.mmaa.us/	verdict-id-10.tsv
+OK	Megalodon MMA	GA	Watkinsville	Bogart	MMA and BJJ; site lists Bogart GA	https://www.megalodongym.com/	verdict-id-11.tsv
+SUSPECT	Method BJJ	NJ	South Plainfield	Edmonton	Edmonton AB school; announced permanent closure 2025	https://www.methodbjj.com/	verdict-id-11.tsv
+OK	Michigan Top Team	MI	Detroit	Southfield	MMA gym; site lists Southfield MI address	https://michigantopteam.com	verdict-id-11.tsv
+OK	New Way Martial Arts Academy	MI	Shelby Charter Township		BJJ and judo; moved to Clinton Township	https://newwaytrainingcenter.com/	verdict-id-11.tsv
+OK	Octo Alliance Combat Sports	MI	Grand Rapids	Caledonia	Site says Caledonia MI, Grand Rapids metro	https://octoalliancecombatsports.com/	verdict-id-12.tsv
+OK	Ohana Martial Arts	IL	Waukegan	Grayslake	Site says Grayslake IL, nine miles	https://ohanama.com/	verdict-id-12.tsv
+OK	Ranieri Paiva Jiu-Jitsu Academy	GA	Atlanta	Marietta	Now Tribe BJJ, Marietta GA, Atlanta metro	https://www.atlbjj.com/	verdict-id-13.tsv
+OK	Revive BJJ	MO	St Charles	St Peters	Site address is St Peters MO, adjacent	https://www.revivebjj.com/	verdict-id-13.tsv
+OK	Ricardo Almeida BJJ Academy	NJ	Hamilton	Robbinsville	BJJ academy, site names Robbinsville NJ nearby	https://ricardoalmeida.com	verdict-id-13.tsv
+OK	Rolling Panda Brazilian Jiu Jitsu	GA	Hiram	Dallas	BJJ; site says Dallas GA nearby	https://www.rollingpandabjj.com	verdict-id-14.tsv
+WRONG_CITY	Serra BJJ Academy	NY	Levittown	Huntington	Huntington NY; no Levittown location listed	https://serrabjjacademy.com/	verdict-id-14.tsv
+OK	Sindalu Brazilian Jiu-Jitsu Albuquerque	NM	Albuquerque	High St	Contact page lists 3614 High St NE	https://www.sindalubjj.com	verdict-id-15.tsv
+OK	Skinner's Martial Arts	KY	Grand Rivers	Calvert City	Rebranded Transform Academy, Calvert City KY nearby	https://www.skinnersmartialarts.com/	verdict-id-15.tsv
+OK	SmartJits Brazilian Jiu Jitsu Academy	NM	Albuquerque	Pan American Fwy	8520 Pan American Fwy NE Albuquerque matches	https://smartjits.life	verdict-id-15.tsv
+WRONG_CITY	Snake Pit U.S.A. MMA	NJ	Galloway	Hammonton	Hammonton NJ, roughly eighteen miles away	https://snakepitusamma.com	verdict-id-15.tsv
+OK	South Boston BJJ	MA	Boston	Leather District	Academy in Leather District, Boston MA	https://southbostonbjj.com	verdict-id-15.tsv
+OK	Straight Blast Gym Atlanta BJJ	GA	Atlanta	Briarcliff Rd	1799 Briarcliff Rd NE Atlanta, Druid Hills	https://sbgatlanta.com/locations/sbg-atlanta/	verdict-id-15.tsv
+OK	Supreme Academy ATX	TX	Austin	Kyle	Kyle TX address, Austin metro; BJJ judo	https://supremeacademyatx.com	verdict-id-15.tsv
+OK	Team Curuma Brazilian Jiu-Jitsu Academy	NJ	Bergenfield	North Bergen	North Bergen NJ address, roughly eight miles	https://teamcuruma.com	verdict-id-15.tsv
+OK	Teknica MMA	FL	Miami	Pinecrest	Pinecrest FL, Miami metro suburb address	https://teknicajj.com/	verdict-id-16.tsv
+OK	The Chute MMA, Jiu Jitsu and Wrestling	CA	Bakersfield		BJJ wrestling Bakersfield; moved to 6801 White Ln	https://thechutemma.com/	verdict-id-16.tsv
+OK	The Sword BJJ	AK	Eagle River		BJJ, moved to 10950 Mausel St Eagle River	https://www.theswordbjj.com/	verdict-id-16.tsv
+OK	Tutaj Brazilian Jiu Jitsu	IL	Forest Park		BJJ; moved from Forest Park to North Riverside	https://www.tutajbjj.com/	verdict-id-16.tsv
+OK	Vagner Rocha Martial Arts	FL	Miami	Hollywood	Hollywood FL address, Miami metro neighbour	https://www.vagnerrochamartialarts.com/	verdict-id-17.tsv
+OK	Vermont BJJ	VT	Burlington	Williston	Williston VT, Burlington metro neighbour	https://vermontbjj.com	verdict-id-17.tsv
+OK	Whitefish BJJ	MT	Whitefish		Moved to Columbia Falls; glaciergrappling.com	https://whitefishbjj.com	verdict-id-17.tsv
+SUSPECT	American Grappling	KY	Tompkinsville	Now Raleigh	Now Raleigh NC grappling tournament org	https://americangrappling.org/	verdict-id-2.tsv
+OK	Apex Martial Arts Academy	KY	Shepherdsville	Hillview; Hillview KY	BJJ/MMA, now Hillview KY adjacent Shepherdsville	https://theapexmaa.com	verdict-id-2.tsv
+WRONG_CITY	Atlanta Budokan	GA	Smyrna	Acworth	Georgia Martial Arts, Acworth GA address	https://gamasd.com/	verdict-id-2.tsv
+AGGREGATOR	BJJ Revolution Team - Baton Rouge	LA	Zachary	Williston	Affiliation brand homepage, Williston VT office	https://www.bjjrevolutionteam.com/	verdict-id-3.tsv
+WRONG_CITY	Bataille Jiu Jitsu Academy	NJ	Kinnelon	Bloomingdale	Bloomingdale NJ, 47 Main St	https://www.bataillejj.com/	verdict-id-3.tsv
+WRONG_CITY	Bayshore BJJ	NJ	Middletown	Hazlet	Hazlet NJ, 1444 Route 36	https://www.bayshorebjj.com/	verdict-id-3.tsv
+WRONG_CITY	Black Tiger Martial Arts Academy	IL	Libertyville	Grayslake	Grayslake IL, 1033 Progress Dr	https://www.blacktigerfightclub.com/	verdict-id-3.tsv
+WRONG_CITY	BlackSmith Jiu Jitsu Florida	FL	Tallahassee	Niceville	Niceville FL, 1039 John Sims Parkway	https://blacksmithjiujitsu.com/	verdict-id-3.tsv
+WRONG_CITY	Brian Beury Jiu Jitsu	NY	Albany	Watervliet	Watervliet NY, 1623 2nd Ave	https://brianbeauryjiujitsu.com/	verdict-id-3.tsv
+OK	Combat Club Lake Worth	FL	Lake Worth	Lantana	Lantana FL address, adjacent to Lake Worth	https://www.combatclub.com/	verdict-id-4.tsv
+OK	Dante Rivera Brazilian Jiu-Jitsu Academy	NJ	Freehold Township	Howell Township	Freehold/Howell Township NJ, US-9 address	https://danteriverabjj.com/	verdict-id-4.tsv
+OK	Embrace Jiu Jitsu	NC	Wake Forest		Wake Forest NC BJJ, address moved	https://embracemartialarts.com	verdict-id-5.tsv
+OK	Full Throttle Fitness	GA	Flowery Branch	Gainesville	Gainesville GA, near Flowery Branch, BJJ	https://fullthrottlemma.com/contact/	verdict-id-5.tsv
+OK	GB Boca Raton	FL	Boca Raton		Boca Raton BJJ, address moved nearby	https://gbbocaraton.com/	verdict-id-5.tsv
+OK	Gabrieles Martial Arts - Groton, CT	CT	Groton	Waterford	Waterford CT address, Gracie jujutsu, adjacent	https://gabrielesmartialarts.com/	verdict-id-6.tsv
+OK	Gracie Barra Albuquerque	NM	Albuquerque	Academy Rd	12251 Academy Rd NE #103 Albuquerque	https://gbalbuquerque.com	verdict-id-6.tsv
+OK	Gracie Barra Kirkland	QC	Montreal	Kirkland	Kirkland QC, West Island of Montreal	https://gbkirkland.ca	verdict-id-6.tsv
+OK	Gracie Jiu-Jitsu Foothills	TN	Seymour	Maryville	Maryville TN, roughly ten miles away	https://www.graciefoothills.com	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Portland	OR	Portland		Portland confirmed, moved to SE Madison	https://www.graciepdx.com/	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Santa Clarita	CA	Santa Clarita		Santa Clarita confirmed, moved to Diamond Pl	https://graciejiujitsuscv.com/	verdict-id-7.tsv
+WRONG_CITY	Gracie New Jersey Academy	NJ	Lawrenceville	Clinton Township	Lebanon / Clinton Township NJ	https://gracienewjersey.com	verdict-id-7.tsv
+OK	Grand River BJJ	ON	Cambridge		Downtown Cambridge ON, moved to Dickson Street	https://grandriverbjj.ca	verdict-id-8.tsv
+OK	Greubel's Mixed Martial Arts	GA	Augusta	Martinez	Martinez GA, Augusta metro	https://www.greubelsmma.com/	verdict-id-8.tsv
+WRONG_CITY	Guardian Tactics	MI	Plymouth	Holland	Holland MI, not Plymouth	https://www.guardianjiujitsu.com/	verdict-id-8.tsv
+OK	Helio Soneca/ 8ight Limbs Academy	TX	Harlingen		Harlingen TX, moved to Van Buren	https://www.the8ightlimbsacademy.com/	verdict-id-8.tsv
+OK	Hidden Samurai Martial Arts	KY	Owensboro	Scherm Rd	Owensboro KY, now Scherm Rd	https://hsmaa7.wixsite.com/hiddensamurai	verdict-id-8.tsv
+OK	Impact Jiu Jitsu Albuquerque	NM	Albuquerque	Lomas Blvd	6509 Lomas Blvd NE, Albuquerque	https://impactjjabq.com	verdict-id-8.tsv
+OK	James Shook Brazilian Jiu-Jitsu	GA	Acworth	Dallas; Dallas GA	Rebrand Tier 1, now Dallas GA	https://tier1jiujitsu.com/	verdict-id-9.tsv
+OK	Jiu Livre NYC	NY	New York	Manhattan	383 5th Ave, Manhattan NY	https://jiulivre.com/	verdict-id-9.tsv
+OK	Jon Calestine BJJ	NY	New York	Brooklyn	315 Meserole St, Brooklyn NY	https://calestinejj.com/	verdict-id-9.tsv

@@ -1,0 +1,609 @@
+verdict	name	region	record_city	url	note	src
+OK	10th Planet El Paso	TX	El Paso	https://10thplanetelpaso.com/contact/	El Paso TX; moved to Pelicano Dr	verdict-id-1.part1.tsv
+OK	10th Planet Fredericksburg	VA	Fredericksburg	https://www.10thplanetfxbg.com/	Fredericksburg VA; now Princess Anne St	verdict-id-1.part1.tsv
+OK	10th Planet Georgetown	TX	Georgetown	https://10pgtx.com/	1523 Northwest Blvd Georgetown TX	verdict-id-1.part1.tsv
+OK	10th Planet Jiu Jitsu Albuquerque	NM	Albuquerque	https://10pabq.com	237 Eubank Blvd NE Albuquerque matches	verdict-id-1.part1.tsv
+OK	10th Planet Jiu Jitsu Beaumont	TX	Beaumont	https://www.10thplanetbeaumontjiujitsumma.com/	5925 Caswell Rd Beaumont TX matches	verdict-id-1.part1.tsv
+OK	10th Planet Jiu Jitsu Chicago	IL	Chicago	https://www.10thplanetchicago.com/	Chicago IL; now 5711 N Milwaukee	verdict-id-1.part1.tsv
+OK	10th Planet Jiu Jitsu Jacksonville	FL	Jacksonville	https://www.10pjax.com/	4849 Dawin Rd Jacksonville FL matches	verdict-id-1.part1.tsv
+OK	10th Planet Jiu-Jitsu Omaha	NE	Bellevue	https://10thplanetomaha.com	Bellevue NE; site lists 722 Fort Crook	verdict-id-1.part2.tsv
+WRONG_CITY	10th Planet Miami	FL	Miami	https://10thplanetmiami.com/	Site serves Miramar FL, not Miami	verdict-id-1.part2.tsv
+OK	10th Planet Oceanside	CA	Oceanside	https://10thplanetoceanside.com	New location 1791 S Oceanside Blvd	verdict-id-1.part2.tsv
+OK	10th Planet Richmond	BC	Richmond	https://www.10thplanetrichmond.ca	11151 Horseshoe Way, Richmond BC matches	verdict-id-1.part2.tsv
+OK	10th Planet Torrance	CA	Torrance	https://10ptorrance.com/	Torrance CA; now 24433 Hawthorne Blvd	verdict-id-1.part3.tsv
+OK	12th Street Jiu-Jitsu	AZ	Phoenix	https://12stjiujitsu.com/	1107 E Bell Rd, Phoenix AZ	verdict-id-1.part3.tsv
+OK	144 Academy Jiu Jitsu/Self-Defense/Fitness	TX	Dallas	https://144academy.com/	Dallas TX; now 3406 Easy St	verdict-id-1.part3.tsv
+WRONG_CITY	303 Training Center	CO	Westminster	https://www.303trainingcenter.com	Located 5757 Olde Wadsworth Blvd, Arvada CO	verdict-id-1.part3.tsv
+OK	360 Defense Martial Arts (Macarra BJJ Affiliated Academy)	CT	Norwich	https://www.360defensemartialarts.com/	15 Wawecus St, Norwich CT matches	verdict-id-1.part3.tsv
+OK	4S Brazilian Jiu Jitsu / Jiu-Jitsu San Diego CA 92127	CA	San Diego	https://4sbjj.com/	Names San Diego CA; no street address	verdict-id-1.part3.tsv
+OK	501 BJJ & Kickboxing	AR	Conway	https://501bjj.com	2655 Donaghey Ave, Conway AR matches	verdict-id-1.part3.tsv
+OK	66 JIU-JITSU	AZ	Flagstaff	https://www.66jiu-jitsu.com/	2710 N Steves Blvd, Flagstaff AZ	verdict-id-1.part3.tsv
+OK	662 JiuJitsu	MS	Oxford	https://www.jiujitsuoxford.com	Address matches, Oxford MS	verdict-id-1.part4.tsv
+OK	760 Jiu-Jitsu / BJJ Oceanside CA 92057	CA	Oceanside	https://760jiujitsu.com/	3320 Mission Ave, Oceanside CA	verdict-id-1.part4.tsv
+OK	7th Generation Jiu Jitsu	CA	Clovis	https://www.7thgenerationbjj.com/	50 W Bullard Ave, Clovis CA	verdict-id-1.part4.tsv
+OK	88 BJJ	ON	Markham	https://eighteightbjj.com	50 Anderson Ave, Markham ON	verdict-id-1.part4.tsv
+OK	905 Brazilian Jiujitsu	ON	Aurora	https://905brazilianjiujitsu.com	10 Furbacher Ln, Aurora ON	verdict-id-1.part4.tsv
+WRONG_CITY	925 Jiu Jitsu Club / BJJ Concord CA 94520	CA	Concord	https://www.925jiujitsu.com/	Site address is Martinez, CA	verdict-id-1.part4.tsv
+OK	AACE Martial Arts Academy	ON	Pickering	https://aacemartialartsacademy.com	633 Kingston Road, Pickering ON	verdict-id-1.part4.tsv
+OK	ABUNAI MMA	AZ	Avondale	https://abunaimma.com/	300 N Central Ave, Avondale AZ	verdict-id-1.part4.tsv
+OK	ADG Jiu-Jitsu	TN	Smyrna	https://adgjiujitsu.com	555 Almaville Rd, Smyrna TN	verdict-id-1.part4.tsv
+OK	AK-49 Martial Arts	AK	Soldotna	https://www.ak49martialarts.com/	44332 Sterling Hwy, Soldotna AK	verdict-id-1.part4.tsv
+WRONG_CITY	AKF Lexington Martial Arts	KY	Nicholasville	https://akflexington.com/	Site says Lexington KY; taekwondo focus	verdict-id-1.part4.tsv
+OK	ALLIANCE JIU JITSU	AL	Huntsville	https://alliancehuntsville.com/	912 Winchester Rd NE, Huntsville AL	verdict-id-1.part4.tsv
+OK	AMA Fight Club	NJ	Cedar Knolls	https://www.joinamafightclub.com/	Names Cedar Knolls NJ, BJJ offered	verdict-id-1.part4.tsv
+OK	Abhaya Martial Arts Academy	NS	Windsor	https://www.abhaya.ca/windsor	62 Fort Edward St, Windsor NS	verdict-id-1.part5.tsv
+OK	Abmar Barbosa JJ Academy	VA	Vienna	https://www.abmarbjjacademy.com	8460 Tyco Rd, Vienna VA	verdict-id-1.part5.tsv
+OK	Absolute Fight Factory	MT	Kalispell	https://www.absolutefightfactory.com	465 Ash Rd, Kalispell MT	verdict-id-1.part5.tsv
+OK	Absolute Jiu-Jitsu Academy Bristol	TN	Bristol	https://absolutejj.com	107 Cox St, Bristol TN	verdict-id-1.part5.tsv
+OK	Academy Jiu Jitsu	NM	Roswell	https://academyjiujitsu.net	4501 N Main St, Roswell NM	verdict-id-1.part5.tsv
+WRONG_CITY	Academy Of Striking & Grappling	CA	Riverside	https://www.asgmma.com/	Site lists Moreno Valley, CA address	verdict-id-1.part5.tsv
+OK	Acadia Brazilian Jiu-Jitsu	ME	Ellsworth	https://acadiabjj.com	385 High St, Ellsworth ME	verdict-id-1.part5.tsv
+OK	Académie Athéna	QC	Sherbrooke	https://www.athenabjj.com	1381 Rue King E, Sherbrooke QC	verdict-id-1.part5.tsv
+OK	Adapt Jiu-Jitsu	UT	Herriman	https://adaptbjj.com	Herriman UT BJJ academy	verdict-id-1.part6.tsv
+OK	Advantage Jiu Jitsu	BC	Richmond	https://www.advantagejiujitsu.ca	6231 London Rd Richmond BC matches	verdict-id-1.part6.tsv
+OK	Aiken Jiu-Jitsu	SC	Aiken	http://www.aikenjiu-jitsu.com	South Aiken Jiu-Jitsu, Aiken SC BJJ	verdict-id-1.part6.tsv
+OK	Alavanca	AB	Calgary	https://www.alavanca.ca	209 16 Ave NE Calgary matches	verdict-id-1.part6.tsv
+OK	Kearney Combat Sports and Fitness	NE	Kearney	https://kearneycombatsports.com	BJJ wrestling MMA, Kearney NE address listed	verdict-id-10.tsv
+OK	Kenny Kim BJJ	GA	Marietta	https://kennykimbjj.com/	Gracie BJJ academy, Whitlock Ave Marietta GA	verdict-id-10.tsv
+OK	Kevin Watson Brazilian Jiu-Jitsu	NH	Dover	https://www.kwbjj.com	BJJ school, locations page lists Dover NH	verdict-id-10.tsv
+OK	Kiefer's Martial Arts	RI	Westerly	https://kiefersmartialarts.com	Karate plus BJJ program, Westerly RI address	verdict-id-10.tsv
+OK	Kilo Delta BJJ and MMA	SC	Myrtle Beach	https://www.kilodeltabjjsc.com	BJJ MMA academy, Myrtle Beach SC address	verdict-id-10.tsv
+OK	Kingdom Jiu Jitsu Academy	NM	Carlsbad	https://kingdombjj.com	BJJ grappling academy, Carlsbad NM address listed	verdict-id-10.tsv
+OK	Kings Jiu Jitsu	NM	Las Cruces	https://www.kingsjiujitsucruces.com	BJJ school, W Picacho Ave Las Cruces NM	verdict-id-10.tsv
+OK	Kingsway Jiu-Jitsu	TX	Austin	https://kingswayjiujitsu.com	Jiu-jitsu academy, North Austin TX address	verdict-id-10.tsv
+OK	Kioto BJJ Southwest	AZ	Chandler	https://kiotobjjsouthwest.com/	BJJ academy, Alma School Rd Chandler AZ	verdict-id-10.tsv
+WRONG_CITY	Kioto Brazilian Jiu Jitsu	NY	New York	https://www.kiotobjj.com/	Oakdale, Long Island NY	verdict-id-10.tsv
+OK	Kioto Brazilian Jiu-Jitsu Chattanooga	TN	Chattanooga	https://www.kiotobjjchattanooga.com	BJJ school, Lee Hwy Chattanooga TN address	verdict-id-10.tsv
+OK	Knots Jiu Jitsu	NB	Moncton	https://knotsjj.ca	BJJ academy, Mountain Road Moncton NB address	verdict-id-10.tsv
+OK	Knoxville Martial Arts Academy	TN	Knoxville	https://knoxmma.com	MMA BJJ academy, Chapman Highway Knoxville TN	verdict-id-10.tsv
+OK	Knuckle Up Martial Arts	FL	Jacksonville	https://martialartsjacksonvillefl.com/	Machado BJJ affiliate, Jacksonville FL 32223 zip	verdict-id-10.tsv
+OK	Kobukan Martial Arts Academy	VA	Norfolk	https://kmadojo.org/	BJJ programs, new Norfolk VA address listed	verdict-id-10.tsv
+OK	Kombat Brazilian Jiu-Jitsu	NJ	Clark	https://kombatjits.com/	BJJ school, Central Avenue Clark NJ	verdict-id-10.tsv
+OK	Kore Brazilian Jiu-Jitsu NWA	AR	Lowell	https://www.facebook.com/koreBJJNWA/	Facebook page renders, Dixieland Road Lowell AR	verdict-id-10.tsv
+OK	Kraken Jiu Jitsu BJJ & Self-Defense	MI	Belmont	https://krakenjj.com/	BJJ gym, Belmont Center Dr NE listed	verdict-id-10.tsv
+OK	Kron Gracie Academy	MT	Belgrade	https://www.facebook.com/KRONGRACIEACADEMY	Facebook renders, Motherlode Ln Belgrade MT	verdict-id-10.tsv
+OK	Krystek School of Judo, BJJ, Self Defense and Fitness	NY	Queens	https://krystekjudo.com	Judo BJJ dojo, Ozone Park Queens NY	verdict-id-10.tsv
+OK	Kudos	OK	Edmond	https://www.facebook.com/p/Kudos-Jiujitsu-100063489492758/	Facebook renders, W Danforth Rd Edmond OK	verdict-id-10.tsv
+OK	Kurt Pellegrino MMA	NJ	Wall Township	https://www.pellegrinomma.com/	Manasquan NJ address, four miles from Wall	verdict-id-10.tsv
+OK	Kuzushi Fight Club	QC	Saint-Jérôme	https://www.saintjeromebjj.com	BJJ club, rue Melancon Saint-Jerome QC	verdict-id-10.tsv
+OK	Kyle Fogel Brazilian Jiu Jitsu	GA	Sugar Hill	https://sugarhillbjj.com/	BJJ academy, Sugar Hill GA named	verdict-id-10.tsv
+OK	LCCT Brazilian Jiu Jitsu	IL	Schaumburg	https://www.lcctbjjusa.com/locations	Own locations page lists Schaumburg IL address	verdict-id-10.tsv
+OK	Lake Area Gracie Jiu-jitsu	MO	Camdenton	https://www.lakeareabjj.com/	Rebranded Gracie Humaita, same Camdenton MO address	verdict-id-10.tsv
+OK	Lake Powell Jiu-Jitsu	AZ	Page	https://www.lpbjjaz.com/	BJJ school, Elm Street Page AZ	verdict-id-10.tsv
+OK	Lakewood Martial Arts	CO	Lakewood	https://peakmartialartsdenver.com/	Peak Martial Arts, jiu-jitsu MMA, Lakewood CO	verdict-id-10.tsv
+OK	Lapel Arts	BC	Vancouver	https://www.lapelarts.ca	Brazilian jiu jitsu academy in Vancouver BC	verdict-id-10.tsv
+OK	Legacy Brazilian Jiu Jitsu Academy	BC	Coquitlam	https://www.legacybjjacademy.com	BJJ academy identified as Coquitlam BC location	verdict-id-10.tsv
+OK	Legacy Jiu Jitsu	AK	Anchorage	https://www.legacyjiujitsuak.com/	BJJ academy, Intl Airport Rd Anchorage AK	verdict-id-10.tsv
+OK	Legion AJJ	CA	San Diego	https://legionsandiego.com	Jiu-jitsu academy, Miramar Rd San Diego CA	verdict-id-10.tsv
+OK	Leonardo Delgado Jiu-Jitsu Academy	MS	Biloxi	https://selfdefensedibervillems.com	BJJ academy, Lemoyne Blvd Biloxi MS	verdict-id-10.tsv
+OK	Leverage BJJ NH	NH	Concord	https://www.leveragebjjnh.com	BJJ academy, South Main St Concord NH	verdict-id-10.tsv
+OK	Leverage Jiu Jitsu Colorado	CO	Louisville	https://leveragejiujitsuco.com	No-gi jiu jitsu, McCaslin Blvd Louisville CO	verdict-id-10.tsv
+OK	Leviathan Academy Brazilian Jiu-Jitsu	TN	Cleveland	https://www.leviathanacademy.com	BJJ academy, Inman Street W Cleveland TN	verdict-id-10.tsv
+OK	Lexington Jiu-Jitsu & Fitness	KY	Lexington	https://lexingtonjiujitsuandfitness.com	BJJ academy, National Avenue Lexington KY	verdict-id-10.tsv
+OK	Life's Ultimate Martial Arts Academy	KY	Maysville	https://www.lumaacademy.net/	Jujitsu judo programs, MLK Hwy Maysville KY	verdict-id-10.tsv
+OK	Limitless BJJ Edmonton	AB	St. Albert	https://limitlessbjjedmonton.com	Grappling gym, Carnegie Dr St. Albert AB	verdict-id-10.tsv
+OK	Lincoln Brazilian Jiu-Jitsu Center - College View	NE	Lincoln	https://lincolnbjj.com	BJJ center, Prescott Ave Lincoln NE	verdict-id-10.tsv
+OK	Lincoln Brazilian Jiu-Jitsu Center - Havelock	NE	Lincoln	https://lincolnbjjnorth.com	BJJ center, Havelock Ave Lincoln NE	verdict-id-10.tsv
+OK	Lincoln Jiu Jitsu Academy	CA	Lincoln	https://lincolnjiujitsuacademy.com/	BJJ wrestling, Gateway Dr Lincoln CA	verdict-id-10.tsv
+OK	Lions BJJ Kauai	HI	Lihue	https://kauaibjj.com	BJJ academy identified as Lihue Kauai HI	verdict-id-10.tsv
+OK	Lions MMA	BC	Vancouver	https://www.lionsmma.ca	MMA BJJ studio, Granville St Vancouver BC	verdict-id-10.tsv
+OK	Living Art Brazilian Jiu Jitsu	IL	Willowbrook	https://livingartbjj.com/	BJJ school, S Quincy St Willowbrook IL	verdict-id-10.tsv
+OK	Livingston Jiu-Jitsu	MT	Livingston	https://www.facebook.com/livingstonjiujitsu	Facebook renders, W Park St Livingston MT	verdict-id-10.tsv
+OK	LockDown BJJ	NY	Lake Ronkonkoma	https://lockdownbjj.com	BJJ gym, Hawkins Ave Lake Ronkonkoma NY	verdict-id-10.tsv
+OK	Logic Jiu Jitsu	CA	Sacramento	https://logicbjj.com	BJJ academy, Freeport Blvd Sacramento CA	verdict-id-10.tsv
+OK	Lohaki Jiu Jitsu	CA	Temecula	https://www.lokahijiujitsu.com/	BJJ school, Jefferson Avenue Temecula CA	verdict-id-10.tsv
+OK	Lokahi Jiu-Jitsu Collective	NE	Omaha	https://www.lokahiomaha.com	BJJ wrestling judo, Industrial Rd Omaha NE	verdict-id-10.tsv
+WRONG_CITY	Long Island MMA	NY	Lake Grove	https://limixedmartialarts.com/	West Babylon and Long Island City NY	verdict-id-10.tsv
+OK	LongShot MMA	CA	Burney	https://longshotmma.weebly.com/	Judo jiu jitsu, Main St Burney CA	verdict-id-10.tsv
+OK	Lost Boys Jiu-Jitsu & Muay Thai	CA	Arcata	https://www.lostboysbjj.com/#!location/c2q4	Grappling gym, Valley West Blvd Arcata CA	verdict-id-10.tsv
+OK	Louisiana Black Belt Academy	LA	Morgan City	https://morgancitymartialarts.com/	Jiu jitsu academy, LA-182 Morgan City LA	verdict-id-10.tsv
+OK	Louisiana Judo. Louisiana Muay Thai	LA	Broussard	https://www.louisianajudo.com/	Judo gym, Burgess Dr Broussard LA	verdict-id-10.tsv
+OK	Lubbock Jiu Jitsu Academy	TX	Lubbock	https://www.lubbockjiujitsuacademy.com	Brazilian jiu jitsu academy in Lubbock TX	verdict-id-10.tsv
+OK	Lucas Lepri Brazilian Jiu-Jitsu Knoxville	TN	Knoxville	https://lepribjjknoxville.com	BJJ academy, Sutherland Avenue Knoxville TN	verdict-id-10.tsv
+OK	Lucas Lepri Jiu Jitsu Academy Fort Mill	SC	Fort Mill	https://lepribjj.com	Own site lists Fort Mill SC academy	verdict-id-10.tsv
+OK	Ludus Martial Arts LLC	FL	Jacksonville Beach	https://www.ludusmartialarts.com/	MMA gym, Beach Blvd Jacksonville Beach FL	verdict-id-10.tsv
+OK	M3 Karate	AZ	Gilbert	https://m3martialarts.com/what-m3-martial-arts-in-gilbert-offers/#jiujitsu	Own programs page, jiu jitsu, Gilbert AZ	verdict-id-10.tsv
+OK	MADE Fitness and Training Center	KY	Louisville	https://www.madelouisville.com/	BJJ programs, martial arts in Louisville KY	verdict-id-10.tsv
+OK	MAS Academy of Martial Arts	ON	Cambridge	https://masthaiboxing.com	BJJ listed, Bishop Street North Cambridge ON	verdict-id-10.tsv
+OK	MKG Martial Arts	MI	Ferndale	https://www.boomboxdet.com/	MKG grappling collective, Hilton Rd Ferndale MI	verdict-id-10.tsv
+OK	MKG Martial Arts Minneapolis	MN	Minneapolis	https://www.mnkali.com	BJJ muay thai school, Minneapolis MN named	verdict-id-10.tsv
+OK	MONTGOMERY MARTIAL ARTS	AL	Montgomery	https://montgomerymartialartsonline.com/	Martial arts school, Atlanta Hwy Montgomery AL	verdict-id-10.tsv
+OK	MPower Gym LLC	OH	Vandalia	https://www.mpowergymllc.com/	BJJ program gym located in Vandalia OH	verdict-id-10.tsv
+OK	MXT BJJ	NB	Saint John	https://www.mxtbjj.com	BJJ academy, Somerset Street Saint John NB	verdict-id-10.tsv
+OK	Main Quest BJJ	AB	Calgary	https://mainquestbjj.com	BJJ academy, 1A Street SW Calgary AB	verdict-id-10.tsv
+OK	Manimal Athletics Training Center	NS	Lucasville	https://www.facebook.com/ManimalTraining	Facebook renders, BJJ, Lucasville Road Lucasville NS	verdict-id-10.tsv
+OK	Maracaba BJJ	AZ	Mesa	https://maracabajiujitsu.com/	Brazilian jiu-jitsu academy in Mesa AZ	verdict-id-10.tsv
+OK	Marcellini’s Martial Arts Academy	CA	Moreno Valley	http://www.mmaa.us/	Now Riverside CA, adjacent to Moreno Valley	verdict-id-10.tsv
+OK	Marcelo Garcia Jiu-Jitsu of Dallas	TX	Dallas	https://www.marcelogarciadallas.com	BJJ academy, E Mockingbird Lane Dallas TX	verdict-id-10.tsv
+OK	Marcio Andre Brazilian Jiu-Jitsu Academy	AZ	Phoenix	https://marcioandrejiujitsu.com/	Ahwatukee, a village within Phoenix AZ	verdict-id-10.tsv
+OK	Marcio Cruz BJJ	FL	Tampa	https://marciocruzbjj.com/	BJJ academy, Center Oak Dr Tampa FL	verdict-id-10.tsv
+OK	Maritime Jiu-Jitsu	NS	Halifax	https://www.maritimejiujitsu.ca	BJJ academy, Hood St Halifax NS	verdict-id-10.tsv
+OK	Martial Arts and More of Wilmington (Team JBM BJJ)	NC	Wilmington	https://martialartswilmingtonnc.com/	BJJ and Muay Thai in Wilmington NC	verdict-id-11.tsv
+OK	Master Haydar's Black Belt Academy	AZ	Goodyear	https://masterhaydar.com/	Taekwondo and BJJ classes, Goodyear AZ address	verdict-id-11.tsv
+OK	Maverick Training Center	AL	Huntsville	https://mavericktraining.net/	BJJ and Muay Thai, Huntsville AL address	verdict-id-11.tsv
+OK	May River BJJ	SC	Bluffton	https://www.mayriverbjj.com	BJJ, 1 Sherington Dr Bluffton SC	verdict-id-11.tsv
+OK	Megalodon MMA	GA	Watkinsville	https://www.megalodongym.com/	MMA and BJJ; site lists Bogart GA	verdict-id-11.tsv
+OK	Meta Martial Arts	AR	Fayetteville	https://meta-ma.com/	BJJ and MMA, N Crossover Fayetteville AR	verdict-id-11.tsv
+SUSPECT	Method BJJ	NJ	South Plainfield	https://www.methodbjj.com/	Edmonton AB school; announced permanent closure 2025	verdict-id-11.tsv
+OK	Michigan Top Team	MI	Detroit	https://michigantopteam.com	MMA gym; site lists Southfield MI address	verdict-id-11.tsv
+OK	Mid City Martial Arts & Fitness Academy	LA	New Orleans	https://www.midcitymma.com	Jiu jitsu and wrestling, New Orleans LA	verdict-id-11.tsv
+OK	Middlebury American Jiu Jitsu Academy	VT	Middlebury	https://mbjiujitsu.com	BJJ, 812 Exchange Street Middlebury VT	verdict-id-11.tsv
+OK	Midwest Martial Arts Academy	SD	Sioux Falls	https://midwestmartialartssf.com	BJJ and judo school, Sioux Falls SD	verdict-id-11.tsv
+OK	Mike Burlaka's Brazilian Jiu Jitsu @Hard Knocks Gym	AZ	Phoenix	https://www.facebook.com/MikeBurlakaBJJ/	Live FB page, BJJ, Phoenix AZ address	verdict-id-11.tsv
+OK	Miller Martial Arts (American Top Team Warner Robins)	GA	Bonaire	https://millermartialarts.us	BJJ, 405 SR 96 Bonaire GA	verdict-id-11.tsv
+OK	Mission Athletics	IA	Cedar Rapids	https://www.missionathletics.com	Wrestling and jiu jitsu, Cedar Rapids IA	verdict-id-11.tsv
+OK	Mission Brazilian Jiu Jitsu	BC	Mission	https://www.missionbjj.ca	BJJ, 31510 Gill Avenue Mission BC	verdict-id-11.tsv
+OK	Mission First Jiu-Jitsu	RI	Middletown	https://www.missionfirstbjj.com	BJJ, 999 West Main Middletown RI	verdict-id-11.tsv
+OK	Mountain Jiu Jitsu	BC	Squamish	https://www.mtnjjsq.com	BJJ, 39455 Discovery Way Squamish BC	verdict-id-11.tsv
+OK	Munduruca North Edmonton BJJ	AB	Edmonton	https://northedmontonbjj.com	BJJ, 14809 Yellowhead Trail Edmonton AB	verdict-id-11.tsv
+OK	NOS Brazilian Jiu-Jitsu & MMA	BC	Vernon	https://www.shuswapbjj.com	BJJ, 740 Waddington Drive Vernon BC	verdict-id-11.tsv
+OK	National Institute of Modern Martial Arts	NH	Claremont	https://nimmadojo.com	BJJ program, 140 North Street Claremont NH	verdict-id-11.tsv
+OK	New England BJJ Academy	NH	Concord	https://www.nebjj.com	BJJ, 30 Henniker St Concord NH	verdict-id-11.tsv
+OK	New England Top Team	NH	Salem	https://www.newenglandtopteam.com	BJJ, 8D Industrial Way Salem NH	verdict-id-11.tsv
+OK	New Way Martial Arts Academy	MI	Shelby Charter Township	https://newwaytrainingcenter.com/	BJJ and judo; moved to Clinton Township	verdict-id-11.tsv
+OK	Newton Jiu Jitsu	KS	Newton	https://newtonjiujitsu.com	BJJ, 400 S Main St Newton KS	verdict-id-11.tsv
+OK	Next Level Combat	MN	Woodbury	https://www.nextlevelcombat.com	BJJ, 1890 Wooddale Drive Woodbury MN	verdict-id-11.tsv
+OK	Next Level STL	MO	St. Louis	https://nextlevelstl.com	BJJ, judo and boxing, St. Louis MO	verdict-id-11.tsv
+OK	No Illusions Martial Arts	SD	Brookings	https://www.noillusionsmartialarts.com	BJJ and Muay Thai in Brookings SD	verdict-id-11.tsv
+OK	Nomad Brazilian Jiu Jitsu Studio	BC	Sechelt	https://thenomadstudio.ca	BJJ, 1780 Blower Road Sechelt BC	verdict-id-11.tsv
+OK	North Wake Martial Arts	SK	Prince Albert	https://northwakemartialarts.com	Prince Albert SK named; BJJ offered	verdict-id-12.tsv
+OK	Northside Brazilian Jiu Jitsu	OK	Collinsville	https://www.thenorthsidejiujitsu.com	Collinsville OK; site lists 123 N 7th	verdict-id-12.tsv
+OK	Nova Jiu Jitsu Rochester	NY	Rochester	https://novajiujitsu.com	3300 Monroe Ave, Rochester NY	verdict-id-12.tsv
+OK	Ocean County BJJ	NJ	Toms River	https://www.oceancountybjj.com/	Site names Forked River, NJ instead	verdict-id-12.tsv
+OK	Octo Alliance Combat Sports	MI	Grand Rapids	https://octoalliancecombatsports.com/	Site says Caledonia MI, Grand Rapids metro	verdict-id-12.tsv
+OK	Ohana Martial Arts	IL	Waukegan	https://ohanama.com/	Site says Grayslake IL, nine miles	verdict-id-12.tsv
+OK	Oklahoma Combat Sports / KORE BJJ	OK	Poteau	https://www.facebook.com/ocskorebjj/	Facebook page live: BJJ in Poteau OK	verdict-id-12.tsv
+OK	Oldham County Martial Arts Academy	KY	La Grange	https://www.ocmaaky.com	Redirects to 4217 KY-146, LaGrange KY	verdict-id-12.tsv
+OK	Olympic Brazilian Jiu Jitsu	LA	Sulphur	https://olympicbjj.org	301 S Huntington St, Sulphur LA	verdict-id-12.tsv
+OK	Olympus Jiu Jitsu Academy	FL	Lutz	https://bjjolympus.com/	Site says Land O' Lakes, FL	verdict-id-12.tsv
+OK	One Ten Brazilian Jiu Jitsu Academy	AZ	Scottsdale	https://onetenbjj.com/	10810 E Via Linda, Scottsdale AZ	verdict-id-12.tsv
+OK	Oneonta Jiu Jitsu Academy	NY	Oneonta	https://oneontajiujitsuacademy.com	5366 Main St, Oneonta NY matches	verdict-id-12.tsv
+OK	Open Guard BJJ	NC	Apex	https://openguardbjj.com/	737 Center Street, Apex NC matches	verdict-id-12.tsv
+OK	Oshawa BJJ	ON	Oshawa	https://oshawabjj.com/	1160 Simcoe St S, Oshawa ON	verdict-id-12.tsv
+OK	P3 Martial Arts	IL	Schaumburg	https://p3schaumburg.com/	Schaumburg IL, S Roselle Rd; adult BJJ	verdict-id-12.tsv
+OK	Pallaton Brazilian Jiu Jitsu	AZ	Tucson	https://www.pallatonbjj.com	Tucson AZ named; no street address	verdict-id-12.tsv
+OK	Paradigm Brazilian Jiu Jitsu	MA	Lowell	https://www.theparadigmacademy.com	109 Industrial Ave E, Lowell MA	verdict-id-12.tsv
+OK	Paxibellum	NY	New York	https://paxibellum.com/	4 W 18th Street, New York NY	verdict-id-12.tsv
+WRONG_CITY	Peak Performance	TX	North Richland Hills	https://peakperformancemartialarts.com/	Cedar Park, TX (Austin area school)	verdict-id-12.tsv
+OK	Peak Performance Decatur Brazilian Jiu-Jitsu	TX	Decatur	https://www.peakdecatur.com/	101 US 81 BUS, Decatur TX	verdict-id-12.tsv
+OK	Performance Jiu-Jitsu Academy	NJ	Fair Lawn	https://armlock.com	23-12 Broadway, Fair Lawn NJ	verdict-id-12.tsv
+OK	Phil Clark's Martial Arts & Relson Gracie Jiu-Jitsu Of KY	KY	Ashland	https://ashlandtaekwondo.com/	601 28th Street, Ashland KY matches	verdict-id-12.tsv
+OK	Phoenix Rising Martial Arts	AR	Mountain Home	https://www.phoenixrisingma.com/	1226 Commerce Dr, Mountain Home AR	verdict-id-12.tsv
+OK	Pinnacle Martial Arts Academy	LA	Monroe	https://pinnacle-ma.com/	2901 Desoto Street, Monroe LA matches	verdict-id-12.tsv
+OK	Pirate BJJ	AL	Madison	https://www.piratebjj.com/	312 Palmer Rd, Madison AL listed	verdict-id-12.tsv
+OK	Positive Balance Brazilian Jiu Jitsu	FL	Tallahassee	https://positivebalancegrappling.com/	1533 South Monroe, Tallahassee FL listed	verdict-id-12.tsv
+OK	Potter Combat Academy	WY	Cody	https://pottercombat.com	1713 17th Street, Cody WY matches	verdict-id-12.tsv
+OK	Prairie Wolfe Jiu Jitsu	KS	Wichita	https://prairiewolfejiujitsu.com	BJJ academy, Wichita KS address matches listing	verdict-id-13.tsv
+OK	Precision Jiu Jitsu Spring Mount	PA	Schwenksville	https://www.precisionjjspringmount.com	Rebranded The Barracks, Schwenksville PA, BJJ	verdict-id-13.tsv
+OK	Pride Martial Arts and Fitness	RI	Kingston	https://www.pridemartialarts.com	Kingston RI, BJJ program listed, address matches	verdict-id-13.tsv
+OK	Primal Jiu Jitsu and Mixed Martial Arts	NH	Derry	https://www.primaljiujitsuacademy.com	Derry NH, 6 A Street matches	verdict-id-13.tsv
+OK	Princeton Brazilian Jiu Jitsu	NJ	Princeton	https://www.princetonbjj.com	Princeton NJ BJJ, 741 Alexander Road	verdict-id-13.tsv
+OK	Prodigy Jiu-Jitsu	OK	Edmond	https://www.prodigyjj.com/	Edmond OK headquarters, different street address listed	verdict-id-13.tsv
+OK	Prodigy Martial Arts	MN	Blaine	https://www.prodigymartialartsmn.com	Blaine MN BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Professional Martial Arts Academy Derry	NH	Derry	https://pmaderry.com	Derry NH, BJJ program, address matches	verdict-id-13.tsv
+OK	Professional Martial Arts Academy Plaistow	NH	Plaistow	https://pmaplaistow.com	Plaistow NH, jiu-jitsu and judo, address matches	verdict-id-13.tsv
+OK	Progressive Fighting Academy	AB	Lethbridge	https://pfakickboxing.com/	Lethbridge AB, BJJ and wrestling classes listed	verdict-id-13.tsv
+OK	Progressive Martial Arts Grand Forks	ND	Grand Forks	https://progressivemartialartsgf.com	Grand Forks ND BJJ, address matches listing	verdict-id-13.tsv
+OK	Providence BJJ	RI	Providence	https://providencebjj.com	Providence RI, 4 Aurora Street, BJJ	verdict-id-13.tsv
+OK	Proving Grounds Jiu Jitsu & MMA	MI	Shelby Township	https://provinggroundsjj.com/	Shelby Township MI BJJ, address matches listing	verdict-id-13.tsv
+OK	Prowess Brazilian Jiu-Jitsu	OK	Okmulgee	https://www.prowessgym.com/	Okmulgee OK gym with BJJ, different address	verdict-id-13.tsv
+OK	Pure Martial Arts and Fitness	BC	Campbell River	https://puremartialarts.ca	Campbell River BC, BJJ and grappling, matches	verdict-id-13.tsv
+OK	Pursuit Jiu Jitsu	MS	Brookhaven	https://www.pursuitjj.com	Brookhaven MS BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Quantum Jiu Jitsu	NB	Moncton	https://www.quantumjj.com	Moncton NB BJJ, 175 Barker St	verdict-id-13.tsv
+OK	R.E. Training Center	KS	Topeka	https://roneyedlerbrazilianjiujitsu.com	Topeka KS BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	REFUGE BJJ	AZ	Phoenix	https://refugebjj.com/	Phoenix AZ BJJ, 711 E Carefree	verdict-id-13.tsv
+OK	RISE Athletics	MB	Winkler	https://www.riseactive.ca	Winkler MB gym, BJJ classes, address matches	verdict-id-13.tsv
+OK	ROCKET CITY REVOLUTION BJJ	AL	Madison	https://www.rcrbjj.com/	Madison AL BJJ, 97 Hughes Rd	verdict-id-13.tsv
+OK	RS MMA and Fitness	KS	Junction City	https://rsmartialarts.com	Junction City KS BJJ, address matches listing	verdict-id-13.tsv
+OK	Raiz Brazilian Jiu-Jitsu	CA	Eureka	https://www.raizbjj.net/	Eureka CA BJJ, 212 G Street	verdict-id-13.tsv
+OK	Ranieri Paiva Jiu-Jitsu Academy	GA	Atlanta	https://www.atlbjj.com/	Now Tribe BJJ, Marietta GA, Atlanta metro	verdict-id-13.tsv
+OK	Rankin Jiu-Jitsu Academy	MS	Brandon	https://rankinjiujitsu.com	Brandon MS BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Rare Breed Mixed Martial Arts	NJ	Bloomfield	https://www.rarebreedmma.com/	Bloomfield NJ MMA and BJJ, address matches	verdict-id-13.tsv
+OK	Reaction MMA	KY	Nicholasville	https://www.reactionmma.com	Nicholasville KY BJJ and MMA, address given	verdict-id-13.tsv
+OK	Real Deal Martial Arts	AR	Hot Springs	https://realdealmartialarts.com	Hot Springs AR, jiu-jitsu and wrestling, matches	verdict-id-13.tsv
+OK	Recreate Fitness	OR	Portland	https://recreatefitness.com/	Portland OR jiu jitsu, address matches listing	verdict-id-13.tsv
+OK	Red Fox Brazilian Jiu-Jitsu	SC	Hartsville	https://redfoxbjj.com	Hartsville SC BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Red Hawk Academy	AZ	Peoria	https://www.redhawkacademyaz.com/	Peoria AZ MMA and BJJ, W Peoria	verdict-id-13.tsv
+OK	Red Lodge Grindhouse Jiu Jitsu	MT	Red Lodge	https://redlodgegrindhouse.com	Red Lodge MT jiu jitsu and wrestling	verdict-id-13.tsv
+OK	Red River BJJ	TX	Wichita Falls	https://redriverbjj.com	Wichita Falls TX BJJ academy, no address	verdict-id-13.tsv
+OK	Red Tiger Martial Arts	BC	Surrey	https://www.redtigersurrey.com	Surrey BC, gi/no-gi jiu jitsu, address matches	verdict-id-13.tsv
+OK	Regina BJJ	SK	Regina	https://reginabjj.com	Regina SK BJJ, 655 Henderson Drive	verdict-id-13.tsv
+OK	Reign Jiu Jitsu	TX	Katy	https://reignbjj.com	Katy TX BJJ, 1648A S Mason	verdict-id-13.tsv
+OK	Relentless Mixed Martial Arts	MS	Columbus	https://relentless-mma.com	Columbus MS BJJ and MMA, address matches	verdict-id-13.tsv
+OK	Relson Gracie Jiu-Jitsu Ronn Shiraki Academy	HI	Honolulu	https://www.ronnshiraki.com	Honolulu HI BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Relson Gracie Jiu-Jitsu Team HK	HI	Honolulu	https://www.graciehonolulu.com	Honolulu HI BJJ, S King Street matches	verdict-id-13.tsv
+OK	Renaissance Academy of Martial Arts	VA	Lynchburg	https://ramarts.com/	Lynchburg VA, BJJ and wrestling, address matches	verdict-id-13.tsv
+OK	Renzo Gracie	TX	Corpus Christi	https://renzograciecorpuschristi.com/	Corpus Christi TX BJJ, Yorktown Blvd matches	verdict-id-13.tsv
+OK	Renzo Gracie Academy Florida	FL	Sunrise	https://renzogracieflorida.com/	Sunrise FL, 1091 Shotgun Road matches	verdict-id-13.tsv
+OK	Renzo Gracie Brazilian Jiu Jitsu Morgantown	WV	Morgantown	https://renzograciemorgantown.com	Morgantown WV BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Renzo Gracie Denville	NJ	Denville	https://renzograciedenville.com	Denville NJ BJJ, 56 Broadway	verdict-id-13.tsv
+OK	Renzo Gracie Des Moines	IA	Des Moines	https://renzograciedesmoines.com	Des Moines IA BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Renzo Gracie Fort Lauderdale	FL	Fort Lauderdale	https://renzogracieftl.com/	Fort Lauderdale FL BJJ, 535 NE 13th	verdict-id-13.tsv
+OK	Renzo Gracie Fort Lee / TEO BJJ	NJ	Fort Lee	https://teobjj.com	Fort Lee NJ BJJ and judo, address	verdict-id-13.tsv
+OK	Renzo Gracie Jiu Jitsu DFW	TX	Hurst	https://renzograciejiujitsudfw.com	Hurst TX BJJ, 420 Grapevine Hwy	verdict-id-13.tsv
+OK	Renzo Gracie Jiu Jitsu Portland	OR	Portland	https://www.renzogracieportland.com/contact/	Portland OR BJJ, 833 N Shaver	verdict-id-13.tsv
+OK	Renzo Gracie Latham	NY	Latham	https://renzogracielatham.com/	Latham NY BJJ, 836 Loudon Rd	verdict-id-13.tsv
+OK	Renzo Gracie Martinsburg	WV	Martinsburg	https://www.renzograciemartinsburg.com	Martinsburg WV BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Renzo Gracie NH Exeter	NH	Exeter	https://renzogracienh.org	Exeter NH location listed, address matches listing	verdict-id-13.tsv
+OK	Renzo Gracie NH Manchester	NH	Manchester	https://renzogracienh.org	Manchester NH location listed, address matches listing	verdict-id-13.tsv
+OK	Renzo Gracie NH Windham	NH	Windham	https://renzogracienh.org	Windham NH location listed, address matches listing	verdict-id-13.tsv
+OK	Renzo Gracie Naples	FL	Naples	https://renzogracienaples.com	Naples FL BJJ, 4221 Tamiami Trail	verdict-id-13.tsv
+OK	Renzo Gracie Nashville	TN	Brentwood	https://renzogracienashville.com	Brentwood TN location, 5105 Maryland Way	verdict-id-13.tsv
+OK	Renzo Gracie Newark	NJ	Newark	https://www.renzogracienj.com	Newark NJ BJJ, 172 McWhorter Street	verdict-id-13.tsv
+OK	Renzo Gracie Niagara	ON	St. Catharines	https://renzogracieniagara.com	St Catharines ON BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Renzo Gracie Northern Valley	NJ	Northvale	https://nvbjj.com	Northvale NJ BJJ, 240 Pegasus Ave	verdict-id-13.tsv
+OK	Renzo Gracie Orlando	FL	Orlando	https://orlandojiujitsu.com/	Orlando FL BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Renzo Gracie Pasadena	CA	Pasadena	https://www.renzograciepasadena.com/	Pasadena CA BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Renzo Gracie Round Rock	TX	Round Rock	https://renzogracieroundrock.com/	Round Rock TX BJJ, 2051 Gattis School	verdict-id-13.tsv
+OK	Renzo Gracie Staten Island	NY	Staten Island	https://sinybjj.com	Staten Island NY BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Renzo Gracie Utah	UT	Kaysville	https://renzogracieutah.com	Kaysville UT BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Renzo Gracie of Lake Worth	FL	Lake Worth	https://renzogracielakeworth.com/	Lake Worth FL BJJ, 6752 Lantana Rd	verdict-id-13.tsv
+OK	Republic BJJ	NL	St. John's	https://www.republicbjj.com	St John's NL BJJ, Crosbie Road location	verdict-id-13.tsv
+OK	Resilience Brazilian Jiu Jitsu	AB	Medicine Hat	https://www.rbjj.ca	Medicine Hat AB BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Resilience Martial Arts	MN	Lakeville	https://www.resilience-ma.com	Lakeville MN Gracie jiu-jitsu, address matches listing	verdict-id-13.tsv
+OK	Resolve Martial Arts Academy Orillia	ON	Orillia	https://resolvemartialartsorillia.com	Orillia ON BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Restigouche Dojo	NB	Campbellton	https://restigouchedojo.com	Campbellton NB judo and BJJ, Salmon Blvd	verdict-id-13.tsv
+OK	Revelation Martial Arts	MB	Steinbach	https://www.revelationmartialarts.com	Steinbach MB BJJ and judo, no street address	verdict-id-13.tsv
+OK	Revelations Brazilian Jiu-Jitsu	WV	Inwood	https://revelationsbjj.wordpress.com	Inwood WV BJJ, address matches listing exactly	verdict-id-13.tsv
+OK	Revive BJJ	MO	St Charles	https://www.revivebjj.com/	Site address is St Peters MO, adjacent	verdict-id-13.tsv
+OK	Revive Jiu Jitsu - Mesa BJJ	AZ	Mesa	https://bjjmesa.com/	East Mesa AZ BJJ, S Signal Butte	verdict-id-13.tsv
+OK	Revolution BJJ	AK	Fairbanks	https://revolutionalaska.com/	Fairbanks AK BJJ and judo, Airport Way	verdict-id-13.tsv
+OK	Revolution Combat & Fitness	AR	Benton	https://revolutionmma.com	Benton AR BJJ, different street address listed	verdict-id-13.tsv
+OK	Revolution Martial Arts and Performance Fitness	SC	Inman	https://revolution-martialarts.com	Inman SC BJJ and wrestling, address matches	verdict-id-13.tsv
+OK	Ricardo Almeida BJJ Academy	NJ	Hamilton	https://ricardoalmeida.com	BJJ academy, site names Robbinsville NJ nearby	verdict-id-13.tsv
+OK	Ricardo Cavalcanti Brazilian Jiu-Jitsu - RI	RI	North Providence	https://rcbjjri.com	North Providence RI BJJ, address matches listing	verdict-id-13.tsv
+OK	Rice brothers Brazilian Jiu Jitsu	CA	Redding	https://ricebrosacademy.com/?fbPAAaank9WRQJ0f5XUCD7nDCT9_YZ7N0FpkVqn-3QxgLos6phsskIp9UrbXTyc_aem_AcxKEC-ea23ShVOKT-p_9ivUHO3QEvIy3wh3A7nmMpplQlDh7ddgoeBgtEJrB7mEiho	BJJ academy, 1436 Eureka Way Redding CA	verdict-id-14.tsv
+OK	Richardson Jiu Jitsu	AL	Prattville	https://www.richardsonjj.com/	BJJ, 2257 Cobbs Ford Rd Prattville AL	verdict-id-14.tsv
+OK	Richmond Hill Jiu-Jitsu	ON	Richmond Hill	https://rh-bjj.com	BJJ, 132 King Rd Richmond Hill ON	verdict-id-14.tsv
+OK	Rilion Gracie Greenville	SC	Greer	https://riliongraciegreenville.com	BJJ, 600 N Main St Greer SC	verdict-id-14.tsv
+OK	Rilion Gracie Katy	TX	Katy	https://www.riliongraciekaty.com	BJJ, 962 S Fry Rd Katy TX	verdict-id-14.tsv
+OK	Rio Jitsu	MN	Apple Valley	https://riojitsu.com	BJJ and Judo, Apple Valley MN	verdict-id-14.tsv
+OK	Rise Up BJJ	GA	Kennesaw	https://www.riseupbjj.com/	BJJ, Bells Ferry Rd Kennesaw GA	verdict-id-14.tsv
+OK	Rising Sun Brazilian Jiu Jitsu Academy	NJ	Ridgefield Park	https://www.risingsunacademy.com	BJJ and MMA, Ridgefield Park NJ	verdict-id-14.tsv
+OK	Rival Jiu-Jitsu	NJ	Waldwick	https://www.rivalbjj.com/	BJJ, 4 North St Waldwick NJ	verdict-id-14.tsv
+OK	Rocky Mount BJJ	NC	Rocky Mount	https://rockymountbjj.com	Gustavo Machado BJJ, Rocky Mount NC	verdict-id-14.tsv
+OK	Rodrigo Cardoso Brazilian Jiu-Jitsu Academy	CA	Vacaville	https://atlasbjj.com/	Rebranded Atlas BJJ, Vacaville CA	verdict-id-14.tsv
+OK	Rolling Panda Brazilian Jiu Jitsu	GA	Hiram	https://www.rollingpandabjj.com	BJJ; site says Dallas GA nearby	verdict-id-14.tsv
+OK	Rolls Jiu Jitsu	ME	Ellsworth	https://rollsjiujitsumaine.com	BJJ, 249 Bucksport Rd Ellsworth ME	verdict-id-14.tsv
+OK	Rough Hands BJJ	KY	Louisville	https://roughhandsbjj.com	BJJ, 3048 Bardstown Rd Louisville KY	verdict-id-14.tsv
+OK	Route 66 Jiu Jitsu	AZ	Williams	https://route66jiujitsu.com/	BJJ, 106 N 4th St Williams AZ	verdict-id-14.tsv
+OK	Royal City BJJ	ON	Guelph	https://royalcitybjj.com	BJJ, 20 Cowan Place Guelph ON	verdict-id-14.tsv
+OK	Royce Gracie Academy Mount Pleasant	SC	Mount Pleasant	https://roycegraciemp.com	BJJ and Muay Thai, Mount Pleasant SC	verdict-id-14.tsv
+OK	Royce Gracie Jiu Jitsu Academy of Raleigh	NC	Raleigh	https://roycegracienc.com/	BJJ, 3647 Trust Drive Raleigh NC	verdict-id-14.tsv
+OK	Royce Gracie Jiu Jitsu Cary	NC	Cary	https://roycegraciecary.com/	BJJ, 325 Sembler Lane Cary NC	verdict-id-14.tsv
+OK	Royce Gracie Jiu-Jitsu Farmington MO	MO	Farmington	https://www.facebook.com/RoyceGracieFarmington/	Live FB, 110 W Pine Farmington MO	verdict-id-14.tsv
+OK	Sanders Jiu Jitsu	NH	Rochester	https://www.sandersbjjacademy.com	BJJ, 25 Old Dover Rd Rochester NH	verdict-id-14.tsv
+OK	Sas Jiu Jitsu Syracuse	NY	Syracuse	https://www.sasteamsyracuse.com	BJJ, 3507B James St Syracuse NY	verdict-id-14.tsv
+OK	Satori Brazilian Jiu Jitsu Academy LLC	AZ	Phoenix	https://satoribjjacademy.com/	Live BJJ academy site, Phoenix AZ	verdict-id-14.tsv
+OK	Satori MMA	TX	Victoria	https://satorimma.com/	MMA with grappling, Victoria TX	verdict-id-14.tsv
+OK	Schell Shock BJJ Martial Arts	NC	Fuquay-Varina	https://www.schellshockbjj.com/	BJJ, 6109 NC-55 Fuquay-Varina NC	verdict-id-14.tsv
+OK	Science of Jiu Jitsu Academy	LA	Harvey	https://scienceofjiujitsu.net	BJJ, 1821 Commercial Dr Harvey LA	verdict-id-14.tsv
+OK	Scramble Brazilian Jiu Jitsu and Wrestling	GA	Rome	https://scramblebrazilianjiujitsuandwrestling.blogspot.com/	BJJ/wrestling, 216 Broad St Rome GA	verdict-id-14.tsv
+WRONG_CITY	Serra BJJ Academy	NY	Levittown	https://serrabjjacademy.com/	Huntington NY; no Levittown location listed	verdict-id-14.tsv
+OK	Shield Systems Academy	TN	Knoxville	https://shieldsystemsacademy.com	BJJ, 8651 Middlebrook Pike Knoxville TN	verdict-id-14.tsv
+OK	Sindalu Brazilian Jiu-Jitsu Albuquerque	NM	Albuquerque	https://www.sindalubjj.com	Contact page lists 3614 High St NE	verdict-id-15.tsv
+OK	Skinner's Martial Arts	KY	Grand Rivers	https://www.skinnersmartialarts.com/	Rebranded Transform Academy, Calvert City KY nearby	verdict-id-15.tsv
+OK	SmartJits Brazilian Jiu Jitsu Academy	NM	Albuquerque	https://smartjits.life	8520 Pan American Fwy NE Albuquerque matches	verdict-id-15.tsv
+WRONG_CITY	Snake Pit U.S.A. MMA	NJ	Galloway	https://snakepitusamma.com	Hammonton NJ, roughly eighteen miles away	verdict-id-15.tsv
+OK	Soul Fighters Headquarters	AZ	Tempe	https://www.soulfightershq.com/	975 E Elliot Rd Tempe AZ	verdict-id-15.tsv
+OK	South Boston BJJ	MA	Boston	https://southbostonbjj.com	Academy in Leather District, Boston MA	verdict-id-15.tsv
+OK	South Mountain Brazilian Jiu Jitsu & Self Defense	AZ	Phoenix	https://southmountainjiujitsu.com/	3636 W Southern Ave Phoenix AZ	verdict-id-15.tsv
+OK	Southpaw Fitness	GA	Kathleen	https://www.southpawfitness.com/	Kathleen GA gym, BJJ and judo	verdict-id-15.tsv
+OK	Sparks Martial Arts Academy	VA	Ashburn	https://www.sparksmma.com/	21720 Red Rum Dr Ashburn VA matches	verdict-id-15.tsv
+OK	Spartan Academy MMA	SC	Columbia	https://spartanacademymma.com	6169 Saint Andrews Rd Columbia SC matches	verdict-id-15.tsv
+OK	Spartan Martial Arts	MN	Oakdale	https://spartanmartialartsgym.com	Located Oakdale MN, BJJ sambo judo	verdict-id-15.tsv
+OK	Spearfish Martial Arts	SD	Spearfish	https://www.spearfishmartialarts.com	2431 E Colorado Blvd Spearfish SD matches	verdict-id-15.tsv
+OK	Spectrum Jiu Jitsu	WV	Kearneysville	https://spectrumjiujitsu.com	59 Ruland Rd Kearneysville WV matches	verdict-id-15.tsv
+OK	St. Paul Brazilian Jiu Jitsu Academy	MN	St. Paul	https://bjjacademymn.com	322 Chester St St. Paul MN matches	verdict-id-15.tsv
+OK	Standalone MMA, Brazilian Jiu-Jitsu, Boxing, Muay Thai Kickboxing and Fitness	CA	Chico	https://www.standalonemma.com/	848 W 9th St Chico CA matches	verdict-id-15.tsv
+OK	Stars and Strikes MMA	MI	Westland	https://starsandstrikesmma.com/	MMA gym in Westland MI, grappling taught	verdict-id-15.tsv
+OK	Stellar Jiu Jitsu	WV	Lewisburg	https://stellarjj.com	Jiu-jitsu academy in Lewisburg WV, HQ	verdict-id-15.tsv
+OK	Stoic Brazilian Jiu Jitsu	TX	Mansfield	https://www.stoicjj.com/	1910 Lone Star Rd A Mansfield TX	verdict-id-15.tsv
+OK	Stonecoast Brazilian Jiu Jitsu	ME	Portland	https://stonecoastbjj.com	131 Johnson Rd Portland ME matches	verdict-id-15.tsv
+OK	Straight Blast Gym Atlanta BJJ	GA	Atlanta	https://sbgatlanta.com/locations/sbg-atlanta/	1799 Briarcliff Rd NE Atlanta, Druid Hills	verdict-id-15.tsv
+OK	Straight Blast Gym Kalispell	MT	Kalispell	https://sbgkalispell.com/bjj	30 4th St E Kalispell MT matches	verdict-id-15.tsv
+OK	Straight Blast Gym Missoula	MT	Missoula	https://sbgmissoula.com	218 W Main St Missoula MT matches	verdict-id-15.tsv
+OK	Strong Style MMA	TX	Rosenberg	https://www.strongstylemma.com/	4106 FM 723 Suite D Rosenberg TX	verdict-id-15.tsv
+OK	Studio X	NY	New York	https://www.studiox.nyc/	6 St Marks Place New York NY 10003	verdict-id-15.tsv
+OK	Sub Zero Brazilian Jiu Jitsu	NY	Hamburg	https://subzerobjj.com	1 Memorial Drive Hamburg NY matches	verdict-id-15.tsv
+OK	Submission Arts Academy	ON	Barrie	https://submissionartsacademy.com	112 Commerce Park Dr Barrie ON matches	verdict-id-15.tsv
+OK	Sudbury BJJ	ON	Sudbury	https://sudburybjj.com	790 Lasalle Blvd Greater Sudbury ON	verdict-id-15.tsv
+OK	Summit Fitness Kickboxing and Jiu Jitsu	MS	Starkville	https://starkvillefitnesskickboxing.com	400 Industrial Park Rd G Starkville MS	verdict-id-15.tsv
+OK	Supreme Academy ATX	TX	Austin	https://supremeacademyatx.com	Kyle TX address, Austin metro; BJJ judo	verdict-id-15.tsv
+OK	Surrey Combat Sports and Performance	BC	Surrey	https://surreymma.ca	13638 Grosvenor Road Surrey BC matches	verdict-id-15.tsv
+OK	Synthesis Brazilian Jiu-Jitsu	NY	Rochester	https://synthesisbjj.com	1225 Jefferson Rd Rochester NY matches	verdict-id-15.tsv
+OK	System Jiu-Jitsu	ID	Meridian	https://systemjiujitsu.com	735 N Ralstin St Meridian ID matches	verdict-id-15.tsv
+OK	T.O.S.S. Academy / Gracie Brazilian Jiu-Jitsu	AR	Bentonville	https://www.tossbjj.com/	2003 SW Regional Airport Blvd Bentonville AR	verdict-id-15.tsv
+OK	TD Athletics	NY	Brooklyn	https://tdathletics.net	713 Snediker Avenue Brooklyn NY matches	verdict-id-15.tsv
+OK	TFTC Academy Cary	NC	Cary	https://carymma.com/	6408 Tryon Rd Suite D Cary NC	verdict-id-15.tsv
+OK	TRXTR Studio	HI	Kapolei	https://bjjkapolei.com	2045 Lauwiliwili St 403 Kapolei HI	verdict-id-15.tsv
+OK	Tactical Combat Academy MMA - Greencastle	PA	Greencastle	https://www.tcamma.com/	120 S Antrim Way Greencastle PA matches	verdict-id-15.tsv
+OK	Tbt Gym-Total Body Training	TX	McKinney	https://tbtgym.com/calendar/	McKinney TX location, BJJ and wrestling scheduled	verdict-id-15.tsv
+OK	Team Carvalho Treasure Coast	FL	Fort Pierce	https://www.teamcarvalhotreasurecoast.com/	113 Orange Avenue Fort Pierce FL matches	verdict-id-15.tsv
+OK	Team Casarez Jiu-Jitsu	NC	Cary	https://casarezbjj.com/	253 Grande Heights Drive Cary NC matches	verdict-id-15.tsv
+OK	Team Curuma Brazilian Jiu-Jitsu Academy	NJ	Bergenfield	https://teamcuruma.com	North Bergen NJ address, roughly eight miles	verdict-id-15.tsv
+OK	Team Diamond Heart	NY	Brooklyn	https://teamdiamondheart.com	67 Ingraham St Bushwick Brooklyn NY	verdict-id-15.tsv
+OK	Team Hopkins Hattiesburg	MS	Hattiesburg	https://teamhopkinsjiujitsu.com	22 Commercial Warehouse Drive Hattiesburg MS matches	verdict-id-15.tsv
+OK	Team Junqueira Pittsburgh	PA	Wexford	https://www.teamjunqueira.com/	Located in Wexford PA north of Pittsburgh	verdict-id-15.tsv
+OK	Team Rhino Gracie Jiu-Jitsu	ID	Meridian	https://teamrhinoidaho.com	750 S Progress #125 Meridian ID	verdict-id-15.tsv
+OK	Teknica MMA	FL	Miami	https://teknicajj.com/	Pinecrest FL, Miami metro suburb address	verdict-id-16.tsv
+OK	Texarkana Combat Sports	AR	Texarkana	https://www.texarkanacombatsports.com/	BJJ wrestling, 4017 Jefferson Ave Texarkana AR	verdict-id-16.tsv
+OK	The Chute MMA, Jiu Jitsu and Wrestling	CA	Bakersfield	https://thechutemma.com/	BJJ wrestling Bakersfield; moved to 6801 White Ln	verdict-id-16.tsv
+OK	The Forge	MO	Joplin	https://www.warriorsciences.net/	MMA BJJ, 902 East 4th Joplin MO	verdict-id-16.tsv
+OK	The Martial Arts Zone	NH	Manchester	https://themartialartszone.com	Gracie jiu-jitsu, 31 Auburn St Manchester NH	verdict-id-16.tsv
+OK	The Sword BJJ	AK	Eagle River	https://www.theswordbjj.com/	BJJ, moved to 10950 Mausel St Eagle River	verdict-id-16.tsv
+OK	Thiago Alves BJJ	UT	Riverdale	https://thiagoalvesbjj.com	BJJ, 4042 Pacific Ave Riverdale UT	verdict-id-16.tsv
+OK	Thrive Academy	MB	Winnipeg	https://thriveacademy.ca	BJJ, 181 Stradbrook Ave Winnipeg MB	verdict-id-16.tsv
+OK	Tidal BJJ	BC	Gibsons	https://tidalbjj.ca	BJJ, 1066 Gibsons Way Gibsons BC	verdict-id-16.tsv
+OK	Tom Smith's Forge Martial Arts Academy	CT	Northford	https://www.forgeacademyct.com/	BJJ listed, 1060 Middletown Ave Northford CT	verdict-id-16.tsv
+OK	Traphouse Jiu Jitsu	MT	Missoula	https://www.traphousesociety.com	BJJ, 2825 Stockyard Rd Missoula MT	verdict-id-16.tsv
+OK	Tri-Force MMA	RI	Pawtucket	https://www.triforcemma.com	BJJ MMA, Pawtucket RI location listed	verdict-id-16.tsv
+AGGREGATOR	Trifecta MMA/BJJ	CA	Visalia	https://trifecta-mmabjj.maonrails.com/	Redirects to Gymdesk-hosted subdomain; Visalia CA	verdict-id-16.tsv
+OK	Triumph Brazilian Jiu-Jitsu	NH	Nashua	https://teamtriumphbjj.com	BJJ, 2 Townsend West Nashua NH	verdict-id-16.tsv
+OK	Triumph Martial Arts Pella	IA	Pella	https://triumphma.com/location/pella-ia	Machado BJJ, 1582 Washington Street Pella IA	verdict-id-16.tsv
+OK	Triunity Martial Arts Studio	BC	Surrey	https://www.triunitymartialarts.com	BJJ, 4a-15685 Fraser Hwy Surrey BC	verdict-id-16.tsv
+OK	Truro BJJ	NS	Truro	https://trurojiujitsu.com	BJJ, 779 Prince Street Truro NS	verdict-id-16.tsv
+OK	Tsunami Academy of Martial Arts	PA	Gettysburg	https://tsunami.academy/	Gettysburg PA academy; disciplines not listed onscreen	verdict-id-16.tsv
+OK	Tutaj Brazilian Jiu Jitsu	IL	Forest Park	https://www.tutajbjj.com/	BJJ; moved from Forest Park to North Riverside	verdict-id-16.tsv
+OK	Underground Jiu Jitsu	TX	Plano	https://underground-bjj.com/	BJJ, 1406 Capital Ave Plano TX	verdict-id-16.tsv
+OK	Vagner Rocha Martial Arts	FL	Miami	https://www.vagnerrochamartialarts.com/	Hollywood FL address, Miami metro neighbour	verdict-id-17.tsv
+OK	Valhalla Jiu-Jitsu & MMA	AL	Alexandria	https://www.valhallamartialarts.com/	81 Big Valley Dr, Alexandria AL	verdict-id-17.tsv
+OK	Valle Brazilian Jiu Jitsu	NH	Londonderry	https://vallebjj.com	Londonderry NH address confirmed	verdict-id-17.tsv
+OK	Valley City Jiu-Jitsu and Self Defense Academy	ND	Valley City	https://jiujitsuvc.wixsite.com/valley-city-jiujitsu	Own Wix site, Valley City ND address	verdict-id-17.tsv
+OK	Van Buren Jiu Jitsu Chandler	AZ	Chandler	https://vanburenjiujitsu.com/	Chandler AZ address confirmed	verdict-id-17.tsv
+OK	Vanquish MMA & Jiu Jitsu	AZ	Payson	https://vanquishselfdefense.com/	Payson AZ on contact page	verdict-id-17.tsv
+OK	Vaughan Jiu-Jitsu Academy	ON	Vaughan	https://vaughanbjj.com	Vaughan ON, no street address shown	verdict-id-17.tsv
+OK	Veneration Jiu Jitsu LLC	AR	Jonesboro	https://www.jonesborojiujitsu.com/	Jonesboro AR address confirmed	verdict-id-17.tsv
+OK	Verde Valley Brazilian Jiu Jitsu	AZ	Cottonwood	https://verdevalleybjj.com/	Cottonwood AZ address confirmed	verdict-id-17.tsv
+OK	Vermont BJJ	VT	Burlington	https://vermontbjj.com	Williston VT, Burlington metro neighbour	verdict-id-17.tsv
+OK	WAMMA Brandon	MB	Brandon	https://wammabrandon.com	389 Park Ave East, Brandon MB	verdict-id-17.tsv
+OK	West River Jiu Jitsu	PE	Bonshaw	https://westriverjiujitsu.ca	25 Green Road, Bonshaw PE	verdict-id-17.tsv
+OK	Whitefish BJJ	MT	Whitefish	https://whitefishbjj.com	Moved to Columbia Falls; glaciergrappling.com	verdict-id-17.tsv
+OK	Winona BJJ	MN	Winona	https://winonabjj.com	Flow Jiu-Jitsu rebrand; Winona location listed	verdict-id-17.tsv
+OK	Wyo Faction	WY	Rock Springs	https://wyofaction.com	Names Rock Springs WY; BJJ and MMA	verdict-id-17.tsv
+OK	Xcell Jiu Jitsu	FL	Boynton Beach	https://www.xcellbjj.com/	975 Gateway Blvd, Boynton Beach FL	verdict-id-17.tsv
+OK	Alex Martins Brazilian Jiu Jitsu	TX	Dallas	https://alexmartinsbrazilianjiujitsu.com	BJJ academy, Dallas TX address on page	verdict-id-2.tsv
+OK	Alexander Jiu-Jitsu	OK	Seminole	https://alexanderjj.com/	BJJ academy, Seminole OK address matches	verdict-id-2.tsv
+OK	Alexandre Garcia Brazilian Jiu-Jitsu	NV	Reno	https://www.agjiujitsu.com	Gracie Humaita Reno NV, address matches	verdict-id-2.tsv
+OK	Alliance Jiu Jitsu - Northwest Arkansas	AR	Cave Springs	https://alliancejjnorthwestarkansas.com/	BJJ academy, Cave Springs AR address	verdict-id-2.tsv
+OK	Alliance Jiu Jitsu Anderson	SC	Anderson	https://allianceanderson.com	Jiu jitsu school, Anderson SC named	verdict-id-2.tsv
+OK	Alliance Jiu Jitsu Twin Falls	ID	Twin Falls	https://alliancetf.com	BJJ, 647 Filer Ave Twin Falls ID	verdict-id-2.tsv
+OK	Aloisio Silva Brazilian Jiu-Jitsu Academy	TX	Arlington	https://silvabjjtx.com/	Rebranded Flores Martial Arts, Arlington TX BJJ	verdict-id-2.tsv
+OK	Alvarez Brazilian Jiu-Jitsu Arlington	TX	Arlington	https://alvarezbjj.com/	BJJ academy in Arlington TX	verdict-id-2.tsv
+OK	American Elite Mixed Martial Arts	OK	Edmond	https://www.americanelitemma.com/	BJJ/MMA in Edmond OK, address updated	verdict-id-2.tsv
+SUSPECT	American Grappling	KY	Tompkinsville	https://americangrappling.org/	Now Raleigh NC grappling tournament org	verdict-id-2.tsv
+OK	American Jiu Jitsu Academy	AR	Rogers	https://jiujitsu4america.com/	BJJ academy, Rogers AR address matches	verdict-id-2.tsv
+OK	American Revolution Muay Thai & Submission Center	TX	Corpus Christi	https://www.americanrevolutionmma.com/	grappling and wrestling, Corpus Christi TX	verdict-id-2.tsv
+OK	Americana Brazilian-Jiu Jitsu	CA	Chico	https://americanabjj.com/	BJJ school, Chico CA location listed	verdict-id-2.tsv
+OK	Anchor Jiu Jitsu & Fitness	GA	Griffin	https://anchorjiujitsu.com/	BJJ, 1126 Zebulon Rd Griffin GA	verdict-id-2.tsv
+OK	Apex Martial Arts Academy	KY	Shepherdsville	https://theapexmaa.com	BJJ/MMA, now Hillview KY adjacent Shepherdsville	verdict-id-2.tsv
+OK	Ares Combat Training Center	OH	Macedonia	https://www.arescombatsportacademy.com/	Jiu-jitsu/no-gi, 420 Highland Rd Macedonia OH	verdict-id-2.tsv
+OK	Arise Brazilian Jiu-Jitsu Academy	KS	Pittsburg	https://arisebjj.org	BJJ academy, Pittsburg KS confirmed	verdict-id-2.tsv
+OK	Arlington MMA	TX	Arlington	https://arlingtonmma.com/	MMA/BJJ gym, Arlington TX address	verdict-id-2.tsv
+OK	Arsenal Brazilian Jiu Jitsu	IL	Benton	https://www.arsenalbjj.com	BJJ school, Benton IL address listed	verdict-id-2.tsv
+OK	Art of War Jiu Jitsu	FL	Orange Park	https://aowjj.com	BJJ academy, Orange Park FL location	verdict-id-2.tsv
+OK	Athens Jiu Jitsu	AL	Athens	https://www.ajjathens.com	Jiu jitsu gym, Athens AL address	verdict-id-2.tsv
+WRONG_CITY	Atlanta Budokan	GA	Smyrna	https://gamasd.com/	Georgia Martial Arts, Acworth GA address	verdict-id-2.tsv
+OK	Atlantic MMA	NC	Hickory	https://fightforitcompany.com/	MMA jiu-jitsu, Hickory NC address matches	verdict-id-2.tsv
+OK	Atlas Jiu Jitsu	ID	Meridian	https://atlas-jiujitsu.com	BJJ academy, Meridian ID address matches	verdict-id-2.tsv
+OK	Auburn Jiu Jitsu	AL	Auburn	https://auburn-jiujitsu.com/	BJJ school, 758 E Glenn Auburn AL	verdict-id-2.tsv
+OK	Austin Fitness Martial Arts	TX	Austin	https://www.thevoidmartialarts.com/	Rebrand THE VOID, BJJ MMA East Austin	verdict-id-2.tsv
+OK	Austin Fitness Martial Arts - Now is THE VOID MArtial Arts	TX	Austin	https://www.thevoidmartialarts.com/	THE VOID rebrand, BJJ MMA in Austin	verdict-id-2.tsv
+AGGREGATOR	BJJ Revolution Team - Baton Rouge	LA	Zachary	https://www.bjjrevolutionteam.com/	Affiliation brand homepage, Williston VT office	verdict-id-3.tsv
+WRONG_CITY	Bataille Jiu Jitsu Academy	NJ	Kinnelon	https://www.bataillejj.com/	Bloomingdale NJ, 47 Main St	verdict-id-3.tsv
+WRONG_CITY	Bayshore BJJ	NJ	Middletown	https://www.bayshorebjj.com/	Hazlet NJ, 1444 Route 36	verdict-id-3.tsv
+OK	Bergen County Brazilian Jiu-Jitsu	NJ	Ramsey	https://www.jiujitsutrainingnj.com/	BJJ academy, Ramsey NJ named onsite	verdict-id-3.tsv
+OK	Black Arrow Martial Arts	MN	Brainerd	https://www.blackarrowmartialarts.com	Jiu-jitsu, 217 Washington St Brainerd MN	verdict-id-3.tsv
+WRONG_CITY	Black Tiger Martial Arts Academy	IL	Libertyville	https://www.blacktigerfightclub.com/	Grayslake IL, 1033 Progress Dr	verdict-id-3.tsv
+WRONG_CITY	BlackSmith Jiu Jitsu Florida	FL	Tallahassee	https://blacksmithjiujitsu.com/	Niceville FL, 1039 John Sims Parkway	verdict-id-3.tsv
+WRONG_CITY	Brian Beury Jiu Jitsu	NY	Albany	https://brianbeauryjiujitsu.com/	Watervliet NY, 1623 2nd Ave	verdict-id-3.tsv
+OK	Bullpen Fight Club WV	WV	Wheeling	https://bullpenfightclub.com	BJJ gi/no-gi, Wheeling WV location listed	verdict-id-3.tsv
+OK	Clockwork Brazilian Jiu-Jitsu	NY	New York	https://www.clockworkbjj.com	650 Broadway New York NY, BJJ academy	verdict-id-4.tsv
+OK	Club MMA	KY	Highland Heights	https://www.club-mma.com/	Campbell County Highland Heights KY, BJJ MMA	verdict-id-4.tsv
+OK	Cobra BJJ Chelsea	AL	Chelsea	https://cobrabjjchelsea.com/	109 Foothills Pkwy Chelsea AL	verdict-id-4.tsv
+OK	Colossal Fight Company	ID	Pocatello	https://www.colossalfightcompany.com	300 N 5th Ave Pocatello ID	verdict-id-4.tsv
+OK	Combat Base Shasta/ Mendes Brazilian Jiu-Jitsu	CA	Palo Cedro	https://www.reddingselfdefense.com/	9481 Deschutes Rd Palo Cedro CA	verdict-id-4.tsv
+OK	Combat Club Cottonwood	AZ	Cottonwood	https://cottonwoodbjj.com/	1645 E Cottonwood St, Cottonwood AZ	verdict-id-4.tsv
+OK	Combat Club Lake Worth	FL	Lake Worth	https://www.combatclub.com/	Lantana FL address, adjacent to Lake Worth	verdict-id-4.tsv
+OK	Combat Fitness MMA	VT	Winooski	https://combatfitnessmma.com	Winooski VT BJJ judo boxing gym	verdict-id-4.tsv
+OK	Combat Jujitsu	LA	Metairie	https://www.combatjujitsu.biz/	Metairie LA jujitsu and judo	verdict-id-4.tsv
+OK	Combative Sports Center	KS	Manhattan	https://www.cscmhk.com	116 S 4th St Manhattan KS	verdict-id-4.tsv
+OK	Complete Fitness and Martial Arts	AB	St. Albert	https://www.stalbertmartialarts.com	40 Chisholm Ave St. Albert AB	verdict-id-4.tsv
+OK	Connect Brazilian Jiu Jitsu	CA	South Gate	https://www.connectbjj.com/	13228 Paramount Blvd South Gate CA	verdict-id-4.tsv
+OK	Control Jiu-Jitsu	FL	Melbourne	https://controljiujitsu.com/	2447 N Wickham Rd Melbourne FL	verdict-id-4.tsv
+OK	Copperhead Jiu Jitsu	OR	Pendleton	https://copperheadjiujitsu.com/	Pendleton OR and La Grande locations	verdict-id-4.tsv
+OK	Core Combat Sports Louisville	KY	Louisville	https://corelouisville.com	13124 Eastpoint Park Blvd Louisville KY	verdict-id-4.tsv
+OK	Cosmic Training Center Brazilian Jiu Jitsu	CA	Alhambra	https://www.cosmictrainingcenter.com/	115 S Garfield Ave Alhambra CA	verdict-id-4.tsv
+OK	Courtenay Brazilian Jiu-Jitsu	BC	Courtenay	https://courtenaybjj.ca	2441 Cousins Avenue Courtenay BC	verdict-id-4.tsv
+OK	Coventry Brazilian Jiu Jitsu	RI	Coventry	https://coventryribjj.com	53 Sandy Bottom Rd Coventry RI	verdict-id-4.tsv
+OK	Coyote Brazilian Jiu Jitsu Academy	NM	Albuquerque	https://coyotebjj.com	8430 Washington Pl NE Albuquerque NM	verdict-id-4.tsv
+OK	Cranbrook Brazilian Jiu-Jitsu	BC	Cranbrook	https://cranbrookbjj.com	22 8th Ave S Cranbrook BC	verdict-id-4.tsv
+OK	Creed BJJ	FL	Ocala	https://www.creedbjj.com	1005 SW 10th St Ocala FL	verdict-id-4.tsv
+OK	Creighton MMA & Fitness Academy	GA	Suwanee	https://paulcreighton.com/	460 Brogdon Road Suwanee GA, BJJ	verdict-id-4.tsv
+OK	Crest Brazilian Jiu Jitsu	NC	Hampstead	https://bjjhampstead.com/	15916 US-17 Hampstead NC academy	verdict-id-4.tsv
+OK	Criterion Brazilian Jiu Jitsu of Louisville	KY	Louisville	https://criterionbjj.com	2801 Cleveland Blvd Louisville KY	verdict-id-4.tsv
+OK	Cross Collar Jiu Jitsu - An Ed Ramos Affiliate	TX	Seabrook	https://www.edramosclearlake.com/	2114 Seabrook Circle Seabrook TX	verdict-id-4.tsv
+OK	Crossville MMA	TN	Crossville	https://www.crossvillemma.com	2280 Hwy 127 South Crossville TN	verdict-id-4.tsv
+OK	Crown BJJ	UT	Bluffdale	https://crownbjj.com	14719 S 855 W Bluffdale UT	verdict-id-4.tsv
+OK	Crypto Jiu Jitsu - Peoria, Arizona	AZ	Peoria	https://www.cryptojiujitsu.com/	10250 N 91st Ave Peoria AZ	verdict-id-4.tsv
+OK	Cultivate Power Fighting Arts	CA	Oroville	https://cultivatepower.net/	1790 Montgomery St Oroville CA, BJJ	verdict-id-4.tsv
+OK	D's Jiu-Jitsu Academy	WY	Casper	https://dsbjjcasper.com	2000 Casper St Casper WY	verdict-id-4.tsv
+OK	DNA Brazilian Jiu Jitsu	ON	Whitby	https://dnabjj.com	2001 Thickson Rd S Whitby ON	verdict-id-4.tsv
+OK	DNC Defense	AR	Paragould	https://dncdefense.com	2407 Linwood Dr Paragould AR, jiujitsu	verdict-id-4.tsv
+OK	Dan Henderson's Athletic Fitness Center - Formerly Team Quest	CA	Temecula	https://dhathleticfitcenter.com/	Temecula CA MMA with grappling BJJ	verdict-id-4.tsv
+OK	Danny Savery BJJ and Martial Arts Academy	RI	Bristol	https://dannysaverybjj.com	655 Metacom Avenue Bristol RI	verdict-id-4.tsv
+OK	Dante Rivera Brazilian Jiu-Jitsu Academy	NJ	Freehold Township	https://danteriverabjj.com/	Freehold/Howell Township NJ, US-9 address	verdict-id-4.tsv
+OK	David Branch Jiu Jitsu	NJ	Hoboken	https://dbjjhoboken.com/	720 Monroe Street Hoboken NJ	verdict-id-4.tsv
+OK	Decorah Martial Arts	IA	Decorah	https://www.decorahmartialarts.com	216 W Water St Decorah IA	verdict-id-4.tsv
+OK	Delta BJJ British Columbia	BC	Delta	https://deltabjj.ca	3-1835 56 Street Delta BC	verdict-id-4.tsv
+OK	Derby City MMA	KY	Louisville	https://derbycitymartialarts.com	8021 Dixie Hwy Louisville KY	verdict-id-4.tsv
+OK	Desert Dynasty MMA	NM	Alamogordo	https://www.desertdynastymma.com	700 E 1st Street Alamogordo NM	verdict-id-4.tsv
+OK	Detroit Academy of Martial Arts	MI	Troy	https://martialartstroy.com/	3883 Rochester Rd Troy MI, rebranded APEX	verdict-id-4.tsv
+OK	Devine Jiu Jitsu - Brunswick	GA	Brunswick	https://www.devinejiujitsu.com/schools/brunswick/	Brunswick GA home school location page	verdict-id-4.tsv
+OK	Diamond State Martial Arts	AR	Fayetteville	https://diamondstatemartialarts.com	14819 Elkhorn Springs Rd Fayetteville AR	verdict-id-4.tsv
+OK	Diaz Combat Sports	BC	Vancouver	https://diazcombatsports.com	276 E Pender St Vancouver BC	verdict-id-4.tsv
+OK	Diego Saraiva BJJ - Nova Uniao Atlanta GA	GA	Norcross	https://saraivabjj.com/	6290 McDonough Dr NW Norcross GA	verdict-id-4.tsv
+OK	Divinus Lux Jiu Jitsu	SC	Greenwood	https://www.divinusluxjiujitsu.com	1310 Bypass 72 NE Greenwood SC	verdict-id-4.tsv
+OK	Dojo Fusion	QC	Terrebonne	https://dojofusion.ca	1977 Chemin Gascon Terrebonne QC	verdict-id-4.tsv
+OK	Dominion BJJ	VA	Manassas	https://dominionbjj.com/	8068 Flannery Ct Manassas VA	verdict-id-4.tsv
+OK	Dragon Gym Malvern	PA	Malvern	https://www.dragongym.com/	235 Lancaster Ave Malvern PA, BJJ	verdict-id-4.tsv
+OK	Dragon Within Mixed Martial Arts	MA	Salem	https://www.dragonwithinmartialarts.com/	11 Franklin St Salem MA, BJJ	verdict-id-4.tsv
+OK	East Athens Jiu Jitsu	GA	Athens	https://eastathensjiujitsu.com/	Premier BJJ academy in Athens GA	verdict-id-4.tsv
+OK	East Bay Academy Jiu Jitsu	CA	Martinez	https://www.ebajiujitsu.com/	817 Arnold Drive Martinez CA	verdict-id-4.tsv
+OK	East York Brazilian Jiu Jitsu	PA	York	https://yorkbjj.com	241 Pauline Drive York PA	verdict-id-4.tsv
+OK	Edge Effect Fitness and Martial Arts	VA	Harrisonburg	https://www.edgeeffectfitness.com/	785 Acorn Drive Harrisonburg VA, judo	verdict-id-4.tsv
+OK	Edmonton BJJ	AB	Edmonton	https://edmontonbjj.com	4912 93 Ave NW Edmonton AB	verdict-id-4.tsv
+OK	Edmonton Gracie Jiu-Jitsu	AB	Edmonton	https://edmontongraciejiujitsu.com/	5637 Riverbend Road NW Edmonton AB	verdict-id-4.tsv
+OK	Elements MMA	NH	Keene	https://www.elements-mma.com	Keene NH, BJJ wrestling judo grappling	verdict-id-5.tsv
+OK	Elevated Academy of Martial Arts	CA	Truckee	https://www.elevatedbjj.com/	Truckee CA jiu-jitsu academy, address shown	verdict-id-5.tsv
+OK	Elite BJJ	ND	Dickinson	https://elitebjj.org	Dickinson ND, 71 12th St SE	verdict-id-5.tsv
+OK	Elite Performance Gym (Jeremy Horn's)	UT	Sandy	https://eliteperformancegym.com	Sandy UT, MMA and Brazilian jiu-jitsu	verdict-id-5.tsv
+OK	Embrace Jiu Jitsu	NC	Wake Forest	https://embracemartialarts.com	Wake Forest NC BJJ, address moved	verdict-id-5.tsv
+OK	Empire Brazilian Jiu Jitsu	ME	Freeport	https://empirebjjmaine.com	15 Depot St Freeport ME, BJJ judo	verdict-id-5.tsv
+OK	Evolution Training Centre	NB	Fredericton	https://www.evolutiontrainingcenter.ca	Fredericton NB, BJJ and MMA offered	verdict-id-5.tsv
+OK	EvolveAll - Martial Arts and Training Studio	VA	Arlington	https://evolveall.com/	Arlington VA studio, Brazilian jiu-jitsu programs	verdict-id-5.tsv
+OK	Extreme Mix Martial Arts	LA	Houma	https://extremefitnessmma.com	Houma LA, Lafayette St address listed	verdict-id-5.tsv
+OK	FLORENCE BRAZILIAN JIU-JITSU ACADEMY	AL	Florence	https://www.florencebjj.com/	602 Veterans Drive Florence AL, BJJ	verdict-id-5.tsv
+OK	Family Martial Arts and Gracie Jiu-Jitsu Beckley	WV	Beckley	https://fmawv.com	Beckley WV, Gracie jiu-jitsu programs	verdict-id-5.tsv
+OK	Fargo BJJ	ND	Fargo	https://fargobjj.com	Fargo ND Brazilian jiu-jitsu academy	verdict-id-5.tsv
+OK	Fayetteville Brazilian Jiu-Jitsu	AR	Fayetteville	https://fayetteville-jiujitsu.com/	1200 Garland Ave Fayetteville AR, BJJ	verdict-id-5.tsv
+OK	Fight Mechanix Kickboxing & MMA	MI	Flint	https://www.fightmechanix.com/	Flint MI, jiu-jitsu via partner academy	verdict-id-5.tsv
+OK	Fighting Arts Academy	MA	Springfield	https://www.fightingartsacademy.com/	Springfield MA, jiu-jitsu and wrestling	verdict-id-5.tsv
+OK	Florian Martial Arts Center	MA	Brookline	https://www.florianmartialartscenter.com	62 Harvard St Brookline MA, BJJ	verdict-id-5.tsv
+OK	Flow Brazilian Jiu Jitsu	ME	Rockland	https://flowbrazilianjiujitsu.com	4 Cedar St Rockland ME, matches address	verdict-id-5.tsv
+OK	Flow Jiu-Jitsu Winona	MN	Winona	https://winonabjj.com	Winona MN BJJ school, second location	verdict-id-5.tsv
+OK	Full Throttle Fitness	GA	Flowery Branch	https://fullthrottlemma.com/contact/	Gainesville GA, near Flowery Branch, BJJ	verdict-id-5.tsv
+OK	GB Boca Raton	FL	Boca Raton	https://gbbocaraton.com/	Boca Raton BJJ, address moved nearby	verdict-id-5.tsv
+OK	GB Burleson	TX	Burleson	https://www.graciebarraburleson.com/	201 NE Wilshire Blvd Burleson, matches address	verdict-id-5.tsv
+OK	GB Castle Rock	CO	Castle Rock	https://www.gbcastlerock.com	Castle Rock CO Gracie Barra academy	verdict-id-5.tsv
+OK	GB Chesterfield	MO	Chesterfield	https://gbchesterfield.com/	13379 Olive Blvd Chesterfield MO matches	verdict-id-6.tsv
+OK	GB Cypress	TX	Cypress	https://www.gb-cypress.com	15103 Mason Rd, Cypress TX listed	verdict-id-6.tsv
+OK	GB Deerfield Beach	FL	Deerfield Beach	https://rogergraciedeerfieldbeach.com/	Roger Gracie rebrand, 426 W Hillsboro Blvd	verdict-id-6.tsv
+OK	GB Great Falls	MT	Great Falls	https://www.dragonfirebrazilianjiujitsu.com	Dragon Fire BJJ rebrand, same address	verdict-id-6.tsv
+OK	GB Huntsville	AL	Huntsville	https://www.graciebarrahuntsville.com	2101 W Ferry Way, Huntsville AL listed	verdict-id-6.tsv
+OK	GB Jasper	AL	Jasper	https://gbjasper.com/	764 Highway 78 W, Jasper AL	verdict-id-6.tsv
+OK	GB Lake Norman	NC	Cornelius	https://gblakenorman.com/	11020 Bailey Rd, Cornelius NC listed	verdict-id-6.tsv
+OK	GB Lutz	FL	Lutz	https://gblutz.com/	1908 Oak Grove Blvd, Lutz FL	verdict-id-6.tsv
+OK	GB McKinney	TX	McKinney	https://gbmckinney.com/	7901 Eldorado Pkwy, McKinney TX	verdict-id-6.tsv
+OK	GB Parker	CO	Parker	https://www.parkergb.com	18425 Pony Express Dr, Parker CO	verdict-id-6.tsv
+OK	GB Pearland	TX	Pearland	https://gbpearland.com/	3229 E Broadway St, Pearland TX	verdict-id-6.tsv
+OK	GB Ventura	CA	Ventura	https://www.graciebarraventura.com/	3503 Arundell Circle, Ventura CA	verdict-id-6.tsv
+OK	GB Washington	MO	Washington	https://gbwashington.com/	1629 Aroy Dr, Washington MO	verdict-id-6.tsv
+OK	GB West County	MO	Ballwin	https://gbwestcounty.com/	15425 Manchester Road, Ballwin MO	verdict-id-6.tsv
+OK	GB Weston	FL	Weston	https://www.graciebarraweston.com	1306 SW 160th Ave, Weston FL	verdict-id-6.tsv
+OK	GRACIE BARRA OCOTILLO SOUTH GILBERT	AZ	Gilbert	https://gilbertjiujitsu.com/	Gracie Barra Ocotillo, South Gilbert AZ	verdict-id-6.tsv
+OK	GRACIE JIU-JITSU	AL	Madison	https://www.graciejiujitsumadisonal.com/	Certified Gracie CTC serving Madison AL	verdict-id-6.tsv
+OK	Gabrieles Martial Arts - Groton, CT	CT	Groton	https://gabrielesmartialarts.com/	Waterford CT address, Gracie jujutsu, adjacent	verdict-id-6.tsv
+OK	Gator Family Brazilian Jiu Jitsu	FL	DeLand	https://gatorfamilybjj.com	DeLand FL BJJ, Robson Moura affiliate	verdict-id-6.tsv
+OK	Gendai Budo Jiu Jitsu-MMA-Fitness	AR	Mountain Home	https://arkansastraveller.wixsite.com/gendaibudoacademy	514 Coley Drive, Mountain Home AR	verdict-id-6.tsv
+OK	Gentle Art Studio Lotus Club	NY	Astoria	https://www.gentleartstudio.com/	28-02 Astoria Blvd, Astoria NY	verdict-id-6.tsv
+OK	Gladiators Academy of Crowley	LA	Crowley	https://www.gladiatorsacademyofcrowley.com/	209 East Park Street, Crowley LA	verdict-id-6.tsv
+OK	Global Brazilian Jiu-Jitsu Naples	FL	Naples	https://global1bjj.com	4584 Enterprise Ave, Naples FL	verdict-id-6.tsv
+OK	Golden Rule Jiu Jitsu	NL	Flat Bay	https://golden-rule-jiu-jitsu-ltd.gymdesk.com	School's own site, Flat Bay NL	verdict-id-6.tsv
+OK	Good Vibes Brazilian Jiu Jitsu	PA	Morrisville	https://goodvibesjiujitsu.com/	375 W Trenton Ave Morrisville PA	verdict-id-6.tsv
+OK	Gorilla Martial Arts	NJ	Mahwah	https://www.gorillabjjacademy.com/	BJJ, 31 Industrial Ave Mahwah NJ	verdict-id-6.tsv
+OK	Gracie Barra Albuquerque	NM	Albuquerque	https://gbalbuquerque.com	12251 Academy Rd NE #103 Albuquerque	verdict-id-6.tsv
+OK	Gracie Barra Ashburn, Brazilian Jiu-Jitsu and Self-Defense	VA	Ashburn	https://www.gbashburn.com/	22556 Amendola Terrace, Ashburn VA matches	verdict-id-6.tsv
+OK	Gracie Barra Buda	TX	Buda	https://gbbuda.com/	2610 Main Street Buda TX confirmed	verdict-id-6.tsv
+OK	Gracie Barra Frisco	TX	Frisco	https://gbfriscotexas.com	360 Stonebrook Pkwy Frisco TX confirmed	verdict-id-6.tsv
+OK	Gracie Barra Guildford	BC	Surrey	https://gbguildford.com	Own site, Surrey BC address matches	verdict-id-6.tsv
+OK	Gracie Barra Herriman	UT	Herriman	https://gbherriman.com	Own site, Herriman UT address matches	verdict-id-6.tsv
+OK	Gracie Barra Kirkland	QC	Montreal	https://gbkirkland.ca	Kirkland QC, West Island of Montreal	verdict-id-6.tsv
+OK	Gracie Barra Knoxville	TN	Knoxville	https://www.jiujitsuknoxvilletn.com	Samuel Braga BJJ rebrand, Knoxville TN	verdict-id-6.tsv
+OK	Gracie Barra Peoria	AZ	Peoria	https://graciebarrapeoria.com/	address matches, Peoria AZ	verdict-id-7.tsv
+OK	Gracie Barra Summerville	SC	Summerville	https://gbsummerville.com	address matches, Summerville SC	verdict-id-7.tsv
+OK	Gracie Barra Tyler Brazilian Jiu-Jitsu & Self Defense	TX	Tyler	https://gbtyler.com/	address matches, Tyler TX	verdict-id-7.tsv
+OK	Gracie Barra Vancouver	BC	Vancouver	https://www.gbvancouver.com	address matches, Vancouver BC	verdict-id-7.tsv
+OK	Gracie Humaita Conroe	TX	Conroe	https://www.facebook.com/yountbjj/	own Facebook page, Conroe TX address	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Foothills	TN	Seymour	https://www.graciefoothills.com	Maryville TN, roughly ten miles away	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Galloway	NJ	Galloway	https://taphousebjj.com/	Tap House rebrand, Galloway address confirmed	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Geneva	IL	Geneva	https://genevamartialarts.com/	own site, Geneva IL confirmed	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Highland Village	TX	Highland Village	https://graciebarrahighlandvillage.com/	Gracie Barra rebrand, Highland Village confirmed	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Largo	FL	Largo	https://gracielargowest.com/	Largo West rebrand, Largo confirmed	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Lexington Carter's Academy	SC	Lexington	https://www.gracielexington.com	own site, Lexington SC address confirmed	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Newnan	GA	Newnan	https://www.gracienewnan.com/	page confirms Newnan GA location	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Portland	OR	Portland	https://www.graciepdx.com/	Portland confirmed, moved to SE Madison	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Santa Clarita	CA	Santa Clarita	https://graciejiujitsuscv.com/	Santa Clarita confirmed, moved to Diamond Pl	verdict-id-7.tsv
+OK	Gracie Jiu-Jitsu Warwick	RI	Warwick	https://www.graciejiujitsuwarwick.com	address matches exactly, Warwick RI	verdict-id-7.tsv
+OK	Gracie Jiu-jitsu Minot	ND	Minot	https://sites.google.com/view/minotgjj	address matches exactly, Minot ND	verdict-id-7.tsv
+WRONG_CITY	Gracie New Jersey Academy	NJ	Lawrenceville	https://gracienewjersey.com	Lebanon / Clinton Township NJ	verdict-id-7.tsv
+OK	Grand River BJJ	ON	Cambridge	https://grandriverbjj.ca	Downtown Cambridge ON, moved to Dickson Street	verdict-id-8.tsv
+OK	Grapple House BJJ	MI	Edwardsburg	https://grapplehousebjj.com/	Edwardsburg MI address on page	verdict-id-8.tsv
+OK	Grappling Concepts Nixa	MO	Nixa	https://grapplingconceptsnixa.com/	Nixa MO address matches	verdict-id-8.tsv
+OK	Gravity Brazilian Jiu-Jitsu	BC	Surrey	https://gravitybjj.ca	Surrey BC address matches	verdict-id-8.tsv
+OK	Gray Beard Forge	AR	Conway	https://graybeardforge.org	Conway AR, BJJ and MMA	verdict-id-8.tsv
+OK	Great Grappling Brazilian Jiu Jitsu	SC	Fort Mill	https://greatgrappling.com	Fort Mill SC address matches	verdict-id-8.tsv
+OK	Greubel's Mixed Martial Arts	GA	Augusta	https://www.greubelsmma.com/	Martinez GA, Augusta metro	verdict-id-8.tsv
+OK	Grind BJJ	VT	Burlington	https://grindbjjvt.com	Burlington VT address matches	verdict-id-8.tsv
+OK	Ground Control Academy	AB	Ardrossan	https://groundcontrolacademy.ca	Ardrossan AB address matches	verdict-id-8.tsv
+OK	Ground Strike Grappling	AL	Columbiana	https://groundstrikegrappling.com/	Columbiana AL address on page	verdict-id-8.tsv
+OK	Ground Theory Jiu Jitsu	KS	Lawrence	https://www.groundtheoryjiujitsu.com	Lawrence KS address matches	verdict-id-8.tsv
+OK	Ground X Jiu Jitsu Ottawa	ON	Ottawa	https://groundxjiujitsu.com	Barrhaven, Ottawa ON	verdict-id-8.tsv
+OK	Ground Zero Fighting Systems	WV	Morgantown	https://teamgzfs.com	Morgantown WV address in footer	verdict-id-8.tsv
+OK	Ground Zero Fighting Systems Huntington	WV	Huntington	https://gzfshuntington.wordpress.com/	Huntington WV address, BJJ and judo	verdict-id-8.tsv
+OK	Grounded Studios	ON	North Bay	https://grounded.ca	North Bay ON address matches	verdict-id-8.tsv
+OK	Grove City Brazilian Jiu-Jitsu Academy	OH	Grove City	https://www.grovecityjiujitsu.com/	Grove City OH, Hoover Rd	verdict-id-8.tsv
+OK	Growth Mindset Collective	CA	Oakley	https://growthmindsetcollective.com	Oakley CA address matches	verdict-id-8.tsv
+OK	Guara BJJ	QC	Brossard	https://www.guarabjj.com	Brossard QC school site	verdict-id-8.tsv
+OK	Guardian Jiujitsu & Judo	IA	Ottumwa	https://www.guardianjj.com	Ottumwa IA address matches	verdict-id-8.tsv
+WRONG_CITY	Guardian Tactics	MI	Plymouth	https://www.guardianjiujitsu.com/	Holland MI, not Plymouth	verdict-id-8.tsv
+OK	Gulf Breeze Jiu Jitsu	FL	Gulf Breeze	https://gulfbreezebjj.com/	Checkmat rebrand, Gulf Breeze FL address	verdict-id-8.tsv
+OK	Gulf Coast Jiu Jitsu	MS	Biloxi	https://www.gulfcoastjiujitsu.net	Biloxi MS address matches	verdict-id-8.tsv
+OK	Gulf Coast Jiu-jitsu	AL	Mobile	https://gcjiujitsu.com/	Mobile AL, Hillcrest Rd	verdict-id-8.tsv
+OK	Gustavo Dantas Brazilian Jiu-Jitsu Academy	AZ	Tempe	https://gdjiujitsu.com/	Tempe AZ address on page	verdict-id-8.tsv
+OK	Gustavo Machado Brazilian Jiu Jitsu Chesapeake	VA	Chesapeake	https://bjjchesapeake.com/	South Chesapeake VA academy, own site	verdict-id-8.tsv
+OK	Guto Campos BJJ	FL	Orlando	https://gutocamposbjj.com	Orlando FL address, own site	verdict-id-8.tsv
+OK	Gwinnett Training Academy	GA	Lawrenceville	https://attofgwinnett.com/	Lawrenceville GA, Sugarloaf Pkwy address	verdict-id-8.tsv
+OK	HEROES MARTIAL ARTS ACADEMY	AL	Birmingham	https://www.heroesmma.com/	Two Birmingham AL locations listed	verdict-id-8.tsv
+OK	Hamby Freestyle Jiu Jitsu	GA	Albany	https://lavianobjj.com/	Rebranded Laviano Jiu Jitsu, Albany GA	verdict-id-8.tsv
+OK	Hamel Jiu Jitsu Club	MN	Hamel	https://www.hameljiujitsu.com	770 Tower Dr Hamel MN	verdict-id-8.tsv
+OK	Hanto Jiu-Jitsu Academy	GA	Statesboro	https://www.hantobjj.com/	409 Clairborne Ave Statesboro GA	verdict-id-8.tsv
+OK	Harbor Jiu-Jitsu	NJ	Egg Harbor Township	https://www.harborjiujitsu.com/	Egg Harbor Township NJ named throughout	verdict-id-8.tsv
+OK	Harmony Martial Arts Center	FL	Jupiter	https://harmonymartialarts.com/	Jupiter FL address, Royce Gracie jiu-jitsu	verdict-id-8.tsv
+OK	Hayabusa Training Centre	AB	St. Albert	https://hayabusatrainingcentre.com/	St. Albert AB address matches	verdict-id-8.tsv
+OK	Heavy Mettle Jiu Jitsu	NH	North Hampton	https://www.heavymettlejj.com	North Hampton NH address matches	verdict-id-8.tsv
+OK	Heiho Dojo	AB	Grande Prairie	https://www.heihodojo.ca	Grande Prairie AB, BJJ and Muay Thai	verdict-id-8.tsv
+OK	Helio Soneca/ 8ight Limbs Academy	TX	Harlingen	https://www.the8ightlimbsacademy.com/	Harlingen TX, moved to Van Buren	verdict-id-8.tsv
+OK	Hellman's Mixed Martial Arts	FL	Tampa	https://hellmansmma.com/	Tampa FL, Race Track Rd matches	verdict-id-8.tsv
+OK	Heritage Jiu-Jitsu	SC	Moncks Corner	https://heritagebjj.com	Moncks Corner SC address matches	verdict-id-8.tsv
+OK	Hero Academy	BC	North Vancouver	https://hero-academy.ca	North Vancouver BC address matches	verdict-id-8.tsv
+OK	Hero Jiu Jitsu	NH	Exeter	https://herojiujitsu.com	Exeter NH, Holland Way matches	verdict-id-8.tsv
+OK	Hicsmma	KY	Bowling Green	https://www.hicsmma.com/	Bowling Green KY, Dishman Ln matches	verdict-id-8.tsv
+OK	Hidden Samurai Martial Arts	KY	Owensboro	https://hsmaa7.wixsite.com/hiddensamurai	Owensboro KY, now Scherm Rd	verdict-id-8.tsv
+OK	Hillcrest Academy of Goshin	OH	Cleveland	https://www.hillcrestjujitsu.com/	4431 Mayfield Rd, Cleveland OH	verdict-id-8.tsv
+OK	Hiscoe Jiu-Jitsu	BC	Chilliwack	https://www.hiscoejiujitsu.com	Chilliwack BC address matches	verdict-id-8.tsv
+OK	Hood Rich Jiu Jitsu	BC	Victoria	https://www.hoodrichjj.com	1510 Fort St, Victoria BC	verdict-id-8.tsv
+OK	Hooked Martial Arts + Fitness	AL	Opelika	https://www.hookedmartialarts.com/	Opelika AL, jiu-jitsu and judo	verdict-id-8.tsv
+OK	Hopkinsville Martial Arts	KY	Hopkinsville	https://hoptownmartialarts.com/	1005 Skyline Dr, Hopkinsville KY	verdict-id-8.tsv
+OK	House of Alameda Jiu Jitsu	HI	Keaau	https://alamedajj.com	Keaau HI address matches	verdict-id-8.tsv
+OK	Houzn Jiu Jitsu Academy	SC	Mount Pleasant	https://www.houznjiujitsu.academy	Mount Pleasant SC address matches	verdict-id-8.tsv
+OK	Huard's Ju-Jitsu & Karate	ME	Winslow	https://huardsmartialarts.com	234 Clinton Ave, Winslow ME	verdict-id-8.tsv
+AGGREGATOR	Hub City MMA & BJJ	SD	Aberdeen	https://hubcitymma.gymdesk.com	Gymdesk booking platform, Aberdeen SD	verdict-id-8.tsv
+OK	Humboldt Jiu Jitsu	CA	Arcata	https://humboldtjiujitsu.com/	1041 F St, Arcata CA	verdict-id-8.tsv
+OK	IJC Martial Arts	NY	Queens	https://ijcnyc.com	College Point, Flushing, Queens NY	verdict-id-8.tsv
+OK	Ice Dragon Academy	ND	Bismarck	https://icedragonacademy.com	3007 Morrison Ave, Bismarck ND	verdict-id-8.tsv
+OK	Icon Combat	NB	Moncton	https://iconcombat.com	Moncton NB, BJJ wrestling plus striking	verdict-id-8.tsv
+OK	Idahome Jiu-Jitsu	ID	Caldwell	https://idahomejiujitsu.com	Caldwell ID address matches exactly	verdict-id-8.tsv
+OK	Impact Jiu Jitsu Albuquerque	NM	Albuquerque	https://impactjjabq.com	6509 Lomas Blvd NE, Albuquerque	verdict-id-8.tsv
+OK	Imperial Training Center	MN	Rochester	https://imperialtrainingcenter.com	BJJ school, address matches Rochester MN	verdict-id-9.tsv
+OK	Infinitum Jiu Jitsu Academy - PSBJJ Lake Conroe	TX	Conroe	https://infinitumjiujitsuconroe.com/contact	BJJ academy, Conroe TX address matches	verdict-id-9.tsv
+OK	Infinity Gracie Brazilian Jiu Jitsu	NH	Lebanon	https://www.gracieuppervalley.com	45 Hanover St Lebanon NH confirmed	verdict-id-9.tsv
+OK	Institute of Combat	CA	Arcata	https://www.instituteofcombat.com/	Arcata CA, BJJ and wrestling	verdict-id-9.tsv
+OK	Iowa Top Team Boxing & Jiu-Jitsu	IA	Clinton	https://www.iowatopteam.com	123 Main Ave Clinton IA confirmed	verdict-id-9.tsv
+OK	Iron Academy Martial Arts	MN	Hibbing	https://ironacademymartialarts.com	Hibbing MN address matches, jiu-jitsu focus	verdict-id-9.tsv
+OK	Iron Wolf Academy	GA	Braselton	https://www.ironwolfacademy.org/	Braselton GA address matches, BJJ offered	verdict-id-9.tsv
+OK	Ithaca BJJ	NY	Ithaca	https://www.ithacabjjschool.com/	40 Catherwood Road, Ithaca NY listed	verdict-id-9.tsv
+OK	Jacaré Brazilian Jiu-Jitsu	FL	Ocoee	https://jacaremartialarts.com/	1681 Amazing Way, Ocoee FL	verdict-id-9.tsv
+OK	Jackson Hole MMA	WY	Jackson	https://jacksonholemma.com	3580 South Park Drive, Jackson WY	verdict-id-9.tsv
+OK	James Shook Brazilian Jiu-Jitsu	GA	Acworth	https://tier1jiujitsu.com/	Rebrand Tier 1, now Dallas GA	verdict-id-9.tsv
+OK	Jay Pages Jiu-Jitsu & MMA	AZ	Tempe	https://jaypagesjjmma.com/	6745 S Harl Ave, Tempe AZ	verdict-id-9.tsv
+OK	Jean Jacques Machado Fresno	CA	Fresno	https://jjmachadofresno.com/	6701 N Milburn Ave, Fresno CA	verdict-id-9.tsv
+OK	Jiu Jitsu Tech Mix martial arts and fitness	TX	Corinth	https://www.jiujitsutech.com/	7650 I-35E Corinth TX, matches	verdict-id-9.tsv
+OK	Jiu Livre NYC	NY	New York	https://jiulivre.com/	383 5th Ave, Manhattan NY	verdict-id-9.tsv
+OK	Jiu-Jitsu 100 Academy	ID	Hailey	https://jiujitsu100.com	111 S Main St, Hailey ID	verdict-id-9.tsv
+OK	Jiu-Jitsu Unlimited	IA	Sioux City	https://jjxkbultd.com	6009 Gordon Dr, Sioux City IA	verdict-id-9.tsv
+OK	Jon Calestine BJJ	NY	New York	https://calestinejj.com/	315 Meserole St, Brooklyn NY	verdict-id-9.tsv
+OK	Junglefowl Brazilian Jiu Jitsu	NB	Sackville	https://junglefowlbjj.ca	86 Main Street, Sackville NB	verdict-id-9.tsv
+OK	KC Jones Martial Arts	MS	Long Beach	https://www.kcjonesmartialarts.com	Long Beach MS named, TKD and BJJ	verdict-id-9.tsv
+OK	Kaiser Jiu Jitsu	BC	Victoria	https://www.kaiserjiujitsu.com	Victoria BC named, no street address	verdict-id-9.tsv
+OK	Kaizen Martial Arts and Health Club	BC	Richmond	https://kaizenjhc.ca	Richmond BC, judo and BJJ	verdict-id-9.tsv
