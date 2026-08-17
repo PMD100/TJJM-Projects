@@ -6,9 +6,19 @@ Sections 1–10 were last verified **5 Aug 2026** against live theme XX (`154653
 findings. The theme ID, record count and defect counts in the earlier sections are the 5 Aug
 state and have since moved — treat them as method, not as current numbers.
 
-**CURRENT STATE, 16 Aug 2026, theme ZZ2 (`154993066156`), staged for publish:**
-**5,215 records across 61 regions · 4,100 with a link · 1,115 deliberately link-free ·
-1,284 override rows, all distinct names.**
+**CURRENT STATE, 17 Aug 2026, theme AB3 (`155004502188`), staged for publish:**
+**5,215 records across 61 regions · 4,058 with a link · 1,157 deliberately link-free ·
+1,326 override rows, all distinct names. Identity pass COMPLETE — 2,170 of 2,170 links read.**
+
+⚠️ **There are now SEVEN override files**, `tjjm-gym-websites.liquid` and `-2` … `-7`. File 7 was
+added in batch 49 and is wired into **both** rendering surfaces, verified end to end with a temporary
+test row loaded through the theme preview on each. Headroom: file 1 397 B, file 3 923 B, file 2
+1,269 B, file 4 1,632 B, file 6 4,753 B, **file 7 20,218 B — send new work to file 7.**
+Note both sections render the whole `{%- render -%}` chain on a **single line**, so any future patch
+is an intra-line insertion; verify by byte offset, not by line diff.
+
+⚠️ The corpus holds **16 duplicated names across 17 surplus records** (`Capital MMA & Elite Fitness`
+appears three times). Gate C11 fails on any of them. Resolve before one lands in a batch.
 
 ⚠️ **Batch-48 correction to §11.** Browser page substitution is **not** biased toward healthy gyms —
 this round it also landed on a Wix error page and a gambling lander, so a mismatch can produce a

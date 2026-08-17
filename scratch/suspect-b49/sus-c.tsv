@@ -1,0 +1,19 @@
+name	region	city	url	fetch_note	group
+Troy Holton's Brazilian Jiu-Jitsu	AR	Harrison	https://www.troyholtonbjj.com/	Fetch returned completely empty body	id16
+True Leverage Alliance BJJ	NS	Kingston	https://www.instagram.com/tla_bjj	Instagram fetch returned blank body	id16
+Tsunami MMA	GA	Decatur	https://www.tsunamimma.co/	Taekwondo Muay Thai kickboxing only, no grappling	id16
+USA Martial Arts Academy	MO	Eureka	https://www.usamartialartsacademy.com/	Fetch returned completely empty body	id16
+Uactp	CA	Los Angeles	https://www.uactp.com/	Fetch returned completely empty body	id16
+UnderGround Boxing & Brazilian Jiu-Jitsu	MN	Red Wing	https://www.ugroundboxing.com	Fetch returned completely empty body	id16
+Underground Gym	OH	Newark	https://www.facebook.com/NewarkUnderground/	Facebook fetch returned blank body	id16
+Urijah Faber's Ultimate Fitness	CA	Sacramento	https://ufultimatefitness.com/	Empty body on every path tried	id17
+Vitor Shaolin BJJ NYC	NY	New York	https://www.bjjnewyorkcity.com	Now Modern Martial Arts, different school	id17
+Warriors Lair MMA	TX	El Paso	https://www.facebook.com/LamarHarrisMMA/	Facebook fetch returned blank body	id17
+Warriors Legacy MMA	TX	Paris	https://www.warriorslegacymma.com	JS-only shell, no readable content	id17
+Wayne Owen Fighting Arts	OR	Grants Pass	https://www.facebook.com/Wayne-Owen-Fighting-Arts-174709395877709/	Facebook fetch returned blank body	id17
+Wilson Fitness & Martial Arts	KY	Olive Hill	https://www.facebook.com/wilsonmartial.arts.3/	Blank Facebook fetch, needs browser check	id17
+Without Limits MMA	AR	Batesville	https://www.facebook.com/WithoutLimitsMMA/	Blank Facebook fetch, needs browser check	id17
+Woodshop Jiu-Jitsu	NS	Antigonish	https://www.facebook.com/woodshopjits	Blank Facebook fetch, needs browser check	id17
+Xtreme Couture MMA	NV	Las Vegas	https://xtremecouture.tv	Hijacked domain, Thai-language content farm	id17
+Yeti MMA	NJ	Scotch Plains	https://www.shaolinbjj.com/	Different school: Vitor Shaolin BJJ, 1985 US-22	id17
+Zombie Krew Jiu Jitsu	TX	Fort Worth	https://www.instagram.com/p/C23I2Cop7ye/	Instagram post, fetch returned blank body	id17

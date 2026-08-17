@@ -1,0 +1,20 @@
+name	region	city	url	fetch_note	group
+Team Chaotic Combat Sports and Fitness	CO	Colorado Springs	https://m.facebook.com/TeamChaoticCombatSports	Facebook page returned blank body on fetch	id15
+Team Flow State	NB	Saint John	https://www.facebook.com/FlowstateJJ	Facebook page returned blank body on fetch	id15
+Team Fortitude NS	NS	Bridgewater	https://www.facebook.com/FortitudeJiujitsu	Facebook page returned blank body on fetch	id15
+Team Hopkins Jiu Jitsu Mobile	AL	Mobile	https://www.facebook.com/GracieJiuJitsuOfAlabama/	Facebook page returned blank body on fetch	id15
+Team Jucao Newark Brazilian Jiu Jitsu	NJ	Newark	https://www.facebook.com/teamjucaonewark/	Facebook page returned blank body on fetch	id15
+Team Oyama MMA & Fitness	CA	Irvine	https://teamoyama.com/	Empty body, JavaScript-only page, nothing rendered	id15
+Team Real USA	NY	Staten Island	https://teamrealusa.com/wp	Empty body, root also empty, nothing rendered	id15
+Team Rubao Carioca BJJ	NC	Durham	https://www.facebook.com/teamrubao/	Facebook fetch returned blank body	id16
+Team SFS - Scorpion Fighting System at Michigan Institute of Athletics	MI	Brighton	https://www.facebook.com/SFSMMA/	Facebook fetch returned blank body	id16
+Tennessee Brazilian Jiu-Jitsu Academy	TN	Spring Hill	https://www.tbjja.com	Real school but German casino spam injected	id16
+Tensei Jiu-Jitsu	MN	Richfield	https://tenseibjj.com	Fetch returned completely empty body	id16
+The Flow Lab Owatonna	MN	Owatonna	https://theflowlabowatonna.com	Fetch returned completely empty body	id16
+The Hidden Lotus	FL	Kendale Lakes	https://www.zenroninmma.com/	Fetch returned completely empty body	id16
+The Komodo Academy	AB	Grande Prairie	https://www.thekomodoacademy.com/	Fetch returned completely empty body	id16
+The Tap Room Grappling Group	NS	Middle Sackville	https://www.facebook.com/p/The-Tap-Room-Grappling-Group-61571256489758	Facebook fetch returned blank body	id16
+Titan Brazilian Jiu Jitsu	NC	Marion	https://www.facebook.com/p/Titan-Brazilian-Jiu-Jitsu-100049469036429/	Facebook fetch returned blank body	id16
+Total MMA Studios	CA	Tustin	https://www.totalmmastudios.com/	Empty body, only title rendered	id16
+Tower 1 Combat Sports	NS	Dartmouth	https://www.tower1combatsports.com	Fetch returned completely empty body	id16
+Tristar Gym Montreal	QC	Montreal	https://tristargym.com	Near-empty body, no city or content	id16

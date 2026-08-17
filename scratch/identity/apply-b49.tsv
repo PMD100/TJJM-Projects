@@ -1,0 +1,46 @@
+action	name	region	new_url	reason
+BLANK	Silva BJJ Lawndale CA (Aloisio Silva Affiliated Academy)	CA		WRONG_BUSINESS - page now Aloisio Silva BJJ, Lewisville TX
+BLANK	South Prospect Martial Arts Gym	OH		DEAD - redirects to platform gym-not-found page
+BLANK	St. Matthews Martial Arts	KY		STRIKING_ONLY - Shaolin Kempo and Tai Chi only
+BLANK	Success Martial Arts	AZ		STRIKING_ONLY - Korean traditional only, no grappling
+BLANK	TK Martial Arts	AR		PARKED - GoDaddy parking lander
+BLANK	TMAC Tipton Martial Arts Club	TX		DEAD - empty Wix placeholder
+BLANK	Tarpein's Dojo	IA		HIJACK - injected spam links on the school's domain
+BLANK	Tennessee Brazilian Jiu-Jitsu Academy	TN		HIJACK - 92 hidden German casino links injected on-domain
+BLANK	Team Hopkins Jiu Jitsu Mobile	AL		DEAD - Facebook page deleted
+BLANK	The Komodo Academy	AB		DEAD - 404 on both host forms
+BLANK	Tower 1 Combat Sports	NS		DEAD - Wix domain not connected
+BLANK	The Hidden Lotus	FL		WRONG_BUSINESS - site is Zen Ronin MMA, Miami
+BLANK	Troy Holton's Brazilian Jiu-Jitsu	AR		DEAD - Wix domain not connected, both host forms
+BLANK	Tsunami MMA	GA		STRIKING_ONLY - taekwondo, kickboxing, Muay Thai only
+BLANK	Underground Gym	OH		WRONG_BUSINESS - weights and cardio gym, no martial arts
+BLANK	Vitor Shaolin BJJ NYC	NY		WRONG_BUSINESS - domain now Modern Martial Arts, Times Square
+BLANK	Yeti MMA	NJ		WRONG_BUSINESS - domain serves Vitor Shaolin BJJ, Union County NJ
+BLANK	Zombie Krew Jiu Jitsu	TX		WRONG_BUSINESS - post by another coach; own accounts deleted
+BLANK	Simmons Academy of Wrestling	MI		AGGREGATOR - Mindbody booking listing
+BLANK	Six Blades Austin	TX		AGGREGATOR - association brand homepage
+BLANK	Team Jucao Gardendale	AL		AGGREGATOR - Gracie United brand homepage
+BLANK	Team Jucao Elizabeth Brazilian Jiu Jitsu BJJ	NJ		AGGREGATOR - association locations directory
+BLANK	Team Juggernaut Brazilian Jiu Jitsu & Fitness Academy	LA		AGGREGATOR - Google business.site page
+BLANK	Tri-City Ju-Jitsu	AZ		AGGREGATOR - Google business.site page
+BLANK	Trifecta MMA/BJJ	CA		AGGREGATOR - Gymdesk-hosted platform subdomain
+BLANK	Ultimate House of Champions	MI		AGGREGATOR - Google business.site page
+BLANK	Ultra Brazilian Jiu-Jitsu & Mixed Martial Arts Santa Clarita	CA		AGGREGATOR - Google business.site page
+BLANK	Undisputed MMA	PA		AGGREGATOR - Google business.site page
+BLANK	Victory Jiu Jitsu	NB		AGGREGATOR - Gymdesk platform domain
+BLANK	War Room MMA, Kickboxing, and Fitness	TX		AGGREGATOR - Google business.site page
+BLANK	West Coast BJJ	BC		AGGREGATOR - association homepage, no location page
+BLANK	Wild West Training Center	NV		AGGREGATOR - Calendly booking link
+BLANK	Workhorse Mixed Martial Arts	NS		AGGREGATOR - Gymdesk platform domain
+BLANK	X3 Sports - Athens	GA		AGGREGATOR - generic brand signup form
+BLANK	X3 Sports - North Marietta	GA		AGGREGATOR - generic signup form, no such location
+BLANK	Yamasaki Academy Woodbridge	VA		AGGREGATOR - Zoho Bookings page, no address
+BLANK	Yonsei Martial Arts Academy	LA		AGGREGATOR - Calendly booking link
+BLANK	Young Guardians MMA	OH		AGGREGATOR - Google business.site page
+BLANK	Team Nogueira	FL		WRONG_CITY - record West Palm Beach, site serves Jupiter (same URL as Jupiter record)
+BLANK	Team Tooke Mixed Martial Arts Lafayette	LA		WRONG_CITY - site serves Houston and Cypress TX only
+BLANK	Uprise MMA	CA		WRONG_CITY - record Carmichael, site is Los Angeles
+BLANK	Zero Point Gracie Jiu Jitsu	AZ		WRONG_CITY - record Camp Verde AZ, site is Melbourne Australia
+REPOINT	Xtreme Couture MMA	NV	https://www.xcmma.com/	REPOINT - .tv is a Thai content farm; real Las Vegas gym at xcmma.com
+REPOINT	Warrior Defense Brazilian Jiu Jitsu	FL	https://warriordefense.com/	REPOINT - deep path 404, root works
+REPOINT	Wind River Dojo	WY	https://www.windriverdojo.org	REPOINT - apex fails, www works

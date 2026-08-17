@@ -1,0 +1,352 @@
+{%- comment -%}
+  TJJM gym-website overrides, file 4. Same format as files 1-3: ~Name|URL~
+  An EMPTY value blanks the link. Only add an entry that CHANGES something.
+  Rendered after file 3 by BOTH sections. Gate C3 still forbids a name in two files.
+
+  15 Aug 2026 - BATCH 35. THE BROWSER RENDER PASS. 198 links that returned nothing to a
+  plain HTTP fetch were opened in a real Chrome browser. Full write-up in
+  region-rebuild-batch35-findings.md.
+
+  *** THE HEADLINE: 'EMPTY' WAS NEVER A NEUTRAL VERDICT. ***
+  We had been carrying these as 'unknown - needs a browser', assuming most were healthy
+  JavaScript-rendered sites. They were not. 137 of 198 were broken - 69%, by far the
+  worst rate of any screen in this programme. The dominant causes are mundane and
+  invisible to a fetch: Wix 'domain not connected' placeholders, EXPIRED SQUARESPACE
+  accounts, Flywheel and cPanel default pages, Cloudflare 1001/520/522 origin errors,
+  and GoDaddy/Afternic '/lander' redirects. A fetch sees an empty body for all of them.
+
+  VERDICTS: DEAD 80 | PARKED 37 | OK 61 | REPLACE 8 | WRONG_BUSINESS 7 | HIJACK 5
+
+  LESSON FOR FUTURE SCREENS: treat EMPTY as SUSPECT, not as unknown. Any future row a
+  fetch cannot read should go to a browser before the link is trusted, and if it cannot
+  be browsed it is safer blanked than left live.
+
+  TWO GATE C11 CATCHES WORTH RECORDING, both would have silently applied to nothing:
+    'Chris Lisciandro's...'  the corpus spells it with a CURLY apostrophe U+2019
+    'Dan Henderson's Athletic Fitness Center'  corpus name ends '- Formerly Team Quest'
+  Two more were refused by C3 because batch 33 already handled them: UFC GYM Sunnyvale
+  and UFC Gym Green Valley.
+
+  ROW 198, 'GB Fulshear', WAS NOT RENDERED - the browser hit a hard safety block on the
+  previous row and never recovered. It is untouched here. Batch 33 already repointed it.
+
+  --- REPOINTED (8) ---
+  CA  Alliance Jiu-Jitsu Carlsbad / BJJ Carl -> https://alliancecarlsbad.com/
+  NJ  Brazen Martial Arts                    -> https://brazenmartialarts.com/
+  CA  Cesar Gracie Jiu Jitsu                 -> https://www.graciefighter.com/
+  CA  Chris Lisciandro’s Street Sports BJJ C -> https://www.brazilianjiujitsuclub.com/
+  GA  Raven Brazilian Jiu-Jitsu              -> https://www.facebook.com/Ravenbjj
+  NY  Rockland Brazilian Jiu-Jitsu           -> https://www.renzogracierockland.com/
+  MI  Significant Strikes Boxing, Jiu-Jitsu  -> https://significantstrikes.com/
+  CA  West Coast Jiu-Jitsu                   -> https://www.westcoastjiujitsu.com/
+  --- BLANKED (127) ---
+  AZ  PARK Attitude First MMA                           redirects to /lander, domain parking pag
+  AZ  DEAD Daimyo Brazilian Jiujitsu                    Cloudflare 520, origin web server error
+  AZ  DEAD Southwest MMA                                does not load in browser
+  CA  PARK 10th Planet Irvine                           redirects to explorads.com parked-domain
+  CA  PARK Big John Mccarthy's Ultimate Training Gym    redirects to /lander domain parking page
+  CA  DEAD Boxing Club                                  loads completely blank, no content or na
+  CA  DEAD Carlson Gracie Academy of Garden Grove       Squarespace account expired placeholder
+  CA  DEAD Champions Fitness Brazilian Jiu-JItsu Muay-T Wix placeholder, domain not connected to
+  CA  PARK Dan Henderson's Athletic Fitness Center - Fo GoDaddy expired-domain parking lander
+  CA  DEAD Lucas Leite Brazilian Jiu-Jitsu              Squarespace account expired placeholder
+  CA  DEAD Modern Combatives Mixed Martial Arts         Wix placeholder, domain not connected to
+  CA  DEAD Ralph Gracie Jiu Jitsu - Santa Clara         Wix placeholder, domain not connected to
+  CA  DEAD Riverside MMA                                Wix placeholder, domain not connected to
+  CA  DEAD Thrive Jiu Jitsu                             loads completely blank, no content
+  CA  DEAD Tribull MMA Center                           Typepad shut down, redirects to Network 
+  CA  DEAD Vital Force Muay Thai & MMA                  DNS NXDOMAIN, domain no longer resolves
+  CO  HIJA Infinite Jiu-Jitsu Academy                   redirects to demoslotjackpot.com Indones
+  CO  DEAD Kurusan Jiu-Jitsu & Kickboxing               loads completely blank, no content
+  CO  DEAD Victory MMA                                  HTTP 500 server error, site not working
+  CT  DEAD Casa of Jiu Jitsu                            Cloudflare error 1001, DNS does not reso
+  CT  PARK Cruvinel Brothers Brazilian Jiujitsu / GFTea GoDaddy Auctions lander, domain for sale
+  CT  PARK Iceman's Martial Arts Academy                GoDaddy Auctions lander, domain for sale
+  CT  DEAD New Britain Judo and Dynamic Arts            does not load in browser
+  CT  DEAD Northeast Elite Wrestling Center             Cloudflare 522, origin server connection
+  CT  DEAD Underdog Brazilian Jiu-Jitsu                 does not load in browser, renderer hangs
+  FL  PARK ATP Brazilian Jiu Jitsu                      redirects to findakey.net ad directory p
+  FL  DEAD Atos Orlando - Brazilian Jiu-Jitsu (BJJ) and Wix placeholder, domain not connected to
+  FL  PARK Black Trunk Martial Arts                     redirects to /lander domain parking page
+  FL  DEAD DeLand Brazilian Jiu-Jitsu                   Wix placeholder, domain not connected to
+  FL  DEAD Miami Beach Brazilian Jiu-Jitsu              loads completely blank, no content
+  FL  DEAD Relson Gracie Jiu-Jitsu Academy St. Augustin SSL cipher mismatch, site cannot be load
+  FL  DEAD The Jupiter Jiu Jitsu Academy in Jupiter Fl  Error page cannot be displayed, host err
+  GA  DEAD American Top Team Valdosta                   Netlify site not found, deployment gone
+  GA  DEAD Champions Training Center                    does not load in browser, renderer hangs
+  GA  DEAD Fusion MMA                                   Cloudflare error 1001, DNS does not reso
+  GA  DEAD Team Kalista Martial Arts                    Wodify page not found, account gone
+  IL  DEAD Arebalo Jiu Jitsu                            Wix placeholder, domain not connected to
+  IL  DEAD Dave Strasser's Freestyle Academy of MMA     does not load in browser, renderer hangs
+  IL  PARK Evolution Mixed Martial Arts Chicago - Schau redirects to /lander domain parking page
+  IN  WRON Awesome Martial Arts Academy                 now after-school and summer camp busines
+  IN  DEAD Endurance Brazilian Jiu-Jitsu                error establishing a database connection
+  IN  DEAD Gracie Jiu-Jitsu Brazil                      page renders no text content, broken she
+  LA  DEAD DiBenedetto's Karate Jiu-Jitsu               server 404, file or directory not found
+  LA  DEAD Indigo Brazilian Jiu Jitsu Sulphur           Wix placeholder, domain not connected to
+  LA  PARK Legacy Fitness Factory                       redirects to /lander domain parking page
+  MA  WRON Hyannis Mixed Martial Arts of Cape Cod       now boxing fitness yoga pilates gym, no 
+  MA  DEAD Mena Fitness Training & Brazilian Jiu Jitsu  under construction placeholder, no site 
+  MA  HIJA Mmaxout Fitness And Martial Arts             now Chinese sports-betting spam page wit
+  MA  WRON Total Performance Sports                     strength and personal training gym, no g
+  MD  WRON Synergy Martial Arts                         Odenton MD karate school, no grappling o
+  MI  HIJA East Lansing Underground Martial Arts        now Macau gambling casino site in Chines
+  MI  DEAD Gracie Barra Livonia                         Flywheel unknown domain, site not set up
+  MI  PARK Myrmidon Training Systems                    redirects to /lander domain parking page
+  MI  DEAD The Beast Academy                            loads completely blank, no content
+  MO  DEAD Cape Martial Arts                            loads completely blank, no content
+  MO  DEAD Family Martial Arts Fitness Academy          redirect target SSL cipher mismatch, can
+  MO  DEAD Legends MMA                                  Flywheel unknown domain, site not set up
+  MO  WRON Scr Fight Club                               now STL Property & Real Estate architect
+  MT  DEAD Bear Hug Jiu-Jitsu                           does not load in browser
+  NC  DEAD Basulto Academy Of Defense                   does not load in browser, renderer hangs
+  NC  DEAD Evolution Fight Academy                      Wix placeholder, domain not connected to
+  NC  DEAD Fight Flow Academy                           Wix placeholder, domain not connected to
+  NC  DEAD G13 Brazilian Jiu Jitsu HQ US                does not load in browser, renderer hangs
+  NJ  PARK Evolutionary Martial Arts                    redirects to /lander domain parking page
+  NJ  DEAD FastKick Martial Arts                        Cloudflare 522, origin server connection
+  NJ  PARK Girl Fight                                   redirects to /lander domain parking page
+  NJ  PARK Loyalty BJJ                                  GoDaddy Auctions lander, domain for sale
+  NJ  PARK Pinelands Brazilian Jiu-Jitsu                redirects to /lander domain parking page
+  NJ  DEAD Unity Jiu Jitsu New Jersey                   Cloudflare error 1001, DNS does not reso
+  NV  DEAD 10th Planet Downtown                         Squarespace account expired placeholder
+  NV  PARK Ares BJJ Reno                                GoDaddy parked-free lander, domain not i
+  NV  PARK Asylum Fight Team                            redirects to asylumfightteamvegas.com/la
+  NV  DEAD Atos Jiu Jitsu Las Vegas                     redirect loop to myftpupload.com, too ma
+  NV  DEAD Carlson Gracie Training Center - Cavalcanti  empty shell page, no content renders
+  NV  DEAD Drysdale Fight For Us Jiu Jitsu              cPanel default web site page, no site
+  NV  PARK Komainu/Yemaso Brazilian Jiujitsu/MMA Academ expired domain lander with related searc
+  NV  DEAD Nova Uniao Las Vegas                         Squarespace account expired placeholder
+  NV  DEAD Ryuko Training Center                        Squarespace account expired placeholder
+  NV  PARK SIMGO Academy                                redirects to /lander domain parking page
+  NV  DEAD Syndicate Mixed Martial Arts                 loads completely blank, no content
+  NV  PARK Torres MMA Sport                             redirects to World of Tanks affiliate ad
+  NV  DEAD Vegas Combat                                 Wix placeholder, domain not connected to
+  NY  DEAD Brazilian Jiu Jitsu of Washington Heights    Wix placeholder, domain not connected to
+  NY  PARK MCF Warpath Boxing and MMA Academy           redirects to scam browser-extension ad m
+  NY  DEAD Next Level Athletic Performance              connection reset, site cannot be reached
+  OH  PARK Buckeye Mixed Martial Arts & Fitness         domain-for-sale page, buy this domain
+  OH  WRON Gotham Gym/ Savage MMA and Fitness LLC       GymMaster login portal now branded The F
+  OK  HIJA Pejak Martial Arts                           redirects to Babe88 Indonesian slot gamb
+  OK  PARK Quest Grappling Academy                      redirects to slider.com domain search pa
+  OK  PARK Relevant Martial Arts                        GoDaddy Auctions lander, domain for sale
+  OK  DEAD Yukon Martial Arts                           Squarespace account expired placeholder
+  ON  DEAD Toronto Jiu Jitsu Club                       Wix placeholder, domain not connected to
+  OR  PARK Anibal Lobo Jiu Jitsu                        GoDaddy parked-free lander, domain not i
+  OR  PARK Invictus Defense Academy                     redirects to kineticharbor.com parked co
+  OR  DEAD Krav Maga Salem                              404 and root is empty shell page
+  OR  DEAD Porrada Jiu Jitsu Academy                    loads completely blank, no content
+  OR  PARK Valhalla Combat                              redirects to /lander domain parking page
+  PA  PARK Alliance Pennsylvania Jiu-Jitsu              Afternic lander, bajji.com listed for sa
+  PA  DEAD Pennsylvania Combat Sports                   does not load in browser
+  PA  DEAD Renzo Gracie Pennsylvania                    OpenResty error page, site currently una
+  TN  DEAD Station 6 Fitness and Martial Arts           HTTP 522, origin server connection timed
+  TX  HIJA Abdias Brazilian Jiu-Jitsu                   redirects offsite to destination blocked
+  TX  DEAD Campuzano Martial Arts                       SSL protocol error, site cannot be loade
+  TX  PARK Eclectic Combat Systems                      Afternic lander, ecsmma.com listed for s
+  TX  PARK Full Contact Fight Academy                   redirects to findakey.net ad directory p
+  TX  DEAD Gracie Jiu Jitsu Houston                     DNS NXDOMAIN, domain no longer resolves
+  TX  PARK Grappling Zone Pearland                      redirects to /lander domain parking page
+  TX  DEAD Ion Jiu Jitsu                                does not load in browser
+  TX  DEAD JJ Machado Austin Jiujitsu                   Wix placeholder, domain not connected to
+  TX  WRON Onnit Gym MMA                                redirects to 10th Planet Austin, differe
+  TX  DEAD Renzo Gracie Houston                         redirects to gbfortbend.com, Wix domain 
+  TX  PARK Reyes Jiu-Jitsu                              HugeDomains listing, for sale at $2,995
+  TX  PARK Risen Jiu-Jitsu and Fitness                  redirects to Amazon affiliate deals, dom
+  TX  DEAD Solis Martial Arts Academy                   Cloudflare error 1001, DNS does not reso
+  VA  DEAD Cheeseman Martial Arts Brazilian Jiu Jitsu   Error page cannot be displayed, host err
+  VA  DEAD DCB MMA & Athletic Training                  Cloudflare error 1001, DNS does not reso
+  VA  DEAD David Jacobs BJJ Academy                     memorial tribute page, academy no longer
+  VA  DEAD Gustavo Machado Norfolk                      404 page not found, site gone
+  WA  DEAD Burien Brazilian Jiu Jitsu                   404 page not found, no site
+  WA  PARK Sik-Jitsu Mixed Martial Arts                 redirects to /lander domain parking page
+  WA  PARK Spokane Valley Brazilian Jiu-Jitsu           GoDaddy parked-free lander, domain not i
+  WA  DEAD The Base Vancouver                           Wix placeholder, domain not connected to
+  WA  PARK Vancouver Elite Martial Arts                 ParkLogic.com parking page with ad categ
+  WI  DEAD Gracie Barra Madison                         redirects to Gracie Barra 404, school pa
+  WI  DEAD Gracie Barra Waunakee                        redirects to Gracie Barra 404, school pa
+  WI  PARK Henry Matamoros Brazilian Jiu-Jitsu          GoDaddy Auctions lander, domain for sale
+  WI  DEAD Leadership Academy Martial Arts and Fitness  404 page not found, no site
+{%- endcomment -%}
+~Alliance Jiu-Jitsu Carlsbad / BJJ Carlsbad CA 92008|https://alliancecarlsbad.com/~
+~Brazen Martial Arts|https://brazenmartialarts.com/~
+~Cesar Gracie Jiu Jitsu|https://www.graciefighter.com/~
+~Chris Lisciandro’s Street Sports BJJ Club|https://www.brazilianjiujitsuclub.com/~
+~Raven Brazilian Jiu-Jitsu|https://www.facebook.com/Ravenbjj~
+~Rockland Brazilian Jiu-Jitsu|https://www.renzogracierockland.com/~
+~Significant Strikes Boxing, Jiu-Jitsu & MMA|https://significantstrikes.com/~
+~West Coast Jiu-Jitsu|https://www.westcoastjiujitsu.com/~
+~Attitude First MMA|https://attitudefirst.com/~
+~Daimyo Brazilian Jiujitsu|~
+~Southwest MMA|~
+~10th Planet Irvine|~
+~Big John Mccarthy's Ultimate Training Gym|~
+~Boxing Club|~
+~Carlson Gracie Academy of Garden Grove|~
+~Champions Fitness Brazilian Jiu-JItsu Muay-Thai & Boxing|~
+~Dan Henderson's Athletic Fitness Center - Formerly Team Quest|https://dhathleticfitcenter.com/~
+~Lucas Leite Brazilian Jiu-Jitsu|https://lucasleitebjj.com/~
+~Modern Combatives Mixed Martial Arts|~
+~Ralph Gracie Jiu Jitsu - Santa Clara|~
+~Riverside MMA|https://riversidemma.com/~
+~Thrive Jiu Jitsu|https://www.thrivejiujitsuschool.com/~
+~Tribull MMA Center|~
+~Vital Force Muay Thai & MMA|http://www.vitalforcemma.com/~
+~Infinite Jiu-Jitsu Academy|https://infinitemixedmartialarts.perfectmind.com/~
+~Kurusan Jiu-Jitsu & Kickboxing|~
+~Victory MMA|https://www.victorymmacolorado.com/~
+~Casa of Jiu Jitsu|~
+~Cruvinel Brothers Brazilian Jiujitsu / GFTeam|https://cruvinelbros.com/~
+~Iceman's Martial Arts Academy|~
+~New Britain Judo and Dynamic Arts|https://newbritainjudo.org/~
+~Northeast Elite Wrestling Center|~
+~Underdog Brazilian Jiu-Jitsu|https://underdogbjj.com/~
+~ATP Brazilian Jiu Jitsu|~
+~Atos Orlando - Brazilian Jiu-Jitsu (BJJ) and Self-Defense School|https://atosjiujitsuhq.com/affiliate/south-orlando/~
+~Black Trunk Martial Arts|~
+~DeLand Brazilian Jiu-Jitsu|~
+~Miami Beach Brazilian Jiu-Jitsu|https://www.jorgepereirajiujitsu.com/~
+~Relson Gracie Jiu-Jitsu Academy St. Augustine|https://www.philcardella.com/~
+~The Jupiter Jiu Jitsu Academy in Jupiter Fl|~
+~American Top Team Valdosta|~
+~Champions Training Center|~
+~Fusion MMA|http://fusionfitnessandmma.com/~
+~Team Kalista Martial Arts|https://teamkalistabjj.com/~
+~Arebalo Jiu Jitsu|~
+~Dave Strasser's Freestyle Academy of MMA|~
+~Evolution Mixed Martial Arts Chicago - Schaumburg|~
+~Awesome Martial Arts Academy|~
+~Endurance Brazilian Jiu-Jitsu|~
+~Gracie Jiu-Jitsu Brazil|~
+~DiBenedetto's Karate Jiu-Jitsu|~
+~Indigo Brazilian Jiu Jitsu Sulphur|~
+~Legacy Fitness Factory|~
+~Hyannis Mixed Martial Arts of Cape Cod|~
+~Mena Fitness Training & Brazilian Jiu Jitsu|~
+~Mmaxout Fitness And Martial Arts|~
+~Total Performance Sports|~
+~Synergy Martial Arts|~
+~East Lansing Underground Martial Arts|~
+~Gracie Barra Livonia|~
+~Myrmidon Training Systems|~
+~The Beast Academy|~
+~Cape Martial Arts|~
+~Family Martial Arts Fitness Academy|~
+~Legends MMA|~
+~Scr Fight Club|~
+~Bear Hug Jiu-Jitsu|~
+~Basulto Academy Of Defense|~
+~Evolution Fight Academy|~
+~Fight Flow Academy|~
+~G13 Brazilian Jiu Jitsu HQ US|~
+~Evolutionary Martial Arts|~
+~FastKick Martial Arts|~
+~Girl Fight|~
+~Loyalty BJJ|~
+~Pinelands Brazilian Jiu-Jitsu|~
+~Unity Jiu Jitsu New Jersey|~
+~10th Planet Downtown|~
+~Ares BJJ Reno|~
+~Asylum Fight Team|~
+~Atos Jiu Jitsu Las Vegas|~
+~Carlson Gracie Training Center - Cavalcanti Jiu Jitsu|~
+~Drysdale Fight For Us Jiu Jitsu|~
+~Komainu/Yemaso Brazilian Jiujitsu/MMA Academy|~
+~Nova Uniao Las Vegas|~
+~Ryuko Training Center|~
+~SIMGO Academy|~
+~Syndicate Mixed Martial Arts|https://syndicatemmavegas.com/~
+~Torres MMA Sport|~
+~Vegas Combat|~
+~Brazilian Jiu Jitsu of Washington Heights|~
+~MCF Warpath Boxing and MMA Academy|~
+~Next Level Athletic Performance|~
+~Buckeye Mixed Martial Arts & Fitness|~
+~Gotham Gym/ Savage MMA and Fitness LLC|~
+~Pejak Martial Arts|~
+~Quest Grappling Academy|~
+~Relevant Martial Arts|~
+~Yukon Martial Arts|https://www.yukonokmartialarts.com/~
+~Toronto Jiu Jitsu Club|~
+~Anibal Lobo Jiu Jitsu|~
+~Invictus Defense Academy|~
+~Krav Maga Salem|~
+~Porrada Jiu Jitsu Academy|~
+~Valhalla Combat|~
+~Alliance Pennsylvania Jiu-Jitsu|~
+~Pennsylvania Combat Sports|https://pacombatsports.com/~
+~Renzo Gracie Pennsylvania|https://renzograciepa.com/~
+~Station 6 Fitness and Martial Arts|https://www.station6fitness.com/~
+~Abdias Brazilian Jiu-Jitsu|~
+~Campuzano Martial Arts|https://campuzanomartialarts.com/~
+~Eclectic Combat Systems|~
+~Full Contact Fight Academy|~
+~Gracie Jiu Jitsu Houston|http://www.graciejiujitsuwesthouston.com~
+~Grappling Zone Pearland|~
+~Ion Jiu Jitsu|~
+~JJ Machado Austin Jiujitsu|~
+~Onnit Gym MMA|~
+~Renzo Gracie Houston|~
+~Reyes Jiu-Jitsu|~
+~Risen Jiu-Jitsu and Fitness|~
+~Solis Martial Arts Academy|~
+~Cheeseman Martial Arts Brazilian Jiu Jitsu|~
+~DCB MMA & Athletic Training|~
+~David Jacobs BJJ Academy|~
+~Gustavo Machado Norfolk|~
+~Burien Brazilian Jiu Jitsu|~
+~Sik-Jitsu Mixed Martial Arts|~
+~Spokane Valley Brazilian Jiu-Jitsu|~
+~The Base Vancouver|~
+~Vancouver Elite Martial Arts|~
+~Gracie Barra Madison|~
+~Gracie Barra Waunakee|~
+~Henry Matamoros Brazilian Jiu-Jitsu|~
+~Leadership Academy Martial Arts and Fitness|~
+
+{%- comment -%}
+  15 Aug 2026 - BATCH 36. LINK RECOVERY, first tranche. 240 previously-blanked records
+  were researched; 46 recovered (19%). See region-rebuild-batch36-findings.md.
+  These are EDITS to existing rows here, not new rows: gate C3 requires changing the
+  value in place rather than shadowing it from a later file. Every URL was OPENED and
+  its city or street address matched to the record. Aggregators and brand homepages
+  were refused. Rows changed here: 12.
+    AZ  Attitude First MMA                 -> https://attitudefirst.com/
+    CA  Lucas Leite Brazilian Jiu-Jitsu    -> https://lucasleitebjj.com/
+    CA  Thrive Jiu Jitsu                   -> https://www.thrivejiujitsuschool.com/
+    CA  Riverside MMA                      -> https://riversidemma.com/
+    CA  Dan Henderson's Athletic Fitness C -> https://dhathleticfitcenter.com/
+    CO  Victory MMA                        -> https://www.victorymmacolorado.com/
+    CO  Infinite Jiu-Jitsu Academy         -> https://infinitemixedmartialarts.perfectmind.c
+    CT  Cruvinel Brothers Brazilian Jiujit -> https://cruvinelbros.com/
+    FL  Miami Beach Brazilian Jiu-Jitsu    -> https://www.jorgepereirajiujitsu.com/
+    FL  Atos Orlando - Brazilian Jiu-Jitsu -> https://atosjiujitsuhq.com/affiliate/south-orl
+    FL  Relson Gracie Jiu-Jitsu Academy St -> https://www.philcardella.com/
+    GA  Team Kalista Martial Arts          -> https://teamkalistabjj.com/
+{%- endcomment -%}
+
+{%- comment -%}
+  16 Aug 2026 - BATCH 37. FALSE-POSITIVE RESTORATIONS. These 11 links were removed by us in
+  error and are being put back. Every record blanked for a dead-or-unreachable reason (131 of
+  them) was re-tested on BOTH the apex and the www form, then opened and read. 21 were live
+  schools - a 16% false-positive rate on that population. See CRITICAL-false-positive-removals.md.
+
+  ROOT CAUSE: every screen in this programme tested the hostname EXACTLY AS STORED. A domain
+  can be NXDOMAIN on www.foo.com while foo.com is alive and serving the school. Four of the
+  first eight false positives were exactly that.
+
+  NEW RULE: a domain is dead only if BOTH apex and www fail. One form failing proves nothing.
+
+  Restored in this file: 11.
+    Campuzano Martial Arts                 -> https://campuzanomartialarts.com/
+    Fusion MMA                             -> http://fusionfitnessandmma.com/
+    Gracie Jiu Jitsu Houston               -> http://www.graciejiujitsuwesthouston.com
+    New Britain Judo and Dynamic Arts      -> https://newbritainjudo.org/
+    Pennsylvania Combat Sports             -> https://pacombatsports.com/
+    Renzo Gracie Pennsylvania              -> https://renzograciepa.com/
+    Station 6 Fitness and Martial Arts     -> https://www.station6fitness.com/
+    Syndicate Mixed Martial Arts           -> https://syndicatemmavegas.com/
+    Underdog Brazilian Jiu-Jitsu           -> https://underdogbjj.com/
+    Vital Force Muay Thai & MMA            -> http://www.vitalforcemma.com/
+    Yukon Martial Arts                     -> https://www.yukonokmartialarts.com/
+{%- endcomment -%}

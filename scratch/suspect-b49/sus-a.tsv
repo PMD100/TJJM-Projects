@@ -1,0 +1,20 @@
+name	region	city	url	fetch_note	group
+Silva BJJ Lawndale CA (Aloisio Silva Affiliated Academy)	CA	Lawndale	https://www.facebook.com/SilvaArmy/	Facebook page returned blank body on fetch	id15
+South Prospect Martial Arts Gym	OH	Ravenna	https://southprospectgym.quest/	Empty body returned, .quest domain, nothing rendered	id15
+Southeast Jiu Jitsu	GA	Baxley	https://www.facebook.com/southeastjiujitsu/	Facebook page returned blank body on fetch	id15
+Southern Karate Jiu-Jitsu	LA	Covington	https://www.facebook.com/SouthernKarate/	Facebook page returned blank body on fetch	id15
+Southern Maryland Martial Arts & Fitness Bryans Road	MD	Bryans Road	https://smmafitness.com	Taekwondo and fitness only, no grappling listed	id15
+Southside Combat Academy	AZ	Flagstaff	https://www.facebook.com/wearesouthside/	Facebook page returned blank body on fetch	id15
+Squared Brazilian Jiu-Jitsu Danielson, CT	CT	Danielson	https://www.facebook.com/Squaredbjjdanielsonct/	Facebook page returned blank body on fetch	id15
+St. Matthews Martial Arts	KY	Louisville	https://www.gokempo.com/	Kempo karate kung fu only, no grappling	id15
+Steamboat Springs BJJ	CO	Steamboat Springs	https://steamboatbjj.com	Empty body returned, no content rendered	id15
+Stock Martial Arts	MN	Rochester	https://www.stockmartialarts.com	Empty body returned, no content rendered	id15
+Straight Blast Gym New Jersey	NJ	Montclair	https://www.sbgnj.com/	Empty body, redirects to http, nothing rendered	id15
+Strike And Submit Martial Arts And Fitness	TX	Killeen	https://sasmartialarts.net/	Empty body, redirects to http, nothing rendered	id15
+Studio 334	LA	Rayne	https://www.facebook.com/studio334la/	Facebook page returned blank body on fetch	id15
+Success Martial Arts	AZ	Tucson	https://smatucson.com/	Traditional Korean martial arts only, no grappling	id15
+Summit Jiu Jitsu	BC	Revelstoke	https://www.summitjjrevelstoke.com	Empty body returned, no content rendered	id15
+TK Martial Arts	AR	Lowell	https://www.tkmartialarts.com/	Empty body returned, no content rendered	id15
+TMAC Tipton Martial Arts Club	TX	Azle	https://tonytiptontraining.wixsite.com/website	Near-empty Wix page, only subscribe form	id15
+Tarpein's Dojo	IA	Davenport	https://tarpeinsdojo.com	Correct Davenport dojo but injected SEO spam	id15
+Team Caique Jiu-Jitsu Alaska	AK	Palmer	https://cjjusaalaska.com/	Empty body returned, no content rendered	id15

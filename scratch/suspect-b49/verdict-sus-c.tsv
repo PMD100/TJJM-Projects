@@ -1,0 +1,19 @@
+verdict	name	region	city	url	note
+DEAD	Troy Holton's Brazilian Jiu-Jitsu	AR	Harrison	https://www.troyholtonbjj.com/	Wix "domain isn't connected to a site" lander
+OK	True Leverage Alliance BJJ	NS	Kingston	https://www.instagram.com/tla_bjj	Live Instagram profile, True Leverage Alliance BJJ
+STRIKING_ONLY	Tsunami MMA	GA	Decatur	https://www.tsunamimma.co/	Taekwondo, kickboxing, Muay Thai only; zero grappling
+OK	USA Martial Arts Academy	MO	Eureka	https://www.usamartialartsacademy.com/	Eureka MO; karate, taekwondo and grappling classes
+OK	Uactp	CA	Los Angeles	https://www.uactp.com/	Los Angeles jiu-jitsu gym, classes and schedule
+OK	UnderGround Boxing & Brazilian Jiu-Jitsu	MN	Red Wing	https://www.ugroundboxing.com	Red Wing MN; BJJ, boxing, kickboxing programs
+WRONG_BUSINESS	Underground Gym	OH	Newark	https://www.facebook.com/NewarkUnderground/	55 W Church St Newark OH; weights gym only
+OK	Urijah Faber's Ultimate Fitness	CA	Sacramento	https://ufultimatefitness.com/	Sacramento CA 95819; site live, JS-rendered
+WRONG_BUSINESS	Vitor Shaolin BJJ NYC	NY	New York	https://www.bjjnewyorkcity.com	Now Modern Martial Arts / NYC BJJ Academy, Times Square
+OK	Warriors Lair MMA	TX	El Paso	https://www.facebook.com/LamarHarrisMMA/	8500 Dyer St Suite 20, El Paso TX
+OK	Warriors Legacy MMA	TX	Paris	https://www.warriorslegacymma.com	Live JS site; Muay Thai and jujitsu programs
+OK	Wayne Owen Fighting Arts	OR	Grants Pass	https://www.facebook.com/Wayne-Owen-Fighting-Arts-174709395877709/	Live page; judo, kung fu, tai chi classes
+OK	Wilson Fitness & Martial Arts	KY	Olive Hill	https://www.facebook.com/wilsonmartial.arts.3/	333 Warrior Drive, Olive Hill, KY 41164
+OK	Without Limits MMA	AR	Batesville	https://www.facebook.com/WithoutLimitsMMA/	464 S State St, Batesville, AR 72501
+OK	Woodshop Jiu-Jitsu	NS	Antigonish	https://www.facebook.com/woodshopjits	400 Williams Point Rd, Antigonish, NS B2G 0B4
+REPOINT	Xtreme Couture MMA	NV	Las Vegas	https://xtremecouture.tv	https://www.xcmma.com/ - .tv is Thai content farm
+WRONG_BUSINESS	Yeti MMA	NJ	Scotch Plains	https://www.shaolinbjj.com/	Serves Vitor Shaolin BJJ Academy, Union County NJ
+WRONG_BUSINESS	Zombie Krew Jiu Jitsu	TX	Fort Worth	https://www.instagram.com/p/C23I2Cop7ye/	Post by @jorgeperezbjj; Zombie Krew accounts deleted

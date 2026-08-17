@@ -1,0 +1,462 @@
+{
+ "plan": [
+  {
+   "name": "Silva BJJ Lawndale CA (Aloisio Silva Affiliated Academy)",
+   "input_name": "Silva BJJ Lawndale CA (Aloisio Silva Affiliated Academy)",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "CA",
+   "reason": "WRONG_BUSINESS - page now Aloisio Silva BJJ, Lewisville TX"
+  },
+  {
+   "name": "South Prospect Martial Arts Gym",
+   "input_name": "South Prospect Martial Arts Gym",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "OH",
+   "reason": "DEAD - redirects to platform gym-not-found page"
+  },
+  {
+   "name": "St. Matthews Martial Arts",
+   "input_name": "St. Matthews Martial Arts",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "KY",
+   "reason": "STRIKING_ONLY - Shaolin Kempo and Tai Chi only"
+  },
+  {
+   "name": "Success Martial Arts",
+   "input_name": "Success Martial Arts",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "AZ",
+   "reason": "STRIKING_ONLY - Korean traditional only, no grappling"
+  },
+  {
+   "name": "TK Martial Arts",
+   "input_name": "TK Martial Arts",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "AR",
+   "reason": "PARKED - GoDaddy parking lander"
+  },
+  {
+   "name": "TMAC Tipton Martial Arts Club",
+   "input_name": "TMAC Tipton Martial Arts Club",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "TX",
+   "reason": "DEAD - empty Wix placeholder"
+  },
+  {
+   "name": "Tarpein's Dojo",
+   "input_name": "Tarpein's Dojo",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "IA",
+   "reason": "HIJACK - injected spam links on the school's domain"
+  },
+  {
+   "name": "Tennessee Brazilian Jiu-Jitsu Academy",
+   "input_name": "Tennessee Brazilian Jiu-Jitsu Academy",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "TN",
+   "reason": "HIJACK - 92 hidden German casino links injected on-domain"
+  },
+  {
+   "name": "Team Hopkins Jiu Jitsu Mobile",
+   "input_name": "Team Hopkins Jiu Jitsu Mobile",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "AL",
+   "reason": "DEAD - Facebook page deleted"
+  },
+  {
+   "name": "The Komodo Academy",
+   "input_name": "The Komodo Academy",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "AB",
+   "reason": "DEAD - 404 on both host forms"
+  },
+  {
+   "name": "Tower 1 Combat Sports",
+   "input_name": "Tower 1 Combat Sports",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "NS",
+   "reason": "DEAD - Wix domain not connected"
+  },
+  {
+   "name": "The Hidden Lotus",
+   "input_name": "The Hidden Lotus",
+   "action": "BLANK",
+   "url": "",
+   "mode": "EDIT",
+   "file": "tjjm-gym-websites-3.liquid",
+   "region": "FL",
+   "reason": "WRONG_BUSINESS - site is Zen Ronin MMA, Miami"
+  },
+  {
+   "name": "Troy Holton's Brazilian Jiu-Jitsu",
+   "input_name": "Troy Holton's Brazilian Jiu-Jitsu",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "AR",
+   "reason": "DEAD - Wix domain not connected, both host forms"
+  },
+  {
+   "name": "Tsunami MMA",
+   "input_name": "Tsunami MMA",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "GA",
+   "reason": "STRIKING_ONLY - taekwondo, kickboxing, Muay Thai only"
+  },
+  {
+   "name": "Underground Gym",
+   "input_name": "Underground Gym",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "OH",
+   "reason": "WRONG_BUSINESS - weights and cardio gym, no martial arts"
+  },
+  {
+   "name": "Vitor Shaolin BJJ NYC",
+   "input_name": "Vitor Shaolin BJJ NYC",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "NY",
+   "reason": "WRONG_BUSINESS - domain now Modern Martial Arts, Times Square"
+  },
+  {
+   "name": "Yeti MMA",
+   "input_name": "Yeti MMA",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "NJ",
+   "reason": "WRONG_BUSINESS - domain serves Vitor Shaolin BJJ, Union County NJ"
+  },
+  {
+   "name": "Zombie Krew Jiu Jitsu",
+   "input_name": "Zombie Krew Jiu Jitsu",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "TX",
+   "reason": "WRONG_BUSINESS - post by another coach; own accounts deleted"
+  },
+  {
+   "name": "Simmons Academy of Wrestling",
+   "input_name": "Simmons Academy of Wrestling",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "MI",
+   "reason": "AGGREGATOR - Mindbody booking listing"
+  },
+  {
+   "name": "Six Blades Austin",
+   "input_name": "Six Blades Austin",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "TX",
+   "reason": "AGGREGATOR - association brand homepage"
+  },
+  {
+   "name": "Team Jucao Gardendale",
+   "input_name": "Team Jucao Gardendale",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "AL",
+   "reason": "AGGREGATOR - Gracie United brand homepage"
+  },
+  {
+   "name": "Team Jucão Elizabeth Brazilian Jiu Jitsu BJJ",
+   "input_name": "Team Jucao Elizabeth Brazilian Jiu Jitsu BJJ",
+   "action": "BLANK",
+   "url": "",
+   "mode": "EDIT",
+   "file": "tjjm-gym-websites-3.liquid",
+   "region": "NJ",
+   "reason": "AGGREGATOR - association locations directory"
+  },
+  {
+   "name": "Team Juggernaut Brazilian Jiu Jitsu & Fitness Academy",
+   "input_name": "Team Juggernaut Brazilian Jiu Jitsu & Fitness Academy",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "LA",
+   "reason": "AGGREGATOR - Google business.site page"
+  },
+  {
+   "name": "Tri-City Ju-Jitsu",
+   "input_name": "Tri-City Ju-Jitsu",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "AZ",
+   "reason": "AGGREGATOR - Google business.site page"
+  },
+  {
+   "name": "Trifecta MMA/BJJ",
+   "input_name": "Trifecta MMA/BJJ",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "CA",
+   "reason": "AGGREGATOR - Gymdesk-hosted platform subdomain"
+  },
+  {
+   "name": "Ultimate House of Champions",
+   "input_name": "Ultimate House of Champions",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "MI",
+   "reason": "AGGREGATOR - Google business.site page"
+  },
+  {
+   "name": "Ultra Brazilian Jiu-Jitsu & Mixed Martial Arts Santa Clarita",
+   "input_name": "Ultra Brazilian Jiu-Jitsu & Mixed Martial Arts Santa Clarita",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "CA",
+   "reason": "AGGREGATOR - Google business.site page"
+  },
+  {
+   "name": "Undisputed MMA",
+   "input_name": "Undisputed MMA",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "PA",
+   "reason": "AGGREGATOR - Google business.site page"
+  },
+  {
+   "name": "Victory Jiu Jitsu",
+   "input_name": "Victory Jiu Jitsu",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "NB",
+   "reason": "AGGREGATOR - Gymdesk platform domain"
+  },
+  {
+   "name": "War Room MMA, Kickboxing, and Fitness",
+   "input_name": "War Room MMA, Kickboxing, and Fitness",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "TX",
+   "reason": "AGGREGATOR - Google business.site page"
+  },
+  {
+   "name": "West Coast BJJ",
+   "input_name": "West Coast BJJ",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "BC",
+   "reason": "AGGREGATOR - association homepage, no location page"
+  },
+  {
+   "name": "Wild West Training Center",
+   "input_name": "Wild West Training Center",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "NV",
+   "reason": "AGGREGATOR - Calendly booking link"
+  },
+  {
+   "name": "Workhorse Mixed Martial Arts",
+   "input_name": "Workhorse Mixed Martial Arts",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "NS",
+   "reason": "AGGREGATOR - Gymdesk platform domain"
+  },
+  {
+   "name": "X3 Sports - Athens",
+   "input_name": "X3 Sports - Athens",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "GA",
+   "reason": "AGGREGATOR - generic brand signup form"
+  },
+  {
+   "name": "X3 Sports - North Marietta",
+   "input_name": "X3 Sports - North Marietta",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "GA",
+   "reason": "AGGREGATOR - generic signup form, no such location"
+  },
+  {
+   "name": "Yamasaki Academy Woodbridge",
+   "input_name": "Yamasaki Academy Woodbridge",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "VA",
+   "reason": "AGGREGATOR - Zoho Bookings page, no address"
+  },
+  {
+   "name": "Yonsei Martial Arts Academy",
+   "input_name": "Yonsei Martial Arts Academy",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "LA",
+   "reason": "AGGREGATOR - Calendly booking link"
+  },
+  {
+   "name": "Young Guardians MMA",
+   "input_name": "Young Guardians MMA",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "OH",
+   "reason": "AGGREGATOR - Google business.site page"
+  },
+  {
+   "name": "Team Nogueira",
+   "input_name": "Team Nogueira",
+   "action": "BLANK",
+   "url": "",
+   "mode": "EDIT",
+   "file": "tjjm-gym-websites-3.liquid",
+   "region": "FL",
+   "reason": "WRONG_CITY - record West Palm Beach, site serves Jupiter (same URL as Jupiter record)"
+  },
+  {
+   "name": "Team Tooke Mixed Martial Arts Lafayette",
+   "input_name": "Team Tooke Mixed Martial Arts Lafayette",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "LA",
+   "reason": "WRONG_CITY - site serves Houston and Cypress TX only"
+  },
+  {
+   "name": "Uprise MMA",
+   "input_name": "Uprise MMA",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "CA",
+   "reason": "WRONG_CITY - record Carmichael, site is Los Angeles"
+  },
+  {
+   "name": "Zero Point Gracie Jiu Jitsu",
+   "input_name": "Zero Point Gracie Jiu Jitsu",
+   "action": "BLANK",
+   "url": "",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "AZ",
+   "reason": "WRONG_CITY - record Camp Verde AZ, site is Melbourne Australia"
+  },
+  {
+   "name": "Xtreme Couture MMA",
+   "input_name": "Xtreme Couture MMA",
+   "action": "REPOINT",
+   "url": "https://www.xcmma.com/",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "NV",
+   "reason": "REPOINT - .tv is a Thai content farm; real Las Vegas gym at xcmma.com"
+  },
+  {
+   "name": "Warrior Defense Brazilian Jiu Jitsu",
+   "input_name": "Warrior Defense Brazilian Jiu Jitsu",
+   "action": "REPOINT",
+   "url": "https://warriordefense.com/",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "FL",
+   "reason": "REPOINT - deep path 404, root works"
+  },
+  {
+   "name": "Wind River Dojo",
+   "input_name": "Wind River Dojo",
+   "action": "REPOINT",
+   "url": "https://www.windriverdojo.org",
+   "mode": "APPEND",
+   "file": "tjjm-gym-websites-7.liquid",
+   "region": "WY",
+   "reason": "REPOINT - apex fails, www works"
+  }
+ ],
+ "problems": [],
+ "corrections": [
+  [
+   "Team Jucao Elizabeth Brazilian Jiu Jitsu BJJ",
+   "Team Jucão Elizabeth Brazilian Jiu Jitsu BJJ",
+   "tjjm-gyms-data-19.liquid"
+  ]
+ ]
+}

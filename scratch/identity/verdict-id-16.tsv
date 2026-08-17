@@ -1,0 +1,125 @@
+verdict	name	region	city	url	note
+SUSPECT	Team Rubao Carioca BJJ	NC	Durham	https://www.facebook.com/teamrubao/	Facebook fetch returned blank body
+SUSPECT	Team SFS - Scorpion Fighting System at Michigan Institute of Athletics	MI	Brighton	https://www.facebook.com/SFSMMA/	Facebook fetch returned blank body
+OK	Team Third Law BJJ Naples	FL	Naples	https://www.teamthirdlaw.com	BJJ judo wrestling, 5707 Shirley St Naples
+WRONG_CITY	Team Tooke Mixed Martial Arts Lafayette	LA	Lafayette	https://www.teamtooke.com/	Houston and Cypress Texas only
+OK	Technics Jiu-Jitsu Academy	HI	Honolulu	https://www.gracietechnics.com	Gracie Technics jiu-jitsu academy, Honolulu Hawaii
+OK	Tect Center	GA	Eastman	https://middlegamartialarts.com/	TECT Center BJJ, names Eastman Georgia
+OK	Teknica MMA	FL	Miami	https://teknicajj.com/	Pinecrest FL, Miami metro suburb address
+OK	Temple Gym NOLA	LA	New Orleans	https://www.templegymnola.com/	Jiu jitsu, 4521 Magazine St NOLA
+SUSPECT	Tennessee Brazilian Jiu-Jitsu Academy	TN	Spring Hill	https://www.tbjja.com	Real school but German casino spam injected
+SUSPECT	Tensei Jiu-Jitsu	MN	Richfield	https://tenseibjj.com	Fetch returned completely empty body
+OK	Tera BJJ	NL	St. John's	https://www.terabjj.com	BJJ only gym, 40 Aberdeen Ave St. John's
+OK	Terra Atma	QC	Sutton	https://www.terra-atma.com	Jiu-Jitsu studio, Sutton Cantons-de-l'Est Quebec
+OK	Texarkana Combat Sports	AR	Texarkana	https://www.texarkanacombatsports.com/	BJJ wrestling, 4017 Jefferson Ave Texarkana AR
+OK	The Academy Eden Prairie	MN	Edina	https://www.academyedenprairie.com	BJJ, 7501 Washington Ave S Edina
+OK	The Academy Elk River	MN	Elk River	https://academyelkriver.com	Jiu Jitsu MMA, 17375 US-10 Elk River
+OK	The Academy MN	MN	Brooklyn Center	https://theacademymn.com	BJJ judo wrestling, Brooklyn Center address matches
+OK	The Academy Plymouth	MN	Plymouth	https://academyplymouth.com	BJJ Muay Thai, 13605 27th Ave N
+OK	The Academy of Brazilian Jiu Jitsu	NV	Las Vegas	https://www.tabjj.com/	BJJ, 10020 W Cheyenne Ave Las Vegas
+OK	The Academy of Pensacola	FL	Pensacola	https://www.theacademyofpensacola.com/	BJJ judo nogi, 2600 W 9 Mile Pensacola
+OK	The Arena Brazilian Jiu Jitsu Academy & Fitness	AZ	Tucson	https://thearenabjj.com/	BJJ wrestling, 9013 E Old Vail Tucson
+OK	The Base Jiu Jitsu Boise	ID	Meridian	https://jiujitsuboise.com	BJJ academy, 2640 E State Ave Meridian
+OK	The Butcher Shop	ON	Sarnia	https://butchershopjiujitsu.ca	BJJ, Unit 7 110 East St Sarnia
+OK	The Cellar Gym	MN	Roseville	https://thecellargym.com	BJJ MMA, 2480 Fairview Ave Roseville
+OK	The Chute MMA, Jiu Jitsu and Wrestling	CA	Bakersfield	https://thechutemma.com/	BJJ wrestling Bakersfield; moved to 6801 White Ln
+OK	The Compound Mixed Martial Arts Training Center	WV	Pleasant Valley	https://thecompoundmmatc.com	BJJ MMA, 2331 Rollingwoods Dr Pleasant Valley
+OK	The Dojang New Orleans	LA	New Orleans	https://thedojangnola.com/	Machado BJJ; located Kenner, New Orleans metro
+OK	The Dojo MMA	AB	St. Albert	https://thedojomma.com	Jiu-Jitsu MMA, St. Albert northwest Edmonton
+OK	The Dojo NYC	NY	Brooklyn	https://thedojonyc.com/	BJJ judo wrestling, 32 Gardner Ave Brooklyn
+OK	The Farm BJJ	CO	Greeley	https://thefarmbjj.com	BJJ school located in Greeley Colorado
+OK	The Flow Institute Mason City	IA	Mason City	https://tfiexperience.com/mason-city	Jiu jitsu, 100 S Federal Ave Mason City
+SUSPECT	The Flow Lab Owatonna	MN	Owatonna	https://theflowlabowatonna.com	Fetch returned completely empty body
+OK	The Forge	MO	Joplin	https://www.warriorsciences.net/	MMA BJJ, 902 East 4th Joplin MO
+OK	The Foundry Brazilian Jiu Jitsu	ME	Farmington	https://foundrybjj.com	BJJ, 218 Fairbanks Rd Farmington Maine
+OK	The Garden Brazilian Jiu Jitsu	ON	North Bay	https://thegardenbjj.ca	BJJ, 397 Wyld Street North Bay
+OK	The Grappling Club	NY	Brooklyn	https://thegrapplingclubnyc.com	Brooklyn grappling club, BJJ nogi wrestling
+OK	The Grappling Garden	ON	Hamilton	https://grapplinggarden.ca	BJJ, 100 Frid St Unit 15 Hamilton
+SUSPECT	The Hidden Lotus	FL	Kendale Lakes	https://www.zenroninmma.com/	Fetch returned completely empty body
+OK	The House MMA Academy	AR	Wynne	https://www.wynnegym.com/	Jiu-Jitsu classes, 907 Rowena St Wynne
+OK	The Jiu Jitsu Institute	NC	Wilmington	https://www.thejji.com/	BJJ, 5208 Carolina Beach Rd Wilmington
+OK	The Jiu Jitsu Mill	NY	Port Chester	https://thejiujitsumill.com	BJJ wrestling; serves Rye Brook Westchester area
+OK	The Jiu-Jitsu Lab	ON	Waterloo	https://labjiujitsu.com	BJJ, 420 Weber St N Waterloo
+SUSPECT	The Komodo Academy	AB	Grande Prairie	https://www.thekomodoacademy.com/	Fetch returned completely empty body
+OK	The Lab Brazilian Jiu-Jitsu Academy	SK	Prince Albert	https://thebjjlab.com	BJJ, 21 11th St E Prince Albert
+OK	The Los Angeles Jiu-Jitsu Club	CA	Camarillo	https://lajjclub.com/	BJJ wrestling, 1151 Avenida Acaso Camarillo
+OK	The Ludus Martial Arts Academy	AB	Edmonton	https://www.ludusmartialarts.ca	Jiu-Jitsu MMA, 9547 42 Ave Edmonton
+OK	The MATS Academy	TX	North Richland Hills	https://themats.academy	BJJ, 8701 N Tarrant Pkwy North Richland
+OK	The Martial Arts Zone	NH	Manchester	https://themartialartszone.com	Gracie jiu-jitsu, 31 Auburn St Manchester NH
+OK	The Michigan Center for Capoeira	MI	Farmington Hills	https://www.tmc4c.com/bjjschedule	BJJ schedule page, 27881 Orchard Lake Farmington
+OK	The Old Way Jiu-Jitsu	AB	Calgary	https://www.theoldwayjiujitsu.com	BJJ, Unit 150 10233 Elbow Dr Calgary
+OK	The Ottawa Jiu Jitsu Club	ON	Ottawa	https://theottawajiujitsuclub.com	BJJ wrestling, 1484 Scott St Ottawa
+OK	The PIT Idaho	ID	Boise	https://www.thepitidaho.com	BJJ nogi MMA, Boise's martial arts gym
+OK	The Process Martial Arts Academy	HI	Kailua-Kona	https://www.theprocessmartialarts.com	BJJ wrestling, 73-5590 Kauhola St Kailua-Kona
+OK	The Sound Martial Arts	BC	Squamish	https://www.thesoundmartialarts.com	BJJ judo, 115-1111 Pioneer Way Squamish
+OK	The Submission Academy	ON	London	https://subacademyldn.com	BJJ, 1068 Dundas St London Ontario
+OK	The Sword BJJ	AK	Eagle River	https://www.theswordbjj.com/	BJJ, moved to 10950 Mausel St Eagle River
+SUSPECT	The Tap Room Grappling Group	NS	Middle Sackville	https://www.facebook.com/p/The-Tap-Room-Grappling-Group-61571256489758	Facebook fetch returned blank body
+OK	Thiago Alves BJJ	UT	Riverdale	https://thiagoalvesbjj.com	BJJ, 4042 Pacific Ave Riverdale UT
+NO_CITY	Third Way Jiu Jitsu	WY	Laramie	https://thirdwayjiujitsu.com	Real BJJ gym, no city or address
+OK	Three Rivers Martial Arts Academy	KY	Paducah	https://threeriversacademy.com/dev/	BJJ nogi, self-defense in Paducah Kentucky
+OK	Thrive Academy	MB	Winnipeg	https://thriveacademy.ca	BJJ, 181 Stradbrook Ave Winnipeg MB
+OK	Tidal BJJ	BC	Gibsons	https://tidalbjj.ca	BJJ, 1066 Gibsons Way Gibsons BC
+OK	Tiger Academy of Martial Arts	GA	Alpharetta	https://tigeracademy.com/	Gracie jiu-jitsu, 3815 Mansell Rd Alpharetta; brands Roswell
+OK	TigerStyle Combat Sports	OR	Portland	https://tigersden.club/classes/Brazilian-Jiu-Jitsu	BJJ, 5308 SE Foster Rd Portland
+OK	Tipping Point Brazilian Jiu Jitsu	IA	Cedar Rapids	https://www.tippingpointbjj.com	BJJ, 5313 N Park Pl Cedar Rapids
+SUSPECT	Titan Brazilian Jiu Jitsu	NC	Marion	https://www.facebook.com/p/Titan-Brazilian-Jiu-Jitsu-100049469036429/	Facebook fetch returned blank body
+OK	Titan Training Centre	BC	Coquitlam	https://titantrainingcentre.com	10th Planet BJJ wrestling, 910 Sherwood Coquitlam
+OK	Titan's Martial Arts and Fitness	NS	Halifax	https://titansmaaf.ca	Renzo Gracie BJJ, 174 Horseshoe Lake Halifax
+OK	Tom Smith's Forge Martial Arts Academy	CT	Northford	https://www.forgeacademyct.com/	BJJ listed, 1060 Middletown Ave Northford CT
+OK	Tooele Martial Arts Academy	UT	Tooele	https://tooelemartialartsacademy.com	BJJ nogi, 10 S Garnet St Tooele
+OK	Top Game BJJ Academy	VA	Richmond	https://topgamebjj.com/	BJJ, 8324 Staples Mill Rd Richmond
+OK	Toronto BJJ	ON	Toronto	https://www.torontobjj.com	BJJ academy, downtown Toronto Bloor Street West
+OK	Toronto Top Team Martial Arts and Fitness	ON	North York	https://torontommateam.com	BJJ wrestling, 161 Bartley Dr North York
+OK	Toshido MMA	BC	Kelowna	https://toshido.ca	MMA BJJ, 165 HWY 33E Kelowna
+OK	Total Defense Martial Arts	VA	Staunton	https://totaldefensema.com/	BJJ, 708 D Street Staunton Virginia
+SUSPECT	Total MMA Studios	CA	Tustin	https://www.totalmmastudios.com/	Empty body, only title rendered
+SUSPECT	Tower 1 Combat Sports	NS	Dartmouth	https://www.tower1combatsports.com	Fetch returned completely empty body
+OK	Tracks Brazilian Jiu-Jitsu	MN	Coon Rapids	https://tracksbjj.com	BJJ, 11403 Foley Blvd Coon Rapids
+OK	Train 4 Life	CA	Suisun	https://www.train4life.info	Jiu jitsu wrestling, 254 Sunset Ave Suisun
+NO_CITY	Transcendent Combat Sports	BC	Nelson	https://www.transcendentcombatsports.com	BJJ classes listed, no city or address
+OK	Traphouse Jiu Jitsu	MT	Missoula	https://www.traphousesociety.com	BJJ, 2825 Stockyard Rd Missoula MT
+OK	Trasso Jiu Jitsu & Wrestling	NJ	Glen Rock	https://trassojjw.com/	BJJ wrestling, 200 Rock Road Glen Rock
+OK	Travis Lutter MMA	TX	Fort Worth	https://www.travislutter.com/	BJJ, 6913 Camp Bowie Blvd Fort Worth
+OK	Tri-Cities Gracie Jiu-Jitsu	BC	Port Moody	https://www.tricitiesgjj.com	Gracie BJJ, 2813 Spring St Port Moody
+OK	Tri-Cities JiuJitsu Club	VA	Colonial Heights	https://tricitiesmartialartsclub.com/	BJJ judo wrestling; now 1617 Boulevard Colonial Heights
+AGGREGATOR	Tri-City Ju-Jitsu	AZ	Chino Valley	https://tri-city-ju-jitsu.business.site/	Google business.site page, blank body
+OK	Tri-Force MMA	RI	Pawtucket	https://www.triforcemma.com	BJJ MMA, Pawtucket RI location listed
+OK	Triad Jiu Jitsu	UT	Vernal	https://triadjiujitsu.com	Brazilian Jiu Jitsu in Vernal Utah
+OK	Triad Martial Arts Academy of Ruston	LA	Ruston	https://www.triadmartialartsruston.com/	BJJ judo, 2321 S Vienna St Ruston
+OK	Tribe Fitness and Martial Arts	NV	Las Vegas	https://www.tribevegas.com	Jiu Jitsu, 5752 S Fort Apache Vegas
+OK	Tribe Gym & Tribe Martial Arts	AR	Camden	https://www.tribegymandmartialarts.com/	Adult kids grappling, 1105 Fairview Rd Camden
+OK	Tribe Jiujitsu Academy	AK	Fairbanks	https://tribebjj.net/?utm_campaign=gmb	BJJ nogi, serves Fairbanks and North Pole
+OK	Tried & True Jiu Jitsu	AB	Calgary	https://triedandtruejj.ca	Brazilian Jiu Jitsu gym in Calgary
+AGGREGATOR	Trifecta MMA/BJJ	CA	Visalia	https://trifecta-mmabjj.maonrails.com/	Redirects to Gymdesk-hosted subdomain; Visalia CA
+OK	Trilogy Martial Arts	CA	El Cajon	https://www.trilogymmagym.com/	BJJ, 13727 Camino Canada El Cajon
+SUSPECT	Tristar Gym Montreal	QC	Montreal	https://tristargym.com	Near-empty body, no city or content
+OK	Tristar Gym Repentigny	QC	Repentigny	https://tristarrepentigny.ca	BJJ MMA gym in Repentigny Quebec
+OK	Triumph Brazilian Jiu-Jitsu	NH	Nashua	https://teamtriumphbjj.com	BJJ, 2 Townsend West Nashua NH
+OK	Triumph Martial Arts	IA	Urbandale	https://triumphma.com	Machado BJJ, 8545 Hickman Rd Urbandale
+OK	Triumph Martial Arts Pella	IA	Pella	https://triumphma.com/location/pella-ia	Machado BJJ, 1582 Washington Street Pella IA
+OK	Triunity Martial Arts Studio	BC	Surrey	https://www.triunitymartialarts.com	BJJ, 4a-15685 Fraser Hwy Surrey BC
+SUSPECT	Troy Holton's Brazilian Jiu-Jitsu	AR	Harrison	https://www.troyholtonbjj.com/	Fetch returned completely empty body
+OK	True Elevation Brazilian Jiu Jitsu	WV	Kearneysville	https://tpfgym.com/true_elevation_bjj/	BJJ at True Performance Fitness, Jefferson County
+SUSPECT	True Leverage Alliance BJJ	NS	Kingston	https://www.instagram.com/tla_bjj	Instagram fetch returned blank body
+OK	Trujitsu Bakersfield Brazilian Jiu Jitsu/mattbakerbjj	CA	Bakersfield	https://www.mattbakerbjj.com/	BJJ, 3714 Coffee Rd Bakersfield location
+OK	Truro BJJ	NS	Truro	https://trurojiujitsu.com	BJJ, 779 Prince Street Truro NS
+OK	Tsunami Academy of Martial Arts	PA	Gettysburg	https://tsunami.academy/	Gettysburg PA academy; disciplines not listed onscreen
+SUSPECT	Tsunami MMA	GA	Decatur	https://www.tsunamimma.co/	Taekwondo Muay Thai kickboxing only, no grappling
+OK	Tulsa Judo and Jiu Jitsu	OK	Tulsa	https://tulsajudo.org/	Judo club, 4343 S Memorial Dr Tulsa
+OK	Tupelo Jiu Jitsu Academy	MS	Tupelo	https://tupelojiujitsuacademy.com	BJJ MMA, 811b Varsity Drive Tupelo
+OK	Tutaj Brazilian Jiu Jitsu	IL	Forest Park	https://www.tutajbjj.com/	BJJ; moved from Forest Park to North Riverside
+OK	Twin Wolves MMA	TX	Harker Heights	https://www.twmma.com	BJJ judo, 217 Cox Drive Harker Heights
+OK	Tysons Brazilian Jiu Jitsu and Haganah	VA	Vienna	https://www.tysonsbjj.com/	Gracie BJJ, 8453 Tyco Rd Vienna
+OK	UNIVERSAL FITNESS AND MIXED MARTIAL ARTS	AZ	Mesa	https://ufitmma.com/	BJJ judo wrestling, 7931 E Pecos Mesa
+SUSPECT	USA Martial Arts Academy	MO	Eureka	https://www.usamartialartsacademy.com/	Fetch returned completely empty body
+SUSPECT	Uactp	CA	Los Angeles	https://www.uactp.com/	Fetch returned completely empty body
+OK	Ucelo Martial Arts Phoenix	AZ	Phoenix	https://ucelomartialartsphoenix.com/	Jiu Jitsu programs, 8021 N 43rd Phoenix
+OK	Ultimate Combat Training Center	UT	Holladay	https://ultimatecombat.com	BJJ, 1939 E Murray Holladay Rd Holladay
+AGGREGATOR	Ultimate House of Champions	MI	Livonia	https://ultimate-protector-mixed-martial-arts-academy-house.business.site/	Google business.site page, blank body
+AGGREGATOR	Ultra Brazilian Jiu-Jitsu & Mixed Martial Arts Santa Clarita	CA	Santa Clarita	https://ultrabrazilianjiujitsusantaclarita.business.site/	Google business.site page, blank body
+OK	Una Brazilian Jiujitsu	NY	Forest Hills	https://www.unabjj.com	BJJ judo, 100-33 Metropolitan Ave Forest Hills
+SUSPECT	UnderGround Boxing & Brazilian Jiu-Jitsu	MN	Red Wing	https://www.ugroundboxing.com	Fetch returned completely empty body
+SUSPECT	Underground Gym	OH	Newark	https://www.facebook.com/NewarkUnderground/	Facebook fetch returned blank body
+OK	Underground Jiu Jitsu	TX	Plano	https://underground-bjj.com/	BJJ, 1406 Capital Ave Plano TX
+OK	Underground Martial Arts & Fitness LLC	GA	Buford	https://www.ukamartialarts.com/	Jiu-Jitsu classes, 4805 S Lee St Buford

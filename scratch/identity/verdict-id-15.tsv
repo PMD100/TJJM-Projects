@@ -1,0 +1,125 @@
+verdict	name	region	city	url	note
+OK	Silva BJJ Lancaster CA (Aloisio Silva BJJ Associated Academy)	CA	Lancaster	https://silvabjj.com/	Contact page lists Lancaster 44219 Sierra Hwy
+SUSPECT	Silva BJJ Lawndale CA (Aloisio Silva Affiliated Academy)	CA	Lawndale	https://www.facebook.com/SilvaArmy/	Facebook page returned blank body on fetch
+OK	Silver 7 Martial Arts	ON	Kanata	https://silver7martialarts.com	737 Silver Seven Rd Kanata, BJJ listed
+OK	Silverback Brazilian Jiu Jitsu	TX	Fort Worth	https://www.silverbackbjjfw.com/	5769 Westcreek Dr Fort Worth matches exactly
+OK	Silverback Jiu Jitsu	NM	Clovis	https://www.silverbacksoulbjj.com	BJJ school, says located at 1012 Mainstreet
+AGGREGATOR	Simmons Academy of Wrestling	MI	Lansing	https://www.mindbodyonline.com/explore/locations/simmons-academy-of-wrestling	Mindbody booking platform listing, not own site
+OK	Sindalu Brazilian Jiu-Jitsu Albuquerque	NM	Albuquerque	https://www.sindalubjj.com	Contact page lists 3614 High St NE
+OK	Sindalu Brazilian Jiu-Jitsu Portales	NM	Portales	https://www.sindalubjj.com	Contact page lists Portales 1608 E Spruce
+AGGREGATOR	Six Blades Austin	TX	Austin	https://www.sixblades.com/	Six Blades association brand homepage, affiliate recruitment
+OK	Six Blades Jiu-Jitsu Fort Worth	TX	Fort Worth	https://jiujitsufortworth.com	Six Blades Fort Worth, 6060 Southwest Blvd
+OK	Skinner's Martial Arts	KY	Grand Rivers	https://www.skinnersmartialarts.com/	Rebranded Transform Academy, Calvert City KY nearby
+OK	SmartJits Brazilian Jiu Jitsu Academy	NM	Albuquerque	https://smartjits.life	8520 Pan American Fwy NE Albuquerque matches
+NO_CITY	Smith Brazilian Jiu-Jitsu	GA	McDonough	https://www.smithbjj.com/	Real BJJ site, no address or city
+WRONG_CITY	Snake Pit U.S.A. MMA	NJ	Galloway	https://snakepitusamma.com	Hammonton NJ, roughly eighteen miles away
+OK	Socius BJJ	MB	Winnipeg	https://www.sociusbjj.com	Unit 5 1455 Waverley St Winnipeg
+OK	Sol BJJ - Brazilian Jiu Jitsu Classes in Phoenix	AZ	Phoenix	https://solbjj.com/	6228 N 7th St Phoenix matches
+OK	Solid Ground Brazilian Jiu-Jitsu	AZ	Queen Creek	https://www.solidgroundbjj.com/	18933 E San Tan Blvd Queen Creek
+OK	Son Of Siam Martial Arts	KY	Erlanger	https://www.sonofsiam.com	32 Kenton Lands Rd Erlanger, BJJ judo
+OK	Sonoran Brazilian Jiu Jitsu	AZ	Tucson	https://www.sonoranbjj.com	4410 E Grant Rd Tucson matches
+OK	Soul Fighters Headquarters	AZ	Tempe	https://www.soulfightershq.com/	975 E Elliot Rd Tempe AZ
+OK	Soul Fighters Martial Arts Training Center - Allen	TX	Allen	https://soulfightersallen.com/	1223 W McDermott Dr #100 Allen matches
+OK	South Boston BJJ	MA	Boston	https://southbostonbjj.com	Academy in Leather District, Boston MA
+OK	South Island Brazilian Jiu-Jitsu	BC	Duncan	https://www.sibjj.com	Cowichan Valley BJJ, matches Duncan area location
+OK	South Mountain Brazilian Jiu Jitsu & Self Defense	AZ	Phoenix	https://southmountainjiujitsu.com/	3636 W Southern Ave Phoenix AZ
+SUSPECT	South Prospect Martial Arts Gym	OH	Ravenna	https://southprospectgym.quest/	Empty body returned, .quest domain, nothing rendered
+OK	South Texas Grappling Team	TX	San Benito	https://south-texas-grappling-team.ueniweb.com/	Judo and BJJ, San Benito address matches
+SUSPECT	Southeast Jiu Jitsu	GA	Baxley	https://www.facebook.com/southeastjiujitsu/	Facebook page returned blank body on fetch
+SUSPECT	Southern Karate Jiu-Jitsu	LA	Covington	https://www.facebook.com/SouthernKarate/	Facebook page returned blank body on fetch
+SUSPECT	Southern Maryland Martial Arts & Fitness Bryans Road	MD	Bryans Road	https://smmafitness.com	Taekwondo and fitness only, no grappling listed
+OK	Southpaw Fitness	GA	Kathleen	https://www.southpawfitness.com/	Kathleen GA gym, BJJ and judo
+SUSPECT	Southside Combat Academy	AZ	Flagstaff	https://www.facebook.com/wearesouthside/	Facebook page returned blank body on fetch
+OK	Southside Martial Arts	IA	Fort Dodge	https://southsidemartialarts.com	1028 S 22nd St Fort Dodge matches
+OK	Spangler Brazilian Jiu Jitsu Academy	NC	Apex	https://www.carybjj.com	Now Jiu-Jitsu Performance Academy, 813 Perry Rd Apex
+OK	Sparks Martial Arts Academy	VA	Ashburn	https://www.sparksmma.com/	21720 Red Rum Dr Ashburn VA matches
+OK	Spartan Academy MMA	SC	Columbia	https://spartanacademymma.com	6169 Saint Andrews Rd Columbia SC matches
+OK	Spartan Fit MMA - Springtown TX	TX	Springtown	https://spartanspringtown.com/	Spartan Grappling Academy, 554 JE Woody Springtown
+OK	Spartan Martial Arts	MN	Oakdale	https://spartanmartialartsgym.com	Located Oakdale MN, BJJ sambo judo
+OK	Spartan Mixed Martial Arts	NJ	Ocean Township	https://oceantownshipmartialarts.com/	11 Cindy Ln Ste 3 Ocean Township
+OK	Spartanburg Jiu-Jitsu	SC	Spartanburg	https://www.spartanburgjiujitsu.com	Spartanburg BJJ gym, map confirms Spartanburg location
+OK	Spearfish Martial Arts	SD	Spearfish	https://www.spearfishmartialarts.com	2431 E Colorado Blvd Spearfish SD matches
+OK	Spectrum Jiu Jitsu	WV	Kearneysville	https://spectrumjiujitsu.com	59 Ruland Rd Kearneysville WV matches
+OK	Square Circle New York	NY	New York	https://squarecirclenewyork.com	BJJ and Muay Thai in Lower Manhattan
+SUSPECT	Squared Brazilian Jiu-Jitsu Danielson, CT	CT	Danielson	https://www.facebook.com/Squaredbjjdanielsonct/	Facebook page returned blank body on fetch
+OK	St. Catharines BJJ	ON	St. Catharines	https://stcatharinesbjj.com	St Catharines BJJ, top Niagara Region school
+OK	St. John's BJJ	NL	St. John's	https://stjohnsbjj.ca	St John's BJJ and Judo, Newfoundland
+SUSPECT	St. Matthews Martial Arts	KY	Louisville	https://www.gokempo.com/	Kempo karate kung fu only, no grappling
+OK	St. Paul Brazilian Jiu Jitsu Academy	MN	St. Paul	https://bjjacademymn.com	322 Chester St St. Paul MN matches
+OK	Staley Martial Arts / Carlson Gracie North Shore	IL	Wilmette	https://staleymartialarts.com	123 Green Bay Road Wilmette Illinois matches
+OK	Standalone MMA, Brazilian Jiu-Jitsu, Boxing, Muay Thai Kickboxing and Fitness	CA	Chico	https://www.standalonemma.com/	848 W 9th St Chico CA matches
+OK	Stanford BJJ	CA	Stanford	https://stanfordclubsports.com/sports/brazilian-jiu-jitsu	Official Stanford Recreation club sports BJJ page
+OK	Stars and Strikes MMA	MI	Westland	https://starsandstrikesmma.com/	MMA gym in Westland MI, grappling taught
+OK	Start BJJ Minnesota	MN	St. Cloud	https://startbjjminnesota.squarespace.com	3333 W Division St Saint Cloud matches
+SUSPECT	Steamboat Springs BJJ	CO	Steamboat Springs	https://steamboatbjj.com	Empty body returned, no content rendered
+OK	Steel City MMA	ON	Sault Ste. Marie	https://steelcitymma.com	258 Queen St E Sault Ste. Marie
+OK	Stellar Jiu Jitsu	WV	Lewisburg	https://stellarjj.com	Jiu-jitsu academy in Lewisburg WV, HQ
+SUSPECT	Stock Martial Arts	MN	Rochester	https://www.stockmartialarts.com	Empty body returned, no content rendered
+OK	Stoic Brazilian Jiu Jitsu	TX	Mansfield	https://www.stoicjj.com/	1910 Lone Star Rd A Mansfield TX
+OK	Stonecoast Brazilian Jiu Jitsu	ME	Portland	https://stonecoastbjj.com	131 Johnson Rd Portland ME matches
+OK	Storm MMA & Fitness	TX	Temple	https://stormmmaandfitness.com/	BJJ and Muay Thai located in Temple
+OK	Straight Blast Gym Atlanta BJJ	GA	Atlanta	https://sbgatlanta.com/locations/sbg-atlanta/	1799 Briarcliff Rd NE Atlanta, Druid Hills
+OK	Straight Blast Gym Bigfork	MT	Bigfork	https://sbgmontana.com/gym-locations/bigfork-gym	108 Crestview Dr Bigfork location page works
+OK	Straight Blast Gym Bozeman	MT	Bozeman	https://sbgbozeman.com	2320 W Main St Unit 5 Bozeman
+OK	Straight Blast Gym Buford	GA	Buford	https://sbgatlanta.com/locations/sbg-buford/	Buford location page, 4989 Lanier Islands Pkwy
+OK	Straight Blast Gym Calgary	AB	Calgary	https://sbgcalgary.com	Calgary jiu jitsu gym, kids and adults
+OK	Straight Blast Gym Kalispell	MT	Kalispell	https://sbgkalispell.com/bjj	30 4th St E Kalispell MT matches
+OK	Straight Blast Gym Missoula	MT	Missoula	https://sbgmissoula.com	218 W Main St Missoula MT matches
+SUSPECT	Straight Blast Gym New Jersey	NJ	Montclair	https://www.sbgnj.com/	Empty body, redirects to http, nothing rendered
+OK	Stratford BJJ PEI	PE	Stratford	https://www.peimma.com/stratford	Stratford PEI schedule page, BJJ classes listed
+SUSPECT	Strike And Submit Martial Arts And Fitness	TX	Killeen	https://sasmartialarts.net/	Empty body, redirects to http, nothing rendered
+OK	Striking 101 Mixed Martial Arts - Forest Hills	NY	Queens	https://s101hq.com	96-21 69th Ave Forest Hills, submission grappling
+OK	Strong Heart Academy Brazilian jiu-jitsu & MMA	AZ	Phoenix	https://strongheartacademy.com/	Phoenix BJJ academy, Caio Terra Association
+OK	Strong Style MMA	TX	Rosenberg	https://www.strongstylemma.com/	4106 FM 723 Suite D Rosenberg TX
+SUSPECT	Studio 334	LA	Rayne	https://www.facebook.com/studio334la/	Facebook page returned blank body on fetch
+OK	Studio 671 Jiu Jitsu	ID	Caldwell	https://studio671jiujitsu.com	1322 Lauren Lane Suite 101 Caldwell Idaho
+OK	Studio X	NY	New York	https://www.studiox.nyc/	6 St Marks Place New York NY 10003
+OK	Sub Zero Brazilian Jiu Jitsu	NY	Hamburg	https://subzerobjj.com	1 Memorial Drive Hamburg NY matches
+OK	Submission Arts Academy	ON	Barrie	https://submissionartsacademy.com	112 Commerce Park Dr Barrie ON matches
+SUSPECT	Success Martial Arts	AZ	Tucson	https://smatucson.com/	Traditional Korean martial arts only, no grappling
+OK	Sudbury BJJ	ON	Sudbury	https://sudburybjj.com	790 Lasalle Blvd Greater Sudbury ON
+OK	Summit Fitness Kickboxing and Jiu Jitsu	MS	Starkville	https://starkvillefitnesskickboxing.com	400 Industrial Park Rd G Starkville MS
+SUSPECT	Summit Jiu Jitsu	BC	Revelstoke	https://www.summitjjrevelstoke.com	Empty body returned, no content rendered
+OK	Supreme Academy ATX	TX	Austin	https://supremeacademyatx.com	Kyle TX address, Austin metro; BJJ judo
+OK	Surrey Combat Sports and Performance	BC	Surrey	https://surreymma.ca	13638 Grosvenor Road Surrey BC matches
+OK	Synergy BJJ Fredericton	NB	Fredericton	https://www.bjjfredericton.com	368 Forest Hill Road Fredericton New Brunswick
+OK	Synergy Jiu-Jitsu Academy	CA	Rocklin	https://bjj-rocklin.com/	Rocklin's jiu-jitsu school since 2009
+OK	Synthesis Brazilian Jiu-Jitsu	NY	Rochester	https://synthesisbjj.com	1225 Jefferson Rd Rochester NY matches
+OK	System Jiu-Jitsu	ID	Meridian	https://systemjiujitsu.com	735 N Ralstin St Meridian ID matches
+OK	T.O.S.S. Academy / Gracie Brazilian Jiu-Jitsu	AR	Bentonville	https://www.tossbjj.com/	2003 SW Regional Airport Blvd Bentonville AR
+OK	TAP Brazilian Jiu-Jitsu Academy	SC	Rock Hill	https://www.tapbjjacademy.com	1539 Celanese Rd Suite 103 Rock Hill
+OK	TD Athletics	NY	Brooklyn	https://tdathletics.net	713 Snediker Avenue Brooklyn NY matches
+OK	TFTC Academy Cary	NC	Cary	https://carymma.com/	6408 Tryon Rd Suite D Cary NC
+SUSPECT	TK Martial Arts	AR	Lowell	https://www.tkmartialarts.com/	Empty body returned, no content rendered
+SUSPECT	TMAC Tipton Martial Arts Club	TX	Azle	https://tonytiptontraining.wixsite.com/website	Near-empty Wix page, only subscribe form
+OK	TMC Brazilian Jiu-Jitsu	KS	Overland Park	https://tmcbjj.com	6741 W 135th Unit A69 Overland Park
+OK	TNT Martial Arts	MI	Romeo	https://tntmartialarts.com	206 S Main Romeo Michigan, karate BJJ
+OK	TRXTR Studio	HI	Kapolei	https://bjjkapolei.com	2045 Lauwiliwili St 403 Kapolei HI
+OK	Tactical Combat Academy MMA - Greencastle	PA	Greencastle	https://www.tcamma.com/	120 S Antrim Way Greencastle PA matches
+OK	Tantō Jiujitsu	CA	Montrose	https://www.tantojiujitsu.com/	2335 Honolulu Ave Suite B Montrose
+SUSPECT	Tarpein's Dojo	IA	Davenport	https://tarpeinsdojo.com	Correct Davenport dojo but injected SEO spam
+OK	Tbt Gym-Total Body Training	TX	McKinney	https://tbtgym.com/calendar/	McKinney TX location, BJJ and wrestling scheduled
+OK	Team Alpha Miami	FL	Miami	https://alphamiamigrappling.com/	850 SW 69th Ave Miami, Flagami
+SUSPECT	Team Caique Jiu-Jitsu Alaska	AK	Palmer	https://cjjusaalaska.com/	Empty body returned, no content rendered
+OK	Team Carvalho Treasure Coast	FL	Fort Pierce	https://www.teamcarvalhotreasurecoast.com/	113 Orange Avenue Fort Pierce FL matches
+OK	Team Casarez Jiu-Jitsu	NC	Cary	https://casarezbjj.com/	253 Grande Heights Drive Cary NC matches
+SUSPECT	Team Chaotic Combat Sports and Fitness	CO	Colorado Springs	https://m.facebook.com/TeamChaoticCombatSports	Facebook page returned blank body on fetch
+OK	Team Chitwood North	OH	Hinckley	https://www.teamchitwoodnorth.com/	2571 Center Road Hinckley Ohio matches
+OK	Team Curuma Brazilian Jiu-Jitsu Academy	NJ	Bergenfield	https://teamcuruma.com	North Bergen NJ address, roughly eight miles
+OK	Team Diamond Heart	NY	Brooklyn	https://teamdiamondheart.com	67 Ingraham St Bushwick Brooklyn NY
+SUSPECT	Team Flow State	NB	Saint John	https://www.facebook.com/FlowstateJJ	Facebook page returned blank body on fetch
+SUSPECT	Team Fortitude NS	NS	Bridgewater	https://www.facebook.com/FortitudeJiujitsu	Facebook page returned blank body on fetch
+OK	Team Hopkins Hattiesburg	MS	Hattiesburg	https://teamhopkinsjiujitsu.com	22 Commercial Warehouse Drive Hattiesburg MS matches
+SUSPECT	Team Hopkins Jiu Jitsu Mobile	AL	Mobile	https://www.facebook.com/GracieJiuJitsuOfAlabama/	Facebook page returned blank body on fetch
+AGGREGATOR	Team Jucao Gardendale	AL	Gardendale	https://www.championfactory.com/	Gracie United brand homepage, 32 locations listed
+SUSPECT	Team Jucao Newark Brazilian Jiu Jitsu	NJ	Newark	https://www.facebook.com/teamjucaonewark/	Facebook page returned blank body on fetch
+AGGREGATOR	Team Jucão Elizabeth Brazilian Jiu Jitsu BJJ	NJ	Elizabeth	https://www.teamjucaoacademy.com/locations	Team Jucao association locations directory, not own site
+AGGREGATOR	Team Juggernaut Brazilian Jiu Jitsu & Fitness Academy	LA	Opelousas	https://teamjuggernautbrazilianjiujitsufitness.business.site/	Google business.site page, not own website
+OK	Team Junqueira Pittsburgh	PA	Wexford	https://www.teamjunqueira.com/	Located in Wexford PA north of Pittsburgh
+OK	Team Link Utah	UT	Layton	https://teamlinkutahbjj.com	3020 N Fairfield Rd Layton Utah matches
+OK	Team Luiz Palhares of West Virginia - Imperium Jiu-Jitsu	WV	Elkins	https://bjjclub.weebly.com	Imperium Jiu-Jitsu, Team Luiz Palhares West Virginia
+WRONG_CITY	Team Nogueira	FL	West Palm Beach	https://jupiterbjj.com/	Site serves Jupiter, not West Palm Beach
+OK	Team Nogueira Bloise Academy	FL	Jupiter	https://jupiterbjj.com	1601 Commerce Ln #104 Jupiter matches
+SUSPECT	Team Oyama MMA & Fitness	CA	Irvine	https://teamoyama.com/	Empty body, JavaScript-only page, nothing rendered
+SUSPECT	Team Real USA	NY	Staten Island	https://teamrealusa.com/wp	Empty body, root also empty, nothing rendered
+OK	Team Rhino Gracie Jiu-Jitsu	ID	Meridian	https://teamrhinoidaho.com	750 S Progress #125 Meridian ID
