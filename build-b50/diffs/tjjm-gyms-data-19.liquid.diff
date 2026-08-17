@@ -1,0 +1,8 @@
+--- a/tjjm-gyms-data-19.liquid
++++ b/tjjm-gyms-data-19.liquid
+@@ -13 +13 @@
+-{"n":"Team Curuma Brazilian Jiu-Jitsu Academy","c":"Bergenfield","s":"NJ","w":"https://teamcuruma.com","a":"9025 Old River Rd North"},
++{"n":"Team Curuma Brazilian Jiu-Jitsu Academy","c":"North Bergen","s":"NJ","w":"https://teamcuruma.com","a":"9025 Old River Rd North"},
+@@ -89 +89 @@
+-{"n":"Bataille Jiu Jitsu Academy","c":"Kinnelon","s":"NJ","w":"https://www.bataillejj.com/","a":"10 Park Pl; Building 6b; Ste 213"},
++{"n":"Bataille Jiu Jitsu Academy","c":"Bloomingdale","s":"NJ","w":"https://www.bataillejj.com/","a":"10 Park Pl; Building 6b; Ste 213"},

@@ -1,0 +1,42 @@
+--- a/tjjm-gym-websites-7.liquid
++++ b/tjjm-gym-websites-7.liquid
+@@ -51,2 +51,39 @@
+ {%- endcomment -%}
++{%- comment -%}
++  17 Aug 2026 - BATCH 50. The first batch to edit the DATA snippets rather than the overrides.
++  NO override rows were added to this file. The two rows this batch was briefed to write both
++  turned out to be unnecessary, and one of them would have broken gate C3. Detail below.
++
++  WHAT BATCH 50 CHANGED
++  1. 21 city corrections in the data snippets, each verified against the school's own site.
++     Every one matched exactly one record on name AND stored city, and not one changed region,
++     so every count in tjjm-region-index is unchanged and the corpus is still 5,911 records.
++     Files touched: tjjm-gyms-data (14 edits), -17 (2), -19 (2), -14, -20, -24.
++  2. Fixed an INERT override row in tjjm-gym-websites-6. The row for Murdoc's Brazilian
++     Jiu-Jitsu (MWBJJ) & Self Defense Academy (GD JJ Affiliate) carried a STRAIGHT apostrophe
++     but the record uses a CURLY one (U+2019), so the row had never matched and murdocsbjj.com
++     - now an expired GoDaddy parking lander - was still linked. Rewritten with the curly
++     apostrophe; it now matches the record byte for byte and the blank finally takes effect.
++
++  WHAT BATCH 50 DID NOT DO, AND WHY. DO NOT RETRY EITHER WITHOUT READING THIS.
++  3. NOT DONE - renaming the WI/Burlington record "Evolution Jiu Jitsu" to
++     "Evolution Jiu Jitsu Burlington". That name ALREADY EXISTS as a separate record in
++     tjjm-gyms-data-45: same city, same address, same Facebook page. It is neither suppressed
++     nor overridden, so the Burlington school ALREADY renders with a live link on both
++     surfaces. The older WI record in tjjm-gyms-data-33 is suppressed by the WI row of
++     tjjm-removed-index and renders nowhere. Renaming it would have produced two identically
++     named records in WI/Burlington and un-suppressed a stale duplicate, taking WI from 85
++     to 86. The AK/Juneau record keeps the name and stays correctly blanked by file 6.
++  4. NOT DONE - adding a blanking row for American Grappling. A blank row for that exact name
++     already exists in tjjm-gym-websites-6. A second row here would have violated gate C3.
++
++  Override rows key on the record name, so a name shared by two schools blanks both. Check for
++  duplicate names before writing a blanking row. 16 names in the corpus are carried by more
++  than one record, and "Evolution Jiu Jitsu" above is one of them.
++
++  AND CHECK THE REMOVED INDEX, NOT ONLY THE OVERRIDE FILES. Both rendering surfaces drop a
++  record whose name appears in its region's tjjm-removed-index row, so renaming a record can
++  silently ADD it back to a region page and move that region's count. Suppression and blanking
++  are different mechanisms; a name can be caught by either, or by both.
++{%- endcomment -%}
+ ~Silva BJJ Lawndale CA (Aloisio Silva Affiliated Academy)|~

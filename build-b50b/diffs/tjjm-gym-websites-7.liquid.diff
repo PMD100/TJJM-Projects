@@ -1,0 +1,46 @@
+--- orig/tjjm-gym-websites-7.liquid	2026-08-17 08:50:09.132711173 -0700
++++ built/tjjm-gym-websites-7.liquid	2026-08-17 09:13:58.059061731 -0700
+@@ -91,3 +91,43 @@
+ ~Xtreme Couture MMA|https://www.xcmma.com/~
+ ~Warrior Defense Brazilian Jiu Jitsu|https://warriordefense.com/~
+ ~Wind River Dojo|https://www.windriverdojo.org~
++{%- comment -%}
++  17 Aug 2026 - BATCH 50. CITY IS NOW OVERRIDABLE. No override rows were added to this
++  file this batch; this is a record entry only.
++
++  1. NEW MECHANISM. snippets/tjjm-gym-cities.liquid was created and wired into BOTH
++     rendering surfaces - sections/tjjm-state-directory.liquid (the 61 region pages) and
++     sections/tjjm-gym-directory.liquid (the flat "Schools Near You" page). Row grammar is
++     the same as this file's: ~Exact Name|City~. A row REPLACES the record's "c" the way a
++     row here replaces "w", except that an EMPTY VALUE IS NOT ALLOWED - a city override
++     must always carry a city.
++
++  2. 21 CITY CORRECTIONS applied through it, each verified against the school's own live
++     published address. Every name matched exactly one record. Not one record changed
++     region: region membership comes from "s", which the override cannot touch, and both
++     surfaces apply the city override AFTER the Nebraska/Newfoundland re-filing test,
++     which reads the city string. The corpus is still 5,911 records / 5,215 published
++     across 61 regions, with every per-region count unchanged.
++
++  3. DO NOT EDIT snippets/tjjm-gyms-data.liquid. It is 113 KB on a SINGLE 113,186-byte
++     line, far past the ~24,576-byte theme-file rewrite ceiling, so it cannot be rewritten
++     safely. A single dropped character in it silently destroys every record after that
++     point, because the JS parser skips any record whose JSON throws. 14 of this batch's
++     21 corrections live in that blob; all 14 were done as overrides instead. That is now
++     the only supported way to fix a city.
++
++  4. ONE DATA-FILE EDIT DID LAND EARLIER IN THIS BATCH, before the override mechanism
++     existed: snippets/tjjm-gyms-data-14.liquid, AKF Lexington Martial Arts, "c" changed
++     from Nicholasville to Lexington (6,182 -> 6,178 bytes). That correction is right and
++     was left in place. tjjm-gym-cities.liquid also carries a row for it restating the
++     same value, so the override file is the single list of all 21 corrections.
++
++  CORRECTING AN EARLIER DRAFT. A draft of this block claimed batch 50 renamed a record
++  ("Evolution Jiu Jitsu" -> "Evolution Jiu Jitsu Burlington") and added a blanking row for
++  "American Grappling". BOTH WERE REFUSED AND NEITHER HAPPENED. The draft also claimed a
++  curly-apostrophe fix in tjjm-gym-websites-6.liquid for Murdoc's; that file was never
++  written and is unchanged. Do not carry any of those three forward as done.
++
++  Override rows key on the record name, so a name shared by two schools hits both. The
++  corpus has 16 duplicated names; check before writing any override row.
++{%- endcomment -%}

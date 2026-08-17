@@ -1,0 +1,130 @@
+{%- comment -%}
+  TJJM gym-website overrides, file 7. Same format as files 1-6: ~Name|URL~
+  An EMPTY value blanks the link. Only add an entry that CHANGES something.
+  Rendered last, after file 6, by BOTH sections. Gate C3 forbids a name in two files.
+
+  17 Aug 2026 - BATCH 49. Created as HEADROOM only. No override rows yet.
+
+  Each override file has a hard 24,576-byte rewrite ceiling. File 6 reached 19,823 bytes
+  (about 4,753 bytes, or two batches, of slack) so file 7 was plumbed in now rather than
+  under pressure mid-batch. Both rendering surfaces were updated in the same batch:
+  sections/tjjm-state-directory.liquid (the 61 region pages) and
+  sections/tjjm-gym-directory.liquid (the flat "Schools Near You" page). A file that only
+  one surface reads is worse than no file at all - see CRITICAL-second-directory-surface.md.
+
+  Start adding rows below this comment, one per line, once file 6 runs out of room.
+{%- endcomment -%}
+{%- comment -%}
+  17 Aug 2026 - BATCH 49. Identity pass, the closing batch of that pass. 45 verdicts in all;
+  the 42 rows added below are 19 AGGREGATOR, 6 DEAD, 5 WRONG_BUSINESS, 3 WRONG_CITY,
+  3 STRIKING_ONLY, 3 REPOINT, 2 HIJACK, 1 PARKED. Every verdict was confirmed by
+  loading the page in a REAL CHROME BROWSER, not by the fetch tool.
+
+  THIS IS FILE 7'S FIRST CONTENT. The file was created earlier today as headroom only,
+  wired into BOTH rendering surfaces - sections/tjjm-state-directory.liquid (the 61 region
+  pages) and sections/tjjm-gym-directory.liquid (the flat "Schools Near You" page) - and
+  verified end to end while empty. Files 1, 3, 2, 4 and 6 had 397, 830, 1,269, 1,632 and
+  4,753 bytes of slack left against the 24,576-byte rewrite ceiling, so nothing was
+  appended to them.
+
+  Added here: 42 new rows. Each name was checked against all seven override files with the
+  comment blocks stripped and appeared in NONE of them, so gate C3 is clean and they are
+  added here rather than edited elsewhere. The other 3 of the 45 already had rows and were
+  blanked in place in tjjm-gym-websites-3.liquid: The Hidden Lotus, Team Jucão Elizabeth
+  Brazilian Jiu Jitsu BJJ and Team Nogueira.
+
+  One name arrived from the worksheet without its accent, spelled Team Jucao Elizabeth. The
+  record spells it Team Jucão Elizabeth, with an o-tilde, and the record's spelling is what
+  was written - an override row only matches on an exact name.
+
+  OWNER'S POLICY, applied throughout: a school's own Facebook or Instagram page IS an
+  acceptable link and was kept. AGGREGATOR here means booking platforms (Mindbody, Gymdesk,
+  Calendly, Zoho Bookings), Google business.site pages, and association or brand homepages
+  standing in for a location page.
+
+  Identity pass complete: 2,170 of 2,170 links read. Browser round cleared 36 of 56 fetch
+  flags (64%). Drift this round included same-host different-path substitutions, so probes
+  assert host AND path.
+
+  An empty value blanks the link only - each school keeps its name, city and map link, and
+  the change is reversible by deleting the row.
+{%- endcomment -%}
+{%- comment -%}
+  17 Aug 2026 - BATCH 50. The first batch to edit the DATA snippets rather than the overrides.
+  NO override rows were added to this file. The two rows this batch was briefed to write both
+  turned out to be unnecessary, and one of them would have broken gate C3. Detail below.
+
+  WHAT BATCH 50 CHANGED
+  1. 21 city corrections in the data snippets, each verified against the school's own site.
+     Every one matched exactly one record on name AND stored city, and not one changed region,
+     so every count in tjjm-region-index is unchanged and the corpus is still 5,911 records.
+     Files touched: tjjm-gyms-data (14 edits), -17 (2), -19 (2), -14, -20, -24.
+  2. Fixed an INERT override row in tjjm-gym-websites-6. The row for Murdoc's Brazilian
+     Jiu-Jitsu (MWBJJ) & Self Defense Academy (GD JJ Affiliate) carried a STRAIGHT apostrophe
+     but the record uses a CURLY one (U+2019), so the row had never matched and murdocsbjj.com
+     - now an expired GoDaddy parking lander - was still linked. Rewritten with the curly
+     apostrophe; it now matches the record byte for byte and the blank finally takes effect.
+
+  WHAT BATCH 50 DID NOT DO, AND WHY. DO NOT RETRY EITHER WITHOUT READING THIS.
+  3. NOT DONE - renaming the WI/Burlington record "Evolution Jiu Jitsu" to
+     "Evolution Jiu Jitsu Burlington". That name ALREADY EXISTS as a separate record in
+     tjjm-gyms-data-45: same city, same address, same Facebook page. It is neither suppressed
+     nor overridden, so the Burlington school ALREADY renders with a live link on both
+     surfaces. The older WI record in tjjm-gyms-data-33 is suppressed by the WI row of
+     tjjm-removed-index and renders nowhere. Renaming it would have produced two identically
+     named records in WI/Burlington and un-suppressed a stale duplicate, taking WI from 85
+     to 86. The AK/Juneau record keeps the name and stays correctly blanked by file 6.
+  4. NOT DONE - adding a blanking row for American Grappling. A blank row for that exact name
+     already exists in tjjm-gym-websites-6. A second row here would have violated gate C3.
+
+  Override rows key on the record name, so a name shared by two schools blanks both. Check for
+  duplicate names before writing a blanking row. 16 names in the corpus are carried by more
+  than one record, and "Evolution Jiu Jitsu" above is one of them.
+
+  AND CHECK THE REMOVED INDEX, NOT ONLY THE OVERRIDE FILES. Both rendering surfaces drop a
+  record whose name appears in its region's tjjm-removed-index row, so renaming a record can
+  silently ADD it back to a region page and move that region's count. Suppression and blanking
+  are different mechanisms; a name can be caught by either, or by both.
+{%- endcomment -%}
+~Silva BJJ Lawndale CA (Aloisio Silva Affiliated Academy)|~
+~South Prospect Martial Arts Gym|~
+~St. Matthews Martial Arts|~
+~Success Martial Arts|~
+~TK Martial Arts|~
+~TMAC Tipton Martial Arts Club|~
+~Tarpein's Dojo|~
+~Tennessee Brazilian Jiu-Jitsu Academy|~
+~Team Hopkins Jiu Jitsu Mobile|~
+~The Komodo Academy|~
+~Tower 1 Combat Sports|~
+~Troy Holton's Brazilian Jiu-Jitsu|~
+~Tsunami MMA|~
+~Underground Gym|~
+~Vitor Shaolin BJJ NYC|~
+~Yeti MMA|~
+~Zombie Krew Jiu Jitsu|~
+~Simmons Academy of Wrestling|~
+~Six Blades Austin|~
+~Team Jucao Gardendale|~
+~Team Juggernaut Brazilian Jiu Jitsu & Fitness Academy|~
+~Tri-City Ju-Jitsu|~
+~Trifecta MMA/BJJ|~
+~Ultimate House of Champions|~
+~Ultra Brazilian Jiu-Jitsu & Mixed Martial Arts Santa Clarita|~
+~Undisputed MMA|~
+~Victory Jiu Jitsu|~
+~War Room MMA, Kickboxing, and Fitness|~
+~West Coast BJJ|~
+~Wild West Training Center|~
+~Workhorse Mixed Martial Arts|~
+~X3 Sports - Athens|~
+~X3 Sports - North Marietta|~
+~Yamasaki Academy Woodbridge|~
+~Yonsei Martial Arts Academy|~
+~Young Guardians MMA|~
+~Team Tooke Mixed Martial Arts Lafayette|~
+~Uprise MMA|~
+~Zero Point Gracie Jiu Jitsu|~
+~Xtreme Couture MMA|https://www.xcmma.com/~
+~Warrior Defense Brazilian Jiu Jitsu|https://warriordefense.com/~
+~Wind River Dojo|https://www.windriverdojo.org~

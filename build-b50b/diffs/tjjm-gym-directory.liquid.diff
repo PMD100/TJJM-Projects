@@ -1,0 +1,28 @@
+--- orig/tjjm-gym-directory.liquid	2026-08-17 08:50:09.128107985 -0700
++++ built/tjjm-gym-directory.liquid	2026-08-17 09:13:58.056511004 -0700
+@@ -77,6 +77,7 @@
+ <script type="text/plain" id="tjjmDirData">{%- render 'tjjm-gyms-data' -%}{%- render 'tjjm-gyms-data-2' -%}{%- render 'tjjm-gyms-data-3' -%}{%- render 'tjjm-gyms-data-4' -%}{%- render 'tjjm-gyms-data-5' -%}{%- render 'tjjm-gyms-data-6' -%}{%- render 'tjjm-gyms-data-7' -%}{%- render 'tjjm-gyms-data-8' -%}{%- render 'tjjm-gyms-data-9' -%}{%- render 'tjjm-gyms-data-10' -%}{%- render 'tjjm-gyms-data-11' -%}{%- render 'tjjm-gyms-data-12' -%}{%- render 'tjjm-gyms-data-13' -%}{%- render 'tjjm-gyms-data-14' -%}{%- render 'tjjm-gyms-data-15' -%}{%- render 'tjjm-gyms-data-16' -%}{%- render 'tjjm-gyms-data-17' -%}{%- render 'tjjm-gyms-data-18' -%}{%- render 'tjjm-gyms-data-19' -%}{%- render 'tjjm-gyms-data-20' -%}{%- render 'tjjm-gyms-data-21' -%}{%- render 'tjjm-gyms-data-22' -%}{%- render 'tjjm-gyms-data-23' -%}{%- render 'tjjm-gyms-data-24' -%}{%- render 'tjjm-gyms-data-25' -%}{%- render 'tjjm-gyms-data-26' -%}{%- render 'tjjm-gyms-data-27' -%}{%- render 'tjjm-gyms-data-28' -%}{%- render 'tjjm-gyms-data-29' -%}{%- render 'tjjm-gyms-data-30' -%}{%- render 'tjjm-gyms-data-31' -%}{%- render 'tjjm-gyms-data-32' -%}{%- render 'tjjm-gyms-data-33' -%}{%- render 'tjjm-gyms-data-34' -%}{%- render 'tjjm-gyms-data-35' -%}{%- render 'tjjm-gyms-data-36' -%}{%- render 'tjjm-gyms-data-37' -%}{%- render 'tjjm-gyms-data-38' -%}{%- render 'tjjm-gyms-data-39' -%}{%- render 'tjjm-gyms-data-40' -%}{%- render 'tjjm-gyms-data-41' -%}{%- render 'tjjm-gyms-data-42' -%}{%- render 'tjjm-gyms-data-43' -%}{%- render 'tjjm-gyms-data-44' -%}{%- render 'tjjm-gyms-data-45' -%}</script>
+ <script type="text/plain" id="tjjmDirWeb">{%- render 'tjjm-gym-websites' -%}{%- render 'tjjm-gym-websites-2' -%}{%- render 'tjjm-gym-websites-3' -%}{%- render 'tjjm-gym-websites-4' -%}{%- render 'tjjm-gym-websites-5' -%}{%- render 'tjjm-gym-websites-6' -%}{%- render 'tjjm-gym-websites-7' -%}</script>
+ <script type="text/plain" id="tjjmDirAddr">{%- render 'tjjm-gym-addresses' -%}</script>
++<script type="text/plain" id="tjjmDirCity">{%- render 'tjjm-gym-cities' -%}</script>
+ <script type="text/plain" id="tjjmDirRemoved">{%- render 'tjjm-removed-index' -%}</script>
+ <script type="text/plain" id="tjjmDirRegions">{%- render 'tjjm-region-index' -%}</script>
+ 
+@@ -144,7 +145,7 @@
+     while((x=re.exec(s))!==null)m[x[1].trim()]=x[2].trim();
+     return m;
+   }
+-  var wov=overrides(raw('tjjmDirWeb')), aov=overrides(raw('tjjmDirAddr'));
++  var wov=overrides(raw('tjjmDirWeb')), aov=overrides(raw('tjjmDirAddr')), cov=overrides(raw('tjjmDirCity'));
+ 
+   var removed=Object.create(null);
+   raw('tjjmDirRemoved').split('\n').forEach(function(l){
+@@ -173,7 +174,7 @@
+     if(!n)continue;
+     var s=(r.s||'').trim(), c=(r.c||'').trim();
+     if(removed[s]&&removed[s][n])continue;
+-    var code=(s==='NE'&&NLC.indexOf(c)>-1)?'NL':s;
++    var code=(s==='NE'&&NLC.indexOf(c)>-1)?'NL':s; if(n in cov)c=cov[n];
+     var w=r.w||''; if(n in wov)w=wov[n];
+     var a=(r.a||'').trim(); if(!a&&(n in aov))a=aov[n];
+     var reg=regions[code];

@@ -6,7 +6,34 @@ Sections 1–10 were last verified **5 Aug 2026** against live theme XX (`154653
 findings. The theme ID, record count and defect counts in the earlier sections are the 5 Aug
 state and have since moved — treat them as method, not as current numbers.
 
-**CURRENT STATE, 17 Aug 2026, theme AB3 (`155004502188`), staged for publish:**
+**CURRENT STATE, 17 Aug 2026, theme AC3 (`155006140588`), staged for publish:**
+**5,215 records published across 61 regions (5,911 in corpus, 696 suppressed) · 4,058 with a link ·
+1,326 override rows, all distinct, ZERO orphans · 21 city overrides.**
+
+⚠️ **CITY IS NOW OVERRIDABLE** — `snippets/tjjm-gym-cities.liquid`, rows `~Exact Name|City~`, wired
+into both surfaces. **An empty value means nothing here; a city row must always carry a value.**
+Applied AFTER the Nebraska→Newfoundland re-filing test and BEFORE display bucketing, so a city row
+can never move a school between region pages.
+
+⚠️ **`snippets/tjjm-gyms-data.liquid` (113 KB, one 113,186-char line) CANNOT BE REWRITTEN.** It is far
+past the ~24,576-byte ceiling, and a dropped character silently destroys every record after it. Never
+attempt to edit it. Use the override snippets.
+
+⚠️ **RUN AN INTEGRITY AUDIT, not just link checks.** Batch 50 found a blanking row that had never
+fired for months because it used a straight apostrophe where the record has a curly one — a GoDaddy
+parking lander was live the whole time. Every batch should assert: (a) every override name matches
+exactly one record — **orphan count must be zero**; (b) no override name matches a *duplicated*
+record name. **24 record names carry curly apostrophes or en-dashes.** Take names from the record
+programmatically; never retype them.
+
+⚠️ **One override row blanks EVERY record sharing that name.** The corpus has **16 duplicated names
+across 17 surplus records.** Check before writing any row.
+
+⚠️ **Known unfixed bug:** the flat page's `overrides()` regex requires a trailing `~`.
+`tjjm-gym-addresses.liquid` has rows without one (and one missing its leading `~`), so the flat page
+silently drops alternate address overrides. Region pages are unaffected.
+
+**PREVIOUS STATE, theme AB3 (`155004502188`):**
 **5,215 records across 61 regions · 4,058 with a link · 1,157 deliberately link-free ·
 1,326 override rows, all distinct names. Identity pass COMPLETE — 2,170 of 2,170 links read.**
 

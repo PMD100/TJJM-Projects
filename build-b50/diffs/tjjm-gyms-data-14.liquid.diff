@@ -1,0 +1,5 @@
+--- a/tjjm-gyms-data-14.liquid
++++ b/tjjm-gyms-data-14.liquid
+@@ -39 +39 @@
+-{"n":"AKF Lexington Martial Arts","c":"Nicholasville","s":"KY","w":"https://akflexington.com/","a":"125 Cynthia Dr"},
++{"n":"AKF Lexington Martial Arts","c":"Lexington","s":"KY","w":"https://akflexington.com/","a":"125 Cynthia Dr"},

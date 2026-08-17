@@ -1,0 +1,35 @@
+# BATCH 50 — AC3 gid://shopify/OnlineStoreTheme/155006140588 (UNPUBLISHED)
+# Verified against the API after the run. 17 Aug 2026.
+#
+# SOURCE VERIFICATION (pre-write): all 45 tjjm-gyms-data* and all 7 tjjm-gym-websites*
+# in scratch/raw-datafiles/ and build-b49b/written/ matched the theme byte-for-byte.
+# NO DRIFT. Local copies of tjjm-region-index / tjjm-removed-index in scratch/ were STALE
+# and were re-pulled from the API instead.
+#
+# filename                              size    API checksumMd5                   status
+snippets/tjjm-gyms-data-14.liquid        6178   a87963d4545753b2beb7ccb44ad14623  WRITTEN (was 6182 / d0741dafb64baf2d4dd9f37d88b25c94)
+snippets/tjjm-gyms-data.liquid         113187   1ee054115f5f2a4ab7b96a1a4395e342  NOT WRITTEN - built artifact ready (113189 / 8d1e49e7754006934c5d53541b4f120a)
+snippets/tjjm-gyms-data-17.liquid       13439   64f28f3b735d6d14e4dfeec3ef419702  NOT WRITTEN - built artifact ready (13431 / a8f4085e6de592f1c6441fa6d1111ef9)
+snippets/tjjm-gyms-data-19.liquid       23032   6c8e54dad8041e93e6bde904ff82345d  NOT WRITTEN - built artifact ready (23037 / 467ef350e41a0340722329743295ceb4)
+snippets/tjjm-gyms-data-20.liquid       13418   a502234c72997bcf4fb2796d3411c7fe  NOT WRITTEN - built artifact ready (13415 / e1c9e606f208ddb247b2996f49471c0f)
+snippets/tjjm-gyms-data-24.liquid        9202   d76d2e8d281a90baeeb21395244f6942  NOT WRITTEN - built artifact ready (9201 / 87ecc52f58e8a75b9ac1fef11c403568)
+snippets/tjjm-gym-websites-6.liquid     19823   9749cb35614e91953115af00c436a798  NOT WRITTEN - built artifact ready (19825 / 92e22ac50d513bfa11f4df2cbffabc6f)
+snippets/tjjm-gym-websites-7.liquid      4358   6ae536aac18ca560eec288bbabb67064  NOT WRITTEN - built artifact ready (7090 / 0ed655f1d28d7cdcdc7580274a512823)
+snippets/tjjm-region-index.liquid        3446   8f4faa309ace35a8f6d2738476c47b35  untouched (no change needed)
+snippets/tjjm-removed-index.liquid      13853   98ee615156b26677c99582726f6248d6  untouched (no change asked for)
+sections/tjjm-state-directory.liquid    13050   7058512b41e32e40af37b34e70158d1a  untouched
+sections/tjjm-gym-directory.liquid      17283   4dd97c582d4a73c2fd5d168a5cde753e  untouched
+snippets/tjjm-b50-probe.liquid            518   ab07fa7f3a2ce4eff246fa9aa8624458  INERT SCRATCH - nothing renders it; themeFilesDelete is
+#                                                                                  blocked by MCP policy, delete in Shopify admin.
+#
+# WHY THE 7 FILES ABOVE WERE NOT WRITTEN: transport ceiling, not correctness.
+# Bodies must travel through the MCP graphql_mutation tool (the bash sandbox has no egress).
+# A 19,825 B file is ~26,400 base64 chars and the payload truncated mid-emission.
+# The largest body that round-tripped byte-exact was 6,178 B (8,240 base64 chars).
+# tjjm-gyms-data.liquid is 113 KB on a SINGLE 113,186-char line - far out of reach.
+# Push built/ with the Shopify CLI (`shopify theme push -t 155006140588 -o <files>`).
+#
+# TRANSPORT NOTES (probed this run, see snippets/tjjm-b50-probe.liquid):
+#   body {type: BASE64}          -> byte-exact, preserves trailing newline. USE THIS.
+#   body {type: TEXT, "...\n"}   -> byte-exact via JSON variables. Also fine.
+#   GraphQL block string """..."""  -> STRIPS the leading AND trailing newline. DO NOT USE.

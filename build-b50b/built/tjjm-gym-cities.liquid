@@ -1,0 +1,63 @@
+{%- comment -%}
+  TJJM gym-CITY overrides. Format: ~Exact Name|City~ , one row per line, same row
+  grammar as the gym-website override files.
+
+  WHY THIS FILE EXISTS. A record is {n,c,s,w,a} - name, city, region code, website,
+  address. Website and address were already overridable by snippet; CITY WAS NOT, so
+  fixing a wrong city meant editing a data snippet directly. That is no longer viable.
+  14 of batch 50's 21 corrections sit in snippets/tjjm-gyms-data.liquid, which is 113 KB
+  on a SINGLE 113,186-byte line - far past the ~24,576-byte theme-file rewrite ceiling.
+  It cannot be rewritten safely, and one dropped character in it silently destroys every
+  record after that point, because the JS parser skips any record whose JSON throws.
+  DO NOT EDIT THAT BLOB. Add a row here instead.
+
+  A VALUE IS MANDATORY. Unlike the website files, where an empty value deliberately
+  blanks the link, AN EMPTY VALUE HERE MEANS NOTHING and must never be written. A city
+  override always carries a city. The build script refuses a blank.
+
+  PRECEDENCE. A row here REPLACES the record's "c" for display, the same way a website
+  row replaces "w". (The address file is the odd one out - it only fills a BLANK "a".)
+  The record itself is never edited, so deleting a row reverts the site.
+
+  NAMES must match the record's "n" EXACTLY - case, punctuation and accents. A mismatch
+  just misses silently. A name must not contain "|" or "~". Override rows key on the
+  NAME ONLY, so a name shared by two schools hits both. The corpus has 16 duplicated
+  names across 17 surplus records; confirm a name matches exactly ONE record first.
+
+  REGION IS NOT AFFECTED. Region membership comes from "s", which this file cannot
+  touch. Both surfaces apply the override AFTER the Nebraska/Newfoundland re-filing
+  test. That test reads the CITY string, so applying an override before it could move a
+  school between the NE and NL pages; applied after it, it cannot.
+
+  BOTH SURFACES read this file: sections/tjjm-state-directory.liquid (the 61 region
+  pages) and sections/tjjm-gym-directory.liquid (the flat "Schools Near You" page).
+  A file only one surface reads is worse than no file at all - see
+  CRITICAL-second-directory-surface.md.
+
+  17 Aug 2026 - BATCH 50. Created with the 21 rows below. Each new city was verified
+  against the school's own live published address, not against an aggregator. One row,
+  AKF Lexington Martial Arts, restates a value already corrected in
+  snippets/tjjm-gyms-data-14.liquid earlier in this batch; it is kept so that this file
+  is the single list of every city correction.
+{%- endcomment -%}
+~10th Planet Miami|Miramar~
+~303 Training Center|Arvada~
+~AKF Lexington Martial Arts|Lexington~
+~Kioto Brazilian Jiu Jitsu|Oakdale~
+~Long Island MMA|West Babylon~
+~Michigan Top Team|Southfield~
+~New Way Martial Arts Academy|Clinton Township~
+~Serra BJJ Academy|Huntington~
+~Snake Pit U.S.A. MMA|Hammonton~
+~Supreme Academy ATX|Kyle~
+~Team Curuma Brazilian Jiu-Jitsu Academy|North Bergen~
+~Vagner Rocha Martial Arts|Hollywood~
+~Whitefish BJJ|Columbia Falls~
+~Bataille Jiu Jitsu Academy|Bloomingdale~
+~Bayshore BJJ|Hazlet~
+~Black Tiger Martial Arts Academy|Grayslake~
+~BlackSmith Jiu Jitsu Florida|Niceville~
+~Brian Beury Jiu Jitsu|Watervliet~
+~Gracie New Jersey Academy|Lebanon~
+~Guardian Tactics|Holland~
+~James Shook Brazilian Jiu-Jitsu|Dallas~

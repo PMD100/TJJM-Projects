@@ -1,0 +1,22 @@
+classification	name	region	record_city	new_city	region_change	stored_address	site_address	evidence	source
+CORRECT_CITY	10th Planet Miami	FL	Miami	Miramar		(none stored)	6315 Miramar Parkway, Miramar, FL 33023	Title, meta description and footer all Miramar FL; no Miami address on site	site
+CORRECT_CITY	303 Training Center	CO	Westminster	Arvada		(none stored)	5757 Olde Wadsworth Blvd, Arvada, CO 80002	Contact block and Google Places link Arvada; text says Olde Town Arvada location	site
+CORRECT_CITY	AKF Lexington Martial Arts	KY	Nicholasville	Lexington		125 Cynthia Dr	4383 Old Harrodsburg Rd, Lexington, KY 40513	Footer contact is Lexington 40513; stale map embed still shows 125 Cynthia Dr	site
+CORRECT_CITY	Kioto Brazilian Jiu Jitsu	NY	New York	Oakdale		(none stored)	96 Biltmore Ave, Oakdale, NY 11769	Header, footer and Google listing all Oakdale NY; ~50mi from New York City	site
+CORRECT_CITY	Long Island MMA	NY	Lake Grove	West Babylon		(none stored)	669 Sunrise Highway, West Babylon, NY 11704	Footer HQ West Babylon; second site Long Island City; no Lake Grove location	site
+CORRECT_CITY	Michigan Top Team	MI	Detroit	Southfield		(none stored)	22222 Telegraph Road, Southfield, MI 48033	Homepage contact block gives only Southfield, between 8 and 9 Mile Rd	site
+RELOCATED	New Way Martial Arts Academy	MI	Shelby Charter Township	Clinton Township		48075 Van Dyke Ave	Clinton Twp, MI (no street number published)	Site: we moved from Shelby Twp into our new facility in Clinton Twp	site
+CORRECT_CITY	Serra BJJ Academy	NY	Levittown	Huntington		(none stored)	365 West Jericho Turnpike, Huntington, NY 11743	Only location listed on site is Huntington; no Levittown academy anywhere	site
+CORRECT_CITY	Snake Pit U.S.A. MMA	NJ	Galloway	Hammonton		(none stored)	900 12th St. Suite 4, Hammonton, NJ 08037	Footer Direct Contact block gives Hammonton; ~18mi from Galloway	site
+CORRECT_CITY	Supreme Academy ATX	TX	Austin	Kyle		(none stored)	161 Weldon Johnson Way Suite A, Kyle, TX 78640	Footer address block is Kyle TX 78640; Austin appears only as marketing copy	site
+CORRECT_CITY	Team Curuma Brazilian Jiu-Jitsu Academy	NJ	Bergenfield	North Bergen		9025 Old River Rd North	9019 Old River Road, 2nd Floor, North Bergen, NJ	Site footer North Bergen; stored Old River Rd address is the same North Bergen block	site+record
+CORRECT_CITY	Vagner Rocha Martial Arts	FL	Miami	Hollywood		(none stored)	6592 Taft St, Hollywood, FL 33024	Title, meta and footer all Hollywood FL; no Miami address; ~17mi from Miami	site
+RELOCATED	Whitefish BJJ	MT	Whitefish	Columbia Falls		(none stored)	262 1st Ave W N, Columbia Falls, MT 59912	Site banner: as of Sept 1 2023 all classes at Columbia Falls as Glacier Grappling & MMA	site
+RELOCATED	Bataille Jiu Jitsu Academy	NJ	Kinnelon	Bloomingdale		10 Park Pl; Building 6b; Ste 213 (Butler NJ)	47 Main St #9, Bloomingdale, NJ 07403	Site title and footer Bloomingdale; Yelp slug still butler; stored address is not Kinnelon	site
+CORRECT_CITY	Bayshore BJJ	NJ	Middletown	Hazlet		(none stored)	1444 NJ-36, Hazlet, NJ 07730	Title, meta keywords and footer are all Hazlet; no Middletown location listed	site
+RELOCATED	Black Tiger Martial Arts Academy	IL	Libertyville	Grayslake		410 Peterson Rd (Libertyville)	1033 Progress Dr, Grayslake, IL 60030	Every class listing gives 1033 Progress Dr Grayslake, inside CrossFit Kilter	site
+CORRECT_CITY	BlackSmith Jiu Jitsu Florida	FL	Tallahassee	Niceville		(none stored)	1039 John Sims Parkway, Niceville, FL 32578	Footer Get In Touch is Niceville; testimonials and Instagram handle both say Niceville	site
+CORRECT_CITY	Brian Beury Jiu Jitsu	NY	Albany	Watervliet		(none stored)	1623 2nd Ave, Watervliet, NY 12189	Header and contact block both Watervliet NY; note actual spelling is Beaury	site
+CORRECT_CITY	Gracie New Jersey Academy	NJ	Lawrenceville	Lebanon		(none stored)	56 Payne Rd, Lebanon (Clinton Twp), NJ 08833	Footer address and body text both say Clinton Township / Lebanon 08833; ~30mi from Lawrenceville	site
+CORRECT_CITY	Guardian Tactics	MI	Plymouth	Holland		770 Davis St	12330 James St., A40, Holland, MI 49424	Title, meta and Our Location block all Holland MI, in Holland Town Center; sole location	site
+RELOCATED	James Shook Brazilian Jiu-Jitsu	GA	Acworth	Dallas		1720 Mars Hill Rd (Acworth)	10175 Dallas Acworth Hwy, Suite 109, Dallas, GA 30132	Rebranded Tier 1 Jiu-Jitsu; site says Est. Dallas GA, single address on Dallas Acworth Hwy	site

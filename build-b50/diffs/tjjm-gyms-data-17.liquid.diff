@@ -1,0 +1,8 @@
+--- a/tjjm-gyms-data-17.liquid
++++ b/tjjm-gyms-data-17.liquid
+@@ -68 +68 @@
+-{"n":"Guardian Tactics","c":"Plymouth","s":"MI","w":"https://www.guardianjiujitsu.com/","a":"770 Davis St"},
++{"n":"Guardian Tactics","c":"Holland","s":"MI","w":"https://www.guardianjiujitsu.com/","a":"770 Davis St"},
+@@ -83 +83 @@
+-{"n":"New Way Martial Arts Academy","c":"Shelby Charter Township","s":"MI","w":"http://newwaymartialarts.com","a":"48075 Van Dyke Ave"},
++{"n":"New Way Martial Arts Academy","c":"Clinton Township","s":"MI","w":"http://newwaymartialarts.com","a":"48075 Van Dyke Ave"},

@@ -1,0 +1,283 @@
+{% comment %}
+  TJJM Gym Directory — the flat, searchable index of every school in the directory.
+
+  >>> SINGLE SOURCE OF TRUTH. <<<
+  This page renders from EXACTLY the same snippets as the 61 region pages:
+    snippets/tjjm-gyms-data … -45      the records
+    snippets/tjjm-gym-websites, -2, -3 website overrides (~Name|URL~; empty blanks the link)
+    snippets/tjjm-gym-addresses        address fill-ins for blank addresses
+    snippets/tjjm-removed-index        suppressed records, one row per region code
+    snippets/tjjm-region-index         handle|Display name|count|code|country
+  The merge is done in JavaScript below because Liquid cannot loop 5,900 records with a
+  per-record override lookup inside one request. The RULES are identical to
+  sections/tjjm-state-directory.liquid — if you change one, change both.
+
+  HISTORY. Until 15 Aug 2026 this page fetched a Shopify Files upload, tjjm-gyms.json,
+  which lived entirely outside the theme and outside every override. It served ~4,150
+  links that the directory audit had already blanked or suppressed, including dead and
+  hijacked domains, plus ~330 machine-generated <city>bjj.com records pointing at
+  unregistered domains. It also rendered 50 metaobject records that bypassed the
+  overrides. Both are gone. Do not reintroduce a second data source.
+  See CRITICAL-second-directory-surface.md and region-rebuild-batch30-findings.md.
+{% endcomment %}
+
+{{ 'tjjm-core.css' | asset_url | stylesheet_tag }}
+<script src="{{ 'tjjm-core.js' | asset_url }}" defer></script>
+
+<section class="tjjm-scope tjjm-sec" data-tjjm-gymdir>
+  <div class="tjjm-wrap">
+    <header class="tjjm-reveal" style="position:relative;z-index:2;margin-bottom:40px">
+      {% if section.settings.kicker != blank %}<div class="tjjm-kicker">{{ section.settings.kicker }}</div>{% endif %}
+      <h1 class="tjjm-display tjjm-h2">{{ section.settings.heading }}</h1>
+      {% if section.settings.text != blank %}<p class="tjjm-p">{{ section.settings.text }}</p>{% endif %}
+      <div class="tjjm-btn-row">
+        <a class="tjjm-btn tjjm-btn--solid" href="#add-gym">{{ section.settings.button_label }} <span class="tjjm-arr">&rarr;</span></a>
+      </div>
+    </header>
+
+    <div class="tjjm-gym-tools tjjm-reveal">
+      <label for="tjjmSearch" class="tjjm-vh">Search schools</label>
+      <input id="tjjmSearch" type="search" placeholder="Search by gym, city or state&hellip;" autocomplete="off" spellcheck="false">
+      <label for="tjjmStateFilter">State</label>
+      <select id="tjjmStateFilter"><option value="">All states &amp; provinces</option></select>
+      <span class="tjjm-gym-count"><span id="tjjmGymCount">&hellip;</span> gyms listed</span>
+    </div>
+
+    <div class="tjjm-gyms tjjm-reveal" id="tjjmGyms"></div>
+    <p class="tjjm-gym-none" id="tjjmNone" hidden>No schools match that search &mdash; try a city, or <a href="#add-gym">add the gym</a>.</p>
+    <p class="tjjm-more-row"><button type="button" class="tjjm-btn tjjm-btn--solid" id="tjjmMore" hidden>Show more</button></p>
+    <noscript><p class="tjjm-p">This search needs JavaScript. Browse by state or province using the list further down this page.</p></noscript>
+
+    <div class="tjjm-gymform tjjm-reveal" id="add-gym">
+      <div class="tjjm-kicker">{{ section.settings.form_kicker }}</div>
+      <h2 class="tjjm-display tjjm-gymform-h">{{ section.settings.form_heading }}</h2>
+      <p class="tjjm-p">{{ section.settings.form_text }}</p>
+      {% form 'contact', id: 'AddGymForm' %}
+        {% if form.posted_successfully? %}
+          <p class="tjjm-gymform-ok">{{ section.settings.success_text }}</p>
+        {% else %}
+          {% if form.errors %}<p class="tjjm-gymform-err">{{ form.errors.translated_fields.email | capitalize }} {{ form.errors.messages.email }}</p>{% endif %}
+          <input type="hidden" name="contact[Subject]" value="New Gym Directory Submission">
+          <div class="tjjm-gymform-grid">
+            <label>Gym Name *<input type="text" name="contact[Gym Name]" required></label>
+            <label>City *<input type="text" name="contact[City]" required></label>
+            <label>State *<input type="text" name="contact[State]" maxlength="20" required></label>
+            <label>Website<input type="url" name="contact[Website]" placeholder="https://"></label>
+            <label class="tjjm-gymform-full">Street Address<input type="text" name="contact[Address]" placeholder="920 Example St #5, City, ST 00000"></label>
+            <label class="tjjm-gymform-full">Your Email *<input type="email" name="contact[email]" autocomplete="email" required></label>
+            <label class="tjjm-gymform-full">Anything else we should know?<textarea name="contact[body]" rows="3"></textarea></label>
+          </div>
+          <button type="submit" class="tjjm-gymform-btn">Submit Gym <span class="tjjm-arr">&rarr;</span></button>
+        {% endif %}
+      {% endform %}
+    </div>
+  </div>
+</section>
+
+<script type="text/plain" id="tjjmDirData">{%- render 'tjjm-gyms-data' -%}{%- render 'tjjm-gyms-data-2' -%}{%- render 'tjjm-gyms-data-3' -%}{%- render 'tjjm-gyms-data-4' -%}{%- render 'tjjm-gyms-data-5' -%}{%- render 'tjjm-gyms-data-6' -%}{%- render 'tjjm-gyms-data-7' -%}{%- render 'tjjm-gyms-data-8' -%}{%- render 'tjjm-gyms-data-9' -%}{%- render 'tjjm-gyms-data-10' -%}{%- render 'tjjm-gyms-data-11' -%}{%- render 'tjjm-gyms-data-12' -%}{%- render 'tjjm-gyms-data-13' -%}{%- render 'tjjm-gyms-data-14' -%}{%- render 'tjjm-gyms-data-15' -%}{%- render 'tjjm-gyms-data-16' -%}{%- render 'tjjm-gyms-data-17' -%}{%- render 'tjjm-gyms-data-18' -%}{%- render 'tjjm-gyms-data-19' -%}{%- render 'tjjm-gyms-data-20' -%}{%- render 'tjjm-gyms-data-21' -%}{%- render 'tjjm-gyms-data-22' -%}{%- render 'tjjm-gyms-data-23' -%}{%- render 'tjjm-gyms-data-24' -%}{%- render 'tjjm-gyms-data-25' -%}{%- render 'tjjm-gyms-data-26' -%}{%- render 'tjjm-gyms-data-27' -%}{%- render 'tjjm-gyms-data-28' -%}{%- render 'tjjm-gyms-data-29' -%}{%- render 'tjjm-gyms-data-30' -%}{%- render 'tjjm-gyms-data-31' -%}{%- render 'tjjm-gyms-data-32' -%}{%- render 'tjjm-gyms-data-33' -%}{%- render 'tjjm-gyms-data-34' -%}{%- render 'tjjm-gyms-data-35' -%}{%- render 'tjjm-gyms-data-36' -%}{%- render 'tjjm-gyms-data-37' -%}{%- render 'tjjm-gyms-data-38' -%}{%- render 'tjjm-gyms-data-39' -%}{%- render 'tjjm-gyms-data-40' -%}{%- render 'tjjm-gyms-data-41' -%}{%- render 'tjjm-gyms-data-42' -%}{%- render 'tjjm-gyms-data-43' -%}{%- render 'tjjm-gyms-data-44' -%}{%- render 'tjjm-gyms-data-45' -%}</script>
+<script type="text/plain" id="tjjmDirWeb">{%- render 'tjjm-gym-websites' -%}{%- render 'tjjm-gym-websites-2' -%}{%- render 'tjjm-gym-websites-3' -%}{%- render 'tjjm-gym-websites-4' -%}{%- render 'tjjm-gym-websites-5' -%}{%- render 'tjjm-gym-websites-6' -%}{%- render 'tjjm-gym-websites-7' -%}</script>
+<script type="text/plain" id="tjjmDirAddr">{%- render 'tjjm-gym-addresses' -%}</script>
+<script type="text/plain" id="tjjmDirCity">{%- render 'tjjm-gym-cities' -%}</script>
+<script type="text/plain" id="tjjmDirRemoved">{%- render 'tjjm-removed-index' -%}</script>
+<script type="text/plain" id="tjjmDirRegions">{%- render 'tjjm-region-index' -%}</script>
+
+<style>
+.tjjm-vh{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+.tjjm-gym-tools{display:flex;align-items:center;gap:14px;margin-bottom:22px;flex-wrap:wrap;position:relative;z-index:2}
+.tjjm-gym-tools label{font-weight:700;font-size:.875rem;letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+.tjjm-gym-tools select,.tjjm-gym-tools input[type=search]{background:var(--panel);color:var(--bone);border:2px solid var(--line);padding:10px 14px;font-family:'Inter',sans-serif;font-size:1rem;min-width:180px}
+.tjjm-gym-tools input[type=search]{min-width:260px;flex:1 1 260px;max-width:420px}
+.tjjm-gym-tools select:focus,.tjjm-gym-tools input[type=search]:focus{border-color:var(--red);outline:none}
+.tjjm-gym-count{color:var(--dim);font-size:.95rem;white-space:nowrap}
+.tjjm-gyms{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;position:relative;z-index:2;margin-bottom:22px}
+.tjjm-gym{border:1px solid var(--line);background:var(--panel);padding:26px 24px;transition:border-color .2s}
+.tjjm-gym:hover{border-color:var(--red)}
+.tjjm-gym h3{font-family:'Anton',sans-serif;font-weight:400;font-size:1.4rem;line-height:1.1;text-transform:uppercase;color:var(--bone);margin-bottom:8px}
+.tjjm-gym-loc{color:var(--dim);font-size:1rem;margin-bottom:6px}
+.tjjm-gym-map{color:var(--dim);text-decoration:none}
+.tjjm-gym-map:hover{color:var(--bone);text-decoration:underline}
+.tjjm-gym-region{font-size:.85rem;margin-bottom:12px}
+.tjjm-gym-region a{color:var(--dim);text-decoration:none;letter-spacing:.06em;text-transform:uppercase}
+.tjjm-gym-region a:hover{color:var(--bone);text-decoration:underline}
+.tjjm-gym-site{color:var(--red);font-weight:700;font-size:.875rem;letter-spacing:.14em;text-transform:uppercase;text-decoration:none}
+.tjjm-gym-site:hover{text-decoration:underline}
+.tjjm-gym-none{color:var(--dim);font-size:1.125rem;padding:30px 0;position:relative;z-index:2}
+.tjjm-more-row{position:relative;z-index:2;margin-bottom:70px}
+.tjjm-gymform{border:1px solid var(--line);background:var(--panel);padding:44px 36px;position:relative;z-index:2;scroll-margin-top:90px}
+.tjjm-gymform-h{font-size:clamp(1.8rem,4vw,2.6rem);color:var(--bone);margin:12px 0 10px}
+.tjjm-gymform .tjjm-p{margin-bottom:26px}
+.tjjm-gymform-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:22px}
+.tjjm-gymform-grid label{display:flex;flex-direction:column;gap:7px;font-weight:600;font-size:.95rem;color:var(--bone)}
+.tjjm-gymform-full{grid-column:1/-1}
+.tjjm-gymform-grid input,.tjjm-gymform-grid textarea{background:var(--ink);border:2px solid var(--line);color:var(--bone);padding:13px 15px;font-family:'Inter',sans-serif;font-size:1rem;outline:none}
+.tjjm-gymform-grid input:focus,.tjjm-gymform-grid textarea:focus{border-color:var(--red)}
+.tjjm-gymform-btn{background:var(--red);color:#fff;border:none;font-family:'Anton',sans-serif;font-size:1rem;letter-spacing:.12em;text-transform:uppercase;padding:15px 30px;cursor:pointer;transition:background .2s}
+.tjjm-gymform-btn:hover{background:var(--red-deep)}
+.tjjm-gymform-ok{color:var(--bone);font-weight:600;font-size:1.125rem;border-left:3px solid var(--red);padding-left:14px}
+.tjjm-gymform-err{color:var(--red);font-size:.95rem;margin-bottom:14px}
+@media(max-width:900px){.tjjm-gyms{grid-template-columns:1fr 1fr}}
+@media(max-width:620px){.tjjm-gyms{grid-template-columns:1fr}.tjjm-gymform{padding:32px 20px}.tjjm-gymform-grid{grid-template-columns:1fr}.tjjm-gym-tools input[type=search]{min-width:0}}
+</style>
+
+<script>
+(function(){
+  var root=document.querySelector('[data-tjjm-gymdir]');
+  if(!root||root.getAttribute('data-tjjm-init'))return;
+  root.setAttribute('data-tjjm-init','1');
+
+  var grid=document.getElementById('tjjmGyms'),
+      sel=document.getElementById('tjjmStateFilter'),
+      box=document.getElementById('tjjmSearch'),
+      countEl=document.getElementById('tjjmGymCount'),
+      noneEl=document.getElementById('tjjmNone'),
+      moreBtn=document.getElementById('tjjmMore');
+  if(!grid||!sel)return;
+
+  function raw(id){var e=document.getElementById(id);return e?e.textContent:''}
+
+  /* Newfoundland records are stored under Nebraska's code and re-filed by city.
+     This list must stay identical to the one in sections/tjjm-state-directory.liquid. */
+  var NLC=["St. John's","Corner Brook","Gander","Paradise","Conception Bay South",
+           "Labrador City","Grand Falls-Windsor","Clarenville","Mount Pearl","Torbay","Flat Bay"];
+
+  function overrides(s){
+    var m=Object.create(null),re=/~([^|~]*)\|([^~]*)~/g,x;
+    while((x=re.exec(s))!==null)m[x[1].trim()]=x[2].trim();
+    return m;
+  }
+  var wov=overrides(raw('tjjmDirWeb')), aov=overrides(raw('tjjmDirAddr')), cov=overrides(raw('tjjmDirCity'));
+
+  var removed=Object.create(null);
+  raw('tjjmDirRemoved').split('\n').forEach(function(l){
+    l=l.trim(); if(!l||l.indexOf('|')<0)return;
+    var p=l.split('|'), code=p.shift().trim(), set=Object.create(null);
+    p.forEach(function(n){n=n.trim(); if(n)set[n]=1});
+    removed[code]=set;
+  });
+
+  var regions=Object.create(null), order=[];
+  raw('tjjmDirRegions').split('\n').forEach(function(l){
+    var p=l.trim().split('|');
+    if(p.length!==5)return;
+    if(!/^[0-9]+$/.test(p[2].trim()))return;
+    var code=p[3].trim();
+    regions[code]={h:p[0].trim(),name:p[1].trim()};
+    order.push(code);
+  });
+
+  var parts=raw('tjjmDirData').split('{"n":"'), all=[];
+  for(var i=1;i<parts.length;i++){
+    var end=parts[i].indexOf('}');
+    if(end<0)continue;
+    var r; try{r=JSON.parse('{"n":"'+parts[i].slice(0,end+1))}catch(e){continue}
+    var n=(r.n||'').trim();
+    if(!n)continue;
+    var s=(r.s||'').trim(), c=(r.c||'').trim();
+    if(removed[s]&&removed[s][n])continue;
+    var code=(s==='NE'&&NLC.indexOf(c)>-1)?'NL':s; if(n in cov)c=cov[n];
+    var w=r.w||''; if(n in wov)w=wov[n];
+    var a=(r.a||'').trim(); if(!a&&(n in aov))a=aov[n];
+    var reg=regions[code];
+    all.push({n:n,c:c,s:code,w:w.trim(),a:a,
+              k:(n+' '+c+' '+code+' '+(reg?reg.name:'')).toLowerCase()});
+  }
+  all.sort(function(x,y){return x.n.localeCompare(y.n)});
+
+  var counts=Object.create(null);
+  all.forEach(function(g){counts[g.s]=(counts[g.s]||0)+1});
+  order.forEach(function(code){
+    if(!counts[code])return;
+    var o=document.createElement('option');
+    o.value=code; o.textContent=regions[code].name+' ('+counts[code]+')';
+    sel.appendChild(o);
+  });
+
+  var PAGE=300, shown=0, current=all;
+
+  function card(g){
+    var d=document.createElement('div'); d.className='tjjm-gym';
+    var h=document.createElement('h3'); h.textContent=g.n; d.appendChild(h);
+    var p=document.createElement('p'); p.className='tjjm-gym-loc';
+    if(g.a){
+      var m=document.createElement('a'); m.className='tjjm-gym-map';
+      m.href='https://maps.google.com/?q='+encodeURIComponent(g.a+', '+g.c+', '+g.s);
+      m.target='_blank'; m.rel='noopener'; m.textContent=g.a;
+      p.appendChild(m);
+    }else{
+      p.textContent=g.c+(g.c&&g.s?', ':'')+g.s;
+    }
+    d.appendChild(p);
+    var rg=regions[g.s];
+    if(rg){
+      var q=document.createElement('p'); q.className='tjjm-gym-region';
+      var rl=document.createElement('a'); rl.href='/pages/'+rg.h;
+      rl.textContent=(g.a?g.c+', ':'')+rg.name;
+      q.appendChild(rl); d.appendChild(q);
+    }
+    if(g.w){
+      var href=g.w; if(href.indexOf('://')<0)href='https://'+href;
+      var a=document.createElement('a'); a.className='tjjm-gym-site';
+      a.href=href; a.target='_blank'; a.rel='noopener nofollow';
+      a.innerHTML='Visit Website <span class="tjjm-arr">&rarr;</span>';
+      d.appendChild(a);
+    }
+    return d;
+  }
+
+  function paint(){
+    var frag=document.createDocumentFragment(),
+        end=Math.min(shown+PAGE,current.length);
+    for(var i=shown;i<end;i++)frag.appendChild(card(current[i]));
+    grid.appendChild(frag);
+    shown=end;
+    countEl.textContent=current.length.toLocaleString();
+    noneEl.hidden=current.length>0;
+    moreBtn.hidden=shown>=current.length;
+    if(!moreBtn.hidden)moreBtn.textContent='Show more ('+(current.length-shown).toLocaleString()+' to go)';
+  }
+
+  function apply(){
+    var terms=(box?box.value.trim().toLowerCase():'').split(/\s+/).filter(Boolean), st=sel.value;
+    current=all.filter(function(g){
+      if(st&&g.s!==st)return false;
+      for(var i=0;i<terms.length;i++){if(g.k.indexOf(terms[i])<0)return false}
+      return true;
+    });
+    grid.textContent=''; shown=0; paint();
+  }
+
+  sel.addEventListener('change',apply);
+  moreBtn.addEventListener('click',paint);
+  if(box){
+    var t=null;
+    box.addEventListener('input',function(){clearTimeout(t);t=setTimeout(apply,160)});
+  }
+
+  var qs=new URLSearchParams(location.search);
+  if(qs.get('state')&&regions[qs.get('state').toUpperCase()])sel.value=qs.get('state').toUpperCase();
+  if(qs.get('q')&&box)box.value=qs.get('q');
+  apply();
+
+  if(location.search.indexOf('contact_posted=true')>-1){
+    var f=document.getElementById('add-gym'); if(f)f.scrollIntoView();
+  }
+})();
+</script>
+
+{% schema %}
+{
+  "name": "TJJM Gym Directory",
+  "tag": "section",
+  "settings": [
+    {"type": "text", "id": "kicker", "label": "Kicker", "default": "The Community"},
+    {"type": "text", "id": "heading", "label": "Heading", "default": "Jiu Jitsu Schools Near You"},
+    {"type": "textarea", "id": "text", "label": "Intro text", "default": "Every Brazilian Jiu Jitsu school we list, across the United States and Canada. Search by gym or city, filter by state, or browse by region below."},
+    {"type": "text", "id": "button_label", "label": "Add gym button label", "default": "Add Your Gym"},
+    {"type": "text", "id": "form_kicker", "label": "Form kicker", "default": "Join the Directory"},
+    {"type": "text", "id": "form_heading", "label": "Form heading", "default": "Add Your Gym"},
+    {"type": "textarea", "id": "form_text", "label": "Form text", "default": "Submit your gym and we'll review it and add it to the directory — usually within a couple of days."},
+    {"type": "textarea", "id": "success_text", "label": "Success message", "default": "OSS! Your gym has been submitted. We'll review it and add it to the directory shortly."}
+  ],
+  "presets": [{"name": "TJJM Gym Directory"}]
+}
+{% endschema %}

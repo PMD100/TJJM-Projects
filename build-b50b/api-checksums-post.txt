@@ -1,0 +1,23 @@
+# BATCH 50b - AC3 gid://shopify/OnlineStoreTheme/155006140588 (UNPUBLISHED). 17 Aug 2026.
+# City made overridable + 21 city corrections. Every value below re-read from the Admin API
+# AFTER the writes and matched the local built artifact byte for byte.
+#
+# filename                              bytes   API checksumMd5                   status
+snippets/tjjm-gym-cities.liquid          3371   61bd06b082dd5db17ee0b11270684662  CREATED (new file, 21 rows)
+sections/tjjm-state-directory.liquid    13339   0aab8efc6be4676b98302596ecdb24ec  WRITTEN (was 13050 / 7058512b41e32e40af37b34e70158d1a)
+sections/tjjm-gym-directory.liquid      17425   f4f024d4c7cc2e5b2cdb093762c8b52e  WRITTEN (was 17283 / 4dd97c582d4a73c2fd5d168a5cde753e)
+snippets/tjjm-gym-websites-7.liquid      7018   c41ce0de2357284f77cc9844274600e2  WRITTEN (was  4358 / 6ae536aac18ca560eec288bbabb67064) record block only
+#
+snippets/tjjm-gyms-data.liquid         113187   1ee054115f5f2a4ab7b96a1a4395e342  UNTOUCHED - 113 KB on one line, NOT rewritable
+snippets/tjjm-gyms-data-14.liquid        6178   a87963d4545753b2beb7ccb44ad14623  UNTOUCHED - carries the earlier AKF Lexington fix
+snippets/tjjm-gym-addresses.liquid       8455   031ea9c028d9d0a3be01ed29f0c5a4d6  UNTOUCHED
+snippets/tjjm-gym-websites-6.liquid     19823   9749cb35614e91953115af00c436a798  UNTOUCHED (the drafted Murdoc's fix never happened)
+snippets/tjjm-removed-index.liquid      13853   98ee615156b26677c99582726f6248d6  UNTOUCHED
+snippets/tjjm-region-index.liquid        3446   8f4faa309ace35a8f6d2738476c47b35  UNTOUCHED
+# all 45 tjjm-gyms-data* verified against the API before the run: 45/45 match build-b50b/orig.
+snippets/tjjm-b50-probe.liquid            518   ab07fa7f3a2ce4eff246fa9aa8624458  INERT SCRATCH - nothing renders it; delete in admin.
+#
+# TRANSPORT: BASE64 through graphql_mutation. Each payload was first written to
+# build-b50b/roundtrip/*.b64, decoded and diffed against build-b50b/built/ before upserting,
+# then re-verified by API checksum after. Largest payload that round-tripped: 23,236 b64 chars
+# (17,425 B file). No truncation observed at any size this run.

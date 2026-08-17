@@ -1,0 +1,133 @@
+{%- comment -%}
+  TJJM gym-website overrides, file 7. Same format as files 1-6: ~Name|URL~
+  An EMPTY value blanks the link. Only add an entry that CHANGES something.
+  Rendered last, after file 6, by BOTH sections. Gate C3 forbids a name in two files.
+
+  17 Aug 2026 - BATCH 49. Created as HEADROOM only. No override rows yet.
+
+  Each override file has a hard 24,576-byte rewrite ceiling. File 6 reached 19,823 bytes
+  (about 4,753 bytes, or two batches, of slack) so file 7 was plumbed in now rather than
+  under pressure mid-batch. Both rendering surfaces were updated in the same batch:
+  sections/tjjm-state-directory.liquid (the 61 region pages) and
+  sections/tjjm-gym-directory.liquid (the flat "Schools Near You" page). A file that only
+  one surface reads is worse than no file at all - see CRITICAL-second-directory-surface.md.
+
+  Start adding rows below this comment, one per line, once file 6 runs out of room.
+{%- endcomment -%}
+{%- comment -%}
+  17 Aug 2026 - BATCH 49. Identity pass, the closing batch of that pass. 45 verdicts in all;
+  the 42 rows added below are 19 AGGREGATOR, 6 DEAD, 5 WRONG_BUSINESS, 3 WRONG_CITY,
+  3 STRIKING_ONLY, 3 REPOINT, 2 HIJACK, 1 PARKED. Every verdict was confirmed by
+  loading the page in a REAL CHROME BROWSER, not by the fetch tool.
+
+  THIS IS FILE 7'S FIRST CONTENT. The file was created earlier today as headroom only,
+  wired into BOTH rendering surfaces - sections/tjjm-state-directory.liquid (the 61 region
+  pages) and sections/tjjm-gym-directory.liquid (the flat "Schools Near You" page) - and
+  verified end to end while empty. Files 1, 3, 2, 4 and 6 had 397, 830, 1,269, 1,632 and
+  4,753 bytes of slack left against the 24,576-byte rewrite ceiling, so nothing was
+  appended to them.
+
+  Added here: 42 new rows. Each name was checked against all seven override files with the
+  comment blocks stripped and appeared in NONE of them, so gate C3 is clean and they are
+  added here rather than edited elsewhere. The other 3 of the 45 already had rows and were
+  blanked in place in tjjm-gym-websites-3.liquid: The Hidden Lotus, Team Jucão Elizabeth
+  Brazilian Jiu Jitsu BJJ and Team Nogueira.
+
+  One name arrived from the worksheet without its accent, spelled Team Jucao Elizabeth. The
+  record spells it Team Jucão Elizabeth, with an o-tilde, and the record's spelling is what
+  was written - an override row only matches on an exact name.
+
+  OWNER'S POLICY, applied throughout: a school's own Facebook or Instagram page IS an
+  acceptable link and was kept. AGGREGATOR here means booking platforms (Mindbody, Gymdesk,
+  Calendly, Zoho Bookings), Google business.site pages, and association or brand homepages
+  standing in for a location page.
+
+  Identity pass complete: 2,170 of 2,170 links read. Browser round cleared 36 of 56 fetch
+  flags (64%). Drift this round included same-host different-path substitutions, so probes
+  assert host AND path.
+
+  An empty value blanks the link only - each school keeps its name, city and map link, and
+  the change is reversible by deleting the row.
+{%- endcomment -%}
+~Silva BJJ Lawndale CA (Aloisio Silva Affiliated Academy)|~
+~South Prospect Martial Arts Gym|~
+~St. Matthews Martial Arts|~
+~Success Martial Arts|~
+~TK Martial Arts|~
+~TMAC Tipton Martial Arts Club|~
+~Tarpein's Dojo|~
+~Tennessee Brazilian Jiu-Jitsu Academy|~
+~Team Hopkins Jiu Jitsu Mobile|~
+~The Komodo Academy|~
+~Tower 1 Combat Sports|~
+~Troy Holton's Brazilian Jiu-Jitsu|~
+~Tsunami MMA|~
+~Underground Gym|~
+~Vitor Shaolin BJJ NYC|~
+~Yeti MMA|~
+~Zombie Krew Jiu Jitsu|~
+~Simmons Academy of Wrestling|~
+~Six Blades Austin|~
+~Team Jucao Gardendale|~
+~Team Juggernaut Brazilian Jiu Jitsu & Fitness Academy|~
+~Tri-City Ju-Jitsu|~
+~Trifecta MMA/BJJ|~
+~Ultimate House of Champions|~
+~Ultra Brazilian Jiu-Jitsu & Mixed Martial Arts Santa Clarita|~
+~Undisputed MMA|~
+~Victory Jiu Jitsu|~
+~War Room MMA, Kickboxing, and Fitness|~
+~West Coast BJJ|~
+~Wild West Training Center|~
+~Workhorse Mixed Martial Arts|~
+~X3 Sports - Athens|~
+~X3 Sports - North Marietta|~
+~Yamasaki Academy Woodbridge|~
+~Yonsei Martial Arts Academy|~
+~Young Guardians MMA|~
+~Team Tooke Mixed Martial Arts Lafayette|~
+~Uprise MMA|~
+~Zero Point Gracie Jiu Jitsu|~
+~Xtreme Couture MMA|https://www.xcmma.com/~
+~Warrior Defense Brazilian Jiu Jitsu|https://warriordefense.com/~
+~Wind River Dojo|https://www.windriverdojo.org~
+{%- comment -%}
+  17 Aug 2026 - BATCH 50. CITY IS NOW OVERRIDABLE. No override rows were added to this
+  file this batch; this is a record entry only.
+
+  1. NEW MECHANISM. snippets/tjjm-gym-cities.liquid was created and wired into BOTH
+     rendering surfaces - sections/tjjm-state-directory.liquid (the 61 region pages) and
+     sections/tjjm-gym-directory.liquid (the flat "Schools Near You" page). Row grammar is
+     the same as this file's: ~Exact Name|City~. A row REPLACES the record's "c" the way a
+     row here replaces "w", except that an EMPTY VALUE IS NOT ALLOWED - a city override
+     must always carry a city.
+
+  2. 21 CITY CORRECTIONS applied through it, each verified against the school's own live
+     published address. Every name matched exactly one record. Not one record changed
+     region: region membership comes from "s", which the override cannot touch, and both
+     surfaces apply the city override AFTER the Nebraska/Newfoundland re-filing test,
+     which reads the city string. The corpus is still 5,911 records / 5,215 published
+     across 61 regions, with every per-region count unchanged.
+
+  3. DO NOT EDIT snippets/tjjm-gyms-data.liquid. It is 113 KB on a SINGLE 113,186-byte
+     line, far past the ~24,576-byte theme-file rewrite ceiling, so it cannot be rewritten
+     safely. A single dropped character in it silently destroys every record after that
+     point, because the JS parser skips any record whose JSON throws. 14 of this batch's
+     21 corrections live in that blob; all 14 were done as overrides instead. That is now
+     the only supported way to fix a city.
+
+  4. ONE DATA-FILE EDIT DID LAND EARLIER IN THIS BATCH, before the override mechanism
+     existed: snippets/tjjm-gyms-data-14.liquid, AKF Lexington Martial Arts, "c" changed
+     from Nicholasville to Lexington (6,182 -> 6,178 bytes). That correction is right and
+     was left in place. tjjm-gym-cities.liquid also carries a row for it restating the
+     same value, so the override file is the single list of all 21 corrections.
+
+  CORRECTING AN EARLIER DRAFT. A draft of this block claimed batch 50 renamed a record
+  ("Evolution Jiu Jitsu" -> "Evolution Jiu Jitsu Burlington") and added a blanking row for
+  "American Grappling". BOTH WERE REFUSED AND NEITHER HAPPENED. The draft also claimed a
+  curly-apostrophe fix in tjjm-gym-websites-6.liquid for Murdoc's; that file was never
+  written and is unchanged. Do not carry any of those three forward as done.
+
+  Override rows key on the record name, so a name shared by two schools hits both. The
+  corpus has 16 duplicated names; check before writing any override row.
+{%- endcomment -%}
