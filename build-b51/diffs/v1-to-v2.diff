@@ -1,0 +1,10 @@
+--- built/tjjm-state-directory.liquid	2026-08-17 12:13:51.197352469 -0700
++++ built/tjjm-state-directory.v2.liquid	2026-08-17 12:38:01.861537385 -0700
+@@ -291,7 +291,6 @@
+ .tjjm-city-h{scroll-margin-top:84px}
+ .tjjm-nomatch{margin:26px 0 40px}
+ section[data-tjjm-statedir].is-filtering .tjjm-reveal{opacity:1;transform:none;transition:none}
+-@media(prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+ @media(max-width:620px){.tjjm-jump-b{padding:2px 12px 10px}.tjjm-jg{gap:0 13px}}
+ </style>
+ 

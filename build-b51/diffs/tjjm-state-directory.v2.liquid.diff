@@ -1,0 +1,147 @@
+--- orig/tjjm-state-directory.liquid	2026-08-17 12:06:05.030550426 -0700
++++ built/tjjm-state-directory.v2.liquid	2026-08-17 12:38:01.861537385 -0700
+@@ -98,15 +98,17 @@
+ 
+ {%- assign list = buf | strip | split: '~~' | sort -%}
+ {%- assign gym_count = list.size -%}
+-{%- assign city_count = 0 -%}
+ {%- assign prev_city = '' -%}
++{%- capture city_buf -%}
+ {%- for item in list limit: 2000 -%}
+   {%- assign c0 = item | strip | split: '|' | first -%}
+   {%- if c0 != prev_city -%}
+-    {%- assign city_count = city_count | plus: 1 -%}
+-    {%- assign prev_city = c0 -%}
++    {%- assign prev_city = c0 -%}{{ c0 }}~
+   {%- endif -%}
+ {%- endfor -%}
++{%- endcapture -%}
++{%- assign cities = city_buf | strip | split: '~' -%}
++{%- assign city_count = cities.size -%}
+ 
+ {%- assign country_name = 'the United States' -%}
+ {%- if country == 'CA' -%}{%- assign country_name = 'Canada' -%}{%- endif -%}
+@@ -127,6 +129,34 @@
+     </header>
+ 
+     {%- if gym_count > 0 -%}
++      <label class="tjjm-flabel" for="tjjm-q" data-tjjm-tools hidden>Filter by city or gym name</label>
++      <div class="tjjm-fbar" data-tjjm-tools hidden>
++        <input id="tjjm-q" class="tjjm-finput" type="search" autocomplete="off" spellcheck="false" placeholder="City or gym name">
++        <button class="tjjm-fclear" type="button" data-tjjm-clear hidden>Clear</button>
++      </div>
++      <p class="tjjm-fcount" data-tjjm-tools data-tjjm-count aria-live="polite" aria-atomic="true" hidden>Showing {{ gym_count }} of {{ gym_count }}</p>
++
++      <details class="tjjm-jump"{% if city_count <= 24 %} open{% endif %}>
++        <summary class="tjjm-jump-s">Browse by city <em>{{ city_count }}</em></summary>
++        <div class="tjjm-jump-b">
++          {%- assign prev_l = '' -%}
++          {%- for c in cities -%}
++            {%- assign cs = c | strip -%}
++            {%- if cs == blank -%}{%- continue -%}{%- endif -%}
++            {%- assign l = cs | slice: 0 | upcase -%}
++            {%- if l != prev_l -%}
++              {%- unless prev_l == blank -%}</div>{%- endunless -%}
++              {%- assign prev_l = l -%}
++              <div class="tjjm-jg"><b class="tjjm-jl" aria-hidden="true">{{ l | escape }}</b>
++            {%- endif -%}
++            <a class="tjjm-ja" href="#{{ cs | handleize }}">{{ cs | escape }}</a>
++          {%- endfor -%}
++          {%- unless prev_l == blank -%}</div>{%- endunless -%}
++        </div>
++      </details>
++
++      <p class="tjjm-p tjjm-nomatch" data-tjjm-none hidden>No schools match that search. <button class="tjjm-fclear" type="button" data-tjjm-clear>Show all {{ gym_count }}</button></p>
++
+       {%- assign current_city = '' -%}
+       {%- assign grid_open = false -%}
+       {%- for item in list limit: 2000 -%}
+@@ -141,7 +171,7 @@
+           {%- if grid_open -%}</div>{%- endif -%}
+           {%- assign current_city = g_city -%}
+           {%- assign grid_open = true -%}
+-          <h2 class="tjjm-city-h" id="{{ g_city | handleize }}">Jiu Jitsu in {{ g_city | escape }}{% if code != blank %}, {{ code }}{% endif %}</h2>
++          <h2 class="tjjm-city-h" id="{{ g_city | handleize }}" data-c="{{ g_city | escape }}">Jiu Jitsu in {{ g_city | escape }}{% if code != blank %}, {{ code }}{% endif %}</h2>
+           <div class="tjjm-gyms tjjm-reveal">
+         {%- endif -%}
+ 
+@@ -231,6 +261,79 @@
+ 
+ {%- render 'tjjm-statedir-css' -%}
+ 
++<style>
++section[data-tjjm-statedir]{overflow:clip}
++section[data-tjjm-statedir] [hidden]{display:none!important}
++.tjjm-flabel{display:block;position:relative;z-index:2;font-size:.75rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--dim);margin-bottom:8px}
++.tjjm-fbar{position:sticky;top:0;z-index:6;display:flex;gap:8px;background:var(--ink);padding:10px 0;border-bottom:1px solid var(--line)}
++.tjjm-finput{flex:1;min-width:0;min-height:44px;padding:10px 14px;background:var(--panel);border:1px solid var(--line);color:var(--bone);font-family:'Inter',sans-serif;font-size:1rem;appearance:none;-webkit-appearance:none}
++.tjjm-finput::placeholder{color:var(--dim);opacity:.7}
++.tjjm-finput:focus-visible{outline:2px solid var(--red);outline-offset:2px}
++.tjjm-fclear{min-height:44px;padding:10px 16px;background:none;border:1px solid var(--line);color:var(--dim);font-family:'Anton',sans-serif;font-size:.85rem;letter-spacing:.12em;text-transform:uppercase;cursor:pointer}
++.tjjm-fclear:hover{color:var(--bone);border-color:var(--red)}
++.tjjm-fclear:focus-visible{outline:2px solid var(--red);outline-offset:2px}
++.tjjm-fcount{position:relative;z-index:2;margin:8px 0 22px;font-size:.85rem;letter-spacing:.06em;color:var(--dim)}
++.tjjm-jump{position:relative;z-index:2;border:1px solid var(--line);background:var(--panel);margin:0 0 26px}
++.tjjm-jump-s{display:flex;align-items:center;gap:10px;min-height:44px;padding:12px 16px;font-family:'Anton',sans-serif;font-size:.95rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bone);cursor:pointer;list-style:none}
++.tjjm-jump-s::-webkit-details-marker{display:none}
++.tjjm-jump-s::after{content:"+";margin-left:auto;color:var(--red);font-size:1.25rem;line-height:1}
++.tjjm-jump[open] .tjjm-jump-s::after{content:"\2212"}
++.tjjm-jump-s:focus-visible{outline:2px solid var(--red);outline-offset:-2px}
++.tjjm-jump-s em{font-style:normal;color:var(--dim);font-size:.85em}
++.tjjm-jump-b{padding:2px 16px 12px;border-top:1px solid var(--line)}
++.tjjm-jg{display:flex;flex-wrap:wrap;align-items:baseline;gap:0 16px;padding:6px 0;border-bottom:1px solid var(--line)}
++.tjjm-jg:last-child{border-bottom:0}
++.tjjm-jl{font-family:'Anton',sans-serif;font-weight:400;font-size:.95rem;color:var(--red);flex:none;width:1.5em}
++.tjjm-ja{display:inline-block;min-height:40px;padding:7px 0;line-height:26px;font-size:.93rem;color:var(--dim);text-decoration:none}
++.tjjm-ja:hover{color:var(--red)}
++.tjjm-ja:focus-visible{outline:2px solid var(--red);outline-offset:2px}
++.tjjm-ja.is-off{opacity:.3;pointer-events:none}
++.tjjm-city-h{scroll-margin-top:84px}
++.tjjm-nomatch{margin:26px 0 40px}
++section[data-tjjm-statedir].is-filtering .tjjm-reveal{opacity:1;transform:none;transition:none}
++@media(max-width:620px){.tjjm-jump-b{padding:2px 12px 10px}.tjjm-jg{gap:0 13px}}
++</style>
++
++{%- if gym_count > 0 -%}
++<script>
++(function(){
++var root=document.querySelector('[data-tjjm-statedir]');if(!root)return;
++var q=root.querySelector('#tjjm-q');if(!q)return;
++var countEl=root.querySelector('[data-tjjm-count]'),noneEl=root.querySelector('[data-tjjm-none]');
++function norm(s){s=(s||'').toLowerCase();try{s=s.normalize('NFD').replace(/[\u0300-\u036f]/g,'')}catch(e){}return s}
++var groups=[],byId={},total=0;
++[].forEach.call(root.querySelectorAll('h2.tjjm-city-h[id]'),function(h){
++  var grid=h.nextElementSibling,city=norm(h.getAttribute('data-c')),items=[];
++  if(!grid||grid.className.indexOf('tjjm-gyms')<0)return;
++  [].forEach.call(grid.querySelectorAll('.tjjm-gym'),function(el){
++    var n=el.querySelector('h3');items.push({el:el,hay:city+' '+norm(n?n.textContent:'')});total++;});
++  var g={h:h,grid:grid,items:items};groups.push(g);byId[h.id]=g;});
++var jumps=[].slice.call(root.querySelectorAll('.tjjm-ja'));
++var clears=[].slice.call(root.querySelectorAll('[data-tjjm-clear]'));
++function apply(){
++  var v=norm(q.value.trim()),shown=0,i,j,g,it,m,hide;
++  root.classList.toggle('is-filtering',!!v);
++  for(i=0;i<groups.length;i++){g=groups[i];var vis=0;
++    for(j=0;j<g.items.length;j++){it=g.items[j];m=!v||it.hay.indexOf(v)>-1;
++      if(it.el.hidden===m)it.el.hidden=!m;if(m)vis++;}
++    hide=!!v&&vis===0;
++    if(g.h.hidden!==hide){g.h.hidden=hide;g.grid.hidden=hide;}
++    shown+=vis;}
++  for(i=0;i<jumps.length;i++){g=byId[decodeURIComponent(jumps[i].getAttribute('href').slice(1))];
++    if(g)jumps[i].classList.toggle('is-off',!!g.h.hidden);}
++  countEl.textContent='Showing '+shown+' of '+total;
++  noneEl.hidden=shown>0;
++  clears[0].hidden=!v;
++}
++for(var k=0;k<clears.length;k++)clears[k].addEventListener('click',function(){q.value='';apply();q.focus();});
++q.addEventListener('input',apply);
++q.addEventListener('keydown',function(e){if(e.key==='Escape'&&q.value){q.value='';apply();}});
++[].forEach.call(root.querySelectorAll('[data-tjjm-tools]'),function(e){e.hidden=false});
++countEl.textContent='Showing '+total+' of '+total;
++})();
++</script>
++{%- endif -%}
++
+ {% schema %}
+ {
+   "name": "TJJM State Directory",

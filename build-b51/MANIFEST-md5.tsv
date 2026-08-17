@@ -1,0 +1,6 @@
+file	bytes	md5	state
+orig/tjjm-state-directory.liquid	13339	0aab8efc6be4676b98302596ecdb24ec	pre-batch-51, matches AD3 checksum
+built/tjjm-state-directory.liquid	20024	c5e4c3dc7ec7f25dacf29822bcbfd405	v1 UPSERTED to AD3 + API-verified (has smooth-scroll defect)
+built/tjjm-state-directory.v2.liquid	19949	2705ea058de62bb2ce5bffec21ea2cf5	v2 FIX ready, NOT yet upserted (connector down)
+orig/tjjm-gym-websites-7.liquid	7018	c41ce0de2357284f77cc9844274600e2	pre-state from batch-50c, API checksum NOT re-confirmed
+built/tjjm-gym-websites-7.liquid	11879	a82499e9a2b1a9788633343e2d75d1ec	batch-51 block appended, NOT yet upserted

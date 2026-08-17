@@ -1,0 +1,20 @@
+BATCH 51 - WHAT IS STILL OUTSTANDING (Shopify connector auth was invalidated mid-run)
+
+Reconnect the Shopify connector, then run these two upserts against
+AD3 = gid://shopify/OnlineStoreTheme/155013906604 (UNPUBLISHED). Nothing else is pending.
+
+1) sections/tjjm-state-directory.liquid  ->  built/tjjm-state-directory.v2.liquid
+   Currently on AD3 : 20024 bytes  c5e4c3dc7ec7f25dacf29822bcbfd405   (v1)
+   Should become    : 19949 bytes  2705ea058de62bb2ce5bffec21ea2cf5   (v2)
+   v2 differs from v1 by exactly ONE deleted CSS line:
+       @media(prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+   That line breaks the jump-nav: the hash changes but the page never scrolls.
+   Payload already base64-encoded at roundtrip/payload.v2.b64 (26,600 chars).
+
+2) snippets/tjjm-gym-websites-7.liquid  ->  built/tjjm-gym-websites-7.liquid
+   Expected pre-state : 7018 bytes  c41ce0de2357284f77cc9844274600e2
+   Becomes            : 11879 bytes a82499e9a2b1a9788633343e2d75d1ec
+   *** The pre-state was taken from build-b50c/gate/ on disk and has NOT been
+   re-confirmed against the live API checksumMd5. scripts/build_websites7.py hard-stops
+   on drift - re-run it after re-pulling the file from AD3 before upserting. ***
+   Append-only: 0 lines removed, 42 override rows unchanged, 3 -> 4 comment blocks.
