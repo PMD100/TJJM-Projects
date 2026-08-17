@@ -1,0 +1,23 @@
+name	region	city	url	fetch_note
+Kings Combat	NY	Brooklyn	https://kingscombatwillyb.com/	striking only, no grappling
+Kings Combat Fitness	NY	Rego Park	https://kingscombatfitness.com	striking only, no grappling
+Kutting Edge Jiu-Jitsu Academy	IA	Burlington	https://www.kuttingedgejiujitsuacademy.com	domain redirects to unrelated Patreon page
+Lopez Martial Arts	AZ	Chandler	https://lopezjiujitsu.com/	parked Hostinger domain placeholder, no site
+Magness Brazilian Jiu-Jitsu Martial Arts Academy	TX	Cedar Hill	https://magnessbjj.com/free-trial/	linked page 404s; root domain shows Cedar Hill
+Impact Martial Arts Harrison	AR	Harrison	https://impactharrison.com/uncategorized/about/	Domain hijacked, Indonesian slot gambling site
+Imperial BJJ	MT	Butte	https://www.facebook.com/ImperialTruthBJJ	Facebook page, fetch blank, browser check needed
+Indiana Brazilian Jiu-Jitsu Academy	IN	Greenwood	https://ibjja.com	JS redirect stub, no readable content
+Infinity Arts	OH	Cambridge	https://www.facebook.com/InfinityArtsMartialArts/	Facebook page, fetch blank, browser check needed
+Inspire Brazilian Jiu Jitsu Academy	CO	Fort Collins	https://www.inspirebjj.com	Domain expired, parked for sale
+Iron Fist Gym	KY	Maysville	https://www.facebook.com/pages/Iron-Fist-Gym/197039466976181	Facebook page, fetch blank, browser check needed
+Iron Forge Jiu Jitsu	GA	Blackshear	https://www.facebook.com/IronForgeJiuJitsu/	Facebook page, fetch blank, browser check needed
+Ironbound Fight Club	NJ	Newark	https://www.instagram.com/ifcnewarknj_2/	Instagram page, fetch blank, browser check needed
+Island MMA Training Centre	BC	Victoria	https://islandmma.com	JS-gated redirect wall, browser check needed
+JREAM Academy	NV	Carson City	https://www.jreamacademy.com	Empty body, sitemap only lander, parked
+JVLO Jiu-Jitsu	AZ	Douglas	https://www.instagram.com/jvlojiujitsu/	Instagram page, fetch blank, browser check needed
+JW Brazilian Jiu-Jitsu	OH	Ravenna	https://jwbrazilianjiujitsu.wixsite.com/website	Wixsite blank body, browser check needed
+Japanese Martial Arts Academy	MI	Westland	https://samuraidetroit.com/free-lesson	Shotokan karate school, no real grappling
+Javier Blanchard Brazilian Jiu Jitsu / BJJ Anaheim CA 92801	CA	Anaheim	https://www.facebook.com/javierblanchardbrazilianjiujitsu/	Facebook page, fetch blank, browser check needed
+Joint Lock BJJ - Brazilian Jiu Jitsu	OR	Redmond	https://www.facebook.com/jointlockbjj	Facebook page, fetch blank, browser check needed
+Kaiten Mixed Martial Arts Academy	BC	Prince George	https://princegeorgemma.com	Prince George school but casino spam injected
+Kame House MMA	AL	Hazel Green	https://www.facebook.com/KameHouseMMA/	Facebook page, fetch blank, browser check needed

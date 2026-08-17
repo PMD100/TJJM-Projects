@@ -1,0 +1,121 @@
+verdict	name	region	city	url	note
+OK	Nomad Brazilian Jiu-Jitsu	QC	Sherbrooke	https://nomadbjj.com	Sherbrooke HQ address matches; BJJ, kickboxing, wrestling
+OK	NorCal Fighting Alliance	CA	Santa Rosa	https://www.norcalfighting.com	Santa Rosa BJJ and wrestling; address matches
+OK	NorCal Fitness Co-op	CA	Yuba City	https://norcalfitness.net/	Yuba City address listed; BJJ, MMA
+OK	Nordik Fight Club	QC	Quebec City	https://nordikfightclub.com	909 boul Charest Ouest, Quebec City
+OK	Norse Academy Martial Arts	IL	Lake Villa	https://uniphimma.com/	Rebranded Uniphi MMA, same Lake Villa address
+OK	North Bay Jiu Jitsu	CA	Novato	https://www.northbayjiujitsu.com/	Novato BJJ academy serving Marin County
+OK	North Coast Jiu Jitsu / Jiu Jitsu Vista CA 92084	CA	Vista	https://northcoastjj.com/	Vista BJJ academy; city named repeatedly
+SUSPECT	North Legion Académie	QC	Repentigny	https://northlegionacademie.ca	Homepage redirects to members-only login, no content
+OK	North Side Brazilian Jiu Jitsu	IL	Chicago	https://northsidebjj.com	Chicago, 3649 N Central Ave
+OK	North Wake Martial Arts	SK	Prince Albert	https://northwakemartialarts.com	Prince Albert SK named; BJJ offered
+SUSPECT	Northeast Kingdom BJJ	VT	St. Johnsbury	https://nekbjj.com	Domain dead: timeout, www returns NXDOMAIN
+OK	Northshore Academy of Martial Arts	IL	Libertyville	https://nsama.com/	281 Peterson Road, Libertyville; BJJ
+OK	Northside BJJ	AZ	Tucson	https://www.nsbjj.com	3912 N Oracle Rd, Tucson matches
+OK	Northside Brazilian Jiu Jitsu	OK	Collinsville	https://www.thenorthsidejiujitsu.com	Collinsville OK; site lists 123 N 7th
+OK	Nostos MMA	NH	Somersworth	https://www.nostos-mma.com	1 Somersworth Plaza address matches exactly
+OK	Nova Jiu Jitsu	WV	Ronceverte	https://www.nova-wv.com	8484 Seneca Trail S, Ronceverte matches
+OK	Nova Jiu Jitsu Rochester	NY	Rochester	https://novajiujitsu.com	3300 Monroe Ave, Rochester NY
+OK	Nova Mente Jiu Jitsu Academy	CO	Englewood	https://www.novamentebjj.com	2761 W Oxford Ave, Englewood matches
+WRONG_CITY	NovaGym	QC	Montreal	https://novagym.ca	Quebec City, 2485 Blvd Ste-Anne
+OK	November Tango BJJ	KS	Great Bend	https://novembertangobjj.com	2100 Broadway Avenue, Great Bend matches
+OK	Nucleus Brazilian Jiu Jitsu	GA	Norcross	https://nucleusbjj.com	HTTPS cipher error; http works, Norcross address
+OK	O2 Martial Arts Academy	HI	Aiea	https://onzuka.com/o2maaweb/	Relson Gracie BJJ, Aiea address matches
+SUSPECT	ONEPUNCH Boxing and MMA Jujitsu Gym	PA	Langhorne	https://onepunchatoxfordmall.business.site/	Google business.site page returns 404 error
+OK	Oakville Brazilian Jiu-Jitsu	ON	Oakville	https://oakvillejiujitsu.ca	2828 Kingsway Drive, Oakville matches exactly
+OK	Ocala Brazilian Jiu Jitsu Academy	FL	Ocala	https://www.bjjocala.com/	7365 SW 38th St, Ocala matches
+OK	Ocean County BJJ	NJ	Toms River	https://www.oceancountybjj.com/	Site names Forked River, NJ instead
+OK	Ocean State Studios BJJ	RI	East Providence	https://oceanstatestudiosbjj.com	89 Valley St, East Providence matches
+OK	Octa BJJ Burlington	ON	Burlington	https://burlington.octabjj.com	1176 Blair Road, Burlington matches exactly
+OK	Octa BJJ Cambridge	ON	Cambridge	https://cambridge.octabjj.com	90 Pinebush Rd, Cambridge matches exactly
+OK	Octa BJJ Kitchener	ON	Kitchener	https://octabjjkitchener.com	248 Stirling Ave S, Kitchener matches
+OK	Octa BJJ Mississauga	ON	Mississauga	https://mississauga.octabjj.com	3065 Ridgeway Dr, Mississauga matches exactly
+OK	Octa BJJ Oakville	ON	Oakville	https://octabjj.com	Oakville HQ, 220 Wyecroft Road matches
+OK	Octane Martial Arts	PA	Monongahela	https://octanemartialarts.com/	215 Chess Street, Monongahela matches exactly
+OK	Octo Alliance Combat Sports	MI	Grand Rapids	https://octoalliancecombatsports.com/	Site says Caledonia MI, Grand Rapids metro
+OK	Odin's Halls Brazilian Jiu Jitsu	NV	Las Vegas	https://www.bjjvegas.com	Las Vegas BJJ and Muay Thai academy
+SUSPECT	Off Your Back BJJ Academy	NH	Salem	https://offyourbackbjj.com	Shopify merch store only; academy page 404s
+OK	Ohana Jiu Jitsu Academy	HI	Kihei	https://www.ohanajiujitsumaui.com	650 Lipoa Pkwy, Kihei matches exactly
+SUSPECT	Ohana Jiu-Jitsu	GA	Hahira	https://ohanajiu-jitsu.com/	Domain expired, parked by GoDaddy lander
+OK	Ohana Martial Arts	IL	Waukegan	https://ohanama.com/	Site says Grayslake IL, nine miles
+SUSPECT	Ohio Academy of Martial Arts	OH	Wooster	https://ohioacademyofmartialarts.com/	No grappling found; cardio kickboxing and traditional
+OK	Oklahoma Combat Sports / KORE BJJ	OK	Poteau	https://www.facebook.com/ocskorebjj/	Facebook page live: BJJ in Poteau OK
+OK	Old Louisville Jiu Jitsu Academy	KY	Louisville	https://www.oldlouisvillejiujitsuacademy.com	Old Louisville neighbourhood BJJ academy, city named
+SUSPECT	Old School Jiu Jitsu	MO	Kirksville	https://www.facebook.com/oldschooljj	Facebook page removed or unavailable now
+OK	Oldham County Martial Arts Academy	KY	La Grange	https://www.ocmaaky.com	Redirects to 4217 KY-146, LaGrange KY
+OK	Olive Branch Jiu Jitsu	IA	Fort Madison	https://olivebranchjj.com	802 Avenue G, Fort Madison matches
+OK	Olympic Brazilian Jiu Jitsu	LA	Sulphur	https://olympicbjj.org	301 S Huntington St, Sulphur LA
+OK	Olympus Grappling Arts	IL	Batavia	https://olympusgrapplingarts.com/	2301 Main Street, Batavia matches exactly
+OK	Olympus Jiu Jitsu Academy	FL	Lutz	https://bjjolympus.com/	Site says Land O' Lakes, FL
+OK	Olympus Martial Arts	ON	Kitchener	https://olympusmma.com	50 Ottawa St S, Kitchener matches
+OK	Omaha's Academy of Brazilian Jiu Jitsu	NE	Omaha	https://www.oabjj.com	4518 South 132nd Street, Omaha matches
+OK	Omerta BJJ	ON	Guelph	https://omertabjj.com	Guelph grappling academy; city named repeatedly
+OK	One Combat Academy	IA	Sioux City	https://fourseasonshealthclub.com/one-combat-academy/	MMA program page on Four Seasons club
+OK	One Legacy Training Center - Jiu Jitsu, MMA, Muay Thai, Self Defense	CA	National City	http://onelegacytc.com/	820 Highland Avenue, National City matches exactly
+OK	One Ten Brazilian Jiu Jitsu Academy	AZ	Scottsdale	https://onetenbjj.com/	10810 E Via Linda, Scottsdale AZ
+OK	Oneonta Jiu Jitsu Academy	NY	Oneonta	https://oneontajiujitsuacademy.com	5366 Main St, Oneonta NY matches
+OK	Open Guard BJJ	NC	Apex	https://openguardbjj.com/	737 Center Street, Apex NC matches
+OK	Oregon Triad Jiu-Jitsu	OR	Albany	https://www.facebook.com/OregonTriadJiuJitsu/	Facebook live: 1245 Washington St SW Albany
+AGGREGATOR	Orient Jiu Jitsu	NV	Paradise	https://orient-jiu-jitsu-llc.gymdesk.com/book	Gymdesk booking page; Las Vegas address shown
+OK	Orlando Brazilian Jiu Jitsu	FL	Orlando	https://www.orlandobjj.com	Orlando's premier BJJ academy, city named
+OK	Oshawa BJJ	ON	Oshawa	https://oshawabjj.com/	1160 Simcoe St S, Oshawa ON
+OK	Osvaldvo Alves Jiu-Jitsu Academy	CA	Westlake Village	https://www.osvaldoalvesbjjsocal.com/	Now Renzo Gracie Westlake, same address
+OK	Otero Combat Sports	NM	Alamogordo	https://oterocombatsports.com	700 E 1st St, Alamogordo matches
+OK	Ottawa Academy of Martial Arts	ON	Ottawa	https://oama.ca	1810 Carling Ave, Ottawa matches exactly
+OK	Ottawa Jiu Jitsu	ON	Ottawa	https://ottawajiujitsu.com	1484 Scott St, Ottawa Ontario listed
+OK	Outros Caras Jiu-Jitsu	QC	Longueuil	https://www.outroscaras-bjj.com	BJJ school located in Longueuil, Quebec
+OK	Overcome Brazilian jiu-jitsu school	AR	Bentonville	https://overcomejiujitsu.com/	3600 SW Regional Airport Blvd, Bentonville
+OK	Overcome Jiu Jitsu Pinnacle	AR	Rogers	https://overcomepinnacle.com	4654 S 53rd St, Rogers matches
+OK	Ozone Brazilian Jiu-Jitsu	SC	Florence	https://www.ozonebjj.co	1735 South Irby St, Florence matches
+OK	P3 Martial Arts	IL	Schaumburg	https://p3schaumburg.com/	Schaumburg IL, S Roselle Rd; adult BJJ
+OK	PAC Jiu-Jitsu	ID	Rexburg	https://pacjiujitsu.com	887 Jet Stream Drive, Rexburg matches exactly
+OK	PEI Martial Arts Academy O'Leary	PE	O'Leary	https://www.peimma.com/oleary	424 Main St, O'Leary matches exactly
+OK	PEI Martial Arts Academy Summerside	PE	Summerside	https://www.peimma.com	Brand homepage lists Summerside Slemon Park address
+OK	Pace Gracie Jiu Jitsu Academy	FL	Pace	https://pacegjj.com	4412 Highway 90, Pace Florida
+OK	Pacific Top Team Chilliwack	BC	Chilliwack	https://pttchilliwack.ca	7-7355 Vedder Rd, Chilliwack matches exactly
+OK	Pacific Top Team Vancity	BC	Vancouver	https://www.pttvancity.com	Vancouver BJJ and Muay Thai school
+OK	Pacific Warrior MMA - BJJ with Coach Kyle Hagen	CO	Pueblo	https://coachkylehagen.wordpress.com	Coach blog names 627 E 4th, Pueblo
+OK	Pallaton Brazilian Jiu Jitsu	AZ	Tucson	https://www.pallatonbjj.com	Tucson AZ named; no street address
+OK	Paradigm Brazilian Jiu Jitsu	MA	Lowell	https://www.theparadigmacademy.com	109 Industrial Ave E, Lowell MA
+OK	Paragon Academy Jiu Jitsu-Boxing-Kickboxing Gym	CA	Santa Barbara	https://www.paragonbjj.com/	617 N Salsipuedes St, Santa Barbara
+OK	Paragon BJJ	CA	Ventura	https://www.paragonbjjventura.com	3000 Bunsen Ave E, Ventura matches
+SUSPECT	Parallel Jiu Jitsu	IL	Arcola	https://parallel-jiu-jitsu.business.site/	Google business.site page returns 404 error
+OK	Paris Gracie Jiu Jitsu Academy	TN	Paris	https://www.facebook.com/parisgraciejiujitsuacademy	Facebook live: 312 Tyson Avenue, Paris
+OK	Park City Jiu Jitsu	UT	Park City	https://parkcitybjj.com	6430 N Business Park Loop, Park City
+OK	Park Slope Academy of Brazilian Jiu-Jitsu	NY	Brooklyn	https://www.psabjj.com	518 5th Avenue, Brooklyn matches exactly
+OK	Parker Academy of Martial Arts	CO	Parker	https://kicksrus.com/pama-home/	18632 Pony Express Dr, Parker matches
+OK	Parkersburg Martial Arts Center	WV	Vienna	https://parkersburgbjj.com	Site says Parkersburg area; Vienna adjacent
+SUSPECT	Parma Family Martial Arts Center	OH	Parma	https://www.pfmac.com/	Under construction since 2022; taekwondo, no address
+OK	Passador BJJ	ON	Niagara Falls	https://passadorbjj.com	4536 Portage Road, Niagara Falls matches
+OK	Paul Tom's Academy of Brazilian Jiu-Jitsu	UT	American Fork	https://bjjutah.com	920 E State St, American Fork matches
+OK	Paxibellum	NY	New York	https://paxibellum.com/	4 W 18th Street, New York NY
+OK	Peak Jiu-Jitsu	NY	Patchogue	https://www.peakjj.com	176 West Main Street, Patchogue matches
+WRONG_CITY	Peak Performance	TX	North Richland Hills	https://peakperformancemartialarts.com/	Cedar Park, TX (Austin area school)
+OK	Peak Performance Decatur Brazilian Jiu-Jitsu	TX	Decatur	https://www.peakdecatur.com/	101 US 81 BUS, Decatur TX
+WRONG_CITY	Peak Performance MMA	NY	Yonkers	https://peakperformancemma.com/	Keller, Texas - different state entirely
+OK	Pedigo Submission Fighting Los Angeles	CA	Hawthorne	https://www.psflosangeles.com/	12958 Hawthorne Blvd, Hawthorne matches exactly
+OK	Performance Jiu-Jitsu Academy	NJ	Fair Lawn	https://armlock.com	23-12 Broadway, Fair Lawn NJ
+OK	Peterec's Kombat Center	BC	Victoria	https://peterecskickboxing.com	Downtown Victoria; grappling and BJJ offered
+OK	Phil Clark's Martial Arts & Relson Gracie Jiu-Jitsu Of KY	KY	Ashland	https://ashlandtaekwondo.com/	601 28th Street, Ashland KY matches
+OK	Philadelphia Jiu-Jitsu	PA	Philadelphia	https://www.instagram.com/philadelphiajiujitsu/	Instagram live: 1760 Barbara St Philadelphia
+SUSPECT	Phoenix Fitness & Martial Arts	VA	Henrico	https://phoenixfma.com/	Fitness focus; no grappling programs listed anywhere
+OK	Phoenix Martial Arts Club	AB	St. Albert	https://phoenixmartialartsclub.ca	Home of Limitless BJJ; St. Albert listed
+OK	Phoenix Rising Martial Arts	AR	Mountain Home	https://www.phoenixrisingma.com/	1226 Commerce Dr, Mountain Home AR
+AGGREGATOR	Pictou County Jiu Jitsu	NS	New Glasgow	https://www.tapology.com/gyms/8759-pictou-county-jiu-jitsu	Tapology third-party directory gym listing page
+OK	Pinnacle Martial Arts Academy	LA	Monroe	https://pinnacle-ma.com/	2901 Desoto Street, Monroe LA matches
+SUSPECT	Pinnacle Martial Arts Academy Richmond	BC	Richmond	https://pinnaclemma.ca	Homepage body empty; contact page 404s
+OK	Pirate BJJ	AL	Madison	https://www.piratebjj.com/	312 Palmer Rd, Madison AL listed
+OK	Plateau BJJ	QC	Montreal	https://plateaubjj.com	BJJ in Plateau Mont-Royal, Montreal
+OK	Platypus BJJ	OK	Bartlesville	https://platypusbjj.wordpress.com/	WordPress site names Bartlesville; BJJ classes
+OK	Playground Jiu Jitsu	RI	East Providence	https://playgroundjiujitsu.com	3350 Pawtucket Ave, East Providence matches
+OK	Pocatello Jiu Jitsu	ID	Pocatello	https://pocatellobjj.com	777 Yellowstone Ave, Pocatello matches exactly
+OK	Ponte Vedra Brazilian Jiu Jitsu	FL	Ponte Vedra Beach	https://pvbjj.com/	880 A1A North, Ponte Vedra Beach
+OK	Port City BJJ	ME	Kittery	https://portcitybjj.com	280 Route 1, Kittery Maine matches
+OK	Port Huron Jiu Jitsu Academy	MI	Port Huron	https://www.porthuronbjj.com/	Maintenance page; 924 Military St, Port Huron
+SUSPECT	Portela Brazilian Jiu-Jitsu	CO	Aurora	https://www.portelabjjaurora.com	Site not found; domain unpublished placeholder page
+OK	Porters Lake Brazilian Jiujitsu	NS	Porters Lake	https://www.facebook.com/averageday	Facebook live: Porters Lake BJJ, Trunk 7
+OK	Positive Balance Brazilian Jiu Jitsu	FL	Tallahassee	https://positivebalancegrappling.com/	1533 South Monroe, Tallahassee FL listed
+OK	Potter Combat Academy	WY	Cody	https://pottercombat.com	1713 17th Street, Cody WY matches
+OK	Power Half Wrestling and Mixed Martial Arts	NJ	Cookstown	https://powerhalfwrestling.com/	39 Wrightstown Cookstown Rd, Cookstown matches
+OK	Power Martial Arts & Fitness	NV	Las Vegas	https://www.powermartialarts.vegas	2466 E Desert Inn Rd, Las Vegas
+OK	Power3 Academy	BC	Burnaby	https://power3academy.com	7738 Edmonds Street, Burnaby; Ju Jitsu

@@ -1,0 +1,40 @@
+{%- comment -%}
+  TJJM gym-website overrides, file 5. Same format as files 1-4: ~Name|URL~
+  An EMPTY value blanks the link. Only add an entry that CHANGES something.
+  Rendered after file 4 by BOTH sections. Gate C3 forbids a name in two files.
+
+  16 Aug 2026 - BATCH 37. FALSE-POSITIVE RESTORATIONS, moved out of tjjm-gym-websites.liquid.
+
+  131 records blanked for a dead-or-unreachable reason were re-tested on BOTH the apex and the
+  www form, then opened and read. 21 were live schools we had wrongly un-linked - a 16%
+  false-positive rate. Eleven of them lived in file 1, which had only 544 bytes of headroom, so
+  their blanking rows were DELETED there and rewritten here with the working URL. Gate C3 stays
+  intact: each of those names now appears in exactly one override file, this one.
+
+  ROOT CAUSE: every screen tested the hostname EXACTLY AS STORED. A domain can be NXDOMAIN on
+  www.foo.com while foo.com is alive and serving the school. Four of the first eight false
+  positives were exactly that. NEW RULE: a domain is dead only if BOTH forms fail.
+
+  SECOND FINDING, worse: the fetcher used by most screens serves STALE CACHED page bodies, not
+  just cached copies of NXDOMAIN domains. Six domains returned live-looking school content to a
+  fetch that a real browser showed were dead. Any verdict resting on a fetched body rather than
+  a browser load is softer evidence than it looked. Detail in
+  CRITICAL-false-positive-removals.md.
+
+  Where a record had BOTH an alt-form hit and a batch-36 search recovery, the RECOVERY URL WON:
+  it is name-matched and city-confirmed. Hence ONE HEART DOJO -> oneheartdojo.net rather than
+  eldoradomartialarts.com; Martial Arts America Russellville -> russellvillemaa.com rather than
+  a taekwondo domain whose body would not load; Port City Combat Sports -> its Fairhope page
+  rather than the Mobile AL address the alt-form check landed on.
+{%- endcomment -%}
+~10th Planet Indianapolis at Circle City Martial Arts & Fitness|https://ccmaf.com~
+~Bay Jiu-Jitsu / BJJ Berkeley CA 94704|https://www.baycombat.com/~
+~GB Ellijay|https://gbellijay.com/~
+~GB Oro Valley|https://graciebarraorovalley.com/~
+~Gracie Barra Boise|https://gbboise.com/~
+~Gracie Barra Richmond Steveston|https://graciebarra.com/richmond-steveston-bc/~
+~Highland Fight Systems|https://hfsmma.com~
+~Martial Arts America Russellville|https://www.russellvillemaa.com/~
+~OC Carlson Gracie Jiu Jitsu|https://www.carlsongracieoc.com/~
+~ONE HEART DOJO|https://oneheartdojo.net/~
+~Port City Combat Sports|https://portcitycombatsports.com/port-city-combat-sports-fairhope/~
