@@ -1,0 +1,31 @@
+action	name	region	new_url	reason
+BLANK	Elite Martial Arts Center	PA		DEAD - Facebook says school permanently closed
+BLANK	Proboxing, MMA Villa Rica	GA		AGGREGATOR - Google business.site page
+BLANK	Quakertown Academy of MMA & Fitness	PA		AGGREGATOR - Mindbody booking listing
+BLANK	RDA Fitness & MMA	TX		AGGREGATOR - Google business.site page
+BLANK	Relic Jiu Jitsu	FL		AGGREGATOR - MyStudio booking platform
+BLANK	Ricardo Almeida Brazilian Jiu-Jitsu	NJ		AGGREGATOR - Acuity Scheduling booking page
+BLANK	Ronin Jiu-Jitsu Las Vegas	NV		WRONG_CITY - site serves Tualatin OR
+BLANK	Ryan Brazilian Jiu Jitsu	OK		WRONG_CITY - now Evolution JJ, Burlington WI
+BLANK	Serra BJJ Academy	NY		WRONG_CITY - Huntington NY, no Levittown location
+BLANK	Real Fighters Gym, LLC	KY		STRIKING_ONLY - kickboxing and Muay Thai only
+BLANK	Revolution Modern Martial Arts	NC		STRIKING_ONLY - karate programs only
+BLANK	Rey Diogo Brazilian Jiu Jitsu	CA		DEAD - WordPress critical error, both host forms
+BLANK	Ringtime Fitness	CA		STRIKING_ONLY - boxing only, no grappling
+BLANK	Roanoke Judo & Jiu Jitsu Club	VA		DEAD - Instagram account removed
+BLANK	Roanoke Jujutsu Club	VA		DEAD - Facebook page deleted
+BLANK	Rocket City MMA	AL		HIJACK - redirects to Indonesian gambling site
+BLANK	Rodriguez Brazilian Jiu Jitsu	IL		DEAD - business.site 404
+BLANK	Rogue 22 BJJ	LA		DEAD - Bookeo booking page 404
+BLANK	Rogue Jiu Jitsu Studio	TX		DEAD - Wix domain not connected
+BLANK	San Pedro Fight Club/ Ribeiro Jiu-Jitsu San Pedro	CA		DEAD - Facebook page deleted
+BLANK	Sardinha BJJ Cape Cod	MA		DEAD - Wix domain not connected
+BLANK	School of Combative Arts	OH		STRIKING_ONLY - Muay Thai, Silat, Kali only
+REPOINT	Ric Centron Brazilian Jiu Jitsu Academy	AZ	https://generationalgrapplingclub.com/	REPOINT - rebranded Generational Grappling Club, Chandler AZ
+REPOINT	START Jiu Jitsu Academy	FL	https://startjiujitsu.com/	REPOINT - deep link 404, root works
+REPOINT	Sheridan Brazillian Jiu Jitsu	NJ	https://www.sheridanbjj.com/	REPOINT - deep link 404, root works, Vauxhall NJ
+REPOINT	Black Diamond Brazilian Jiu-Jitsu	NV	https://blackdiamondbjj.com/	REPOINT - /schedule 404, root works, Reno NV
+REPOINT	Cultr Fight Club	NJ	https://www.cultrfightclub.com/	REPOINT - deep link 404, root works, Jersey City NJ
+REPOINT	Ethos Martial Arts	AZ	https://ethosmartialartsaz.com/	REPOINT - /about-us 404, root works, Queen Creek AZ
+REPOINT	Evolution X Martial Arts and Fitness	GA	https://evolutionxma.com/	REPOINT - deep link 404, root works, Marietta GA
+REPOINT	Impact Jiu Jitsu at Crossfit Wilsonville	OR	https://www.crossfitwilsonville.com/impact-jiu-jitsu	REPOINT - old path 404, JJ page moved

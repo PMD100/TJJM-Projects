@@ -1,0 +1,354 @@
+{%- comment -%}
+  TJJM gym-website overrides, file 6. Same format as files 1-5: ~Name|URL~
+  An EMPTY value blanks the link. Only add an entry that CHANGES something.
+  Rendered last, after file 5, by BOTH sections. Gate C3 forbids a name in two files.
+
+  16 Aug 2026 - BATCH 38. 25 links restored, moved here out of tjjm-gym-websites-3.liquid,
+  which had no headroom left.
+
+  TWO SOURCES, both from auditing our own work rather than the web's:
+
+  1. RECOVERIES (batch 36). 240 records we had blanked were researched to find where the school
+     lives now; 46 were found, a 19% hit rate. Every URL was opened and its city or street
+     address matched to the record before it was accepted.
+
+  2. FALSE-POSITIVE RESTORATIONS (batch 38). 212 removals that had never been re-tested - the
+     parked, hijacked and wrong-business verdicts - were re-resolved on BOTH host forms and
+     RE-READ IN A REAL BROWSER rather than the fetcher. 16 of the 212 were live schools we had
+     wrongly un-linked, a 7.5% error rate. Across the whole audit programme 37 of 343 removals
+     tested have turned out to be wrong - 10.8%.
+
+  WHY THE RE-READ USED A BROWSER: the fetch tool serves STALE CACHED page bodies. It has returned
+  live-looking school content for domains a browser showed were dead, and spam for a domain a
+  browser showed was a placeholder. Any verdict resting on a fetched body is weaker than it
+  looks. Detail in CRITICAL-false-positive-removals.md.
+
+  Notable: Miller's Martial Arts Academy and Cascade Jiu-Jitsu were removed as HIJACK for carrying
+  injected pharma spam. Both are the schools' own live sites and the spam is gone. Odyssey MMA was
+  removed as wrong-location; the record and the site both say South Amboy NJ.
+{%- endcomment -%}
+~Samuel Puccio Brazilian Jiu-Jitsu|https://www.samuelpucciobjj.com/~
+~Knockout Fitness|https://knockout-fitness.com/arizona/~
+~Union Combat Academy|https://unioncombatacademy.com/~
+~SCHOOL Brazilian Jiu-Jitsu Arcadia|https://schoolbjj.com/~
+~Madera Martial Arts|https://www.maderamartialarts.com/~
+~Unlimited MMA|https://smashsunnyvale.com/locations/milpitas/~
+~Kajupit MMA & Fitness|https://www.harperskajupit.com/~
+~Hybrid Nation Martial Arts|https://hybridnationmma.wixsite.com/hybrid-nation-mma~
+~Zenith Authentic Brazilian Jiu-Jitsu|https://authenticbjjzenith.com/~
+~Fit Club BJJ|https://www.fitclubbjj.com/~
+~Stamford Judo|https://www.stamfordjudo.com/~
+~GB Clermont|https://www.bjjclermont.com/~
+~Combat Athletix|https://smileyacademyjax.com/~
+~Gracie Barra Blue Ridge|https://www.facebook.com/GBBlueridge~
+~KnuckleUp MMA & Fitness|https://www.knuckleupacademy.com/~
+~Active Martial Arts|https://herogonzales.com/~
+~Black Flag Jiu-Jitsu Club|https://blackflagjiujitsuclub.com/~
+~Combat CFMA - Functional Martial Arts|https://combatcfma.com/~
+~Elementum Jiu-jitsu|https://elementumjiujitsu.com/~
+~Gracie Jiu-Jitsu Altamonte Springs|https://graciejjcfl.com/~
+~Gracie Jiu-Jitsu Balance Academy|https://graciebalance.com/~
+~Hayastan MMA|https://www.gokor.com/~
+~School of Combat Arts|https://www.schoolofcombatarts.com/~
+~Ultimate MMA Training Center|http://www.ultimatemmact.com/~
+~Wolfpack Brazilian Jiu Jitsu - Martial Arts|https://wolfpackbjj.com/~
+{%- comment -%}
+  16 Aug 2026 - BATCH 41. LIVE HIJACKS. Two new blanking rows. Neither name had a row in
+  any of the six override files, so gate C3 is clean and they are added here rather than
+  edited elsewhere.
+
+  BOTH WERE OPENED AND READ IN A REAL CHROME BROWSER, NOT FETCHED. That distinction is the
+  whole point: the fetch tool serves stale cached page bodies and has returned live-looking
+  school content for domains a browser showed were dead or hijacked. These are live now.
+
+  What each served when read on 16 Aug 2026:
+    10th Planet North Dallas   slotdemoonline.com, Indonesian slot gambling site
+    Applied MMA Austin         Chinese film piracy portal
+
+  A third link confirmed in the same browser pass, Baker's MMA & Fitness LLC (Fixbet
+  Turkiye, a Turkish online casino), already had a row in tjjm-gym-websites-3.liquid and
+  was blanked there in place.
+
+  Value is EMPTY, which blanks the link. Each school stays listed with its name, city and
+  map link; only the URL is removed. Reversible by deleting the row.
+{%- endcomment -%}
+~10th Planet North Dallas|~
+~Applied MMA Austin|~
+{%- comment -%}
+  16 Aug 2026 - BATCH 42. Identity pass, the first content check ever run on these links.
+  32 removals; every verdict confirmed by loading the page in a REAL CHROME BROWSER, not by
+  the fetch tool. 10 DEAD, 8 AGGREGATOR, 7 STRIKING_ONLY, 5 WRONG_CITY, 1 PARKED,
+  1 WRONG_BUSINESS. AGGREGATOR = booking platforms, Google business.site pages and brand
+  homepages; by the owner's policy a school's own Facebook or Instagram page IS an acceptable
+  link and those were kept.
+  Added here: 30 new blanking rows, below. Each was checked against all six override files
+  with the comment blocks stripped and appeared in NONE of them, so gate C3 is clean and they
+  are added here rather than edited elsewhere. The other 2 of the 32 already had rows and were
+  blanked in place: Atlanta Budokan in file 3, Bellmore Kickboxing Academy in file 1.
+  An empty value blanks the link only - each school keeps its name, city and map link, and the
+  change is reversible by deleting the row.
+{%- endcomment -%}
+~10th Planet Miami|~
+~10th Planet Palm Beach at AOP MMA (West Palm Beach)|~
+~ATA Martial Arts - Bentonville|~
+~ATA Martial Arts Jonesboro|~
+~ATL Fitness 24/7 Woodstock|~
+~Abrecea BJJ|~
+~Absolute Self Defense Academy|~
+~Al Garza's Premier Martial Arts|~
+~All-American MMA Academy|~
+~American Grappling|~
+~American Jiu Jitsu|~
+~American Top Team Davie|~
+~American Top Team West Palm Beach|~
+~Anta's Fitness & Self Defense|~
+~Asbury Park Jiu Jitsu|~
+~Ascend Jiu-Jitsu|~
+~Atlanta Kick|~
+~B Team Jiu Jitsu|~
+~BJJ Revolution Park City (Malmberg Jiu-Jitsu)|~
+~BJJ Revolution Team - Baton Rouge|~
+~Bagwell Academy of Martial Arts|~
+~Becerra Judo & Jiu-Jitsu Club / Jiu-Jitsu Garland TX 75041|~
+~Believe MMA|~
+~Bitterroot Warrior Arts Corvallis|~
+~BlackSmith Jiu Jitsu Florida|~
+~Boa Brazilian Jiu Jitsu|~
+~Bobcat MMA|~
+~Braga Jiu-Jitsu|~
+~Brazil 021 San Antonio|~
+~Buckhead Fight Club|~
+{%- comment -%}
+  16 Aug 2026 - BATCH 44. Identity pass, the first content check ever run on these links.
+  40 removals: 19 AGGREGATOR, 9 DEAD, 4 STRIKING_ONLY, 3 PARKED, 2 WRONG_BUSINESS,
+  2 WRONG_CITY, 1 HIJACK.
+
+  EVERY DEAD, PARKED, HIJACK AND STRIKING_ONLY VERDICT HERE WAS CONFIRMED BY LOADING THE
+  PAGE IN A REAL CHROME BROWSER, NOT BY THE FETCH TOOL. That distinction keeps earning its
+  keep: of the 49 rows a fetch pass had flagged, 31 turned out to be healthy and were left
+  alone untouched. A fetch verdict alone is not evidence about a school.
+
+  OWNER'S POLICY, applied throughout: a school's own Facebook or Instagram page IS an
+  acceptable link and was kept. AGGREGATOR here means booking platforms (Mindbody, Zen
+  Planner, Gymdesk, Square, MyStudio, LeadConnector), Google business.site pages, and
+  brand national homepages standing in for a location page.
+
+  Added here: 38 new blanking rows, below. Each was checked against all six override files
+  with the comment blocks stripped and appeared in NONE of them, so gate C3 is clean and
+  they are added here rather than edited elsewhere. The other 2 of the 40 already had rows
+  and were blanked in place in tjjm-gym-websites-3.liquid: Ground Zero Roaring Fork Valley
+  BJJ and Gym-Jitsu Mobile Martial Arts.
+
+  An empty value blanks the link only - each school keeps its name, city and map link, and
+  the change is reversible by deleting the row.
+{%- endcomment -%}
+~Cocoa Beach Fight Club BJJ & Fitness|~
+~Combative Fighting Systems Brazilian Jiu Jitsu|~
+~Coosa Jiu Jitsu & Wellness|~
+~Core Fitness & Martial Arts|~
+~Counter Point Martial Arts|~
+~Cyclone Brazilian Jiu Jitsu|~
+~David Kaplan Martial Arts|~
+~Deep Blue Brazilian Jiu Jitsu|~
+~Double Five Jiu Jitsu|~
+~DualForces 001 Brazilian Jiu-Jitsu|~
+~Elite Jiu-Jitsu Academy|~
+~Emerald Coast Jiu Jitsu (Beach Jiu Jitsu)|~
+~Evolution Jiu Jitsu|~
+~Fight Fitness Center (FFC)|~
+~Fight Sports Miami|~
+~Forever Driven Martial Arts|~
+~Fortress Fitness and MMA|~
+~Frankfort Martial Arts|~
+~FullTilt Performance Center|~
+~FusBoxe Sambo 1 Martial Arts|~
+~GB Boynton Beach|~
+~GB Coral Springs|~
+~GB Fort Bend|~
+~GB Sorrento Valley|~
+~GB Whittier|~
+~Gladiator Martial Arts|~
+~Gracie Allegiance Jiu Jitsu/ APrx Fitness|~
+~Gracie Barra London|~
+~Gracie Barra Orem|~
+~Gracie Barra Toronto East|~
+~Gracie Barra Trinity - Brazilian Jiu-Jitsu & Self Defense|~
+~Gracie Nevada|~
+~Gracie New Jersey Academy|~
+~Gracie PAC MMA|~
+~Gracie United - Team Jucāo Chalmette|~
+~Gracie United Team Jucao-Leesville|~
+~Hooligans Boxing & MMA|~
+~Hub City MMA & BJJ|~
+{%- comment -%}
+  16 Aug 2026 - BATCH 45. Identity pass, groups 7-10, plus the THIRD browser re-check of
+  rows a fetch pass had flagged.
+
+  17 removals: 9 AGGREGATOR, 3 WRONG_BUSINESS, 2 DEAD, 1 HIJACK, 1 STRIKING_ONLY,
+  1 WRONG_CITY.
+
+  EVERY DEAD, HIJACK, WRONG_BUSINESS AND STRIKING_ONLY VERDICT HERE WAS CONFIRMED BY
+  LOADING THE PAGE IN A REAL CHROME BROWSER, NOT BY THE FETCH TOOL. Across the three
+  rounds of re-checking, 50 of the 98 rows a fetch pass had flagged turned out to be
+  healthy and were left alone untouched. A fetch verdict alone is still not evidence
+  about a school.
+
+  TWO FINDINGS WORTH KEEPING:
+    Hess' Oriental Martial Arts   the link was serving a Chinese gambling/pharma site,
+                                  no martial arts content at all. Blanked below.
+    Gracie Barra Trinity          (batch 44) was NOT a squatted domain: it is the
+                                  school's own real BJJ site, carrying INJECTED betting
+                                  and adult links. A live, correct school site can still
+                                  be compromised - read the page, not just the domain.
+
+  TWO ROWS DELIBERATELY NOT BLANKED - the RECORD's city is wrong, not the link:
+    Kioto Brazilian Jiu Jitsu   record says New York; the school is in Oakdale NY
+    Long Island MMA             record says Lake Grove; the school is in West Babylon
+  Both were already flagged in the batch-7 NEW YORK import notes in
+  tjjm-gym-websites.liquid. City is NOT overridable by these files - those two need the
+  data snippets edited, and are carried forward.
+
+  Added here: 16 new blanking rows, below. Each was checked against all six override
+  files with the comment blocks stripped and appeared in NONE of them, so gate C3 is
+  clean and they are added here rather than edited elsewhere. The 17th of the 17,
+  Infinite MMA Academy (AGGREGATOR, a PerfectMind booking page), already had a row in
+  tjjm-gym-websites-2.liquid and was blanked there in place.
+
+  An empty value blanks the link only - each school keeps its name, city and map link,
+  and the change is reversible by deleting the row.
+{%- endcomment -%}
+~Gracie United Team Jucao Plaquemine|~
+~Groundwork BJJ|~
+~Guelph BJJ|~
+~Hamilton Brazilian Jiu-Jitsu|~
+~Hess' Oriental Martial Arts|~
+~Honey Badger Training Facility|~
+~IMB Academy CT|~
+~Inferno MMA|~
+~Infinity Martial Arts of Bolivar|~
+~Iron Sharpens Iron Brazilian Jiu Jitsu Academy|~
+~Jabs Gym Eastern Market|~
+~Jacksonville Gracie Jiu-Jitsu|~
+~K Jutsu Do Fights System|~
+~Kingman Riot MMA LLC|~
+~Lion Heart Jiu-Jitsu Academy|~
+~MXT BJJ Miramichi|~
+{%- comment -%}
+  16 Aug 2026 - BATCH 46. Identity pass, groups 11-12, plus the FOURTH browser re-check of
+  rows a fetch pass had flagged.
+
+  18 removals: 6 AGGREGATOR, 3 DEAD, 3 PARKED, 3 WRONG_CITY, 2 HIJACK, 1 STRIKING_ONLY.
+
+  EVERY DEAD, PARKED, HIJACK, WRONG_CITY AND STRIKING_ONLY VERDICT HERE WAS CONFIRMED BY
+  LOADING THE PAGE IN A REAL CHROME BROWSER, NOT BY THE FETCH TOOL.
+
+  THE ONE TO REMEMBER - Kaiten Mixed Martial Arts Academy. This is the NINTH injected-spam
+  case and the most important one we have found. Its page reads 100% CLEAN in innerText:
+  a body-text screen, ours or anyone's, sees a normal martial arts school and passes it.
+  The spam is a position:absolute; visibility:hidden block of POLISH CASINO LINKS, and the
+  pages it links are hosted ON THE SCHOOL'S OWN DOMAIN. It was found ONLY by scanning raw
+  outerHTML and computed styles. A body-text screen CANNOT SEE THIS CLASS OF COMPROMISE.
+  FUTURE SCREENS MUST CHECK HIDDEN ELEMENTS - outerHTML plus computed style - not innerText.
+
+  Impact Martial Arts Harrison redirects to HARUM77, an Indonesian slot gambling site.
+
+  The three WRONG_CITY are MATERIALLY DISTANT, not adjacent suburbs:
+    Peak Performance MMA   record Yonkers NY,             site serves Keller TEXAS
+    NovaGym                record Montreal,               site Quebec City, ~250 km
+    Peak Performance       record North Richland Hills TX, site Cedar Park, ~200 mi
+
+  NOTE: Peak Performance and Peak Performance MMA are TWO DIFFERENT RECORDS. They were
+  matched on the exact full name; a prefix match would blank the wrong one.
+
+  Added here: 16 new blanking rows, below. Each was checked against all six override files
+  with the comment blocks stripped and appeared in NONE of them, so gate C3 is clean and
+  they are added here rather than edited elsewhere. The other 2 of the 18 already had rows
+  and were blanked in place: Kings Combat in tjjm-gym-websites.liquid and Orient Jiu Jitsu
+  in tjjm-gym-websites-3.liquid.
+
+  An empty value blanks the link only - each school keeps its name, city and map link, and
+  the change is reversible by deleting the row.
+{%- endcomment -%}
+~Impact Martial Arts Harrison|~
+~Inspire Brazilian Jiu Jitsu Academy|~
+~Iron Forge Jiu Jitsu|~
+~JREAM Academy|~
+~JW Brazilian Jiu-Jitsu|~
+~Kaiten Mixed Martial Arts Academy|~
+~Kutting Edge Jiu-Jitsu Academy|~
+~Lopez Martial Arts|~
+~Martin Academy of Martial Arts|~
+~Monsuta Jiu-Jitsu Academy|~
+~Movement Fitness - Watson|~
+~Nick Catone MMA & Fitness|~
+~NovaGym|~
+~Peak Performance|~
+~Peak Performance MMA|~
+~Pictou County Jiu Jitsu|~
+{%- comment -%}
+  16 Aug 2026 - BATCH 47. Identity pass, plus the FIFTH browser re-check of rows a fetch
+  pass had flagged.
+
+  16 removals: 7 DEAD, 3 PARKED, 3 STRIKING_ONLY, 3 WRONG_BUSINESS.
+
+  EVERY VERDICT HERE WAS CONFIRMED BY LOADING THE PAGE IN A REAL CHROME BROWSER, NOT BY
+  THE FETCH TOOL.
+
+  THE HIDDEN-SPAM SCREEN - THE HEADLINE, AND IT IS A NEGATIVE RESULT. Batch 46 found
+  Kaiten Mixed Martial Arts Academy hiding Polish casino links in a
+  position:absolute; visibility:hidden block that reads 100% CLEAN in innerText. So 200
+  links ALREADY MARKED OK were re-scanned in a browser using raw outerHTML and computed
+  styles rather than rendered text, hunting that same injected-spam class.
+
+  ZERO injected sites were found. Every keyword hit was a FALSE POSITIVE with an
+  identifiable generator:
+    - Wix 'slots=' attributes and 'hiddenSlots'
+    - crypto.randomUUID() templates containing 'xxxx'
+    - GoDaddy data-size="xxxlarge"
+    - 'Time slots' in schedule markup
+    - the word 'specialist', which contains 'cialis'
+
+  THIS DOES NOT RULE OUT USER-AGENT CLOAKING, where spam is served only to search engine
+  crawlers and never to a browser. That is a different attack and this screen cannot see
+  it. Testing it needs a fetcher with UA control.
+
+  BROWSER RELIABILITY WARNING - READ THIS BEFORE TRUSTING ANY BROWSER VERDICT. On this
+  Chrome profile roughly A THIRD OF NAVIGATIONS LANDED ON A DIFFERENT HOST than the one
+  requested. The wrong host was always a healthy grappling gym and never a spammy one, so
+  THE BIAS RUNS TOWARD FALSE CLEAN RESULTS: the failure mode is silently passing a bad
+  link, not blanking a good one.
+  MITIGATION, now mandatory: every verdict must be taken from a probe that returns
+  location.hostname FROM INSIDE THE SAME EVALUATION as the content read, and any read
+  whose hostname does not match the requested host must be DISCARDED. One agent traced
+  the trigger to the setTimeout sleep inside the probe; reading SYNCHRONOUSLY right after
+  navigate was materially more reliable.
+
+  TWO RECORDS WERE LEFT ALONE AS UNSURE, NOT REMOVED:
+    North Legion Académie    members-only login portal; nothing readable behind it, and a
+                             login wall is not evidence the school is gone
+    Athens Fitness and MMA   the word 'poker' appears in the owner's bio prose, with no
+                             gambling links anywhere on the site
+
+  Added here: 16 new blanking rows, below. Each was checked against all six override
+  files with the comment blocks stripped and appeared in NONE of them, so gate C3 is
+  clean and they are added here rather than edited elsewhere.
+
+  An empty value blanks the link only - each school keeps its name, city and map link,
+  and the change is reversible by deleting the row.
+{%- endcomment -%}
+~Meltons Jiujitsu/MMA|~
+~Method BJJ|~
+~Mobile MMA Club|~
+~Montague BJJ|~
+~Murdoc's Brazilian Jiu-Jitsu (MWBJJ) & Self Defense Academy (GD JJ Affiliate)|~
+~NWC Martial Arts Academy|~
+~Nemesis Jiu Jitsu|~
+~New Braunfels BJJ|~
+~Northeast Kingdom BJJ|~
+~ONEPUNCH Boxing and MMA Jujitsu Gym|~
+~Ohana Jiu-Jitsu|~
+~Ohio Academy of Martial Arts|~
+~Old School Jiu Jitsu|~
+~Parallel Jiu Jitsu|~
+~Parma Family Martial Arts Center|~
+~Portela Brazilian Jiu-Jitsu|~

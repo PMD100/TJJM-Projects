@@ -1,0 +1,412 @@
+{%- comment -%}
+  TJJM website overrides — one row per gym: ~Exact Gym Name|URL~
+  Same idiom as tjjm-gym-addresses. Read by sections/tjjm-state-directory.liquid, which
+  probes for '~' + name + '|' and takes everything up to the next '~'. An override WINS over
+  the record's own "w" field, so this file can correct records in snippets/tjjm-gyms-data
+  (the 113 KB legacy blob) without rewriting it.
+
+  An EMPTY value blanks the link entirely — use it when a record carries a URL that provably
+  belongs to a different business.
+
+  RULES
+  - The name must match EXACTLY, including punctuation and case.
+  - Names must not contain '|' or '~'.
+  - Only add a URL you have actually opened and confirmed is that location's page.
+  - ONLY ADD AN ENTRY THAT CHANGES SOMETHING. Do not restate a URL the record already has:
+    this file then becomes a second source of truth that silently pins the old value if the
+    record is later corrected. Diff against the live data before adding.
+
+  Created 5 Aug 2026 by the brand-cluster sister-site pass.
+
+  WHY THESE ARE FEWER THAN THE CLUSTER SUGGESTED: the collision audit normalises URLs to
+  DOMAINS, so tsk.com/locations/nj/hoboken/ and tsk.com/ both collapse to "tsk.com" and look
+  identical. That made whole brands appear to point at their homepage when in fact only one
+  or two records did. All 17 Tiger Schulmann's NJ records already had correct per-location
+  URLs and need nothing here. Check raw "w" values, not normalised domains.
+{%- endcomment -%}
+~Gracie Barra Avondale|https://graciebarra.com/avondale-az/~
+~Gracie Barra Peoria|https://graciebarrapeoria.com/~
+~Easton Training Center|https://eastonbjj.com/denver/~
+~Easton Training Center - Boulder|https://eastonbjj.com/boulder/~
+~Easton Training Center Littleton|https://eastonbjj.com/littleton/~
+~Easton Brazilian Jiu Jitsu Thornton|https://eastonbjj.com/thornton/~
+~Fabin Rosa BJJ Altamonte Springs|https://bjjorlando.com/altamonte~
+~Fabin Rosa Brazilian Jiu Jitsu Academy|https://bjjorlando.com/orlando~
+~Revolution Dojo|https://www.revolutiondojo.com/revolution-dojo-houston.html~
+~Revolution Dojo Cypress|https://www.revolutiondojo.com/revolution-dojo-cypress.html~
+~Unconventional Performance & Training|~
+{%- comment -%}
+  Added 6 Aug 2026 by the backlog 1b/1c/2 verification pass. Both verified by OPENING the page
+  body, not by search results or <title> (RULES-tjjm.md §4).
+
+  Gracie Jiu - Jitsu Summerlin — record carried http://GracieLasVegas.com. That site is the
+  Charleston + Henderson school and its body mentions Summerlin ZERO times. The Summerlin school
+  is live and its own site states 5375 S Fort Apache Rd Unit 104, Las Vegas NV 89148, which is
+  exactly the address the record already stores. Wrong-entity link, not a dead gym. This also
+  clears one of the 3 mixed-case hosts (backlog 5b).
+
+  American Top Team Aventura — record carried http://www.attaventura.com, which now serves a
+  GoDaddy "available at auction" parking lander. The school is live as ATT Aventura/NMB. Yelp
+  flags the old listing CLOSED; the live site body contradicts it (RULES §4, aggregators).
+  NOTE: this record's city is still wrong (stored "Miami Beach"; 16215 Biscayne Blvd is North
+  Miami Beach / Aventura). City is NOT overridable — left for a snippet rewrite.
+{%- endcomment -%}
+~Gracie Jiu - Jitsu Summerlin|https://graciejiujitsusummerlin.com/~
+~American Top Team Aventura|https://www.attaventuranmb.com/~
+{%- comment -%}
+  Added 5 Aug 2026 by the NEW YORK import, step 5/7. Every one verified by OPENING the
+  school's page and reading the BODY - never from a <title>, a meta description or a
+  directory aggregator (RULES-tjjm.md section 4). Full rationale and the evidence quote for
+  each row is in snippets/tjjm-statedir-notes-ny.
+
+  All 15 rows CHANGE something: each was diffed against the raw stored w from the audit
+  dump before being added, and the build asserts that no row restates its record's
+  existing value.
+
+  WATCH THIS ONE. 'Jungle Gym Martial Arts' is a name the brand also uses for its Bronx
+  location. An override matches on NAME ALONE, so importing the Bronx record under the
+  same name would have silently given it the New Rochelle URL. The Bronx record is
+  therefore imported as 'Jungle Gym Martial Arts - Bronx'. Do not undo that rename
+  without removing this row.
+
+  NOT FIXED HERE, because no override reaches the field (item 0c): Brian Beury is
+  misspelt (Beaury) and is in Watervliet not Albany; Clobber is in Delmar not Cohoes;
+  Jon Calestine is in Brooklyn not New York; Serra is in Huntington not Levittown;
+  Kioto is in Oakdale not New York; Long Island MMA is in West Babylon not Lake Grove;
+  Haven Jiu Jitsu is in Baldwinsville not Syracuse.
+{%- endcomment -%}
+~Bellmore Kickboxing Academy|~
+~Binghamton Brazilian Jiu Jitsu|https://broomecountymartialarts.com/~
+~Brian Beury Jiu Jitsu|https://brianbeauryjiujitsu.com/~
+~Buffalo Brazilian Jiu Jitsu Academy|https://www.buffalobjj.com/~
+~Clobber Jiu Jitsu Academy|https://clobberjiujitsu.com/~
+~Ithaca BJJ|https://www.ithacabjjschool.com/~
+~Jiu Livre NYC|https://jiulivre.com/~
+~Jon Calestine BJJ|https://calestinejj.com/~
+~Jungle Gym Martial Arts|https://junglegymnewroc.com/~
+~Kings Combat|~
+~Modern Martial Arts NYC|https://www.mmanewyorkcity.com/~
+~Next Evolution Martial Arts|https://nextevolutionmartialarts.com/~
+~Paxibellum|https://paxibellum.com/~
+~Serra BJJ Academy|https://serrabjjacademy.com/~
+~The Dojo NYC|https://thedojonyc.com/~
+{%- comment -%}
+  6 Aug 2026 - WRONG-ENTITY LINK PURGE, 9 records across FL GA MA NV OH OR PA.
+
+  Every one of these domains RESOLVES AND SERVES A WORKING PAGE, so no uptime check,
+  status-code scan or reachability probe would ever flag them. They were found only by
+  reading the body. Each now belongs to a different business - in three cases to
+  gambling or spam operators - and the directory was sending visitors there.
+
+  The value is deliberately EMPTY, which blanks the link. The gym stays listed with its
+  name, city and map link; only the bad URL is removed. Reversible by deleting the row.
+
+  Each name was checked for uniqueness across all 4,630 records before being added: an
+  override matches on NAME ALONE, so a shared name would have blanked two records.
+  All 9 are unique. Do not add a row here without running that check.
+
+  What each domain actually served when read on 6 Aug 2026:
+    FL Robson Moura Jiu-Jitsu
+         squatted domain now hosts a japanese parenting/childcare blog
+    GA James Shook Brazilian Jiu-Jitsu
+         apex jamesshookbjj.com now hosts robocat, norwegian online casino
+    GA Redline MMA
+         chinese quartz materials company, j9 international group
+    MA Jiu-Jitsu USA Brazilian Jiu-Jitsu & Fitness Club
+         square inc payment platform homepage, not the gym
+    NV Fredson Paixao Academy
+         now Apex Credit, a credit-repair company in Canoga Park CA
+    NV Tapout Research & Development Training Center
+         redirects to tapout.com, TapouT LLC apparel brand, not a gym
+    OH Love And Chokes Jiu Jitsu Academy
+         now 216 software, cleveland mvp dev consultancy
+    OR Portland Small Circle Jujitsu
+         hijacked domain, chinese lottery/gambling spam page
+    PA Ramsey Academy of Martial Arts
+         now buffalo valley recreation authority parks site
+{%- endcomment -%}
+~Robson Moura Jiu-Jitsu|~
+~Redline MMA|~
+~Jiu-Jitsu USA Brazilian Jiu-Jitsu & Fitness Club|~
+~Fredson Paixao Academy|~
+~Tapout Research & Development Training Center|~
+~Love And Chokes Jiu Jitsu Academy|~
+~Portland Small Circle Jujitsu|~
+~Ramsey Academy of Martial Arts|~
+{%- comment -%}
+  15 Aug 2026 - BATCH 30, reported by the owner from the live site.
+
+  10th Planet Jiu Jitsu Boulder - Lafayette carried http://www.10thplanetboulder.com.
+  The domain still RESOLVES (Cloudflare, 104.21.2.199 / 172.67.129.155) so every DNS
+  screen we have run passes it cleanly - but the root URL returns a bare "404 Not Found".
+  There is no site there. Yelp lists the Boulder location as CLOSED and the nearest live
+  10th Planet affiliate in the area now trades under a different name and domain, so
+  there is no verified replacement URL to point at. Link blanked; the record stays listed
+  with its name, city and map link.
+
+  NEW FAILURE MODE, worth naming: RESOLVES-BUT-404. A domain can pass a DNS check and
+  still have nothing behind it. Neither the bulk DNS screen nor a "is this a martial arts
+  site" content screen reliably catches it. Add an HTTP status check to future sweeps.
+
+  Name checked for uniqueness across all 5,911 records and against the other two override
+  files before being added (gate C3).
+{%- endcomment -%}
+~10th Planet Jiu Jitsu Boulder - Lafayette|~
+{%- comment -%}
+  15 Aug 2026 - BATCH 31. Final four groups of the dirty-bucket screen: 490 links read,
+  49 blanked (10.0%). This is the dirtiest remaining tail of the corpus, so the rate is
+  higher than the 6.7% measured across the earlier groups - it is not a corpus-wide rate.
+
+  Every hostname was DNS-checked before the page was read, because the fetcher serves
+  cached copies of domains that no longer exist. Every verdict was taken from the page
+  BODY, never a title, meta description or search result (RULES-tjjm.md section 4).
+
+  The value is deliberately EMPTY, which blanks the link. Each gym stays listed with its
+  name, city and map link. Reversible by deleting the row.
+
+  Gates run before writing: no name contains '|' or '~'; no name appears in
+  tjjm-gym-websites-2 or -3; every name matches EXACTLY ONE published record, so no row
+  can silently blank a second gym; no duplicates within the batch. All 49 passed.
+
+  THE RESOLVES-BUT-404 CHECK ADDED THIS BATCH PAID OFF IMMEDIATELY: GB Snoqualmie Valley
+  and Gracie Barra Puyallup both pointed at graciebarra.com location pages that 404. The
+  domain resolves perfectly, so every DNS screen we have ever run passed them.
+
+  --- HIJACK ---
+  MA  Boston Brazilian Jiu-Jitsu Newton                          Redirects to Indonesian Togel SDY gambling
+  MA  Maxx Training Center Martial Arts                          GACOAN88 Indonesian slot gambling site
+  MA  New Vision Academy of Jiu Jitsu                            Indonesian slot/casino site, She777 APK
+  MA  Private Jewels Fitness                                     Redirects to PGBET Indonesian slot gambling
+  MA  Sityodtong Northshore                                      Thai slot gambling site, luxury88
+  OK  RYSE Academy of Martial Arts                               Chinese-language SEO spam/industrial portal now
+  TX  Royal Art BJJ                                              Redirects to MACAN123 Indonesian slot casino
+  VA  Comet BJJ                                                  Vietnamese Sunwin casino gambling portal
+  WA  Cascade Jiu-Jitsu                                          Injected cialis/viagra pharma spam paragraph
+  WA  Miller's Martial Arts Academy                              Injected pharma spam links in testimonials
+  WA  Ring Sports United                                         Turkish casino spam blog, Vodkabet
+  WI  Defense Combatives DEFCOM Alpha Fort Atkinson              Aviator crash-game casino affiliate spam
+  --- PARKED ---
+  IN  Team O'Connor Brazilian Jiu-Jitsu                          Sedo parking IP, blank page
+  MA  Impact School Of Martial Arts                              Redirects to BrandBucket domain-for-sale marketplace
+  MD  Hero MMA Academy                                           Bluehost "Coming Soon" placeholder page
+  MD  Maguilla's BJJ Academy                                     GoDaddy for-sale lander, $8,995
+  MD  Seigneury Dojo - Jujitsu, Judo & MMA Training              GoDaddy builder "Launching Soon" placeholder
+  OK  Gorilla Judo and BJJ Club                                  ExpiredDomains.com for-sale listing, $195
+  TX  Enzo Jiu Jitsu / BJJ McAllen TX 78501                      HugeDomains for-sale lander
+  VA  American Fight Club                                        HugeDomains for-sale lander
+  WA  CageworX Brazilian Jiu-Jitsu/Muay Thai/Fitness             GoDaddy for-sale lander $6,940
+  WA  Compass Jiu Jitsu                                          HugeDomains for-sale lander $4,295
+  WA  Progressive Jiu Jitsu MMA and Fitness                      HugeDomains for-sale lander
+  WA  United Training Center                                     CyberPanel default install placeholder page
+  --- DEAD ---
+  MA  Adas Jiu Jitsu Academy                                     No A record, DNS NODATA
+  MA  Daniel Gracie Academy Hyannis                              Google business.site discontinued, empty response
+  MA  Daniel Gracie Academy Orleans                              Google business.site discontinued, empty response
+  MA  The Fighting Arts Academy                                  NXDOMAIN, domain no longer resolves
+  MA  Way Of Life BJJ                                            Bare Wix subdomain, no page served
+  WA  GB Snoqualmie Valley                                       Location page 404s, domain resolves
+  WA  Gracie Barra Puyallup                                      Location page 404s, domain resolves
+  WA  Grpl Club                                                  Google Business Site retired, no content
+  --- WRONG_BUSINESS ---
+  IN  First Shield Defense                                       Church security/firearms training, no grappling
+  IN  Indiana Combat Grappling                                   Ryukyu Kempo karate school, no grappling
+  IN  The School of Self Defense                                 Kenpo/kung fu, Noblesville not Carmel
+  MA  FUJI Martial Arts Jiu-Jitsu & Judo Woburn                  Redirects to Wakefield academy, not Woburn
+  MA  Hard Knocks Muay Thai & Mma                                Muay Thai and fitness only, no grappling
+  MA  Mass Best Martial Arts Center                              Bare Facebook homepage, not school page
+  MA  Team Link BJJ (Brazilian Jiu Jitsu) Marlborough            Bare Facebook mobile homepage, not school
+  MD  Kang's Mixed Martial Arts                                  Taekwondo and after-school care, no grappling
+  MD  Mid Shore Martial Arts                                     Fitness Rx 24/7 gym, kids karate only
+  OK  Sandro Sampaio Brazilian Jiu-Jitsu Academy                 Redirects to Highland Jiu Jitsu, Bethany
+  OK  The Cage Training Center                                   Redirects to 99 BXNG boxing gym, Tulsa
+  VA  Disciple MMA Academy                                       All locations now Greensboro/Burlington, North Carol
+  VA  Odyssey MMA                                                Odyssey MMA of South Amboy, NJ
+  WA  EchoValor Striking & MMA                                   Veteran storytelling brand, podcast and merch
+  WI  Conquer Martial Arts                                       Sport karate school, no grappling classes
+{%- endcomment -%}
+~Boston Brazilian Jiu-Jitsu Newton|~
+~Maxx Training Center Martial Arts|~
+~New Vision Academy of Jiu Jitsu|~
+~Private Jewels Fitness|~
+~Sityodtong Northshore|~
+~RYSE Academy of Martial Arts|~
+~Royal Art BJJ|~
+~Comet BJJ|~
+~Cascade Jiu-Jitsu|https://everettbjj.com/~
+~Miller's Martial Arts Academy|https://www.mmaa.com/~
+~Ring Sports United|~
+~Defense Combatives DEFCOM Alpha Fort Atkinson|~
+~Team O'Connor Brazilian Jiu-Jitsu|~
+~Impact School Of Martial Arts|~
+~Hero MMA Academy|~
+~Maguilla's BJJ Academy|~
+~Seigneury Dojo - Jujitsu, Judo & MMA Training|~
+~Gorilla Judo and BJJ Club|~
+~Enzo Jiu Jitsu / BJJ McAllen TX 78501|~
+~American Fight Club|~
+~CageworX Brazilian Jiu-Jitsu/Muay Thai/Fitness|~
+~Compass Jiu Jitsu|~
+~Progressive Jiu Jitsu MMA and Fitness|~
+~United Training Center|~
+~Adas Jiu Jitsu Academy|~
+~Daniel Gracie Academy Hyannis|~
+~Daniel Gracie Academy Orleans|~
+~The Fighting Arts Academy|~
+~Way Of Life BJJ|~
+~GB Snoqualmie Valley|~
+~Gracie Barra Puyallup|~
+~Grpl Club|~
+~First Shield Defense|~
+~Indiana Combat Grappling|~
+~The School of Self Defense|~
+~FUJI Martial Arts Jiu-Jitsu & Judo Woburn|~
+~Hard Knocks Muay Thai & Mma|~
+~Mass Best Martial Arts Center|~
+~Team Link BJJ (Brazilian Jiu Jitsu) Marlborough|~
+~Kang's Mixed Martial Arts|~
+~Mid Shore Martial Arts|https://fitnessrxworkout.com/~
+~Sandro Sampaio Brazilian Jiu-Jitsu Academy|~
+~The Cage Training Center|~
+~Disciple MMA Academy|https://www.disciplemmaacademy.com/~
+~Odyssey MMA|https://odysseymma.com/~
+~EchoValor Striking & MMA|~
+~Conquer Martial Arts|~
+{%- comment -%}
+  15 Aug 2026 - BATCH 32. PARKED-AND-DEAD SWEEP. Full write-up in
+  region-rebuild-batch32-findings.md; only the reusable facts are kept here.
+
+  Triggered by the owner finding a GoDaddy for-sale lander on 5th St. Gym. Instead of
+  reading 2,286 unscreened pages, this pass resolved each host and matched the A records
+  against parking infrastructure, fetching a page only when the IPs looked like a lander.
+  1,777 of 2,286 swept; 50 blanked.
+
+  PARKING FINGERPRINTS - each calibrated against a known lander:
+    15.197.148.33 + 3.33.130.190    Afternic / GoDaddy for-sale
+    76.223.54.146 + 13.248.169.48   GoDaddy for-sale
+    13.223.25.84  + 54.243.117.197  HugeDomains
+    208.91.197.27                   Confluence / Sedo, serves nothing
+  NOT PARKING, do not flag these - both fronted real live schools when sampled:
+    15.197.225.128 + 3.33.251.168   GoDaddy web forwarding
+    76.223.105.230 + 13.248.243.5   GoDaddy Website Builder hosting
+  So the IP is a filter, never a verdict. The page must still be fetched.
+
+  PER-LOCATION 404s. Gracie Barra runs each school as a subsite at
+  graciebarra.com/<slug>/. Those are alive - /edmonton-alberta-canada/ serves a full
+  page. The eight blanked here are schools that closed or left the network: brand
+  domain resolves, subsite 404s. Same for three UFC GYM pages. No DNS check sees this.
+
+  Value is EMPTY, which blanks the link. The gym stays listed with name, city and map.
+
+  Gates: no '|' or '~'; not present in websites-2 or -3; each name matches EXACTLY ONE
+  published record; no duplicates. All 50 passed. TWO REJECTED BY C3 and NOT fixed here:
+  'Jaguar BJJ' (NXDOMAIN) and 'Catch MMA' already have rows in websites-3, so they need
+  that file EDITED. Carried forward.
+
+  *** THIS FILE IS NOW FULL. Put the next batch in tjjm-gym-websites-3. ***
+
+  --- PARKED ---
+  BC  Gracie Barra Richmond Steveston                    GoDaddy/Afternic lander, no price shown
+  CA  Gracie Jiu Jitsu Carlsbad and San Marcos           GoDaddy/Afternic lander, no price shown
+  FL  5th St. Gym                                        GoDaddy lander, owner reported
+  IL  Grassroots Jiu-Jitsu                               GoDaddy/Afternic lander, no price shown
+  KY  United Martial Arts Academy                        GoDaddy for-sale lander, no price shown
+  NC  Asheville BJJ                                      GoDaddy/Afternic for-sale lander
+  NC  Fayetteville BJJ                                   GoDaddy/Afternic for-sale lander
+  NH  NH BJJ                                             GoDaddy/Afternic for-sale lander
+  NJ  Studio 1908 (Miyao Brothers)                       GoDaddy/Afternic for-sale lander
+  TN  Murfreesboro BJJ                                   GoDaddy/Afternic lander, no price shown
+  TX  John's Gym Mixed Martial Arts & Fitness            GoDaddy/Afternic lander, no price shown
+  TX  Mcallen BJJ                                        GoDaddy/Afternic lander, no price shown
+  TX  Neutral Grounds                                    GoDaddy for-sale lander, $399
+  --- DEAD ---
+  AR  Martial Arts America Russellville                  404 at root, domain resolves
+  AR  USA Jiu-Jitsu Arkansas                             NXDOMAIN
+  AR  Wolf's Hammer Martial Arts Academy                 NXDOMAIN
+  BC  Muscle Panda MMA                                   NXDOMAIN
+  BC  Pacific Top Team Abbotsford                        NXDOMAIN
+  BC  Way Of BJJ Training Studio                         REFUSED, lame delegation
+  CA  UFC GYM Costa Mesa                                 location page 404s, domain resolves
+  IA  Tsunami Flow Jiu Jitsu                             SERVFAIL, does not resolve
+  IL  GB Libertyville                                    location page 404s, domain resolves
+  IL  GB New Lenox                                       location page 404s, domain resolves
+  IL  Gracie Barra Des Plaines                           location page 404s, domain resolves
+  KS  Elite Martial Arts Academy                         SERVFAIL, does not resolve
+  KS  WaveMan Combat Academy                             NXDOMAIN
+  MB  Precision MMA Morden                               NXDOMAIN
+  MB  WAMMA Niverville                                   NXDOMAIN
+  MI  GB Burton                                          location page 404s, domain resolves
+  MS  American Top Team D'Iberville                      REFUSED, lame delegation
+  MS  Gracie South Jiu-Jitsu of Pearl                    REFUSED, lame delegation
+  NM  G13 Jiu-Jitsu New Mexico                           NXDOMAIN
+  NV  GB Las Vegas                                       location page 404s, domain resolves
+  NV  Roninjitsu Martial Arts                            location page 404s, domain resolves
+  NV  Team Reno                                          blank page at root, domain resolves
+  NY  Behring Jiu Jitsu NY                               redirects to 404 page, domain resolves
+  RI  Tim Burrill Brazilian Jiu Jitsu                    NXDOMAIN
+  SD  Wolfpack Family Jiujitsu                           NXDOMAIN
+  TN  Kingsport BJJ                                      parking IP, no content at root
+  TX  360 Jiu Jitsu                                      parking IP, no content at root
+  TX  GB McAllen                                         location page 404s, domain resolves
+  VA  UFC GYM Arlington                                  location page 404s, domain resolves
+  VA  UFC GYM Norfolk                                    location page 404s, domain resolves
+{%- endcomment -%}
+~Gracie Jiu Jitsu Carlsbad and San Marcos|~
+~5th St. Gym|~
+~Grassroots Jiu-Jitsu|~
+~United Martial Arts Academy|~
+~Asheville BJJ|~
+~Fayetteville BJJ|~
+~NH BJJ|~
+~Studio 1908 (Miyao Brothers)|~
+~Murfreesboro BJJ|~
+~John's Gym Mixed Martial Arts & Fitness|~
+~Mcallen BJJ|~
+~Neutral Grounds|~
+~USA Jiu-Jitsu Arkansas|~
+~Wolf's Hammer Martial Arts Academy|~
+~Muscle Panda MMA|~
+~Pacific Top Team Abbotsford|~
+~Way Of BJJ Training Studio|~
+~UFC GYM Costa Mesa|~
+~Tsunami Flow Jiu Jitsu|~
+~GB Libertyville|~
+~GB New Lenox|~
+~Gracie Barra Des Plaines|~
+~Elite Martial Arts Academy|~
+~WaveMan Combat Academy|~
+~Precision MMA Morden|~
+~WAMMA Niverville|~
+~GB Burton|~
+~American Top Team D'Iberville|~
+~Gracie South Jiu-Jitsu of Pearl|~
+~G13 Jiu-Jitsu New Mexico|~
+~GB Las Vegas|~
+~Roninjitsu Martial Arts|~
+~Team Reno|http://www.momentumreno.com/~
+~Behring Jiu Jitsu NY|~
+~Tim Burrill Brazilian Jiu Jitsu|~
+~Wolfpack Family Jiujitsu|~
+~Kingsport BJJ|~
+~360 Jiu Jitsu|~
+~GB McAllen|~
+~UFC GYM Arlington|~
+~UFC GYM Norfolk|~
+{%- comment -%}
+  16 Aug 2026 - BATCH 37. 11 false-positive blanking rows moved out of this file and rewritten
+  as live URLs in tjjm-gym-websites-5.liquid. See CRITICAL-false-positive-removals.md.
+{%- endcomment -%}
+{%- comment -%}
+  16 Aug 2026 - BATCH 40. 6 blanking rows above rewritten as live URLs. Each was blanked
+  in batch 31/32 and has since been re-opened in a browser and re-verified, so the blank
+  was a false positive. Rewritten in place, not moved, so gate C3 still holds.
+{%- endcomment -%}
+{%- comment -%}
+  16 Aug 2026 - BATCH 42. Identity pass, the first content check ever run on these links.
+  32 removals; every verdict confirmed by loading the page in a REAL CHROME BROWSER, not by
+  the fetch tool. 10 DEAD, 8 AGGREGATOR, 7 STRIKING_ONLY, 5 WRONG_CITY, 1 PARKED,
+  1 WRONG_BUSINESS. AGGREGATOR = booking platforms, Google business.site pages and brand
+  homepages; by the owner's policy a school's own Facebook or Instagram page IS an acceptable
+  link and those were kept.
+  Changed here: 1 row, edited in place, value emptied - Bellmore Kickboxing Academy,
+  STRIKING_ONLY. The other 31 rows of batch 42 are in files 3 and 6. Gate C3 holds.
+{%- endcomment -%}

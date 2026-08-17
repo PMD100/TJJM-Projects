@@ -1,0 +1,13 @@
+orig_verdict	name	region	city	url	note	group
+SUSPECT	Pressure Brazilian Jiu-Jitsu Academy	VA	Harrisonburg	https://m.facebook.com/pressurebjj17/about/	Facebook fetch returned blank body, needs browser	id13
+SUSPECT	Quincy Brazilian JiuJitsu	CA	Quincy	https://www.facebook.com/p/Quincy-Brazilian-JiuJitsu-100057115883887/	Facebook fetch returned blank body, needs browser	id13
+SUSPECT	RH Studios BJJ	PA	Philadelphia	https://www.instagram.com/rhstudios_bjj/	Instagram fetch returned blank body, needs browser	id13
+SUSPECT	Real Fighters Gym, LLC	KY	Louisville	https://www.realfightersgym.com/	Striking only, no grappling on programs page	id13
+SUSPECT	Renegade BJJ and MMA	CO	Greeley	https://www.facebook.com/Rbjjmma	Facebook fetch returned blank body, needs browser	id13
+SUSPECT	Renegade Combat Sports Club	VA	Fredericksburg	https://www.renegadecombatsports.com/	Fetch returned completely empty body, needs browser	id13
+SUSPECT	Renzo Gracie PEI Lot 36	PE	Charlottetown	https://www.facebook.com/p/Renzo-Gracie-PEI-Lot-36-100069410847003	Facebook fetch returned blank body, needs browser	id13
+SUSPECT	Renzo Gracie Ramapo Valley	NJ	Mahwah	https://ramapovalleyjiujitsu.com/	Javascript redirect wall, no body returned	id13
+SUSPECT	Resilience Brazilian Jiu-Jitsu Academy	CA	Visalia	https://www.facebook.com/resiliencebrazilianjiujitsu/	Facebook fetch returned blank body, needs browser	id13
+SUSPECT	Revolution Modern Martial Arts	NC	Clayton	https://revolutionselfdefense.com/	Karate school, programs page lists no grappling	id13
+SUSPECT	Rey Diogo Brazilian Jiu Jitsu	CA	Los Angeles	https://www.reydiogojiujitsu.com/	Fetch returned completely empty body, needs browser	id13
+SUSPECT	Ric Centron Brazilian Jiu Jitsu Academy	AZ	Chandler	https://riccentronbjj.com/	Stub page only, rebranded Generational Grappling Club	id13

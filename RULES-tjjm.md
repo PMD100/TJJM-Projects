@@ -6,9 +6,23 @@ Sections 1–10 were last verified **5 Aug 2026** against live theme XX (`154653
 findings. The theme ID, record count and defect counts in the earlier sections are the 5 Aug
 state and have since moved — treat them as method, not as current numbers.
 
-**CURRENT STATE, 16 Aug 2026, live theme UUU (`154980188332`):**
-**5,215 records across 61 regions · 4,205 with a link · 1,010 deliberately link-free ·
-1,170 override rows, all distinct names.** The corpus grew from 4,519 to 5,215 because the
+**CURRENT STATE, 16 Aug 2026, theme ZZ2 (`154993066156`), staged for publish:**
+**5,215 records across 61 regions · 4,100 with a link · 1,115 deliberately link-free ·
+1,284 override rows, all distinct names.**
+
+⚠️ **Batch-48 correction to §11.** Browser page substitution is **not** biased toward healthy gyms —
+this round it also landed on a Wix error page and a gambling lander, so a mismatch can produce a
+false *bad* verdict as easily as a false clean one. And **hostname alone is not a sufficient
+assertion**: one read kept `host` = `www.facebook.com` while silently swapping the *path* to another
+school's page. Every browser probe must return **`location.hostname` AND `location.pathname`
+alongside the body, from inside a single JS evaluation**, and must never read page content in a
+follow-up call — the tab moves between calls.
+
+⚠️ **Before concluding DEAD, check for a REPOINT.** If only a stored deep path 404s and the site root
+serves the right school, the link is fixed, not removed. Batch 48 saved 8 links this way.
+
+⚠️ The corpus holds **5,894 distinct names across 5,911 records — 17 names are duplicated.** Gate C11
+(name matches exactly one published record) will fail on those. Resolve before one lands in a batch. The corpus grew from 4,519 to 5,215 because the
 region pages render 45 data snippets, not the 38 the earlier sections assume. Re-measure before
 quoting any number in this file.
 

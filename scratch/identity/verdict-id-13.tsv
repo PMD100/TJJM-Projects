@@ -1,0 +1,121 @@
+verdict	name	region	city	url	note
+OK	Prairie Wolfe Jiu Jitsu	KS	Wichita	https://prairiewolfejiujitsu.com	BJJ academy, Wichita KS address matches listing
+OK	Precision Jiu Jitsu Spring Mount	PA	Schwenksville	https://www.precisionjjspringmount.com	Rebranded The Barracks, Schwenksville PA, BJJ
+OK	Precision Martial Arts Academy Flowood	MS	Flowood	https://www.mississippijiujitsu.com	Flowood BJJ academy, address matches listing exactly
+OK	Precision Submission Grappling	IA	Clive	https://www.precisionsubmissiongrappling.com	No-gi grappling, Clive Iowa address matches
+OK	Premier Combat Center	NE	Omaha	https://premiercombatcenter.com	Omaha MMA and BJJ, address matches
+SUSPECT	Pressure Brazilian Jiu-Jitsu Academy	VA	Harrisonburg	https://m.facebook.com/pressurebjj17/about/	Facebook fetch returned blank body, needs browser
+OK	Preta Jiu Jitsu Academy	BC	Kelowna	https://www.pretaacademy.ca	Kelowna BJJ and judo, Richter Street
+OK	Pride Martial Arts and Fitness	RI	Kingston	https://www.pridemartialarts.com	Kingston RI, BJJ program listed, address matches
+OK	Primal Jiu Jitsu and Mixed Martial Arts	NH	Derry	https://www.primaljiujitsuacademy.com	Derry NH, 6 A Street matches
+OK	Primero Brazilian Jiu Jitsu Academy	AZ	Tucson	https://www.primerobjj.com	Tucson Arizona BJJ academy, no street address
+OK	Princeton Brazilian Jiu Jitsu	NJ	Princeton	https://www.princetonbjj.com	Princeton NJ BJJ, 741 Alexander Road
+AGGREGATOR	Proboxing, MMA Villa Rica	GA	Villa Rica	https://ifa-fitnessclass.business.site/	Google business.site page, body returned empty
+OK	Procel Brazilian Jiu-Jitsu	NJ	Jersey City	https://procelbjj.com	Jersey City BJJ, 189 Brunswick St
+OK	Prodigy Jiu-Jitsu	OK	Edmond	https://www.prodigyjj.com/	Edmond OK headquarters, different street address listed
+OK	Prodigy Martial Arts	MN	Blaine	https://www.prodigymartialartsmn.com	Blaine MN BJJ, address matches listing exactly
+OK	Professional Martial Arts Academy Derry	NH	Derry	https://pmaderry.com	Derry NH, BJJ program, address matches
+OK	Professional Martial Arts Academy Plaistow	NH	Plaistow	https://pmaplaistow.com	Plaistow NH, jiu-jitsu and judo, address matches
+OK	Progressive Fighting Academy	AB	Lethbridge	https://pfakickboxing.com/	Lethbridge AB, BJJ and wrestling classes listed
+OK	Progressive Martial Arts Grand Forks	ND	Grand Forks	https://progressivemartialartsgf.com	Grand Forks ND BJJ, address matches listing
+OK	Providence BJJ	RI	Providence	https://providencebjj.com	Providence RI, 4 Aurora Street, BJJ
+OK	Proving Grounds Jiu Jitsu & MMA	MI	Shelby Township	https://provinggroundsjj.com/	Shelby Township MI BJJ, address matches listing
+OK	Prowess Brazilian Jiu-Jitsu	OK	Okmulgee	https://www.prowessgym.com/	Okmulgee OK gym with BJJ, different address
+OK	Pure Martial Arts and Fitness	BC	Campbell River	https://puremartialarts.ca	Campbell River BC, BJJ and grappling, matches
+OK	Pursuit Jiu Jitsu	MS	Brookhaven	https://www.pursuitjj.com	Brookhaven MS BJJ, address matches listing exactly
+AGGREGATOR	Quakertown Academy of MMA & Fitness	PA	Quakertown	https://www.mindbodyonline.com/explore/locations/vmma-quakertown	Mindbody booking platform listing, not own site
+OK	Quantum Jiu Jitsu	NB	Moncton	https://www.quantumjj.com	Moncton NB BJJ, 175 Barker St
+OK	Queens Jiu-Jitsu	NY	Astoria	https://www.queensjiujitsu.com/	Astoria Queens BJJ academy, no street address
+SUSPECT	Quincy Brazilian JiuJitsu	CA	Quincy	https://www.facebook.com/p/Quincy-Brazilian-JiuJitsu-100057115883887/	Facebook fetch returned blank body, needs browser
+OK	R.E. Training Center	KS	Topeka	https://roneyedlerbrazilianjiujitsu.com	Topeka KS BJJ, address matches listing exactly
+AGGREGATOR	RDA Fitness & MMA	TX	San Antonio	https://rda-fitness-mma.business.site/	Google business.site page, body returned empty
+OK	REFUGE BJJ	AZ	Phoenix	https://refugebjj.com/	Phoenix AZ BJJ, 711 E Carefree
+SUSPECT	RH Studios BJJ	PA	Philadelphia	https://www.instagram.com/rhstudios_bjj/	Instagram fetch returned blank body, needs browser
+OK	RISE Athletics	MB	Winkler	https://www.riseactive.ca	Winkler MB gym, BJJ classes, address matches
+OK	ROCKET CITY REVOLUTION BJJ	AL	Madison	https://www.rcrbjj.com/	Madison AL BJJ, 97 Hughes Rd
+OK	RS MMA and Fitness	KS	Junction City	https://rsmartialarts.com	Junction City KS BJJ, address matches listing
+OK	Radical MMA	NY	New York	https://radicalmmanyc.com	NYC MMA and grappling gym, no address
+OK	Raiz Brazilian Jiu-Jitsu	CA	Eureka	https://www.raizbjj.net/	Eureka CA BJJ, 212 G Street
+OK	Range Brazilian Jiu-Jitsu	NY	New York	https://www.rangebjj.com	Upper East Side NYC BJJ, 328 E61st
+OK	Ranieri Paiva Jiu-Jitsu Academy	GA	Atlanta	https://www.atlbjj.com/	Now Tribe BJJ, Marietta GA, Atlanta metro
+OK	Rankin Jiu-Jitsu Academy	MS	Brandon	https://rankinjiujitsu.com	Brandon MS BJJ, address matches listing exactly
+OK	Rare Breed Mixed Martial Arts	NJ	Bloomfield	https://www.rarebreedmma.com/	Bloomfield NJ MMA and BJJ, address matches
+OK	Reaction MMA	KY	Nicholasville	https://www.reactionmma.com	Nicholasville KY BJJ and MMA, address given
+OK	Real Deal Martial Arts	AR	Hot Springs	https://realdealmartialarts.com	Hot Springs AR, jiu-jitsu and wrestling, matches
+SUSPECT	Real Fighters Gym, LLC	KY	Louisville	https://www.realfightersgym.com/	Striking only, no grappling on programs page
+OK	Real World Martial Arts Team Renzo Gracie	NJ	Denville	https://renzograciedenville.com	Renzo Gracie Denville, 56 Broadway, same town
+OK	Rebellion Martial Arts	OK	Ada	https://www.rebellionmartialarts.com/	Ada Oklahoma BJJ, Ricardo Cavalcanti affiliate school
+OK	Recreate Fitness	OR	Portland	https://recreatefitness.com/	Portland OR jiu jitsu, address matches listing
+OK	Red Dawn Combat Club- Fresh Meadows	NY	Fresh Meadows	https://reddawnbjj.com	Fresh Meadows Queens BJJ, address matches listing
+OK	Red Fox Brazilian Jiu-Jitsu	SC	Hartsville	https://redfoxbjj.com	Hartsville SC BJJ, address matches listing exactly
+OK	Red Hawk Academy	AZ	Peoria	https://www.redhawkacademyaz.com/	Peoria AZ MMA and BJJ, W Peoria
+OK	Red Lodge Grindhouse Jiu Jitsu	MT	Red Lodge	https://redlodgegrindhouse.com	Red Lodge MT jiu jitsu and wrestling
+OK	Red River BJJ	TX	Wichita Falls	https://redriverbjj.com	Wichita Falls TX BJJ academy, no address
+OK	Red Tiger Martial Arts	BC	Surrey	https://www.redtigersurrey.com	Surrey BC, gi/no-gi jiu jitsu, address matches
+OK	Redlands Jiu Jitsu	CA	Redlands	https://redlandsbjj.com	Now One Jiu Jitsu Redlands, address matches
+OK	Regina BJJ	SK	Regina	https://reginabjj.com	Regina SK BJJ, 655 Henderson Drive
+OK	Reign Jiu Jitsu	TX	Katy	https://reignbjj.com	Katy TX BJJ, 1648A S Mason
+OK	Relentless Mixed Martial Arts	MS	Columbus	https://relentless-mma.com	Columbus MS BJJ and MMA, address matches
+AGGREGATOR	Relic Jiu Jitsu	FL	Longwood	https://cp.mystudio.io/t/	MyStudio booking platform, not the school's site
+OK	Relson Gracie Jiu-Jitsu Ronn Shiraki Academy	HI	Honolulu	https://www.ronnshiraki.com	Honolulu HI BJJ, address matches listing exactly
+OK	Relson Gracie Jiu-Jitsu Team HK	HI	Honolulu	https://www.graciehonolulu.com	Honolulu HI BJJ, S King Street matches
+OK	Relson Gracie Jiu-Jitsu of West Virginia	WV	Hurricane	https://relsongraciewv.com	Teays Valley Rd Hurricane matches; mentions Scott Depot
+OK	Renaissance Academy of Martial Arts	VA	Lynchburg	https://ramarts.com/	Lynchburg VA, BJJ and wrestling, address matches
+SUSPECT	Renegade BJJ and MMA	CO	Greeley	https://www.facebook.com/Rbjjmma	Facebook fetch returned blank body, needs browser
+SUSPECT	Renegade Combat Sports Club	VA	Fredericksburg	https://www.renegadecombatsports.com/	Fetch returned completely empty body, needs browser
+OK	Renzo Gracie	TX	Corpus Christi	https://renzograciecorpuschristi.com/	Corpus Christi TX BJJ, Yorktown Blvd matches
+OK	Renzo Gracie Academy	NY	New York	https://renzogracieacademy.com	Midtown Manhattan BJJ, 224 West 30th
+OK	Renzo Gracie Academy Florida	FL	Sunrise	https://renzogracieflorida.com/	Sunrise FL, 1091 Shotgun Road matches
+OK	Renzo Gracie Bayside	NY	Bayside	https://renzograciebayside.com	Bayside Queens BJJ, 45-58 Bell Blvd
+OK	Renzo Gracie Brazilian Jiu Jitsu Morgantown	WV	Morgantown	https://renzograciemorgantown.com	Morgantown WV BJJ, address matches listing exactly
+OK	Renzo Gracie Denville	NJ	Denville	https://renzograciedenville.com	Denville NJ BJJ, 56 Broadway
+OK	Renzo Gracie Des Moines	IA	Des Moines	https://renzograciedesmoines.com	Des Moines IA BJJ, address matches listing exactly
+OK	Renzo Gracie East Side	NY	New York	https://www.renzogracieeastside.com	Upper East Side Manhattan BJJ, 1264 Lexington
+OK	Renzo Gracie Fort Lauderdale	FL	Fort Lauderdale	https://renzogracieftl.com/	Fort Lauderdale FL BJJ, 535 NE 13th
+OK	Renzo Gracie Fort Lee / TEO BJJ	NJ	Fort Lee	https://teobjj.com	Fort Lee NJ BJJ and judo, address
+OK	Renzo Gracie Harrison	NJ	Harrison	https://www.renzograciecrowncollection.com	Redirects to Renzo Gracie Jersey City, nearby metro
+OK	Renzo Gracie Jiu Jitsu DFW	TX	Hurst	https://renzograciejiujitsudfw.com	Hurst TX BJJ, 420 Grapevine Hwy
+OK	Renzo Gracie Jiu Jitsu Portland	OR	Portland	https://www.renzogracieportland.com/contact/	Portland OR BJJ, 833 N Shaver
+OK	Renzo Gracie Jiu-Jitsu Upper West Side	NY	New York	https://www.renzogracieuws.com	Manhattan UWS BJJ, 246 Columbus Ave
+OK	Renzo Gracie Latham	NY	Latham	https://renzogracielatham.com/	Latham NY BJJ, 836 Loudon Rd
+OK	Renzo Gracie Los Angeles	CA	Los Angeles	https://renzogracielosangeles.com	Los Angeles BJJ, 5203 Hollywood Blvd
+OK	Renzo Gracie Martinsburg	WV	Martinsburg	https://www.renzograciemartinsburg.com	Martinsburg WV BJJ, address matches listing exactly
+OK	Renzo Gracie NH Exeter	NH	Exeter	https://renzogracienh.org	Exeter NH location listed, address matches listing
+OK	Renzo Gracie NH Manchester	NH	Manchester	https://renzogracienh.org	Manchester NH location listed, address matches listing
+OK	Renzo Gracie NH Windham	NH	Windham	https://renzogracienh.org	Windham NH location listed, address matches listing
+OK	Renzo Gracie Naples	FL	Naples	https://renzogracienaples.com	Naples FL BJJ, 4221 Tamiami Trail
+OK	Renzo Gracie Nashville	TN	Brentwood	https://renzogracienashville.com	Brentwood TN location, 5105 Maryland Way
+OK	Renzo Gracie Newark	NJ	Newark	https://www.renzogracienj.com	Newark NJ BJJ, 172 McWhorter Street
+OK	Renzo Gracie Niagara	ON	St. Catharines	https://renzogracieniagara.com	St Catharines ON BJJ, address matches listing exactly
+OK	Renzo Gracie Northern Valley	NJ	Northvale	https://nvbjj.com	Northvale NJ BJJ, 240 Pegasus Ave
+OK	Renzo Gracie Orlando	FL	Orlando	https://orlandojiujitsu.com/	Orlando FL BJJ, address matches listing exactly
+SUSPECT	Renzo Gracie PEI Lot 36	PE	Charlottetown	https://www.facebook.com/p/Renzo-Gracie-PEI-Lot-36-100069410847003	Facebook fetch returned blank body, needs browser
+OK	Renzo Gracie Pasadena	CA	Pasadena	https://www.renzograciepasadena.com/	Pasadena CA BJJ, address matches listing exactly
+SUSPECT	Renzo Gracie Ramapo Valley	NJ	Mahwah	https://ramapovalleyjiujitsu.com/	Javascript redirect wall, no body returned
+OK	Renzo Gracie Round Rock	TX	Round Rock	https://renzogracieroundrock.com/	Round Rock TX BJJ, 2051 Gattis School
+OK	Renzo Gracie SLC	UT	Salt Lake City	https://renzogracieslc.com	Salt Lake City BJJ, address matches listing exactly
+OK	Renzo Gracie Staten Island	NY	Staten Island	https://sinybjj.com	Staten Island NY BJJ, address matches listing exactly
+OK	Renzo Gracie Utah	UT	Kaysville	https://renzogracieutah.com	Kaysville UT BJJ, address matches listing exactly
+OK	Renzo Gracie West Island	QC	Montreal	https://www.rgwestisland.ca	L'Ile-Bizard Montreal BJJ, address matches listing exactly
+OK	Renzo Gracie of Lake Worth	FL	Lake Worth	https://renzogracielakeworth.com/	Lake Worth FL BJJ, 6752 Lantana Rd
+OK	Republic BJJ	NL	St. John's	https://www.republicbjj.com	St John's NL BJJ, Crosbie Road location
+OK	Resilience Brazilian Jiu Jitsu	AB	Medicine Hat	https://www.rbjj.ca	Medicine Hat AB BJJ, address matches listing exactly
+SUSPECT	Resilience Brazilian Jiu-Jitsu Academy	CA	Visalia	https://www.facebook.com/resiliencebrazilianjiujitsu/	Facebook fetch returned blank body, needs browser
+OK	Resilience Martial Arts	MN	Lakeville	https://www.resilience-ma.com	Lakeville MN Gracie jiu-jitsu, address matches listing
+OK	Resolve Martial Arts Academy Orillia	ON	Orillia	https://resolvemartialartsorillia.com	Orillia ON BJJ, address matches listing exactly
+OK	Restigouche Dojo	NB	Campbellton	https://restigouchedojo.com	Campbellton NB judo and BJJ, Salmon Blvd
+OK	Results Martial Arts	NV	Las Vegas	https://martialartslv.net	Las Vegas BJJ, address matches listing exactly
+OK	Revelation Martial Arts	MB	Steinbach	https://www.revelationmartialarts.com	Steinbach MB BJJ and judo, no street address
+OK	Revelations Brazilian Jiu-Jitsu	WV	Inwood	https://revelationsbjj.wordpress.com	Inwood WV BJJ, address matches listing exactly
+OK	Revive BJJ	MO	St Charles	https://www.revivebjj.com/	Site address is St Peters MO, adjacent
+OK	Revive Jiu Jitsu - Mesa BJJ	AZ	Mesa	https://bjjmesa.com/	East Mesa AZ BJJ, S Signal Butte
+OK	Revolution BJJ	AK	Fairbanks	https://revolutionalaska.com/	Fairbanks AK BJJ and judo, Airport Way
+OK	Revolution Combat & Fitness	AR	Benton	https://revolutionmma.com	Benton AR BJJ, different street address listed
+OK	Revolution Martial Arts and Performance Fitness	SC	Inman	https://revolution-martialarts.com	Inman SC BJJ and wrestling, address matches
+SUSPECT	Revolution Modern Martial Arts	NC	Clayton	https://revolutionselfdefense.com/	Karate school, programs page lists no grappling
+SUSPECT	Rey Diogo Brazilian Jiu Jitsu	CA	Los Angeles	https://www.reydiogojiujitsu.com/	Fetch returned completely empty body, needs browser
+OK	Ribeiro Jiu-Jitsu - Las Vegas	NV	Las Vegas	https://www.ribeirojiujitsulv.com/	Las Vegas BJJ, address matches listing exactly
+SUSPECT	Ric Centron Brazilian Jiu Jitsu Academy	AZ	Chandler	https://riccentronbjj.com/	Stub page only, rebranded Generational Grappling Club
+OK	Ricardo Almeida BJJ Academy	NJ	Hamilton	https://ricardoalmeida.com	BJJ academy, site names Robbinsville NJ nearby
+AGGREGATOR	Ricardo Almeida Brazilian Jiu-Jitsu	NJ	Robbinsville Twp	https://rabjjacademy.as.me/	Acuity Scheduling booking page, not own site
+OK	Ricardo Cavalcanti Brazilian Jiu-Jitsu - RI	RI	North Providence	https://rcbjjri.com	North Providence RI BJJ, address matches listing
