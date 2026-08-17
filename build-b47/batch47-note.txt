@@ -1,0 +1,51 @@
+{%- comment -%}
+  16 Aug 2026 - BATCH 47. Identity pass, plus the FIFTH browser re-check of rows a fetch
+  pass had flagged.
+
+  16 removals: 7 DEAD, 3 PARKED, 3 STRIKING_ONLY, 3 WRONG_BUSINESS.
+
+  EVERY VERDICT HERE WAS CONFIRMED BY LOADING THE PAGE IN A REAL CHROME BROWSER, NOT BY
+  THE FETCH TOOL.
+
+  THE HIDDEN-SPAM SCREEN - THE HEADLINE, AND IT IS A NEGATIVE RESULT. Batch 46 found
+  Kaiten Mixed Martial Arts Academy hiding Polish casino links in a
+  position:absolute; visibility:hidden block that reads 100% CLEAN in innerText. So 200
+  links ALREADY MARKED OK were re-scanned in a browser using raw outerHTML and computed
+  styles rather than rendered text, hunting that same injected-spam class.
+
+  ZERO injected sites were found. Every keyword hit was a FALSE POSITIVE with an
+  identifiable generator:
+    - Wix 'slots=' attributes and 'hiddenSlots'
+    - crypto.randomUUID() templates containing 'xxxx'
+    - GoDaddy data-size="xxxlarge"
+    - 'Time slots' in schedule markup
+    - the word 'specialist', which contains 'cialis'
+
+  THIS DOES NOT RULE OUT USER-AGENT CLOAKING, where spam is served only to search engine
+  crawlers and never to a browser. That is a different attack and this screen cannot see
+  it. Testing it needs a fetcher with UA control.
+
+  BROWSER RELIABILITY WARNING - READ THIS BEFORE TRUSTING ANY BROWSER VERDICT. On this
+  Chrome profile roughly A THIRD OF NAVIGATIONS LANDED ON A DIFFERENT HOST than the one
+  requested. The wrong host was always a healthy grappling gym and never a spammy one, so
+  THE BIAS RUNS TOWARD FALSE CLEAN RESULTS: the failure mode is silently passing a bad
+  link, not blanking a good one.
+  MITIGATION, now mandatory: every verdict must be taken from a probe that returns
+  location.hostname FROM INSIDE THE SAME EVALUATION as the content read, and any read
+  whose hostname does not match the requested host must be DISCARDED. One agent traced
+  the trigger to the setTimeout sleep inside the probe; reading SYNCHRONOUSLY right after
+  navigate was materially more reliable.
+
+  TWO RECORDS WERE LEFT ALONE AS UNSURE, NOT REMOVED:
+    North Legion Académie    members-only login portal; nothing readable behind it, and a
+                             login wall is not evidence the school is gone
+    Athens Fitness and MMA   the word 'poker' appears in the owner's bio prose, with no
+                             gambling links anywhere on the site
+
+  Added here: 16 new blanking rows, below. Each was checked against all six override
+  files with the comment blocks stripped and appeared in NONE of them, so gate C3 is
+  clean and they are added here rather than edited elsewhere.
+
+  An empty value blanks the link only - each school keeps its name, city and map link,
+  and the change is reversible by deleting the row.
+{%- endcomment -%}
