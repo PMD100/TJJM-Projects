@@ -6,7 +6,26 @@ Sections 1–10 were last verified **5 Aug 2026** against live theme XX (`154653
 findings. The theme ID, record count and defect counts in the earlier sections are the 5 Aug
 state and have since moved — treat them as method, not as current numbers.
 
-**CURRENT STATE, 17 Aug 2026, theme AC3 (`155006140588`), staged for publish:**
+**CURRENT STATE, 19 Aug 2026. AC3 (`155006140588`) is MAIN. AD3 (`155013906604`) staged for publish.**
+
+⚠️ **REGION PAGES NEEDED `tjjm-core.js` AND NEVER LOADED IT.** `assets/tjjm-core.css` sets
+`.tjjm-reveal{opacity:0}`; only `assets/tjjm-core.js` adds the `.tjjm-in` that reveals it.
+`sections/tjjm-gym-directory.liquid` loads that script; `sections/tjjm-state-directory.liquid` did
+not, and `layout/theme.liquid` does not load it globally. Every region page therefore rendered
+**visually blank** except for visitors with `prefers-reduced-motion: reduce`, whose CSS branch forces
+`opacity:1`. Fixed in batch 51 by adding the script tag to the section. **If a page's markup is
+complete but nothing is visible, check for a hide-then-reveal CSS pair whose script is missing.**
+
+⚠️ **AN INTERSECTIONOBSERVER ASSERTION IN A HIDDEN TAB IS MEANINGLESS.** `requestAnimationFrame` does
+not fire in a background tab, and IO cannot fire without it — a freshly constructed observer returns
+zero entries, not even the mandatory initial one. Three separate investigations were misled by this.
+Force a render tick (a screenshot works) before reading anything animation- or visibility-dependent.
+
+⚠️ **Not every symptom is our bug.** The dead jump links were a **Klaviyo** popup setting
+`body.klaviyo-prevent-body-scrolling{overflow:hidden!important}`, which freezes document scrolling
+site-wide, on MAIN as well. Before editing theme code, check whether a third-party app explains it.
+
+**PREVIOUS STATE, theme AC3 (`155006140588`):**
 **5,215 records published across 61 regions (5,911 in corpus, 696 suppressed) · 4,058 with a link ·
 1,326 override rows, all distinct, ZERO orphans · 21 city overrides.**
 
