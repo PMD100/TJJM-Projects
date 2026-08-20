@@ -1,0 +1,3 @@
+date	name	city	code	url	reason	region_swept
+2026-08-20	Apex Academy of Jiu Jitsu	Gardendale?	AL	https://www.apexacademybjj.com	Own site verified live and BJJ-teaching (host+path asserted, no spam), but publishes NO street address anywhere - only "Jiu Jitsu in Gardendale, AL" and a phone. Third-party sources conflict: 224 Decatur Hwy Ste 222 Fultondale vs 528 Decatur Hwy Ste 116 Gardendale. Facebook page returns empty behind login wall. City/address ambiguous -> not added. Recheck when the site publishes an address.	Alabama
+2026-08-20	Heroes Martial Arts Academy Trussville	Birmingham	AL	https://heroesmma.com	Duplicate - corpus already holds "HEROES MARTIAL ARTS ACADEMY", Birmingham AL, host heroesmma.com. Same school.	Alabama

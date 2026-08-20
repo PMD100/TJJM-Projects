@@ -1,5 +1,5 @@
 {
-  "cursor": 0,
+  "cursor": 1,
   "cycle": 1,
   "note": "next slice index to run; increments 0-29 then wraps"
 }

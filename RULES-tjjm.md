@@ -6,7 +6,29 @@ Sections 1–10 were last verified **5 Aug 2026** against live theme XX (`154653
 findings. The theme ID, record count and defect counts in the earlier sections are the 5 Aug
 state and have since moved — treat them as method, not as current numbers.
 
-**CURRENT STATE, 19 Aug 2026. AC3 (`155006140588`) is MAIN. AD3 (`155013906604`) staged for publish.**
+**CURRENT STATE, 19 Aug 2026. AD3 (`155013906604`) is MAIN. AE3 (`155078131884`) staged for publish.**
+
+⚠️ **NEW RECORDS GO IN `snippets/tjjm-gyms-data-46.liquid`** — created in batch 52 and wired into
+**both** surfaces, verified end to end. It is a JSON array (`[` alone, one record per line, trailing
+commas, `]` alone, trailing newline) matching data-45. `snippets/tjjm-gyms-data.liquid` is
+**113,187 bytes on a single line with zero newlines** and must never be edited.
+
+⚠️ **ADDING A GYM TOUCHES THREE PLACES, NOT ONE.** Measured in batch 52 with a temporary record:
+the region page computes its own header count from the data and self-updates, but
+(1) `snippets/tjjm-region-index.liquid` supplies the counts in the "Find schools in another state"
+nav on **every other region page** and goes stale, and (2) the region page's `title_tag` /
+`description_tag` metafields carry their own embedded counts and also go stale. Recompute
+region-index from the corpus; never hand-increment.
+
+⚠️ **TWO SCHEDULED JOBS RUN NIGHTLY.** `tjjm-nightly-directory-check` (2 AM) audits integrity and
+link-checks 1/30th of the corpus — it **queues, never writes to a theme**.
+`tjjm-nightly-gym-discovery` (3 AM) sweeps one of the 61 regions for missing schools and stages up to
+3 verified additions to **theme `155080032428` "TJJM ADDITIONS STAGING"**, which is **reused every
+night — never create a new one** (20-theme cap). The discovery job's source of truth is
+`nightly/additions/tjjm-gyms-data-46.liquid` **on disk**; when building any normal batch theme,
+**fold that file and the recomputed region-index onto it** or the additions are lost.
+
+**PREVIOUS STATE, theme AC3 (`155006140588`):**
 
 ⚠️ **REGION PAGES NEEDED `tjjm-core.js` AND NEVER LOADED IT.** `assets/tjjm-core.css` sets
 `.tjjm-reveal{opacity:0}`; only `assets/tjjm-core.js` adds the `.tjjm-in` that reveals it.

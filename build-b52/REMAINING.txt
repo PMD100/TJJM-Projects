@@ -1,0 +1,14 @@
+BATCH 52 - what was NOT done, deliberately.
+
+1. snippets/tjjm-region-index.liquid was NOT modified. Step 5 asked only whether its nav
+   count goes stale. It does (measured - see BYTE-OFFSET-PROOF / the batch-52 block in
+   tjjm-gym-websites-7.liquid). A nightly job that adds gyms must update this file's count
+   column, and the grand total asserted inside its own comment (currently 5,215).
+
+2. Page metafields title_tag / description_tag were NOT touched. They are the third copy of
+   the counts (RULES §10) and go stale the same way. Montana's <title> read 33 while the
+   body read 34 during the test.
+
+3. data-46 ships EMPTY. No gym records were added by this batch.
+
+4. Theme AE3 155078131884 is UNPUBLISHED. Publishing is the owner's action.

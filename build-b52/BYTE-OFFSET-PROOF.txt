@@ -1,0 +1,29 @@
+BATCH 52 - intra-line insertion proof. Theme AE3 gid://shopify/OnlineStoreTheme/155078131884.
+Inserted string (34 bytes): {%- render 'tjjm-gyms-data-46' -%}
+
+sections/tjjm-state-directory.liquid
+  insertion byte offset .......... 4202  (= index of "...data-45' -%}" + 34)
+  bytes 20062 -> 20096            (exactly +34)
+  newline count 346 -> 346        (UNCHANGED - diff will NOT report an added line)
+  preceding 40 bytes at offset ... 4' -%}{%- render 'tjjm-gyms-data-45' -%}
+  following bytes from offset .... {%- render 'tjjm-gyms-data-46' -%}{%- endcapture -%}
+  new == old[:4202] + INSERT + old[4202:]                       asserted
+  every render '<name>' in old still present exactly once        asserted (46 names, all count 1)
+  the only new render name is tjjm-gyms-data-46, count 1         asserted
+  tjjm-removed-index / tjjm-gym-cities / tjjm-gym-websites       occurrence counts unchanged
+
+sections/tjjm-gym-directory.liquid
+  change 1 - doc comment, byte 244: '5' -> '6' in "snippets/tjjm-gyms-data ... -45"
+             exactly one differing byte; file length unchanged by this hop
+  change 2 - insertion byte offset  6508
+  bytes 17425 -> 17459            (exactly +34)
+  newline count 283 -> 283        (UNCHANGED)
+  preceding 40 bytes at offset ... 4' -%}{%- render 'tjjm-gyms-data-45' -%}
+  following bytes from offset .... {%- render 'tjjm-gyms-data-46' -%}</script>
+  same four assertions as above                                  asserted
+
+snippets/tjjm-gym-websites-7.liquid  (append only)
+  appended 5214 bytes at offset 14390; new[:14390] == old byte for byte
+  42 override rows before, 42 after, identical list
+  comment blocks 4 -> 5
+  19604 bytes, 4972 B of headroom under the 24,576 ceiling

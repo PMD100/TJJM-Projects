@@ -1,0 +1,8 @@
+--- built/tjjm-gyms-data-46.liquid	2026-08-19 08:27:47.616240879 -0700
++++ built/tjjm-gyms-data-46.TEST.liquid	2026-08-19 08:27:47.601641108 -0700
+@@ -34,4 +34,5 @@
+   and verified end to end with a temporary test record, which was then removed.
+ {%- endcomment -%}
+ [
++{"n":"ZZ Test Academy B52","c":"Bozeman","s":"MT","w":"https://example.com/b52","a":"1 Test St"}
+ ]

@@ -1,0 +1,39 @@
+{%- comment -%}
+  TJJM gym data, file 46. Same shape as files 1-45: a JSON array, opening [ on its own
+  line, one record per line, closing ] on its own line, file ends with a newline.
+
+  THIS FILE IS THE HOME FOR NEWLY DISCOVERED GYMS. The nightly discovery job appends its
+  records here, below this comment and inside the array. Nothing else writes to it.
+
+  Record shape - the only keys either parser reads:
+    {"n":name,"c":city,"s":region code,"w":website,"a":address}
+  "w" and "a" are optional. Omit the key entirely rather than writing an empty string.
+
+  HARD RULES. All three fail SILENTLY - nothing errors, the page just renders wrongly.
+  1. A NAME MUST NOT CONTAIN | OR ~. Both are field delimiters - | separates the fields
+     of a row and ~ terminates it, in the override snippets and in the state-directory
+     buffer alike. A name carrying either one splits a row and corrupts its neighbours.
+  2. A NAME MUST BE UNIQUE ACROSS THE WHOLE CORPUS - all 46 data files, not just this
+     one. Every override file (websites, addresses, cities) keys on the name ALONE, so a
+     duplicate name silently applies one override row to every record that shares it.
+     Check the new name against every data file before appending it.
+  3. "s" MUST ALREADY EXIST as a region code in snippets/tjjm-region-index.liquid. An
+     unknown code renders on no region page and falls into no filter group on the flat
+     page, so the record is simply invisible.
+
+  WHY A NEW FILE EXISTS. snippets/tjjm-gyms-data.liquid is 113,187 bytes and contains no
+  newline at all - one 113,187-character line - far past the ~24,576-byte Admin API
+  rewrite ceiling. It cannot be rewritten, and a single dropped character in it destroys
+  every record after it. Files 2-45 are near their own ceilings. Keep THIS file under
+  24,576 bytes too; when it fills, add file 47 and wire it into BOTH
+  sections/tjjm-state-directory.liquid AND
+  sections/tjjm-gym-directory.liquid in the same change. A data file that only one
+  surface renders is exactly the defect in CRITICAL-second-directory-surface.md, which
+  went unnoticed for 28 batches.
+
+  19 Aug 2026 - BATCH 52. Created as plumbing only, no records. Wired into both sections
+  and verified end to end with a temporary test record, which was then removed.
+{%- endcomment -%}
+[
+{"n":"ZZ Test Academy B52","c":"Bozeman","s":"MT","w":"https://example.com/b52","a":"1 Test St"}
+]

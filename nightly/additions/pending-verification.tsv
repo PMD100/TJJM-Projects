@@ -1,0 +1,6 @@
+date_found	name	city	code	url_lead	address_lead	region	note
+2026-08-20	Johnson's Martial Arts Academy	Montgomery	AL		1751 Eastern Blvd, Montgomery AL 36117	Alabama	Lead only, NOT browser-verified. Passed name/host/address dedupe against the 5,911-record corpus. Need own site or own FB/IG + grappling programme confirmation.
+2026-08-20	Fleming's Martial Arts	Montgomery	AL		5521 Wares Ferry Rd, Montgomery AL 36117	Alabama	Lead only, NOT browser-verified. Passed dedupe. Need own site + grappling programme confirmation.
+2026-08-20	Panda BJJ & MMA	Saraland	AL		208 Saraland Blvd S, Saraland AL 36571	Alabama	Lead only, NOT browser-verified. Passed dedupe. Directory name is "Panda BJJ & MMA at Brok Weaver Boxing & Big Jay Jiu-Jitsu" - resolve the real trading name before writing a record; the long form is unwieldy but contains no | or ~.
+2026-08-20	Huntsville Judo Club	Huntsville	AL			Alabama	Lead only, NOT browser-verified. Passed dedupe. No website located yet; may be a club hosted inside a gymnastics facility rather than its own school.
+2026-08-20	Rubicon Jiu Jitsu & Self Defense		AL/GA	https://rubiconjiujitsu.com		Alabama	Lead only. Listed under Phenix City AL by Yelp but self-describes as "Columbus, Georgia's premier destination". LIKELY GEORGIA, not Alabama - confirm the state before adding, and dedupe against the GA corpus.
