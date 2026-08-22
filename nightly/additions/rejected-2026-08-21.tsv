@@ -1,0 +1,7 @@
+date	name	city	code	url	reason	region_swept
+2026-08-21	Black Bear Judo	Ketchikan	AK	https://campbushido.com	campbushido.com is a summer-camp site (Camp Bushido, judo/jujitsu camp, July 2026 dates), not the school own site, and publishes no street address. Shares only the sensei email. Fails requirements 1 and 3.	Alaska
+2026-08-21	907 Grappling at Krav Maga Anchorage	Anchorage	AK	https://kravmagaanc.com	DUPLICATE - corpus already holds "Krav Maga Anchorage", Anchorage, same host kravmagaanc.com. Flagged by both the host rule and the name-containment backstop.	Alaska
+2026-08-21	Team Caique BJJ at Pioneer Grappling Academy	Palmer	AK	https://cjjusaalaska.com	DUPLICATE - corpus already holds "Team Caique Jiu-Jitsu Alaska", Palmer, same host cjjusaalaska.com.	Alaska
+2026-08-21	North Star Judo Club	Fairbanks	AK	https://www.alaskakravmagafitness.com	No site of its own - Alaska Judo lists the Alaska Krav Maga & Fitness site as its website, and the corpus already carries that school. Fails requirement 1.	Alaska
+2026-08-21	Sitka Judo Club	Sitka	AK		No website and no street address - only an email and a phone number. Fails requirements 1 and 3.	Alaska
+2026-08-21	Sterling Judo Club	Sterling	AK		No site of its own; meets at Sterling Elementary School, 35096 Sterling Highway. Fails requirement 1.	Alaska

@@ -12,13 +12,18 @@
   The SEO description_tag metafield is hand-written and goes stale.
   Trust instead, in order: the JSON-LD "numberOfItems", the count of class="tjjm-gym"
   cards, or the body paragraph <p class="tjjm-p">N BJJ gyms and academies across M cit.
-  These three agree on every page. Verified total across all 61 regions: 5,218.
+  These three agree on every page. Verified total across all 61 regions: 5,221.
   20 Aug 2026 - nightly discovery, Alabama: 78 -> 81. Counts recomputed from the full
   corpus (5,911 records) minus tjjm-removed-index suppressions (696), plus additions;
   the recomputation reproduces the previous 5,215 exactly on all 61 rows.
+  21 Aug 2026 - nightly discovery, Alaska: 14 -> 17. Recomputed the same way on all 61
+  rows; every row reproduces exactly except the documented NE/NL pair, where computed
+  NE 34 = index NE 21 + index NL 13. Suppression is counted per RECORD, not per name:
+  694 distinct names suppress 696 records, because 'Capital MMA & Elite Fitness' (VA)
+  and 'Southern Maryland Martial Arts & Fitness' (MD) each match two corpus rows.
 {%- endcomment -%}
 bjj-schools-alabama|Alabama|81|AL|US
-bjj-schools-alaska|Alaska|14|AK|US
+bjj-schools-alaska|Alaska|17|AK|US
 bjj-schools-alberta|Alberta|72|AB|CA
 bjj-schools-arizona|Arizona|173|AZ|US
 bjj-schools-arkansas|Arkansas|56|AR|US

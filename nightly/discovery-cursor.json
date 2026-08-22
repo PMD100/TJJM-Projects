@@ -1,5 +1,5 @@
 {
-  "cursor": 1,
+  "cursor": 4,
   "cycle": 1,
   "note": "index into nightly/regions.tsv for the next region to sweep"
 }
